@@ -22,7 +22,7 @@
 3	എന്ന്	എന്ന്	PART	_	_	2	mark	_	Translit= ĕnn
 4	ഞാൻ	ഞാൻ	PRON	_	Animacy-Anim|Case=Nom|Number=Sing|Person=1	5	nsubj	_	Translit=  ñān
 5	കരുതുന്നു	കരുതുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit= karutunnu
-6	.		PUNCT	_	PunctType=Peri	5	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00003
@@ -134,8 +134,8 @@
 6	ഓ	ഓ	PART	_	_	5	mark	_	Translit=ō
 7	ചെറിയ	ചെറിയ	ADJ	_	_	8	amod	_	Translit=cĕṟiya
 8-10	രാജ്യമാണോ	_	_	_	_	_	_	_	_
-8	രാജ്യം	രാജ്യം	NOUN		Animacy=Inan|Case=Acc|Number=Sing	4	conj	_	Translit= rājyam
-9	ആണ്	ആക്	AUX		VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Pos	8	aux	_	Translit= āṇ
+8	രാജ്യം	രാജ്യം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	conj	_	Translit= rājyam
+9	ആണ്	ആക്	AUX	_	VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Pos	8	aux	_	Translit= āṇ
 10	ഓ	ഓ	PART	_	_	9	mark	_	Translit=ō
 11	?	?	PUNCT	_	PunctType=Qest	4	punct	_	SpaceAfter=No
 
@@ -207,7 +207,7 @@
 2	ഒരു	ഒരു	DET	_	_	3	det	_	Translit=ŏru
 3	കാർ	കാർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit=kār
 4	വാങ്ങി	വാങ്ങുക	VERB	_	VerbForm=Fin|Tense=Past|Mood=Ind|Voice=Act|Polarity=Pos	0	root	_	Translit=vāṅṅi
-5	,	,	PUNCT	_		12	punct	_	_
+5	,	,	PUNCT	_	_	12	punct	_	_
 6	പക്ഷേ	പക്ഷേ	CCONJ	_	_	12	cc	_	Translit=pakṣe
 7	അവന്റെ	 അവൻ 	PRON	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	Translit=avanṟĕ
 8	സഹോദരൻ	സഹോദരൻ	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	Translit=sahodaran
@@ -215,7 +215,7 @@
 10	ബൈക്ക്	ബൈക്ക്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	obj	_	Translit=baikk
 11	മാത്രം	മാത്രം	ADV	_	_	12	advmod	_	Translit=mātraṃ
 12	വാങ്ങി	വാങ്ങുക	VERB	_	VerbForm=Fin|Tense=Past|Mood=Ind|Voice=Act|Polarity=Pos	4	conj	_	Translit=vāṅṅi
-13	.	.	PUNCT	_		4	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00016
@@ -247,14 +247,14 @@
 4-5	ചീകിക്കൊണ്ടിരിക്കണമായിരുന്നു	_	_	_	_	_	_	_	_
 4	ചീകിക്കൊണ്ടിരിക്കണം	ചീകുക	VERB	_	Aspect=Prog|VerbForm=Fin|Mood=Nec	12	advcl	_	Translit= cīkikkŏṇṭirikkaṇam
 5	ആയിരുന്നു	ആക്	AUX	_	Polarity=Pos|Tense=Past|Voice=Act	4	aux	_	Translit= āyirunnu
-6	,			_	PunctType=Comm	12	punct	_	_
+6	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
 7	പക്ഷേ	പക്ഷേ	CCONJ	_	_	12	cc	_	Translit= pakṣe
 8	ചില	ചില	ADJ	_	_	9	amod	_	Translit= cila
 9	കാരണങ്ങളാൽ	കാരണം	NOUN	_	Animacy=Inan|Case=Ins|Number=Plur	12	obl	_	Translit= kāraṇaṅṅal̤āl
 10	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=aval̤
 11	അന്ന് 	അന്ന് 	ADV	_	_	12	obl	_	Translit= ann
 12	ചെയ്തില്ല	ചെയ്യുക	VERB	_	VerbForm=Fin|Tense=Past|Mood=Ind|Voice=Act|Polarity=Neg	0	root	_	Translit= cĕytilla
-13	.	.		_	PunctType=Peri	12	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	PunctType=Peri	12	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00018
@@ -278,8 +278,8 @@
 2	കത്ത്	കത്ത്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit= katt
 3-4	പീറ്ററിന്റേതാണ്	_	_	_	_	_	_	_	_
 3	പീറ്ററിന്റേത്	പീറ്ററ്	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	2	nmod	_	Translit= pīṟṟaṟinṟet
-4	ആണ്	ആക്	AUX		VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Pos	0	root	_	Translit= āṇ
-5	,		PUNCT	_	PunctType=Comm	8	punct	_	_
+4	ആണ്	ആക്	AUX	_	VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Pos	0	root	_	Translit= āṇ
+5	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
 6	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nsubj	_	Translit= at
 7	ഇന്നലെ	ഇന്നലെ	ADV	_	_	8	obl	_	Translit= innalĕ
 8	കൈമാറി	കൈമാറി	VERB	_	VerbForm=Fin|Tense=Past|Mood=Ind|Voice=Act|Polarity=Pos	4	parataxis	_	Translit=kaimāṟi
@@ -294,7 +294,7 @@
 2	തലസ്ഥാനമായ	തലസ്ഥാനം	ADJ	_	_	3	amod	_	translit = talasthānamāya
 3-4	പാരീസിലാണ്	_	_	_	_	_	_	_	_
 3	പാരീസിൽ	പാരീസ്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	6	obl	_	Translit= pārīsil
-4	ആണ്	ആക്	AUX		VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Pos|	6	aux	_	Translit= āṇ
+4	ആണ്	ആക്	AUX	_	VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Pos|	6	aux	_	Translit= āṇ
 5	അവൾ 	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Translit=aval̤
 6	വളർന്നത്	വളരുക	VERB	_	VerbForm=Fin|Tense=Past|Mood=Ind|Voice=Act|Polarity=Pos	0	root	_	Translit=val̤arnnat
 7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
