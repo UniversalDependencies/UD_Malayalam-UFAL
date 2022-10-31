@@ -9,7 +9,7 @@
 4-5	കത്തെഴുതി	_	_	_	_	_	_	_	_
 4	കത്ത്	കത്ത്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit= katt
 5	എഴുതി	എഴുതുക	VERB	_	VerbForm=Fin|Tense=Past|Mood=Ind|Voice=Act|Polarity=Pos	0	root	_	Translit = ĕḻuti
-6	.		PUNCT	_	PunctType=Peri	5	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00002
@@ -37,7 +37,7 @@
 5	ഉം	ഉം	PART	_	_	4	mark	_	Translit = uṃ
 6	നിർത്താൻ 	നിർത്ത്	VERB	_	VerbForm=Inf|Voice=Act|Polarity=Pos	7	xcomp	_	Translit = nirttān
 7	ശ്രമിച്ചു	ശ്രമിക്	VERB	_	VerbForm=Fin|Tense=Past|Mood=Ind|Voice=Act|Polarity=Pos	0	root	_	Translit = śramiccu
-8	.		PUNCT	-	PunctType=Peri	7	punct	_	SpaceAfter=No
+8	.	.	PUNCT	-	PunctType=Peri	7	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00004
@@ -47,7 +47,7 @@
 2-3	പോകണമോ	_	_	_	_	_	_	_	_
 2	പോകണം	പോകുക	VERB	-	VerbForm=Fin|Mood=Des|Voice=Act	0	root	_	Translit=pokaṇam
 3	ഓ	ഓ	PART	_	_	2	mark	_	Translit=ō
-4	?		PUNCT	-	PunctType=Qest	2	punct	_	SpaceAfter=No
+4	?	?	PUNCT	-	PunctType=Qest	2	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00005
@@ -70,7 +70,7 @@
 3	കൊണ്ട്	കൊണ്ട്	ADP	_	_	2	case	_	Translit= kŏṇṭ
 4	കാർ	കാർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit= kār
 5	കഴികിച്ചു	കഴുകുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Caus	0	root	_	Translit= kaḻikiccu
-6	.		PUNCT	_	PunctType=Peri	5	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00007
@@ -83,7 +83,7 @@
 4	ചുവപ്പ്	ചുവപ്പ്	ADJ	_	_	5	amod	_	Translit=cuvapp
 5	നിറം	നിറം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	Translit=niṟaṃ
 6	അടിച്ചു	അടിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=aṭiccu
-7	.		PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00008
@@ -98,7 +98,7 @@
 6-7	 ശാന്തനാണ്	_	_	_	_	_	_	_	_
 6	ശാന്തൻ	ശാന്തൻ	ADJ	_	_	0	root	_	Translit=śāntan
 7	ആണ്	ആക്	AUX	_	VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Pos	6	aux	_	Translit=āṇ
-8	.		PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00009
@@ -118,7 +118,7 @@
 8	സ്വർണം	സ്വർണം	NOUN	_	Animacy=Inam|Case=Acc|Number=Sing	2	conj	_	Translit=svarṇavuṃ
 9	ഉം	ഉം	PART	_	_	8	mark	_	Translit = uṃ
 10	നേടി	നെടുക	VERB	_	VerbForm=Fin|Tense=Past|Mood=Ind|Voice=Act|Polarity=Pos	0	root	_	Translit=neṭi
-11	.		PUNCT	_	PunctType=Peri	10	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	PunctType=Peri	10	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00010
@@ -137,7 +137,7 @@
 8	രാജ്യം	രാജ്യം	NOUN		Animacy=Inan|Case=Acc|Number=Sing	4	conj	_	Translit= rājyam
 9	ആണ്	ആക്	AUX		VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Pos	8	aux	_	Translit= āṇ
 10	ഓ	ഓ	PART	_	_	9	mark	_	Translit=ō
-11	?		PUNCT	_	PunctType=Qest	4	punct	_	SpaceAfter=No
+11	?	?	PUNCT	_	PunctType=Qest	4	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00011
@@ -154,7 +154,7 @@
 7-8	തിരഞ്ഞെടുക്കാനായില്ല	_	_	_	_	_	_	_	_
 7	തിരഞ്ഞെടുക്കാൻ	തിരഞ്ഞെടുകുക	VERB	_	VerbForm=Inf|Mood=Prp	8	xcomp	_	Translit=tiraññĕṭukkān
 8	ആയില്ല	ആക്	AUX	_	VerbForm=Fin|Tense=Past|Mood=Ind|Voice=Act|Polarity=Neg	0	root	_	Translit=āyilla
-9	.		PUNCT	_	PunctType=Peri	8	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00012
@@ -169,7 +169,7 @@
 4	എന്ന്	എന്ന്	PART	_	_	3	mark	_	Translit= ĕnn
 5	അവർക്ക് 	അവർ	PRON	_	Animacy=Anim|Case=Dat|Number=Plur|Person=3|PronType=Prs	6	obl	_	Translit=avarkk
 6	അറിയില്ല	അരിയുക	VERB	_	VerbForm=Fin|Tense=Past|Voice=Act|Polarity=Neg	0	root	_	Translit=aṟiyilla
-7	.		PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00013
@@ -179,9 +179,9 @@
 1	നിങ്ങള്	നിങ്ങള്	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Translit=niṅṅal̤
 2-3	എന്താണ്	_	_	_	_	_	_	_	_
 2	എന്ത്	എന്ത്	PRON	_	Animacy=Inan|Case=Acc|PronType=Int	4	obl:arg	_	Translit=ĕnt
-3	ആണ്	ആക്	AUX	_	VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Pos	4	aux	_	Translit=āṇ
-4	നോക്കുന്നത്	നോക്കുക	VERB	_	VerbForm=Fin|Tense=Pres|Voice=Act|Polarity=Pos	0	root	_	Translit=nokkunnat
-5	?		PUNCT	_	PunctType=Qest	4	punct	_	SpaceAfter=No
+3	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	Translit=āṇ
+4	നോക്കുന്നത്	നോക്കുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=nokkunnat
+5	?	?	PUNCT	_	PunctType=Qest	4	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00014
@@ -196,7 +196,7 @@
 5	എന്ന്	എന്ന്	PART	_	_	4	mark	_	Translit= ĕnn
 6	നിങ്ങൾ	നിങ്ങൾ	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Translit= niṅṅal̤
 7	കരുതുന്നു	കരുതുന്നു	VERB	_	VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Pos	0	root	_	Translit= karutunnu
-8	?		PUNCT	_	PunctType=Qest	7	punct	_	SpaceAfter=No
+8	?	?	PUNCT	_	PunctType=Qest	7	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00015
@@ -215,7 +215,7 @@
 10	ബൈക്ക്	ബൈക്ക്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	obj	_	Translit=baikk
 11	മാത്രം	മാത്രം	ADV	_	_	12	advmod	_	Translit=mātraṃ
 12	വാങ്ങി	വാങ്ങുക	VERB	_	VerbForm=Fin|Tense=Past|Mood=Ind|Voice=Act|Polarity=Pos	4	conj	_	Translit=vāṅṅi
-13	.		PUNCT	_		4	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_		4	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00016
@@ -234,7 +234,7 @@
 8	ശേഷം	ശേഷം	ADV	_	_	7	advmod	_	Translit=śeṣaṃ
 9	മുറി	മുറി	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	10	obl	_	Translit=muṟi
 10	വിട്ടു	വിടുക	VERB	_	VerbForm=Fin|Tense=Past|Mood=Ind|Voice=Act|Polarity=Pos	0	root	_	Translit=viṭṭu
-11	.		PUNCT	_	PunctType=Peri	10	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	PunctType=Peri	10	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00017
@@ -254,7 +254,7 @@
 10	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=aval̤
 11	അന്ന് 	അന്ന് 	ADV	_	_	12	obl	_	Translit= ann
 12	ചെയ്തില്ല	ചെയ്യുക	VERB	_	VerbForm=Fin|Tense=Past|Mood=Ind|Voice=Act|Polarity=Neg	0	root	_	Translit= cĕytilla
-13	.			_	PunctType=Peri	12	punct	_	SpaceAfter=No
+13	.	.		_	PunctType=Peri	12	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00018
@@ -267,7 +267,7 @@
 5	എനിക്ക് 	ഞാൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Translit= ĕnikk
 6	പിടിച്ചുനിൽക്കാൻ	പിടിച്ചുനിൽക്കുക	VERB	_	VerbForm=Inf	7	xcomp	_	Translit= piṭiccunilkkān
 7	കഴിഞ്ഞില്ല	കഴിയുക	AUX	_	VerbForm=Fin|Tense=Past|Mood=Ind|Voice=Act|Polarity=Neg	0	root	_	Translit= kaḻiññilla
-8	.		PUNCT	_	PunctType=Peri	7	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00019
@@ -283,7 +283,7 @@
 6	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nsubj	_	Translit= at
 7	ഇന്നലെ	ഇന്നലെ	ADV	_	_	8	obl	_	Translit= innalĕ
 8	കൈമാറി	കൈമാറി	VERB	_	VerbForm=Fin|Tense=Past|Mood=Ind|Voice=Act|Polarity=Pos	4	parataxis	_	Translit=kaimāṟi
-9	.			_	PunctType=Peri	4	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00020
@@ -297,7 +297,7 @@
 4	ആണ്	ആക്	AUX		VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Pos|	6	aux	_	Translit= āṇ
 5	അവൾ 	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Translit=aval̤
 6	വളർന്നത്	വളരുക	VERB	_	VerbForm=Fin|Tense=Past|Mood=Ind|Voice=Act|Polarity=Pos	0	root	_	Translit=val̤arnnat
-7	.		PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00021
@@ -309,7 +309,7 @@
 3-4	വിദ്യാർത്ഥിയാണോ	_	_	_	_	_	_	_	_
 3	വിദ്യാർത്ഥി	വിദ്യാർത്ഥി	NOUN	_	Animacy=Anim|Case=Acc|Number=Sing	0	root	_	Translit=vidyārtthi
 4	ആണോ	ആക്	AUX	_	VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Neg	3	aux	_	Translit=āṇo
-5	?		PUNCT	_	PunctType=Qest	3	punct	_	SpaceAfter=No
+5	?	?	PUNCT	_	PunctType=Qest	3	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00022
@@ -318,7 +318,7 @@
 # text_en = I am running.
 1	ഞാൻ	ഞാൻ	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Translit=ñān
 2	ഓടുന്നു	ഓടുക	VERB	_	VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Pos	0	root	_	Translit=oṭunnu
-3	.		PUNCT	_	PunctType=Peri	2	punct	_	SpaceAfter=No
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00023
@@ -327,7 +327,7 @@
 # text_en = She is reading
 1	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=aval̤
 2	വായിക്കുന്നു	വായിക്കുക	VERB	_	VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Pos	0	root	_	Translit=vāyikkunnu
-3	.		PUNCT	_	PunctType=Peri	2	punct	_	SpaceAfter=No
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00024
@@ -336,7 +336,7 @@
 # text_en = They are playing.
 1	അവർ	അവർ	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Translit=avar
 2	കളിക്കുകയാൺ	കളിക്കുക	VERB	_	Aspect=Imp|VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Pos	0	root	_	Translit=kal̤ikkukayāṇ
-3	.		PUNCT	_	PunctType=Peri	2	punct	_	SpaceAfter=No
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00025
@@ -348,7 +348,7 @@
 3-4	ഇഷ്ടമാണോ	_	_	_	_	_	_	_	_
 3	ഇഷ്ടം	ഇഷ്ടം	NOUN	_	_	0	root	_	Translit=iṣṭam
 4	ആണോ	ആക്	AUX	_	VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Pos	3	cop	_	Translit=āṇo
-5	?		PUNCT	_	PunctType=Peri	3	punct	_	SpaceAfter=No
+5	?	?	PUNCT	_	PunctType=Peri	3	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00026
@@ -360,7 +360,7 @@
 3-4	അറിയാമോ	_	_	_	_	_	_	_	_
 3	അരിയാം	അറിയുക	VERB	_	VerbForm=Fin|Polarity=Pos	0	root	_	Translit=aṟiyāmo
 4	ഓ	ഓ	PART	_	_	3	mark	_	Translit=ō
-5	?		PUNCT	_	PunctType=Qest	3	punct	_	SpaceAfter=No
+5	?	?	PUNCT	_	PunctType=Qest	3	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00027
@@ -372,7 +372,7 @@
 3-4	പുസ്തകങ്ങളാൺ	_	_	_	_	_	_	_	_
 3	പുസ്തകങ്ങൾ	പുസ്തകങ്ങൾ	NOUN	_	Animacy=Anim|Case=Acc|Number=Plur	0	root	_	Translit= pustakaṅṅal̤
 4	ആണ്	ആക്	AUX	_	VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Pos	3	cop	_	Translit=āṇ
-5	.			_	PunctType=Peri	3	punct	_	SpaceAfter=No
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00028
@@ -383,7 +383,7 @@
 2-3	എൻറേതല്ല	_	_	_	_	_	_	_	_
 2	എന്റേത്	എന്റേ	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	0	root	_	Translit=ĕnṟet
 3	അല്ല	അല്ല	AUX	_	VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Pos	2	cop	_	Translit=alla
-4	!		PUNCT	_	PunctType=Excl	2	punct	_	SpaceAfter=No
+4	!	!	PUNCT	_	PunctType=Excl	2	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00029
@@ -395,7 +395,7 @@
 2	ആണ്	ആക്	AUX	_	VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Pos	4	cop	_	Translit=āṇ
 3	എൻറെ	ഞാൻ	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	Translit=ĕnṟĕ
 4	വീട്	വീട്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=vīṭ
-5	.		PUNCT	_	PunctType=Qest	4	punct	_	SpaceAfter=No
+5	.	.	PUNCT	_	PunctType=Qest	4	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
 # sent_id = 00030
@@ -408,5 +408,5 @@
 3	എന്ത്	എന്ത്	PRON	_	PronType=Int	5	obl	_	Translit=ĕnt
 4	ആണ്	ആക്	AUX	_	VerbForm=Fin|Tense=Pres|Mood=Ind|Voice=Act|Polarity=Pos	5	cop	_	Translit=āṇ
 5	ചെയ്യുന്നത്	ചെയ്യുക	VERB	_	Tense=Pres	0	root	_	Translit=cĕyyunnat
-6	?		PUNCT	_	PunctType=Peri	5	punct	_	SpaceAfter=No
+6	?	?	PUNCT	_	PunctType=Peri	5	punct	_	SpaceAfter=No
 
