@@ -109,7 +109,7 @@
 2-3	വെങ്കലവും	_	_	_	_	_	_	_	_
 2	വെങ്കലം	വെങ്കലം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	Translit=vĕṅkalaṃ
 3	ഉം	ഉം	PART	_	_	2	mark	_	Translit=uṃ
-4	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3	5	orphan	_	Translit=pīṟṟar|SpaceAfter=No
+4	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3	5	orphan	_	Translit=pīṟṟar
 5-6	വെള്ളിയും	_	_	_	_	_	_	_	_
 5	വെള്ളി	വെള്ളി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	conj	_	Translit=vĕl̤l̤iyuṃ
 6	ഉം	ഉം	PART	_	_	5	mark	_	Translit=uṃ
@@ -144,7 +144,7 @@
 # text = പീറ്റർ സ്മിത്തിനെയോ മേരി ബ്രൗണിനെയോ തിരഞ്ഞെടുക്കാനായില്ല.
 # translit = pīṟṟar smittinĕyo meri brauṇinĕyo tiraññĕṭukkānāyilla.
 1	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	8	nsubj	_	Translit=pīṟṟar
-2-3	സ്മിത്തിനെയോ	_	_	_	_	_	_	_	SpaceAfter=No
+2-3	സ്മിത്തിനെയോ	_	_	_	_	_	_	_	_
 2	സ്മിത്തിനെ	സ്മിത്ത്	PROPN	_	Animacy=Anim|Case=Acc|Number=Sing	8	obj	_	Translit=smittinĕ
 3	ഓ	ഓ	PART	_	_	2	mark	_	Translit=ō
 4	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	5	orphan	_	Translit=meri|SpaceAfter=No
@@ -161,7 +161,7 @@
 # text = ആരാണ് എഴുതിയതെന്ന് അവർക്ക് അറിയില്ല.
 # translit = ārāṇ ĕḻutiyatĕnn avarkk aṟiyilla.
 # text_en = They don't know who wrote it.
-1-2	ആരാണ്	_	_	_	_	_	_	_	SpaceAfter=No
+1-2	ആരാണ്	_	_	_	_	_	_	_	_
 1	ആര്	ആര്	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|PronType=Int	3	nsubj	_	Translit=ār
 2	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	Translit=āṇ
 3-4	എഴുതിയതെന്ന്	_	_	_	_	_	_	_	_
@@ -190,7 +190,7 @@
 # text_en = When do you think you can come?
 1	നിങ്ങൾക്ക്	നിങ്ങൾ	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=2|PronType=Prs	4	obl	_	Translit=niṅṅal̤kk
 2	എപ്പോൾ	എപ്പോൾ	ADV	_	_	4	advmod	_	Translit=ĕppol̤
-3	വരാൻ	വരുക	VERB	_	VerbForm=Inf	4	xcomp	_	Translit=varān|SpaceAfter=No
+3	വരാൻ	വരുക	VERB	_	VerbForm=Inf	4	xcomp	_	Translit=varān
 4-5	കഴിയുമെന്ന്	_	_	_	_	_	_	_	_
 4	കഴിയും	കഴിയുക	AUX	_	Tense=Fut|VerbForm=Fin	7	ccomp	_	Translit=kaḻiyum
 5	എന്ന്	എന്ന്	PART	_	_	4	mark	_	Translit=ĕnn
@@ -252,7 +252,7 @@
 8	ചില	ചില	ADJ	_	_	9	amod	_	Translit=cila
 9	കാരണങ്ങളാൽ	കാരണം	NOUN	_	Animacy=Inan|Case=Ins|Number=Plur	12	obl	_	Translit=kāraṇaṅṅal̤āl
 10	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=aval̤
-11	അന്ന്	അന്ന്	ADV	_	_	12	obl	_	Translit=ann|SpaceAfter=No
+11	അന്ന്	അന്ന്	ADV	_	_	12	obl	_	Translit=ann
 12	ചെയ്തില്ല	ചെയ്യുക	VERB	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=cĕytilla|SpaceAfter=No
 13	.	.	PUNCT	_	PunctType=Peri	12	punct	_	SpaceAfter=No
 
@@ -262,7 +262,7 @@
 # translit = avan val̤arĕ vegattil oṭiyatināl ĕnikk piṭiccunilkkān kaḻiññilla
 1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl:arg	_	Translit=avan
 2	വളരെ	വളരെ	ADV	_	_	3	advmod	_	Translit=val̤arĕ
-3	വേഗത്തിൽ	വെഗം	ADV	_	_	4	advmod	_	Translit=vegattil|SpaceAfter=No
+3	വേഗത്തിൽ	വെഗം	ADV	_	_	4	advmod	_	Translit=vegattil
 4	ഓടിയതിനാൽ	ഓടുക	VERB	_	Tense=Past	7	advcl	_	Translit=oṭiyatināl
 5	എനിക്ക്	ഞാൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Translit=ĕnikk|SpaceAfter=No
 6	പിടിച്ചുനിൽക്കാൻ	പിടിച്ചുനിൽക്കുക	VERB	_	VerbForm=Inf	7	xcomp	_	Translit=piṭiccunilkkān
@@ -296,7 +296,7 @@
 3	പാരീസിൽ	പാരീസ്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	6	obl	_	Translit=pārīsil
 4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	Translit=āṇ
 5	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Translit=aval̤
-6	വളർന്നത്	വളരുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=val̤arnnat
+6	വളർന്നത്	വളരുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=val̤arnnat|SpaceAfter=No
 7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
