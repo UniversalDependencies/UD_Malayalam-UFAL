@@ -20,7 +20,7 @@
 2-3	പെയ്യുകയാണെന്ന്	_	_	_	_	_	_	_	_
 2	പെയ്യുകയാണ്	പെയ്യുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	Translit=pĕyyukayāṇ
 3	എന്ന്	എന്ന്	PART	_	_	2	mark	_	Translit=ĕnn
-4	ഞാൻ	ഞാൻ	PRON	_	AnimacyAnim=Yes|Case=Nom|Number=Sing|Person=1	5	nsubj	_	Translit=ñān
+4	ഞാൻ	ഞാൻ	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1	5	nsubj	_	Translit=ñān
 5	കരുതുന്നു	കരുതുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=karutunnu|SpaceAfter=No
 6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	SpaceAfter=No
 
@@ -28,7 +28,7 @@
 # sent_id = 00003
 # text = അവൻ പുകവലിയും മദ്യപാനവും നിർത്താൻ ശ്രമിച്ചു.
 # translit = avan pukavaliyuṃ madyapānavuṃ nirttān śramiccu.
-1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Yes	7	nsubj	_	Translit=avan
+1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Translit=avan
 2-3	പുകവലിയും	_	_	_	_	_	_	_	_
 2	പുകവലി	പുകവലി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	Translit=pukavali
 3	ഉം	ഉം	PART	_	_	2	mark	_	Translit=uṃ
@@ -65,11 +65,11 @@
 # text = അവൾ ഭർത്താവിനെ കൊണ്ട് കാർ കഴികിച്ചു.
 # translit = aval̤ bharttāvinĕ kŏṇṭ kār kaḻikiccu.
 # text_en = she made her husband wash the car.
-1	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Yes	5	nsubj	_	Translit=aval̤
+1	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=aval̤
 2	ഭർത്താവിനെ	ഭർത്താവ്	NOUN	_	Animacy=Anim|Case=Ins|Number=Sing	5	obl	_	Translit=bharttāvinĕ
 3	കൊണ്ട്	കൊണ്ട്	ADP	_	_	2	case	_	Translit=kŏṇṭ
 4	കാർ	കാർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=kār
-5	കഴികിച്ചു	കഴുകുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Caus	0	root	_	Translit=kaḻikiccu|SpaceAfter=No
+5	കഴികിച്ചു	കഴുകുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	Translit=kaḻikiccu|SpaceAfter=No
 6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	SpaceAfter=No
 
 # newdoc_id = 1
@@ -107,15 +107,15 @@
 # text_en = Mary won bronze, Peter silver and Jane gold.
 1	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3	10	nsubj	_	Translit=meri|SpaceAfter=No
 2-3	വെങ്കലവും	_	_	_	_	_	_	_	_
-2	വെങ്കലം	വെങ്കലം	NOUN	_	Animacy=Inam|Case=Acc|Number=Sing	10	obj	_	Translit=vĕṅkalaṃ
+2	വെങ്കലം	വെങ്കലം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	Translit=vĕṅkalaṃ
 3	ഉം	ഉം	PART	_	_	2	mark	_	Translit=uṃ
 4	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3	5	orphan	_	Translit=pīṟṟar|SpaceAfter=No
 5-6	വെള്ളിയും	_	_	_	_	_	_	_	_
-5	വെള്ളി	വെള്ളി	NOUN	_	Animacy=Inam|Case=Acc|Number=Sing	2	conj	_	Translit=vĕl̤l̤iyuṃ
+5	വെള്ളി	വെള്ളി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	conj	_	Translit=vĕl̤l̤iyuṃ
 6	ഉം	ഉം	PART	_	_	5	mark	_	Translit=uṃ
 7	ജെയിൻ	ജെയിൻ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3	8	orphan	_	Translit=jĕyin
 8-9	സ്വർണവും	_	_	_	_	_	_	_	_
-8	സ്വർണം	സ്വർണം	NOUN	_	Animacy=Inam|Case=Acc|Number=Sing	2	conj	_	Translit=svarṇavuṃ
+8	സ്വർണം	സ്വർണം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	conj	_	Translit=svarṇavuṃ
 9	ഉം	ഉം	PART	_	_	8	mark	_	Translit=uṃ
 10	നേടി	നെടുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=neṭi|SpaceAfter=No
 11	.	.	PUNCT	_	PunctType=Peri	10	punct	_	SpaceAfter=No
@@ -263,7 +263,7 @@
 1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl:arg	_	Translit=avan
 2	വളരെ	വളരെ	ADV	_	_	3	advmod	_	Translit=val̤arĕ
 3	വേഗത്തിൽ	വെഗം	ADV	_	_	4	advmod	_	Translit=vegattil|SpaceAfter=No
-4	ഓടിയതിനാൽ	ഓടുക	VERB	_	Case=Ins|Tense=Past	7	advcl	_	Translit=oṭiyatināl
+4	ഓടിയതിനാൽ	ഓടുക	VERB	_	Tense=Past	7	advcl	_	Translit=oṭiyatināl
 5	എനിക്ക്	ഞാൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Translit=ĕnikk|SpaceAfter=No
 6	പിടിച്ചുനിൽക്കാൻ	പിടിച്ചുനിൽക്കുക	VERB	_	VerbForm=Inf	7	xcomp	_	Translit=piṭiccunilkkān
 7	കഴിഞ്ഞില്ല	കഴിയുക	AUX	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=kaḻiññilla|SpaceAfter=No
@@ -344,7 +344,7 @@
 # translit = ninakk aiskriṃ iṣṭamāṇo?
 # text_en = Do you like ice cream?
 1	നിനക്ക്	നീ	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Translit=ninakk
-2	ഐസ്ക്രിം	ഐസ്ക്രിം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Translit=aiskriṃ
+2	ഐസ്ക്രിം	ഐസ്ക്രിം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing|Person=3	3	obj	_	Translit=aiskriṃ
 3-4	ഇഷ്ടമാണോ	_	_	_	_	_	_	_	SpaceAfter=No
 3	ഇഷ്ടം	ഇഷ്ടം	NOUN	_	_	0	root	_	Translit=iṣṭam
 4	ആണോ	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Translit=āṇo
@@ -379,7 +379,7 @@
 # text = ഇത് എൻറേതല്ല!
 # translit = it ĕnṟetalla!
 # text_en = This is not mine!
-1	ഇത്	ഇത്	PRON	_	Animacy=Inam|Case=Nom|Number=Sing|Person=3|PronType=Dem	2	det	_	Translit=it
+1	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Number=Sing|Person=3|PronType=Dem	2	det	_	Translit=it
 2-3	എൻറേതല്ല	_	_	_	_	_	_	_	SpaceAfter=No
 2	എന്റേത്	എന്റേ	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	0	root	_	Translit=ĕnṟet
 3	അല്ല	അല്ല	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	Translit=alla
