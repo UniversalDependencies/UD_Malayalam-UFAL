@@ -105,7 +105,7 @@
 # text = മേരി വെങ്കലവും പീറ്റർ വെള്ളിയും ജെയിൻ സ്വർണവും നേടി.
 # translit = meri vĕṅkalavuṃ pīṟṟar vĕl̤l̤iyuṃ jĕyin svarṇavuṃ neṭi.
 # text_en = Mary won bronze, Peter silver and Jane gold.
-1	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3	10	nsubj	_	Translit=meri|SpaceAfter=No
+1	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3	10	nsubj	_	Translit=meri
 2-3	വെങ്കലവും	_	_	_	_	_	_	_	_
 2	വെങ്കലം	വെങ്കലം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	Translit=vĕṅkalaṃ
 3	ഉം	ഉം	PART	_	_	2	mark	_	Translit=uṃ
