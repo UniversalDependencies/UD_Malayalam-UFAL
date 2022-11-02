@@ -147,7 +147,7 @@
 2-3	സ്മിത്തിനെയോ	_	_	_	_	_	_	_	_
 2	സ്മിത്തിനെ	സ്മിത്ത്	PROPN	_	Animacy=Anim|Case=Acc|Number=Sing	8	obj	_	Translit=smittinĕ
 3	ഓ	ഓ	PART	_	_	2	mark	_	Translit=ō
-4	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	5	orphan	_	Translit=meri|SpaceAfter=No
+4	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	5	orphan	_	Translit=meri
 5-6	ബ്രൗണിനെയോ	_	_	_	_	_	_	_	_
 5	ബ്രൗണിനെ	ബ്രൗൺ	PROPN	_	Animacy=Anim|Case=Acc|Number=Sing	2	conj	_	Translit=brauṇinĕ
 6	ഓ	ഓ	PART	_	_	5	mark	_	Translit=ō
@@ -167,7 +167,7 @@
 3-4	എഴുതിയതെന്ന്	_	_	_	_	_	_	_	_
 3	എഴുതിയത്	എഴുതുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp	_	Translit=ĕḻutiyatĕnn
 4	എന്ന്	എന്ന്	PART	_	_	3	mark	_	Translit=ĕnn
-5	അവർക്ക്	അവർ	PRON	_	Animacy=Anim|Case=Dat|Number=Plur|Person=3|PronType=Prs	6	obl	_	Translit=avarkk|SpaceAfter=No
+5	അവർക്ക്	അവർ	PRON	_	Animacy=Anim|Case=Dat|Number=Plur|Person=3|PronType=Prs	6	obl	_	Translit=avarkk
 6	അറിയില്ല	അരിയുക	VERB	_	Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=aṟiyilla|SpaceAfter=No
 7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
 
@@ -264,7 +264,7 @@
 2	വളരെ	വളരെ	ADV	_	_	3	advmod	_	Translit=val̤arĕ
 3	വേഗത്തിൽ	വെഗം	ADV	_	_	4	advmod	_	Translit=vegattil
 4	ഓടിയതിനാൽ	ഓടുക	VERB	_	Tense=Past	7	advcl	_	Translit=oṭiyatināl
-5	എനിക്ക്	ഞാൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Translit=ĕnikk|SpaceAfter=No
+5	എനിക്ക്	ഞാൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Translit=ĕnikk
 6	പിടിച്ചുനിൽക്കാൻ	പിടിച്ചുനിൽക്കുക	VERB	_	VerbForm=Inf	7	xcomp	_	Translit=piṭiccunilkkān
 7	കഴിഞ്ഞില്ല	കഴിയുക	AUX	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=kaḻiññilla|SpaceAfter=No
 8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	SpaceAfter=No
