@@ -35,7 +35,7 @@
 4-5	മദ്യപാനവും	_	_	_	_	_	_	_	_
 4	മദ്യപാനം	മദ്യപാനം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	conj	_	Translit=madyapānaṃ
 5	ഉം	ഉം	PART	_	_	4	mark	_	Translit=uṃ
-6	നിർത്താൻ	നിർത്ത്	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	7	xcomp	_	Translit=nirttān|SpaceAfter=No
+6	നിർത്താൻ	നിർത്ത്	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	7	xcomp	_	Translit=nirttān
 7	ശ്രമിച്ചു	ശ്രമിക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=śramiccu|SpaceAfter=No
 8	.	.	PUNCT	-	PunctType=Peri	7	punct	_	SpaceAfter=No
 
