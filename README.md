@@ -1,20 +1,13 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+Currently just a small sample of Malayalam grammatical examples.
 
 
 # Introduction
 
-...
-
-
-# Acknowledgments
-
-...
-
-## References
-
-* (citation)
+The treebank contains translations of the 20 examples from the
+[Cairo Cicling Corpus](https://github.com/UniversalDependencies/cairo).
+In addition, there are short sentences that we needed for the documentation.
 
 
 # Changelog
