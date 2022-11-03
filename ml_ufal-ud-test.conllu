@@ -232,10 +232,10 @@
 3	മേരി	മേരി	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	conj	_	Translit=meri
 4	ഉം	ഉം	PART	_	_	3	mark	_	Translit=uṃ
 5	പരസ്പരം	പരസ്പരം	ADV	_	_	7	advmod	_	Translit=parasparaṃ
-6	ആലിംഗനം	ആലിംഗനം	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	7	obj	_	Translit=āliṃganaṃ
+6	ആലിംഗനം	ആലിംഗനം	NOUN	_	Case=Acc|Number=Sing|Person=3	7	obj	_	Translit=āliṃganaṃ
 7	ചെയ്ത	ചെയ്യുക	VERB	_	VerbForm=Part	10	advcl	_	Translit=cĕyta
 8	ശേഷം	ശേഷം	ADV	_	_	7	advmod	_	Translit=śeṣaṃ
-9	മുറി	മുറി	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	10	obl	_	Translit=muṟi
+9	മുറി	മുറി	NOUN	_	Case=Acc|Number=Sing|Person=3	10	obl	_	Translit=muṟi
 10	വിട്ടു	വിടുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=viṭṭu|SpaceAfter=No
 11	.	.	PUNCT	_	PunctType=Peri	10	punct	_	SpaceAfter=No
 
