@@ -27,7 +27,7 @@
 
 # newpar id = cairo03
 # sent_id = cairo03
-# text = അവൻ പുകവലിയും മദ്യപാനവും നിർത്താൻശ്രമിച്ചു.
+# text = അവൻ പുകവലിയും മദ്യപാനവും നിർത്താൻ ശ്രമിച്ചു.
 # translit = avan pukavaliyuṃ madyapānavuṃ nirttān śramiccu.
 # text_en = He tried to quit smoking and drinking.
 1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Translit=avan
@@ -103,7 +103,7 @@
 
 # newpar id = cairo09
 # sent_id = cairo09
-# text = മേരിവെങ്കലവും പീറ്റർവെള്ളിയും ജെയിൻ സ്വർണവും നേടി.
+# text = മേരി വെങ്കലവും പീറ്റർ വെള്ളിയും ജെയിൻ സ്വർണവും നേടി.
 # translit = meri vĕṅkalavuṃ pīṟṟar vĕl̤l̤iyuṃ jĕyin svarṇavuṃ neṭi.
 # text_en = Mary won bronze, Peter silver and Jane gold.
 1	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3	10	nsubj	_	Translit=meri
@@ -140,7 +140,7 @@
 
 # newpar id = cairo11
 # sent_id = cairo11
-# text = പീറ്റർ സ്മിത്തിനെയോമേരിബ്രൗണിനെയോ തിരഞ്ഞെടുക്കാനായില്ല.
+# text = പീറ്റർ സ്മിത്തിനെയോ മേരി ബ്രൗണിനെയോ തിരഞ്ഞെടുക്കാനായില്ല.
 # translit = pīṟṟar smittinĕyo meri brauṇinĕyo tiraññĕṭukkānāyilla.
 1	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	8	nsubj	_	Translit=pīṟṟar
 2-3	സ്മിത്തിനെയോ	_	_	_	_	_	_	_	_
@@ -157,7 +157,7 @@
 
 # newpar id = cairo12
 # sent_id = cairo12
-# text = ആരാണ്എഴുതിയതെന്ന് അവർക്ക്അറിയില്ല.
+# text = ആരാണ് എഴുതിയതെന്ന് അവർക്ക് അറിയില്ല.
 # translit = ārāṇ ĕḻutiyatĕnn avarkk aṟiyilla.
 # text_en = They don't know who wrote it.
 1-2	ആരാണ്	_	_	_	_	_	_	_	_
@@ -184,7 +184,7 @@
 
 # newpar id = cairo14
 # sent_id = cairo14
-# text = നിങ്ങൾക്ക് എപ്പോൾ വരാൻകഴിയുമെന്ന് നിങ്ങൾ കരുതുന്നു?
+# text = നിങ്ങൾക്ക് എപ്പോൾ വരാൻ കഴിയുമെന്ന് നിങ്ങൾ കരുതുന്നു?
 # translit = niṅṅal̤kk ĕppol̤ varān kaḻiyumĕnn niṅṅal̤ karutunnu?
 # text_en = When do you think you can come?
 1	നിങ്ങൾക്ക്	നിങ്ങൾ	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Translit=niṅṅal̤kk
@@ -257,7 +257,7 @@
 
 # newpar id = cairo18
 # sent_id = cairo18
-# text = അവൻ വളരെ വേഗത്തിൽഓടിയതിനാൽ എനിക്ക്പിടിച്ചുനിൽക്കാൻ കഴിഞ്ഞില്ല.
+# text = അവൻ വളരെ വേഗത്തിൽ ഓടിയതിനാൽ എനിക്ക് പിടിച്ചുനിൽക്കാൻ കഴിഞ്ഞില്ല.
 # translit = avan val̤arĕ vegattil oṭiyatināl ĕnikk piṭiccunilkkān kaḻiññilla
 1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=avan
 2	വളരെ	വളരെ	ADV	_	_	3	advmod	_	Translit=val̤arĕ
@@ -286,7 +286,7 @@
 
 # newpar id = cairo20
 # sent_id = cairo20
-# text = ഫ്രാൻസിന്റെ തലസ്ഥാനമായ പാരീസിലാണ് അവൾ വളർന്നത് .
+# text = ഫ്രാൻസിന്റെ തലസ്ഥാനമായ പാരീസിലാണ് അവൾ വളർന്നത്.
 # translit = phrānsinṟĕ talasthānamāya pārīsilāṇ aval̤ val̤arnnat.
 # text_en = She grew up in Paris, the capital of France.
 1	ഫ്രാൻസിന്റെ	ഫ്രാൻസ്	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	translit = phrānsinṟĕ
