@@ -43,11 +43,11 @@
 
 # newpar id = cairo04
 # sent_id = cairo04
-# text = നിനക്ക് പോകണമോ ?
-# translit = ninakk pōkaṇamō ?
+# text = നിനക്ക് പോകണമോ?
+# translit = ninakk pōkaṇamō?
 # text_en = Do you want to go?
 1	നിനക്ക്	നീ	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Translit=ninakk|LTranslit=nī
-2	പോകണമോ	പോകുക	VERB	_	Mood=Des|VerbForm=Fin|Voice=Act	0	root	_	Translit=pōkaṇamō|LTranslit=pōkuka
+2	പോകണമോ	പോകുക	VERB	_	Mood=Des|VerbForm=Fin|Voice=Act	0	root	_	Translit=pōkaṇamō|LTranslit=pōkuka|SpaceAfter=No
 3	?	?	PUNCT	_	PunctType=Qest	2	punct	_	Translit=?|LTranslit=?
 
 # newpar id = cairo05
@@ -173,14 +173,14 @@
 
 # newpar id = cairo13
 # sent_id = cairo13
-# text = നിങ്ങള് എന്താണ് നോക്കുന്നത് ?
-# translit = niṅṅaḷ entāṇ nōkkunnat ?
+# text = നിങ്ങള് എന്താണ് നോക്കുന്നത്?
+# translit = niṅṅaḷ entāṇ nōkkunnat?
 # text_en = What are you looking at?
 1	നിങ്ങള്	നിങ്ങള്	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Translit=niṅṅaḷ|LTranslit=niṅṅaḷ
 2-3	എന്താണ്	_	_	_	_	_	_	_	Translit=entāṇ
 2	എന്ത്	എന്ത്	PRON	_	PronType=Int	4	obj	_	Translit=ent|LTranslit=ent
 3	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Translit=āṇ|LTranslit=āk
-4	നോക്കുന്നത്	നോക്കുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=nōkkunnat|LTranslit=nōkkuka
+4	നോക്കുന്നത്	നോക്കുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=nōkkunnat|LTranslit=nōkkuka|SpaceAfter=No
 5	?	?	PUNCT	_	PunctType=Qest	4	punct	_	Translit=?|LTranslit=?
 
 # newpar id = cairo14
@@ -354,12 +354,12 @@
 
 # newpar id = gex06
 # sent_id = gex06
-# text = നിങ്ങൾക്ക് മലയാളം അറിയാമോ ?
-# translit = niṅṅaḷkk malayāḷaṁ aṟiyāmō ?
+# text = നിങ്ങൾക്ക് മലയാളം അറിയാമോ?
+# translit = niṅṅaḷkk malayāḷaṁ aṟiyāmō?
 # text_en = Do you know Malayalam?
 1	നിങ്ങൾക്ക്	നിങ്ങൾ	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Translit=niṅṅaḷkk|LTranslit=niṅṅaḷ
 2	മലയാളം	മലയാളം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	3	obj	_	Translit=malayāḷaṁ|LTranslit=malayāḷaṁ
-3	അറിയാമോ	അറിയുക	VERB	_	Polarity=Pos|VerbForm=Fin	0	root	_	Translit=aṟiyāmō|LTranslit=aṟiyuka
+3	അറിയാമോ	അറിയുക	VERB	_	Polarity=Pos|VerbForm=Fin	0	root	_	Translit=aṟiyāmō|LTranslit=aṟiyuka|SpaceAfter=No
 4	?	?	PUNCT	_	PunctType=Qest	3	punct	_	Translit=?|LTranslit=?
 
 # newpar id = gex07
