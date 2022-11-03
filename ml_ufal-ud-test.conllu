@@ -21,7 +21,7 @@
 2-3	പെയ്യുകയാണെന്ന്	_	_	_	_	_	_	_	_
 2	പെയ്യുകയാണ്	പെയ്യുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	Translit=pĕyyukayāṇ
 3	എന്ന്	എന്ന്	PART	_	_	2	mark	_	Translit=ĕnn
-4	ഞാൻ	ഞാൻ	PRON	_	AnimacyAnim=Yes|Case=Nom|Number=Sing|Person=1	5	nsubj	_	Translit=ñān
+4	ഞാൻ	ഞാൻ	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1	5	nsubj	_	Translit=ñān
 5	കരുതുന്നു	കരുതുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=karutunnu|SpaceAfter=No
 6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	SpaceAfter=No
 
@@ -37,7 +37,7 @@
 4-5	മദ്യപാനവും	_	_	_	_	_	_	_	_
 4	മദ്യപാനം	മദ്യപാനം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	conj	_	Translit=madyapānaṃ
 5	ഉം	ഉം	PART	_	_	4	cc	_	Translit=uṃ
-6	നിർത്താൻ	നിർത്ത്	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	7	xcomp	_	Translit=nirttān|SpaceAfter=No
+6	നിർത്താൻ	നിർത്ത്	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	7	xcomp	_	Translit=nirttān
 7	ശ്രമിച്ചു	ശ്രമിക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=śramiccu|SpaceAfter=No
 8	.	.	PUNCT	-	PunctType=Peri	7	punct	_	SpaceAfter=No
 
@@ -106,11 +106,11 @@
 # text = മേരിവെങ്കലവും പീറ്റർവെള്ളിയും ജെയിൻ സ്വർണവും നേടി.
 # translit = meri vĕṅkalavuṃ pīṟṟar vĕl̤l̤iyuṃ jĕyin svarṇavuṃ neṭi.
 # text_en = Mary won bronze, Peter silver and Jane gold.
-1	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3	10	nsubj	_	Translit=meri|SpaceAfter=No
+1	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3	10	nsubj	_	Translit=meri
 2-3	വെങ്കലവും	_	_	_	_	_	_	_	_
 2	വെങ്കലം	വെങ്കലം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	Translit=vĕṅkalaṃ
 3	ഉം	ഉം	PART	_	_	2	cc	_	Translit=uṃ
-4	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3	5	orphan	_	Translit=pīṟṟar|SpaceAfter=No
+4	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3	5	orphan	_	Translit=pīṟṟar
 5-6	വെള്ളിയും	_	_	_	_	_	_	_	_
 5	വെള്ളി	വെള്ളി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	conj	_	Translit=vĕl̤l̤iyuṃ
 6	ഉം	ഉം	PART	_	_	5	cc	_	Translit=uṃ
@@ -143,10 +143,10 @@
 # text = പീറ്റർ സ്മിത്തിനെയോമേരിബ്രൗണിനെയോ തിരഞ്ഞെടുക്കാനായില്ല.
 # translit = pīṟṟar smittinĕyo meri brauṇinĕyo tiraññĕṭukkānāyilla.
 1	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	8	nsubj	_	Translit=pīṟṟar
-2-3	സ്മിത്തിനെയോ	_	_	_	_	_	_	_	SpaceAfter=No
+2-3	സ്മിത്തിനെയോ	_	_	_	_	_	_	_	_
 2	സ്മിത്തിനെ	സ്മിത്ത്	PROPN	_	Animacy=Anim|Case=Acc|Number=Sing	8	obj	_	Translit=smittinĕ
 3	ഓ	ഓ	PART	_	_	2	cc	_	Translit=ō
-4	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	5	orphan	_	Translit=meri|SpaceAfter=No
+4	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	5	orphan	_	Translit=meri
 5-6	ബ്രൗണിനെയോ	_	_	_	_	_	_	_	_
 5	ബ്രൗണിനെ	ബ്രൗൺ	PROPN	_	Animacy=Anim|Case=Acc|Number=Sing	2	conj	_	Translit=brauṇinĕ
 6	ഓ	ഓ	PART	_	_	5	cc	_	Translit=ō
@@ -160,13 +160,13 @@
 # text = ആരാണ്എഴുതിയതെന്ന് അവർക്ക്അറിയില്ല.
 # translit = ārāṇ ĕḻutiyatĕnn avarkk aṟiyilla.
 # text_en = They don't know who wrote it.
-1-2	ആരാണ്	_	_	_	_	_	_	_	SpaceAfter=No
+1-2	ആരാണ്	_	_	_	_	_	_	_	_
 1	ആര്	ആര്	PRON	_	Animacy=Anim|Case=Nom|Deixis=Prox|Number=Sing|PronType=Int	3	nsubj	_	Translit=ār
 2	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Translit=āṇ
 3-4	എഴുതിയതെന്ന്	_	_	_	_	_	_	_	_
 3	എഴുതിയത്	എഴുതുക	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp	_	Translit=ĕḻutiyatĕnn
 4	എന്ന്	എന്ന്	PART	_	_	3	mark	_	Translit=ĕnn
-5	അവർക്ക്	അവർ	PRON	_	Animacy=Anim|Case=Dat|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	Translit=avarkk|SpaceAfter=No
+5	അവർക്ക്	അവർ	PRON	_	Animacy=Anim|Case=Dat|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	Translit=avarkk
 6	അറിയില്ല	അരിയുക	VERB	_	Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=aṟiyilla|SpaceAfter=No
 7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
 
@@ -189,7 +189,7 @@
 # text_en = When do you think you can come?
 1	നിങ്ങൾക്ക്	നിങ്ങൾ	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Translit=niṅṅal̤kk
 2	എപ്പോൾ	എപ്പോൾ	ADV	_	_	4	advmod	_	Translit=ĕppol̤
-3	വരാൻ	വരുക	VERB	_	VerbForm=Inf	4	xcomp	_	Translit=varān|SpaceAfter=No
+3	വരാൻ	വരുക	VERB	_	VerbForm=Inf	4	xcomp	_	Translit=varān
 4-5	കഴിയുമെന്ന്	_	_	_	_	_	_	_	_
 4	കഴിയും	കഴിയുക	AUX	_	Tense=Fut|VerbForm=Fin	7	ccomp	_	Translit=kaḻiyum
 5	എന്ന്	എന്ന്	PART	_	_	4	mark	_	Translit=ĕnn
@@ -261,9 +261,9 @@
 # translit = avan val̤arĕ vegattil oṭiyatināl ĕnikk piṭiccunilkkān kaḻiññilla
 1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=avan
 2	വളരെ	വളരെ	ADV	_	_	3	advmod	_	Translit=val̤arĕ
-3	വേഗത്തിൽ	വെഗം	ADV	_	_	4	advmod	_	Translit=vegattil|SpaceAfter=No
+3	വേഗത്തിൽ	വെഗം	ADV	_	_	4	advmod	_	Translit=vegattil
 4	ഓടിയതിനാൽ	ഓടുക	VERB	_	Case=Ins|Tense=Past	7	advcl	_	Translit=oṭiyatināl
-5	എനിക്ക്	ഞാൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Translit=ĕnikk|SpaceAfter=No
+5	എനിക്ക്	ഞാൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Translit=ĕnikk
 6	പിടിച്ചുനിൽക്കാൻ	പിടിച്ചുനിൽക്കുക	VERB	_	VerbForm=Inf	7	xcomp	_	Translit=piṭiccunilkkān
 7	കഴിഞ്ഞില്ല	കഴിയുക	AUX	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=kaḻiññilla|SpaceAfter=No
 8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	SpaceAfter=No
