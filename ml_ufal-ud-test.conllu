@@ -30,7 +30,7 @@
 # text = അവൻ പുകവലിയും മദ്യപാനവും നിർത്താൻശ്രമിച്ചു.
 # translit = avan pukavaliyuṃ madyapānavuṃ nirttān śramiccu.
 # text_en = He tried to quit smoking and drinking.
-1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Translit=avan
+1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Translit=avan
 2-3	പുകവലിയും	_	_	_	_	_	_	_	_
 2	പുകവലി	പുകവലി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	Translit=pukavali
 3	ഉം	ഉം	PART	_	_	2	mark	_	Translit=uṃ
@@ -68,7 +68,7 @@
 # text = അവൾ ഭർത്താവിനെ കൊണ്ട് കാർ കഴികിച്ചു.
 # translit = aval̤ bharttāvinĕ kŏṇṭ kār kaḻikiccu.
 # text_en = she made her husband wash the car.
-1	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=aval̤
+1	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=aval̤
 2	ഭർത്താവിനെ	ഭർത്താവ്	NOUN	_	Animacy=Anim|Case=Ins|Number=Sing	5	obl	_	Translit=bharttāvinĕ
 3	കൊണ്ട്	കൊണ്ട്	ADP	_	_	2	case	_	Translit=kŏṇṭ
 4	കാർ	കാർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=kār
@@ -165,12 +165,12 @@
 # translit = ārāṇ ĕḻutiyatĕnn avarkk aṟiyilla.
 # text_en = They don't know who wrote it.
 1-2	ആരാണ്	_	_	_	_	_	_	_	_
-1	ആര്	ആര്	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|PronType=Int	3	nsubj	_	Translit=ār
+1	ആര്	ആര്	PRON	_	Animacy=Anim|Case=Nom|Deixis=Prox|Number=Sing|PronType=Int	3	nsubj	_	Translit=ār
 2	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	Translit=āṇ
 3-4	എഴുതിയതെന്ന്	_	_	_	_	_	_	_	_
 3	എഴുതിയത്	എഴുതുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp	_	Translit=ĕḻutiyatĕnn
 4	എന്ന്	എന്ന്	PART	_	_	3	mark	_	Translit=ĕnn
-5	അവർക്ക്	അവർ	PRON	_	Animacy=Anim|Case=Dat|Number=Plur|Person=3|PronType=Prs	6	obl	_	Translit=avarkk
+5	അവർക്ക്	അവർ	PRON	_	Animacy=Anim|Case=Dat|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	6	obl	_	Translit=avarkk
 6	അറിയില്ല	അരിയുക	VERB	_	Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=aṟiyilla|SpaceAfter=No
 7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
 
@@ -206,9 +206,9 @@
 # text = അവൻ ഒരു കാർ വാങ്ങി, പക്ഷേ അവന്റെ സഹോദരൻ ഒരു ബൈക്ക് മാത്രം വാങ്ങി.
 # translit = avan ŏru kār vāṅṅi, pakṣe avanṟĕ sahodaran ŏru baikk mātraṃ vāṅṅi.
 # text_en = He bought a car but his brother only bought a bike.
-1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=avan
+1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=avan
 2	ഒരു	ഒരു	DET	_	_	3	det	_	Translit=ŏru
-3	കാർ	കാർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit=kār
+3	കാർ	കാർ	NOUN	_	Animacy=Inan|Case=Acc|Deixis=Remt|Number=Sing	4	obj	_	Translit=kār
 4	വാങ്ങി	വാങ്ങുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=vāṅṅi
 5	,	,	PUNCT	_	_	12	punct	_	_
 6	പക്ഷേ	പക്ഷേ	CCONJ	_	_	12	cc	_	Translit=pakṣe
@@ -244,8 +244,8 @@
 # text = അവൾ അവളുടെ മുടി ചീകിക്കൊണ്ടിരിക്കണമായിരുന്നു, പക്ഷേ ചില കാരണങ്ങളാൽ അവൾ അന്ന്ചെയ്തില്ല.
 # translit = aval̤ aval̤uṭĕ muṭi cīkikkŏṇṭirikkaṇamāyirunnu, pakṣe cila kāraṇaṅṅal̤āl aval̤ ann cĕytilla.
 # text_en = She should have been combing her hair, but for some reason she didn't that day.
-1	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=aval̤
-2	അവളുടെ	അവൾ	PRON	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod	_	Translit=aval̤uṭĕ
+1	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=aval̤
+2	അവളുടെ	അവൾ	PRON	_	Animacy=Anim|Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod	_	Translit=aval̤uṭĕ
 3	മുടി	മുടി	NOUN	_	Animacy=Inan|Case=Acc|Person=3	4	obj	_	Translit=muṭi
 4-5	ചീകിക്കൊണ്ടിരിക്കണമായിരുന്നു	_	_	_	_	_	_	_	SpaceAfter=No
 4	ചീകിക്കൊണ്ടിരിക്കണം	ചീകുക	VERB	_	Aspect=Prog|Mood=Nec|VerbForm=Fin	12	advcl	_	Translit=cīkikkŏṇṭirikkaṇam
@@ -254,7 +254,7 @@
 7	പക്ഷേ	പക്ഷേ	CCONJ	_	_	12	cc	_	Translit=pakṣe
 8	ചില	ചില	ADJ	_	_	9	amod	_	Translit=cila
 9	കാരണങ്ങളാൽ	കാരണം	NOUN	_	Animacy=Inan|Case=Ins|Number=Plur	12	obl	_	Translit=kāraṇaṅṅal̤āl
-10	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=aval̤
+10	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=aval̤
 11	അന്ന്	അന്ന്	ADV	_	_	12	obl	_	Translit=ann
 12	ചെയ്തില്ല	ചെയ്യുക	VERB	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=cĕytilla|SpaceAfter=No
 13	.	.	PUNCT	_	PunctType=Peri	12	punct	_	SpaceAfter=No
@@ -263,7 +263,7 @@
 # sent_id = cairo18
 # text = അവൻ വളരെ വേഗത്തിൽഓടിയതിനാൽ എനിക്ക്പിടിച്ചുനിൽക്കാൻ കഴിഞ്ഞില്ല.
 # translit = avan val̤arĕ vegattil oṭiyatināl ĕnikk piṭiccunilkkān kaḻiññilla
-1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl:arg	_	Translit=avan
+1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl:arg	_	Translit=avan
 2	വളരെ	വളരെ	ADV	_	_	3	advmod	_	Translit=val̤arĕ
 3	വേഗത്തിൽ	വെഗം	ADV	_	_	4	advmod	_	Translit=vegattil
 4	ഓടിയതിനാൽ	ഓടുക	VERB	_	Tense=Past	7	advcl	_	Translit=oṭiyatināl
@@ -277,13 +277,13 @@
 # text = ഈ കത്ത് പീറ്ററിന്റേതാണ്, അത് ഇന്നലെ കൈമാറി.
 # translit = ī katt pīṟṟaṟinṟetāṇ, at innalĕ kaimāṟi
 # text_en = This letter is from Peter and was delivered yesterday.
-1	ഈ	ഈ	PRON	_	PronType=Dem	2	nmod	_	Translit=ī
+1	ഈ	ഈ	PRON	_	Deixis=Prox|PronType=Dem	2	nmod	_	Translit=ī
 2	കത്ത്	കത്ത്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=katt
 3-4	പീറ്ററിന്റേതാണ്	_	_	_	_	_	_	_	SpaceAfter=No
 3	പീറ്ററിന്റേത്	പീറ്ററ്	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	2	nmod	_	Translit=pīṟṟaṟinṟet
 4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=āṇ
 5	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
-6	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nsubj	_	Translit=at
+6	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Gender=Neut|Number=Sing|Person=3	8	nsubj	_	Translit=at
 7	ഇന്നലെ	ഇന്നലെ	ADV	_	_	8	obl	_	Translit=innalĕ
 8	കൈമാറി	കൈമാറി	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	Translit=kaimāṟi|SpaceAfter=No
 9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	SpaceAfter=No
@@ -298,7 +298,7 @@
 3-4	പാരീസിലാണ്	_	_	_	_	_	_	_	_
 3	പാരീസിൽ	പാരീസ്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	6	obl	_	Translit=pārīsil
 4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	Translit=āṇ
-5	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Translit=aval̤
+5	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Translit=aval̤
 6	വളർന്നത്	വളരുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=val̤arnnat|SpaceAfter=No
 7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
 
@@ -329,7 +329,7 @@
 # text = അവൾ വായിക്കുന്നു.
 # translit = aval̤ vāyikkunnu.
 # text_en = She is reading
-1	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=aval̤
+1	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=aval̤
 2	വായിക്കുന്നു	വായിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=vāyikkunnu|SpaceAfter=No
 3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	SpaceAfter=No
 
@@ -338,7 +338,7 @@
 # text = അവർ കളിക്കുകയാൺ.
 # translit = avar kal̤ikkukayāṇ.
 # text_en = They are playing.
-1	അവർ	അവർ	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Translit=avar
+1	അവർ	അവർ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Translit=avar
 2	കളിക്കുകയാൺ	കളിക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=kal̤ikkukayāṇ|SpaceAfter=No
 3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	SpaceAfter=No
 
@@ -371,7 +371,7 @@
 # text = അവ എൻറെ പുസ്തകങ്ങളാൺ.
 # translit = ava ĕnṟĕ pustakaṅṅal̤āṇ.
 # text_en = Those are my books.
-1	അവ	അവ	PRON	_	Animacy=Inan|Case=Nom|Number=Plur|Person=3|PronType=Dem	3	det	_	Translit=ava
+1	അവ	അവ	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Plur|Person=3|PronType=Dem	3	det	_	Translit=ava
 2	എൻറെ	ഞാൻ	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=1|PronType=Prs	3	nmod:poss	_	Translit=ĕnṟĕ
 3-4	പുസ്തകങ്ങളാൺ	_	_	_	_	_	_	_	SpaceAfter=No
 3	പുസ്തകങ്ങൾ	പുസ്തകങ്ങൾ	NOUN	_	Animacy=Anim|Case=Acc|Number=Plur	0	root	_	Translit=pustakaṅṅal̤
@@ -383,7 +383,7 @@
 # text = ഇത് എൻറേതല്ല!
 # translit = it ĕnṟetalla!
 # text_en = This is not mine!
-1	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Number=Sing|Person=3|PronType=Dem	2	det	_	Translit=it
+1	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Dem	2	det	_	Translit=it
 2-3	എൻറേതല്ല	_	_	_	_	_	_	_	SpaceAfter=No
 2	എന്റേത്	എന്റേ	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	0	root	_	Translit=ĕnṟet
 3	അല്ല	അല്ല	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	Translit=alla
@@ -395,7 +395,7 @@
 # translit = atāṇ ĕnṟĕ vīṭ.
 # text_en = That is my house.
 1-2	അതാൺ	_	_	_	_	_	_	_	_
-1	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Number=Sing|Person=3|PronType=Dem	4	det	_	Translit=at
+1	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	4	det	_	Translit=at
 2	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Translit=āṇ
 3	എൻറെ	ഞാൻ	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	Translit=ĕnṟĕ
 4	വീട്	വീട്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=vīṭ|SpaceAfter=No
