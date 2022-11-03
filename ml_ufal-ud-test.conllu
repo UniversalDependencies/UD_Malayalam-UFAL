@@ -39,7 +39,7 @@
 5	ഉം	ഉം	PART	_	_	4	cc	_	Translit=uṃ
 6	നിർത്താൻ	നിർത്ത്	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	7	xcomp	_	Translit=nirttān
 7	ശ്രമിച്ചു	ശ്രമിക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=śramiccu|SpaceAfter=No
-8	.	.	PUNCT	-	PunctType=Peri	7	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	SpaceAfter=No
 
 # newpar id = cairo04
 # sent_id = cairo04
@@ -48,9 +48,8 @@
 # text_en = Do you want to go?
 1	നിനക്ക്	നീ	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Translit=ninakk
 2-3	പോകണമോ	_	_	_	_	_	_	_	_
-2	പോകണം	പോകുക	VERB	-	Mood=Des|VerbForm=Fin|Voice=Act	0	root	_	Translit=pokaṇam
-3	ഓ	ഓ	PART	_	_	2	mark	_	Translit=ō
-4	?	?	PUNCT	-	PunctType=Qest	2	punct	_	SpaceAfter=No
+2	പോകണമോ	പോകുക	VERB	_	Mood=Des|VerbForm=Fin|Voice=Act	0	root	_	Translit=pokaṇamō
+3	?	?	PUNCT	_	PunctType=Qest	2	punct	_	SpaceAfter=No
 
 # newpar id = cairo05
 # sent_id = cairo05
@@ -131,16 +130,14 @@
 1	ഇഗ്വാസു	ഇഗ്വാസു	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=igvāsu
 2	ഒരു	ഒരു	DET	_	_	4	det	_	Translit=ŏru
 3	വലിയ	വലിയ	ADJ	_	_	4	amod	_	Translit=valiya
-4-6	രാജ്യമാണോ	_	_	_	_	_	_	_	_
+4-5	രാജ്യമാണോ	_	_	_	_	_	_	_	_
 4	രാജ്യം	രാജ്യം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=rājyam
-5	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	Translit=āṇ
-6	ഓ	ഓ	PART	_	_	5	mark	_	Translit=ō
-7	ചെറിയ	ചെറിയ	ADJ	_	_	8	amod	_	Translit=cĕṟiya
-8-10	രാജ്യമാണോ	_	_	_	_	_	_	_	SpaceAfter=No
-8	രാജ്യം	രാജ്യം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	conj	_	Translit=rājyam
-9	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	Translit=āṇ
-10	ഓ	ഓ	PART	_	_	9	mark	_	Translit=ō
-11	?	?	PUNCT	_	PunctType=Qest	4	punct	_	SpaceAfter=No
+5	ആണോ	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Translit=āṇo
+6	ചെറിയ	ചെറിയ	ADJ	_	_	7	amod	_	Translit=cĕṟiya
+7-8	രാജ്യമാണോ	_	_	_	_	_	_	_	SpaceAfter=No
+7	രാജ്യം	രാജ്യം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	conj	_	Translit=rājyam
+8	ആണോ	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	Translit=āṇo
+9	?	?	PUNCT	_	PunctType=Qest	4	punct	_	SpaceAfter=No
 
 # newpar id = cairo11
 # sent_id = cairo11
@@ -361,10 +358,8 @@
 # text_en = Do you know Malayalam?
 1	നിങ്ങൾക്ക്	നിങ്ങൾ	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Translit=niṅṅal̤kk
 2	മലയാളം	മലയാളം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	3	obj	_	Translit=malayāl̤aṃ
-3-4	അറിയാമോ	_	_	_	_	_	_	_	SpaceAfter=No
-3	അരിയാം	അറിയുക	VERB	_	Polarity=Pos|VerbForm=Fin	0	root	_	Translit=aṟiyāmo
-4	ഓ	ഓ	PART	_	_	3	mark	_	Translit=ō
-5	?	?	PUNCT	_	PunctType=Qest	3	punct	_	SpaceAfter=No
+3	അറിയാമോ	അറിയുക	VERB	_	Polarity=Pos|VerbForm=Fin	0	root	_	Translit=aṟiyāmo
+4	?	?	PUNCT	_	PunctType=Qest	3	punct	_	SpaceAfter=No
 
 # newpar id = gex07
 # sent_id = gex07
@@ -386,7 +381,7 @@
 1	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Dem	2	det	_	Translit=it
 2-3	എൻറേതല്ല	_	_	_	_	_	_	_	SpaceAfter=No
 2	എന്റേത്	എന്റേ	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	0	root	_	Translit=ĕnṟet
-3	അല്ല	അല്ല	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	Translit=alla
+3	അല്ല	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	Translit=alla
 4	!	!	PUNCT	_	PunctType=Excl	2	punct	_	SpaceAfter=No
 
 # newpar id = gex09
