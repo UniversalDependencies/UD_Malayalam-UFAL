@@ -43,12 +43,12 @@
 
 # newpar id = cairo04
 # sent_id = cairo04
-# text = നിനക്ക് പോകണമോ ?
+# text = നിനക്ക് പോകണമോ ?
 # translit = ninakk pokaṇamō ?
 # text_en = Do you want to go?
 1	നിനക്ക്	നീ	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Translit=ninakk
 2-3	പോകണമോ	_	_	_	_	_	_	_	_
-2	പോകണമോ	പോകുക	VERB	_	Mood=Des|VerbForm=Fin|Voice=Act	0	root	_	Translit=pokaṇamō
+2	പോകണമോ	പോകുക	VERB	_	Mood=Des|VerbForm=Fin|Voice=Act	0	root	_	Translit=pokaṇamō
 3	?	?	PUNCT	_	PunctType=Qest	2	punct	_	SpaceAfter=No
 
 # newpar id = cairo05
