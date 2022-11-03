@@ -1,5 +1,4 @@
 # newdoc id = _id = 1
-# newpar
 # sent_id = 00001
 # text = പെൺകുട്ടി തന്റെ സുഹൃത്തിന് കത്തെഴുതി.
 # translit = pĕṇkuṭṭi tanṟĕ suhṛttin kattĕḻuti.
@@ -26,7 +25,6 @@
 6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	SpaceAfter=No
 
 # newdoc id = _id = 1
-# newpar
 # sent_id = 00003
 # text = അവൻ പുകവലിയും മദ്യപാനവും നിർത്താൻശ്രമിച്ചു.
 # translit = avan pukavaliyuṃ madyapānavuṃ nirttān śramiccu.
@@ -43,7 +41,6 @@
 8	.	.	PUNCT	-	PunctType=Peri	7	punct	_	SpaceAfter=No
 
 # newdoc id = _id = 1
-# newpar
 # sent_id = 00004
 # text = നിനക്ക് പോകണമോ ?
 # translit = ninakk pokaṇamō ?
