@@ -55,7 +55,7 @@
 # text = സാം, ജനൽ തുറക്കൂ!
 # translit = sāṃ, janal tuṟakkū!
 # text_en = sam, open the window!
-1	സാം	സാം	PROPN	_	Animacy=Anim|Case=Nom|Person=2	4	nsubj	_	Translit=sāṃ|SpaceAfter=No
+1	സാം	സാം	PROPN	_	Animacy=Anim|Case=Nom	4	nsubj	_	Translit=sāṃ|SpaceAfter=No
 2	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
 3	ജനൽ	ജനൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit=janal
 4	തുറക്കൂ	തുറക്കുക	VERB	_	Mood=Imp|Polarity=Pos|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=tuṟakkū|SpaceAfter=No
@@ -106,15 +106,15 @@
 # text = മേരി വെങ്കലവും പീറ്റർ വെള്ളിയും ജെയിൻ സ്വർണവും നേടി.
 # translit = meri vĕṅkalavuṃ pīṟṟar vĕl̤l̤iyuṃ jĕyin svarṇavuṃ neṭi.
 # text_en = Mary won bronze, Peter silver and Jane gold.
-1	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3	10	nsubj	_	Translit=meri
+1	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	Translit=meri
 2-3	വെങ്കലവും	_	_	_	_	_	_	_	_
 2	വെങ്കലം	വെങ്കലം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	Translit=vĕṅkalaṃ
 3	ഉം	ഉം	PART	_	_	2	cc	_	Translit=uṃ
-4	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3	5	orphan	_	Translit=pīṟṟar
+4	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	orphan	_	Translit=pīṟṟar
 5-6	വെള്ളിയും	_	_	_	_	_	_	_	_
 5	വെള്ളി	വെള്ളി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	conj	_	Translit=vĕl̤l̤iyuṃ
 6	ഉം	ഉം	PART	_	_	5	cc	_	Translit=uṃ
-7	ജെയിൻ	ജെയിൻ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3	8	orphan	_	Translit=jĕyin
+7	ജെയിൻ	ജെയിൻ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	8	orphan	_	Translit=jĕyin
 8-9	സ്വർണവും	_	_	_	_	_	_	_	_
 8	സ്വർണം	സ്വർണം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	conj	_	Translit=svarṇavuṃ
 9	ഉം	ഉം	PART	_	_	8	cc	_	Translit=uṃ
@@ -222,16 +222,16 @@
 # translit = pīṟṟaṟuṃ meriyuṃ parasparaṃ āliṃganaṃ cĕyta śeṣaṃ muṟi viṭṭu.
 # text_en = Peter and Mary hugged each other and left the room.
 1-2	പീറ്ററും	_	_	_	_	_	_	_	_
-1	പീറ്റർ	പീറ്റർ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	nsubj	_	Translit=pīṟṟaṟ
+1	പീറ്റർ	പീറ്റർ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Translit=pīṟṟaṟ
 2	ഉം	ഉം	PART	_	_	1	mark	_	Translit=uṃ
 3-4	മേരിയും	_	_	_	_	_	_	_	_
-3	മേരി	മേരി	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	conj	_	Translit=meri
+3	മേരി	മേരി	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	Translit=meri
 4	ഉം	ഉം	PART	_	_	3	mark	_	Translit=uṃ
 5	പരസ്പരം	പരസ്പരം	ADV	_	_	7	advmod	_	Translit=parasparaṃ
-6	ആലിംഗനം	ആലിംഗനം	NOUN	_	Case=Acc|Number=Sing|Person=3	7	obj	_	Translit=āliṃganaṃ
+6	ആലിംഗനം	ആലിംഗനം	NOUN	_	Case=Acc|Number=Sing	7	obj	_	Translit=āliṃganaṃ
 7	ചെയ്ത	ചെയ്യുക	VERB	_	VerbForm=Part	10	advcl	_	Translit=cĕyta
 8	ശേഷം	ശേഷം	ADV	_	_	7	advmod	_	Translit=śeṣaṃ
-9	മുറി	മുറി	NOUN	_	Case=Acc|Number=Sing|Person=3	10	obl	_	Translit=muṟi
+9	മുറി	മുറി	NOUN	_	Case=Acc|Number=Sing	10	obl	_	Translit=muṟi
 10	വിട്ടു	വിടുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=viṭṭu|SpaceAfter=No
 11	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
 
@@ -242,7 +242,7 @@
 # text_en = She should have been combing her hair, but for some reason she didn't that day.
 1	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=aval̤
 2	അവളുടെ	അവൾ	PRON	_	Animacy=Anim|Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod	_	Translit=aval̤uṭĕ
-3	മുടി	മുടി	NOUN	_	Animacy=Inan|Case=Acc|Person=3	4	obj	_	Translit=muṭi
+3	മുടി	മുടി	NOUN	_	Animacy=Inan|Case=Acc	4	obj	_	Translit=muṭi
 4-5	ചീകിക്കൊണ്ടിരിക്കണമായിരുന്നു	_	_	_	_	_	_	_	SpaceAfter=No
 4	ചീകിക്കൊണ്ടിരിക്കണം	ചീകുക	VERB	_	Aspect=Prog|Mood=Nec|VerbForm=Fin	12	advcl	_	Translit=cīkikkŏṇṭirikkaṇam
 5	ആയിരുന്നു	ആക്	AUX	_	Polarity=Pos|Tense=Past|Voice=Act	4	aux	_	Translit=āyirunnu
