@@ -5,14 +5,14 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>30</sentences><tokens>173</tokens><words>202</words><fused>29</fused></total>
+    <total><sentences>30</sentences><tokens>174</tokens><words>202</words><fused>28</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>30</sentences><tokens>173</tokens><words>202</words><fused>29</fused></test>
+    <test><sentences>30</sentences><tokens>174</tokens><words>202</words><fused>28</fused></test>
   </size>
   <lemmas unique="107" /><!-- ., ആക്, ?, ഉം, അവൾ, ഞാൻ, ,, അവൻ, ഒരു, നിങ്ങൾ, നീ, പീറ്റർ, എന്ന്, ചെയ്യുക, മേരി -->
   <forms unique="126" /><!-- ., ?, ആണ്, ഉം, അവൾ, ,, ആണോ, ഒരു, അവൻ, എന്ന്, പീറ്റർ, മേരി, !, അത്, എന്ത് -->
-  <fusions unique="28" /><!-- രാജ്യമാണോ, അതാൺ, ആരാണ്, ഇഷ്ടമാണോ, എന്താണ്, എന്താൺ, എഴുതിയതെന്ന്, എൻറേതല്ല, കത്തെഴുതി, കഴിയുമെന്ന്, ചീകിക്കൊണ്ടിരിക്കണമായിരുന്നു, തിരഞ്ഞെടുക്കാനായില്ല, പാരീസിലാണ്, പീറ്ററിന്റേതാണ്, പീറ്ററും -->
+  <fusions unique="27" /><!-- രാജ്യമാണോ, അതാൺ, ആരാണ്, ഇഷ്ടമാണോ, എന്താണ്, എന്താൺ, എഴുതിയതെന്ന്, എൻറേതല്ല, കത്തെഴുതി, കഴിയുമെന്ന്, ചീകിക്കൊണ്ടിരിക്കണമായിരുന്നു, തിരഞ്ഞെടുക്കാനായില്ല, പാരീസിലാണ്, പീറ്ററിന്റേതാണ്, പീറ്ററും -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="12">
     <tag name="ADJ">6</tag><!-- ചില, ചുവപ്പ്, ചെറിയ, തലസ്ഥാനം, വലിയ, ശാന്തൻ -->
@@ -87,10 +87,10 @@
     <dep name="ccomp">3</dep>
     <dep name="conj">7</dep>
     <dep name="cop">12</dep>
-    <dep name="det">7</dep>
+    <dep name="det">6</dep>
     <dep name="iobj">1</dep>
     <dep name="mark">5</dep>
-    <dep name="nmod">4</dep>
+    <dep name="nmod">5</dep>
     <dep name="nmod:poss">7</dep>
     <dep name="nsubj">34</dep>
     <dep name="obj">15</dep>
