@@ -29,10 +29,9 @@
     <tag name="VERB">31</tag><!-- ചെയ്യുക, എഴുതുക, ഓടുക, വാങ്ങുക, അടിക്കുക, അരിയുക, അറിയുക, കരുതുക, കരുതുന്നു, കളിക്കുക -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="46">
-    <feat name="Animacy" value="Anim" upos="NOUN,PRON,PROPN">47</feat><!-- അവൾ, അവൻ, എൻറെ, നിങ്ങൾ, നിങ്ങൾക്ക്, നിനക്ക്, പീറ്റർ, മേരി, അച്ഛനേക്കാൾ, അച്ഛൻ -->
+  <feats unique="45">
+    <feat name="Animacy" value="Anim" upos="NOUN,PRON,PROPN">48</feat><!-- അവൾ, അവൻ, എൻറെ, ഞാൻ, നിങ്ങൾ, നിങ്ങൾക്ക്, നിനക്ക്, പീറ്റർ, മേരി, അച്ഛനേക്കാൾ -->
     <feat name="Animacy" value="Inan" upos="NOUN,PRON,PROPN">28</feat><!-- അത്, കത്ത്, കാർ, രാജ്യം, അവ, ഇഗ്വാസു, ഇത്, ഐസ്ക്രിം, കാരണങ്ങളാൽ, ജനൽ -->
-    <feat name="AnimacyAnim" value="Yes" upos="PRON">1</feat><!-- ഞാൻ -->
     <feat name="Aspect" value="Imp" upos="VERB">2</feat><!-- കളിക്കുകയാൺ, പെയ്യുകയാണ് -->
     <feat name="Aspect" value="Prog" upos="VERB">1</feat><!-- ചീകിക്കൊണ്ടിരിക്കണം -->
     <feat name="Case" value="Acc" upos="NOUN,PROPN">23</feat><!-- കാർ, രാജ്യം, ആലിംഗനം, ഐസ്ക്രിം, കത്ത്, ജനൽ, നിറം, പുകവലി, പുസ്തകങ്ങൾ, ബൈക്ക് -->
