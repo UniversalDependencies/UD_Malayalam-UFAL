@@ -1,5 +1,6 @@
-# newdoc_id = 1
-# sent_id = 00001
+# newdoc id = cairo
+# newpar id = cairo01
+# sent_id = cairo01
 # text = പെൺകുട്ടി തന്റെ സുഹൃത്തിന് കത്തെഴുതി.
 # translit = pĕṇkuṭṭi tanṟĕ suhṛttin kattĕḻuti.
 # text_en = The girl wrote a letter to her friend.
@@ -11,8 +12,8 @@
 5	എഴുതി	എഴുതുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=ĕḻuti
 6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00002
+# newpar id = cairo02
+# sent_id = cairo02
 # text = മഴ പെയ്യുകയാണെന്ന് ഞാൻ കരുതുന്നു.
 # translit = maḻa pĕyyukayāṇĕnn ñān karutunnu.
 # text_en = I think that it is raining.
@@ -24,10 +25,11 @@
 5	കരുതുന്നു	കരുതുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=karutunnu|SpaceAfter=No
 6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00003
-# text = അവൻ പുകവലിയും മദ്യപാനവും നിർത്താൻ ശ്രമിച്ചു.
+# newpar id = cairo03
+# sent_id = cairo03
+# text = അവൻ പുകവലിയും മദ്യപാനവും നിർത്താൻശ്രമിച്ചു.
 # translit = avan pukavaliyuṃ madyapānavuṃ nirttān śramiccu.
+# text_en = He tried to quit smoking and drinking.
 1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Translit=avan
 2-3	പുകവലിയും	_	_	_	_	_	_	_	_
 2	പുകവലി	പുകവലി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	Translit=pukavali
@@ -39,18 +41,19 @@
 7	ശ്രമിച്ചു	ശ്രമിക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=śramiccu|SpaceAfter=No
 8	.	.	PUNCT	-	PunctType=Peri	7	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00004
-# text = നിനക്ക് പോകണമോ ?
+# newpar id = cairo04
+# sent_id = cairo04
+# text = നിനക്ക് പോകണമോ ?
 # translit = ninakk pokaṇamō ?
+# text_en = Do you want to go?
 1	നിനക്ക്	നീ	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Translit=ninakk
 2-3	പോകണമോ	_	_	_	_	_	_	_	_
 2	പോകണം	പോകുക	VERB	-	Mood=Des|VerbForm=Fin|Voice=Act	0	root	_	Translit=pokaṇam
 3	ഓ	ഓ	PART	_	_	2	mark	_	Translit=ō
 4	?	?	PUNCT	-	PunctType=Qest	2	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00005
+# newpar id = cairo05
+# sent_id = cairo05
 # text = സാം, ജനൽ തുറക്കൂ!
 # translit = sāṃ, janal tuṟakkū!
 # text_en = sam, open the window!
@@ -60,8 +63,8 @@
 4	തുറക്കൂ	തുറക്കുക	VERB	_	Mood=Imp|Polarity=Pos|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=tuṟakkū|SpaceAfter=No
 5	!	!	PUNCT	_	PunctType=Excl	4	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00006
+# newpar id = cairo06
+# sent_id = cairo06
 # text = അവൾ ഭർത്താവിനെ കൊണ്ട് കാർ കഴികിച്ചു.
 # translit = aval̤ bharttāvinĕ kŏṇṭ kār kaḻikiccu.
 # text_en = she made her husband wash the car.
@@ -72,8 +75,8 @@
 5	കഴികിച്ചു	കഴുകുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	Translit=kaḻikiccu|SpaceAfter=No
 6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00007
+# newpar id = cairo07
+# sent_id = cairo07
 # text = പീറ്ററിന്റെ അയൽക്കാരൻ വേലിക്ക് ചുവപ്പ് നിറം അടിച്ചു.
 # translit = pīṟṟaṟinṟĕ ayalkkāran velikk cuvapp niṟaṃ aṭiccu.
 # text_en = Peter's neighbour painted the fence red.
@@ -85,8 +88,8 @@
 6	അടിച്ചു	അടിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=aṭiccu|SpaceAfter=No
 7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00008
+# newpar id = cairo08
+# sent_id = cairo08
 # text = നിന്റെ അച്ഛനേക്കാൾ എന്റെ അച്ഛൻ വളരെ ശാന്തനാണ്.
 # translit = ninṟĕ acchanekkāl̤ ĕnṟĕ acchan val̤arĕ śāntanāṇ.
 # text_en = My father is much calmer than your father.
@@ -100,9 +103,9 @@
 7	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	Translit=āṇ
 8	.	.	PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00009
-# text = മേരി വെങ്കലവും പീറ്റർ വെള്ളിയും ജെയിൻ സ്വർണവും നേടി.
+# newpar id = cairo09
+# sent_id = cairo09
+# text = മേരിവെങ്കലവും പീറ്റർവെള്ളിയും ജെയിൻ സ്വർണവും നേടി.
 # translit = meri vĕṅkalavuṃ pīṟṟar vĕl̤l̤iyuṃ jĕyin svarṇavuṃ neṭi.
 # text_en = Mary won bronze, Peter silver and Jane gold.
 1	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3	10	nsubj	_	Translit=meri
@@ -120,8 +123,8 @@
 10	നേടി	നെടുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=neṭi|SpaceAfter=No
 11	.	.	PUNCT	_	PunctType=Peri	10	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00010
+# newpar id = cairo10
+# sent_id = cairo10
 # text = ഇഗ്വാസു ഒരു വലിയ രാജ്യമാണോ ചെറിയ രാജ്യമാണോ?
 # translit = igvāsu ŏru valiya rājyamāṇo cĕṟiya rājyamāṇo?
 # text_en = Is Iguazu a big country or a small country?
@@ -139,9 +142,9 @@
 10	ഓ	ഓ	PART	_	_	9	mark	_	Translit=ō
 11	?	?	PUNCT	_	PunctType=Qest	4	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00011
-# text = പീറ്റർ സ്മിത്തിനെയോ മേരി ബ്രൗണിനെയോ തിരഞ്ഞെടുക്കാനായില്ല.
+# newpar id = cairo11
+# sent_id = cairo11
+# text = പീറ്റർ സ്മിത്തിനെയോമേരിബ്രൗണിനെയോ തിരഞ്ഞെടുക്കാനായില്ല.
 # translit = pīṟṟar smittinĕyo meri brauṇinĕyo tiraññĕṭukkānāyilla.
 1	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	8	nsubj	_	Translit=pīṟṟar
 2-3	സ്മിത്തിനെയോ	_	_	_	_	_	_	_	_
@@ -156,9 +159,9 @@
 8	ആയില്ല	ആക്	AUX	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=āyilla
 9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00012
-# text = ആരാണ് എഴുതിയതെന്ന് അവർക്ക് അറിയില്ല.
+# newpar id = cairo12
+# sent_id = cairo12
+# text = ആരാണ്എഴുതിയതെന്ന് അവർക്ക്അറിയില്ല.
 # translit = ārāṇ ĕḻutiyatĕnn avarkk aṟiyilla.
 # text_en = They don't know who wrote it.
 1-2	ആരാണ്	_	_	_	_	_	_	_	_
@@ -171,8 +174,8 @@
 6	അറിയില്ല	അരിയുക	VERB	_	Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=aṟiyilla|SpaceAfter=No
 7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00013
+# newpar id = cairo13
+# sent_id = cairo13
 # text = നിങ്ങള് എന്താണ് നോക്കുന്നത് ?
 # translit = niṅṅal̤ ĕntāṇ nokkunnat ?
 # text_en = what are you looking at?
@@ -183,9 +186,9 @@
 4	നോക്കുന്നത്	നോക്കുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=nokkunnat
 5	?	?	PUNCT	_	PunctType=Qest	4	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00014
-# text = നിങ്ങൾക്ക് എപ്പോൾ വരാൻ കഴിയുമെന്ന് നിങ്ങൾ കരുതുന്നു?
+# newpar id = cairo14
+# sent_id = cairo14
+# text = നിങ്ങൾക്ക് എപ്പോൾ വരാൻകഴിയുമെന്ന് നിങ്ങൾ കരുതുന്നു?
 # translit = niṅṅal̤kk ĕppol̤ varān kaḻiyumĕnn niṅṅal̤ karutunnu?
 # text_en = When do you think you can come?
 1	നിങ്ങൾക്ക്	നിങ്ങൾ	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=2|PronType=Prs	4	obl	_	Translit=niṅṅal̤kk
@@ -198,8 +201,8 @@
 7	കരുതുന്നു	കരുതുന്നു	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=karutunnu|SpaceAfter=No
 8	?	?	PUNCT	_	PunctType=Qest	7	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00015
+# newpar id = cairo15
+# sent_id = cairo15
 # text = അവൻ ഒരു കാർ വാങ്ങി, പക്ഷേ അവന്റെ സഹോദരൻ ഒരു ബൈക്ക് മാത്രം വാങ്ങി.
 # translit = avan ŏru kār vāṅṅi, pakṣe avanṟĕ sahodaran ŏru baikk mātraṃ vāṅṅi.
 # text_en = He bought a car but his brother only bought a bike.
@@ -217,8 +220,8 @@
 12	വാങ്ങി	വാങ്ങുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	SpaceAfter=No|Translit=vāṅṅi
 13	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00016
+# newpar id = cairo16
+# sent_id = cairo16
 # text = പീറ്ററും മേരിയും പരസ്പരം ആലിംഗനം ചെയ്ത ശേഷം മുറി വിട്ടു.
 # translit = pīṟṟaṟuṃ meriyuṃ parasparaṃ āliṃganaṃ cĕyta śeṣaṃ muṟi viṭṭu.
 # text_en = Peter and Mary hugged each other and left the room.
@@ -236,9 +239,9 @@
 10	വിട്ടു	വിടുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=viṭṭu|SpaceAfter=No
 11	.	.	PUNCT	_	PunctType=Peri	10	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00017
-# text = അവൾ അവളുടെ മുടി ചീകിക്കൊണ്ടിരിക്കണമായിരുന്നു, പക്ഷേ ചില കാരണങ്ങളാൽ അവൾ അന്ന് ചെയ്തില്ല.
+# newpar id = cairo17
+# sent_id = cairo17
+# text = അവൾ അവളുടെ മുടി ചീകിക്കൊണ്ടിരിക്കണമായിരുന്നു, പക്ഷേ ചില കാരണങ്ങളാൽ അവൾ അന്ന്ചെയ്തില്ല.
 # translit = aval̤ aval̤uṭĕ muṭi cīkikkŏṇṭirikkaṇamāyirunnu, pakṣe cila kāraṇaṅṅal̤āl aval̤ ann cĕytilla.
 # text_en = She should have been combing her hair, but for some reason she didn't that day.
 1	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=aval̤
@@ -256,9 +259,9 @@
 12	ചെയ്തില്ല	ചെയ്യുക	VERB	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=cĕytilla|SpaceAfter=No
 13	.	.	PUNCT	_	PunctType=Peri	12	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00018
-# text = അവൻ വളരെ വേഗത്തിൽ ഓടിയതിനാൽ എനിക്ക് പിടിച്ചുനിൽക്കാൻ കഴിഞ്ഞില്ല.
+# newpar id = cairo18
+# sent_id = cairo18
+# text = അവൻ വളരെ വേഗത്തിൽഓടിയതിനാൽ എനിക്ക്പിടിച്ചുനിൽക്കാൻ കഴിഞ്ഞില്ല.
 # translit = avan val̤arĕ vegattil oṭiyatināl ĕnikk piṭiccunilkkān kaḻiññilla
 1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl:arg	_	Translit=avan
 2	വളരെ	വളരെ	ADV	_	_	3	advmod	_	Translit=val̤arĕ
@@ -269,8 +272,8 @@
 7	കഴിഞ്ഞില്ല	കഴിയുക	AUX	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=kaḻiññilla|SpaceAfter=No
 8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00019
+# newpar id = cairo19
+# sent_id = cairo19
 # text = ഈ കത്ത് പീറ്ററിന്റേതാണ്, അത് ഇന്നലെ കൈമാറി.
 # translit = ī katt pīṟṟaṟinṟetāṇ, at innalĕ kaimāṟi
 # text_en = This letter is from Peter and was delivered yesterday.
@@ -285,9 +288,9 @@
 8	കൈമാറി	കൈമാറി	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	Translit=kaimāṟi|SpaceAfter=No
 9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00020
-# text = ഫ്രാൻസിന്റെ തലസ്ഥാനമായ പാരീസിലാണ് അവൾ വളർന്നത്.
+# newpar id = cairo20
+# sent_id = cairo20
+# text = ഫ്രാൻസിന്റെ തലസ്ഥാനമായ പാരീസിലാണ് അവൾ വളർന്നത് .
 # translit = phrānsinṟĕ talasthānamāya pārīsilāṇ aval̤ val̤arnnat.
 # text_en = She grew up in Paris, the capital of France.
 1	ഫ്രാൻസിന്റെ	ഫ്രാൻസ്	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	translit = phrānsinṟĕ
@@ -299,11 +302,12 @@
 6	വളർന്നത്	വളരുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=val̤arnnat|SpaceAfter=No
 7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00021
+# newdoc id = grammar
+# newpar id = gex01
+# sent_id = gex01
 # text = നിങ്ങൾ ഒരു വിദ്യാർത്ഥിയാണോ?
-# text_en = Are you a student?
 # translit = niṅṅal̤ ŏru vidyārtthiyāṇo?
+# text_en = Are you a student?
 1	നിങ്ങൾ	നിങ്ങൾ	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Translit=niṅṅal̤
 2	ഒരു	ഒരു	DET	_	_	3	det	_	Translit=ŏru
 3-4	വിദ്യാർത്ഥിയാണോ	_	_	_	_	_	_	_	SpaceAfter=No
@@ -311,8 +315,8 @@
 4	ആണോ	ആക്	AUX	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	Translit=āṇo
 5	?	?	PUNCT	_	PunctType=Qest	3	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00022
+# newpar id = gex02
+# sent_id = gex02
 # text = ഞാൻ ഓടുന്നു.
 # translit = ñān oṭunnu.
 # text_en = I am running.
@@ -320,8 +324,8 @@
 2	ഓടുന്നു	ഓടുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=oṭunnu|SpaceAfter=No
 3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00023
+# newpar id = gex03
+# sent_id = gex03
 # text = അവൾ വായിക്കുന്നു.
 # translit = aval̤ vāyikkunnu.
 # text_en = She is reading
@@ -329,8 +333,8 @@
 2	വായിക്കുന്നു	വായിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=vāyikkunnu|SpaceAfter=No
 3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00024
+# newpar id = gex04
+# sent_id = gex04
 # text = അവർ കളിക്കുകയാൺ.
 # translit = avar kal̤ikkukayāṇ.
 # text_en = They are playing.
@@ -338,8 +342,8 @@
 2	കളിക്കുകയാൺ	കളിക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=kal̤ikkukayāṇ|SpaceAfter=No
 3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00025
+# newpar id = gex05
+# sent_id = gex05
 # text = നിനക്ക് ഐസ്ക്രിം ഇഷ്ടമാണോ?
 # translit = ninakk aiskriṃ iṣṭamāṇo?
 # text_en = Do you like ice cream?
@@ -350,9 +354,9 @@
 4	ആണോ	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Translit=āṇo
 5	?	?	PUNCT	_	PunctType=Peri	3	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00026
-# text = നിങ്ങൾക്ക് മലയാളം അറിയാമോ?
+# newpar id = gex06
+# sent_id = gex06
+# text = നിങ്ങൾക്ക് മലയാളം അറിയാമോ ?
 # translit = niṅṅal̤kk malayāl̤aṃ aṟiyāmo?
 # text_en = Do you know Malayalam?
 1	നിങ്ങൾക്ക്	നിങ്ങൾ	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Translit=niṅṅal̤kk
@@ -362,8 +366,8 @@
 4	ഓ	ഓ	PART	_	_	3	mark	_	Translit=ō
 5	?	?	PUNCT	_	PunctType=Qest	3	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00027
+# newpar id = gex07
+# sent_id = gex07
 # text = അവ എൻറെ പുസ്തകങ്ങളാൺ.
 # translit = ava ĕnṟĕ pustakaṅṅal̤āṇ.
 # text_en = Those are my books.
@@ -374,8 +378,8 @@
 4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Translit=āṇ
 5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00028
+# newpar id = gex08
+# sent_id = gex08
 # text = ഇത് എൻറേതല്ല!
 # translit = it ĕnṟetalla!
 # text_en = This is not mine!
@@ -385,8 +389,8 @@
 3	അല്ല	അല്ല	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	Translit=alla
 4	!	!	PUNCT	_	PunctType=Excl	2	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00029
+# newpar id = gex09
+# sent_id = gex09
 # text = അതാൺ എൻറെ വീട്.
 # translit = atāṇ ĕnṟĕ vīṭ.
 # text_en = That is my house.
@@ -397,8 +401,8 @@
 4	വീട്	വീട്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=vīṭ|SpaceAfter=No
 5	.	.	PUNCT	_	PunctType=Qest	4	punct	_	SpaceAfter=No
 
-# newdoc_id = 1
-# sent_id = 00030
+# newpar id = gex10
+# sent_id = gex10
 # text = ഇന്ന് നീ എന്താൺ ചെയ്യുന്നത്?
 # translit = inn nī ĕntāṇ cĕyyunnat?
 # text_en = What are you doing today?
