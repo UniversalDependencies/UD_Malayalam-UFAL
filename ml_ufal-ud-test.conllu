@@ -4,12 +4,12 @@
 # text = പെൺകുട്ടി തന്റെ സുഹൃത്തിന് കത്തെഴുതി.
 # translit = pĕṇkuṭṭi tanṟĕ suhṛttin kattĕḻuti.
 # text_en = The girl wrote a letter to her friend.
-1	പെൺകുട്ടി	പെൺകുട്ടി	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Translit = pĕṇkuṭṭi
-2	തന്റെ	താൻ	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod:poss	_	Translit = tanṟĕ
-3	സുഹൃത്തിന്	സുഹൃത്ത്	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	5	obl	_	Translit = suhṛttin
+1	പെൺകുട്ടി	പെൺകുട്ടി	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Translit=pĕṇkuṭṭi
+2	തന്റെ	താൻ	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod:poss	_	Translit=tanṟĕ
+3	സുഹൃത്തിന്	സുഹൃത്ത്	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	5	obl	_	Translit=suhṛttin
 4-5	കത്തെഴുതി	_	_	_	_	_	_	_	SpaceAfter=No
-4	കത്ത്	കത്ത്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit= katt
-5	എഴുതി	എഴുതുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit = ĕḻuti
+4	കത്ത്	കത്ത്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=katt
+5	എഴുതി	എഴുതുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=ĕḻuti
 6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	SpaceAfter=No
 
 # newdoc id = _id = 1
@@ -17,12 +17,12 @@
 # text = മഴ പെയ്യുകയാണെന്ന് ഞാൻ കരുതുന്നു.
 # translit = maḻa pĕyyukayāṇĕnn ñān karutunnu.
 # text_en = I think that it is raining.
-1	മഴ	മഴ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	_	Translit = maḻa
+1	മഴ	മഴ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	_	Translit=maḻa
 2-3	പെയ്യുകയാണെന്ന്	_	_	_	_	_	_	_	_
-2	പെയ്യുകയാണ്	പെയ്യുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	Translit= pĕyyukayāṇ
-3	എന്ന്	എന്ന്	PART	_	_	2	mark	_	Translit= ĕnn
+2	പെയ്യുകയാണ്	പെയ്യുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	Translit=pĕyyukayāṇ
+3	എന്ന്	എന്ന്	PART	_	_	2	mark	_	Translit=ĕnn
 4	ഞാൻ	ഞാൻ	PRON	_	AnimacyAnim=Yes|Case=Nom|Number=Sing|Person=1	5	nsubj	_	Translit=ñān
-5	കരുതുന്നു	കരുതുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit= karutunnu|SpaceAfter=No
+5	കരുതുന്നു	കരുതുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=karutunnu|SpaceAfter=No
 6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	SpaceAfter=No
 
 # newdoc id = _id = 1
@@ -31,15 +31,15 @@
 # text = അവൻ പുകവലിയും മദ്യപാനവും നിർത്താൻശ്രമിച്ചു.
 # translit = avan pukavaliyuṃ madyapānavuṃ nirttān śramiccu.
 # text_en = He tried to quit smoking and drinking.
-1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Translit = avan
+1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Translit=avan
 2-3	പുകവലിയും	_	_	_	_	_	_	_	_
-2	പുകവലി	പുകവലി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	Translit = pukavali
+2	പുകവലി	പുകവലി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	Translit=pukavali
 3	ഉം	ഉം	PART	_	_	2	cc	_	Translit=uṃ
 4-5	മദ്യപാനവും	_	_	_	_	_	_	_	_
-4	മദ്യപാനം	മദ്യപാനം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	conj	_	Translit = madyapānaṃ
-5	ഉം	ഉം	PART	_	_	4	cc	_	Translit = uṃ
-6	നിർത്താൻ	നിർത്ത്	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	7	xcomp	_	Translit = nirttān|SpaceAfter=No
-7	ശ്രമിച്ചു	ശ്രമിക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit = śramiccu|SpaceAfter=No
+4	മദ്യപാനം	മദ്യപാനം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	conj	_	Translit=madyapānaṃ
+5	ഉം	ഉം	PART	_	_	4	cc	_	Translit=uṃ
+6	നിർത്താൻ	നിർത്ത്	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	7	xcomp	_	Translit=nirttān|SpaceAfter=No
+7	ശ്രമിച്ചു	ശ്രമിക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=śramiccu|SpaceAfter=No
 8	.	.	PUNCT	-	PunctType=Peri	7	punct	_	SpaceAfter=No
 
 # newdoc id = _id = 1
@@ -57,10 +57,10 @@
 # text = സാം, ജനൽ തുറക്കൂ!
 # translit = sāṃ, janal tuṟakkū!
 # text_en = sam, open the window!
-1	സാം	സാം	PROPN	_	Animacy=Anim|Case=Nom|Person=2	4	nsubj	_	Translit = sāṃ|SpaceAfter=No
+1	സാം	സാം	PROPN	_	Animacy=Anim|Case=Nom|Person=2	4	nsubj	_	Translit=sāṃ|SpaceAfter=No
 2	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
-3	ജനൽ	ജനൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit= janal
-4	തുറക്കൂ	തുറക്കുക	VERB	_	Mood=Imp|Polarity=Pos|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit= tuṟakkū|SpaceAfter=No
+3	ജനൽ	ജനൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit=janal
+4	തുറക്കൂ	തുറക്കുക	VERB	_	Mood=Imp|Polarity=Pos|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=tuṟakkū|SpaceAfter=No
 5	!	!	PUNCT	_	PunctType=Excl	4	punct	_	SpaceAfter=No
 
 # newdoc id = _id = 1
@@ -68,11 +68,11 @@
 # text = അവൾ ഭർത്താവിനെ കൊണ്ട് കാർ കഴികിച്ചു.
 # translit = aval̤ bharttāvinĕ kŏṇṭ kār kaḻikiccu.
 # text_en = she made her husband wash the car.
-1	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit= aval̤
-2	ഭർത്താവിനെ	ഭർത്താവ്	NOUN	_	Animacy=Anim|Case=Ins|Number=Sing	5	obl	_	Translit= bharttāvinĕ
-3	കൊണ്ട്	കൊണ്ട്	ADP	_	_	2	case	_	Translit= kŏṇṭ
-4	കാർ	കാർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit= kār
-5	കഴികിച്ചു	കഴുകുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	Translit= kaḻikiccu|SpaceAfter=No
+1	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=aval̤
+2	ഭർത്താവിനെ	ഭർത്താവ്	NOUN	_	Animacy=Anim|Case=Ins|Number=Sing	5	obl	_	Translit=bharttāvinĕ
+3	കൊണ്ട്	കൊണ്ട്	ADP	_	_	2	case	_	Translit=kŏṇṭ
+4	കാർ	കാർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=kār
+5	കഴികിച്ചു	കഴുകുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	Translit=kaḻikiccu|SpaceAfter=No
 6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	SpaceAfter=No
 
 # newdoc id = _id = 1
@@ -82,7 +82,7 @@
 # text_en = Peter's neighbour painted the fence red.
 1	പീറ്ററിന്റെ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Gen	2	nmod:poss	_	Translit=pīṟṟaṟinṟĕ
 2	അയൽക്കാരൻ	അയൽക്കാരൻ	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	6	nsubj	_	Translit=ayalkkāran
-3	വേലിക്ക്	വേലി	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	6	iobj	_	Translit= velikk
+3	വേലിക്ക്	വേലി	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	6	iobj	_	Translit=velikk
 4	ചുവപ്പ്	ചുവപ്പ്	ADJ	_	_	5	amod	_	Translit=cuvapp
 5	നിറം	നിറം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	Translit=niṟaṃ
 6	അടിച്ചു	അടിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=aṭiccu|SpaceAfter=No
@@ -111,15 +111,15 @@
 1	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3	10	nsubj	_	Translit=meri|SpaceAfter=No
 2-3	വെങ്കലവും	_	_	_	_	_	_	_	_
 2	വെങ്കലം	വെങ്കലം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	Translit=vĕṅkalaṃ
-3	ഉം	ഉം	PART	_	_	2	cc	_	Translit = uṃ
+3	ഉം	ഉം	PART	_	_	2	cc	_	Translit=uṃ
 4	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3	5	orphan	_	Translit=pīṟṟar|SpaceAfter=No
 5-6	വെള്ളിയും	_	_	_	_	_	_	_	_
 5	വെള്ളി	വെള്ളി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	conj	_	Translit=vĕl̤l̤iyuṃ
-6	ഉം	ഉം	PART	_	_	5	cc	_	Translit = uṃ
+6	ഉം	ഉം	PART	_	_	5	cc	_	Translit=uṃ
 7	ജെയിൻ	ജെയിൻ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3	8	orphan	_	Translit=jĕyin
 8-9	സ്വർണവും	_	_	_	_	_	_	_	_
 8	സ്വർണം	സ്വർണം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	conj	_	Translit=svarṇavuṃ
-9	ഉം	ഉം	PART	_	_	8	cc	_	Translit = uṃ
+9	ഉം	ഉം	PART	_	_	8	cc	_	Translit=uṃ
 10	നേടി	നെടുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=neṭi|SpaceAfter=No
 11	.	.	PUNCT	_	PunctType=Peri	10	punct	_	SpaceAfter=No
 
@@ -132,12 +132,12 @@
 2	ഒരു	ഒരു	DET	_	_	4	nmod	_	Translit=ŏru
 3	വലിയ	വലിയ	ADJ	_	_	4	amod	_	Translit=valiya
 4-5	രാജ്യമാണോ	_	_	_	_	_	_	_	_
-4	രാജ്യം	രാജ്യം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit= rājyam
-5	ആണോ	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Translit= āṇo
+4	രാജ്യം	രാജ്യം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=rājyam
+5	ആണോ	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Translit=āṇo
 6	ചെറിയ	ചെറിയ	ADJ	_	_	7	amod	_	Translit=cĕṟiya
 7-8	രാജ്യമാണോ	_	_	_	_	_	_	_	SpaceAfter=No
-7	രാജ്യം	രാജ്യം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	conj	_	Translit= rājyam
-8	ആണോ	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	Translit= āṇo
+7	രാജ്യം	രാജ്യം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	conj	_	Translit=rājyam
+8	ആണോ	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	Translit=āṇo
 9	?	?	PUNCT	_	PunctType=Qest	4	punct	_	SpaceAfter=No
 
 # newdoc id = _id = 1
@@ -167,7 +167,7 @@
 2	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Translit=āṇ
 3-4	എഴുതിയതെന്ന്	_	_	_	_	_	_	_	_
 3	എഴുതിയത്	എഴുതുക	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp	_	Translit=ĕḻutiyatĕnn
-4	എന്ന്	എന്ന്	PART	_	_	3	mark	_	Translit= ĕnn
+4	എന്ന്	എന്ന്	PART	_	_	3	mark	_	Translit=ĕnn
 5	അവർക്ക്	അവർ	PRON	_	Animacy=Anim|Case=Dat|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	Translit=avarkk|SpaceAfter=No
 6	അറിയില്ല	അരിയുക	VERB	_	Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=aṟiyilla|SpaceAfter=No
 7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
@@ -194,9 +194,9 @@
 3	വരാൻ	വരുക	VERB	_	VerbForm=Inf	4	xcomp	_	Translit=varān|SpaceAfter=No
 4-5	കഴിയുമെന്ന്	_	_	_	_	_	_	_	_
 4	കഴിയും	കഴിയുക	AUX	_	Tense=Fut|VerbForm=Fin	7	ccomp	_	Translit=kaḻiyum
-5	എന്ന്	എന്ന്	PART	_	_	4	mark	_	Translit= ĕnn
-6	നിങ്ങൾ	നിങ്ങൾ	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Translit= niṅṅal̤
-7	കരുതുന്നു	കരുതുന്നു	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit= karutunnu|SpaceAfter=No
+5	എന്ന്	എന്ന്	PART	_	_	4	mark	_	Translit=ĕnn
+6	നിങ്ങൾ	നിങ്ങൾ	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Translit=niṅṅal̤
+7	കരുതുന്നു	കരുതുന്നു	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=karutunnu|SpaceAfter=No
 8	?	?	PUNCT	_	PunctType=Qest	7	punct	_	SpaceAfter=No
 
 # newdoc id = _id = 1
@@ -225,10 +225,10 @@
 # text_en = Peter and Mary hugged each other and left the room.
 1-2	പീറ്ററും	_	_	_	_	_	_	_	_
 1	പീറ്റർ	പീറ്റർ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	nsubj	_	Translit=pīṟṟaṟ
-2	ഉം	ഉം	PART	_	_	1	mark	_	Translit = uṃ
+2	ഉം	ഉം	PART	_	_	1	mark	_	Translit=uṃ
 3-4	മേരിയും	_	_	_	_	_	_	_	_
 3	മേരി	മേരി	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	conj	_	Translit=meri
-4	ഉം	ഉം	PART	_	_	3	mark	_	Translit = uṃ
+4	ഉം	ഉം	PART	_	_	3	mark	_	Translit=uṃ
 5	പരസ്പരം	പരസ്പരം	ADV	_	_	7	advmod	_	Translit=parasparaṃ
 6	ആലിംഗനം	ആലിംഗനം	NOUN	_	Case=Acc|Number=Sing|Person=3	7	obj	_	Translit=āliṃganaṃ
 7	ചെയ്ത	ചെയ്യുക	VERB	_	VerbForm=Part	10	advcl	_	Translit=cĕyta
@@ -242,32 +242,32 @@
 # text = അവൾ അവളുടെ മുടി ചീകിക്കൊണ്ടിരിക്കണമായിരുന്നു, പക്ഷേ ചില കാരണങ്ങളാൽ അവൾ അന്ന്ചെയ്തില്ല.
 # translit = aval̤ aval̤uṭĕ muṭi cīkikkŏṇṭirikkaṇamāyirunnu, pakṣe cila kāraṇaṅṅal̤āl aval̤ ann cĕytilla.
 # text_en = She should have been combing her hair, but for some reason she didn't that day.
-1	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit= aval̤
-2	അവളുടെ	അവൾ	PRON	_	Animacy=Anim|Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod	_	Translit= aval̤uṭĕ
-3	മുടി	മുടി	NOUN	_	Animacy=Inan|Case=Acc|Person=3	4	obj	_	Translit= muṭi
+1	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=aval̤
+2	അവളുടെ	അവൾ	PRON	_	Animacy=Anim|Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod	_	Translit=aval̤uṭĕ
+3	മുടി	മുടി	NOUN	_	Animacy=Inan|Case=Acc|Person=3	4	obj	_	Translit=muṭi
 4-5	ചീകിക്കൊണ്ടിരിക്കണമായിരുന്നു	_	_	_	_	_	_	_	SpaceAfter=No
-4	ചീകിക്കൊണ്ടിരിക്കണം	ചീകുക	VERB	_	Aspect=Prog|Mood=Nec|VerbForm=Fin	12	advcl	_	Translit= cīkikkŏṇṭirikkaṇam
-5	ആയിരുന്നു	ആക്	AUX	_	Polarity=Pos|Tense=Past|Voice=Act	4	aux	_	Translit= āyirunnu
+4	ചീകിക്കൊണ്ടിരിക്കണം	ചീകുക	VERB	_	Aspect=Prog|Mood=Nec|VerbForm=Fin	12	advcl	_	Translit=cīkikkŏṇṭirikkaṇam
+5	ആയിരുന്നു	ആക്	AUX	_	Polarity=Pos|Tense=Past|Voice=Act	4	aux	_	Translit=āyirunnu
 6	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
-7	പക്ഷേ	പക്ഷേ	CCONJ	_	_	12	cc	_	Translit= pakṣe
-8	ചില	ചില	ADJ	_	_	9	amod	_	Translit= cila
-9	കാരണങ്ങളാൽ	കാരണം	NOUN	_	Animacy=Inan|Case=Ins|Number=Plur	12	obl	_	Translit= kāraṇaṅṅal̤āl
+7	പക്ഷേ	പക്ഷേ	CCONJ	_	_	12	cc	_	Translit=pakṣe
+8	ചില	ചില	ADJ	_	_	9	amod	_	Translit=cila
+9	കാരണങ്ങളാൽ	കാരണം	NOUN	_	Animacy=Inan|Case=Ins|Number=Plur	12	obl	_	Translit=kāraṇaṅṅal̤āl
 10	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=aval̤
-11	അന്ന്	അന്ന്	ADV	_	_	12	advmod	_	Translit= ann|SpaceAfter=No
-12	ചെയ്തില്ല	ചെയ്യുക	VERB	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit= cĕytilla|SpaceAfter=No
+11	അന്ന്	അന്ന്	ADV	_	_	12	advmod	_	Translit=ann|SpaceAfter=No
+12	ചെയ്തില്ല	ചെയ്യുക	VERB	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=cĕytilla|SpaceAfter=No
 13	.	.	PUNCT	_	PunctType=Peri	12	punct	_	SpaceAfter=No
 
 # newdoc id = _id = 1
 # sent_id = 00018
 # text = അവൻ വളരെ വേഗത്തിൽഓടിയതിനാൽ എനിക്ക്പിടിച്ചുനിൽക്കാൻ കഴിഞ്ഞില്ല.
 # translit = avan val̤arĕ vegattil oṭiyatināl ĕnikk piṭiccunilkkān kaḻiññilla
-1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit= avan
-2	വളരെ	വളരെ	ADV	_	_	3	advmod	_	Translit= val̤arĕ
-3	വേഗത്തിൽ	വെഗം	ADV	_	_	4	advmod	_	Translit= vegattil|SpaceAfter=No
-4	ഓടിയതിനാൽ	ഓടുക	VERB	_	Case=Ins|Tense=Past	7	advcl	_	Translit= oṭiyatināl
-5	എനിക്ക്	ഞാൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Translit= ĕnikk|SpaceAfter=No
-6	പിടിച്ചുനിൽക്കാൻ	പിടിച്ചുനിൽക്കുക	VERB	_	VerbForm=Inf	7	xcomp	_	Translit= piṭiccunilkkān
-7	കഴിഞ്ഞില്ല	കഴിയുക	AUX	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit= kaḻiññilla|SpaceAfter=No
+1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=avan
+2	വളരെ	വളരെ	ADV	_	_	3	advmod	_	Translit=val̤arĕ
+3	വേഗത്തിൽ	വെഗം	ADV	_	_	4	advmod	_	Translit=vegattil|SpaceAfter=No
+4	ഓടിയതിനാൽ	ഓടുക	VERB	_	Case=Ins|Tense=Past	7	advcl	_	Translit=oṭiyatināl
+5	എനിക്ക്	ഞാൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Translit=ĕnikk|SpaceAfter=No
+6	പിടിച്ചുനിൽക്കാൻ	പിടിച്ചുനിൽക്കുക	VERB	_	VerbForm=Inf	7	xcomp	_	Translit=piṭiccunilkkān
+7	കഴിഞ്ഞില്ല	കഴിയുക	AUX	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=kaḻiññilla|SpaceAfter=No
 8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	SpaceAfter=No
 
 # newdoc id = _id = 1
@@ -275,14 +275,14 @@
 # text = ഈ കത്ത് പീറ്ററിന്റേതാണ്, അത് ഇന്നലെ കൈമാറി.
 # translit = ī katt pīṟṟaṟinṟetāṇ, at innalĕ kaimāṟi
 # text_en = This letter is from Peter and was delivered yesterday.
-1	ഈ	ഈ	PRON	_	Deixis=Prox|PronType=Dem	2	nmod	_	Translit= ī
-2	കത്ത്	കത്ത്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit= katt
+1	ഈ	ഈ	PRON	_	Deixis=Prox|PronType=Dem	2	nmod	_	Translit=ī
+2	കത്ത്	കത്ത്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=katt
 3-4	പീറ്ററിന്റേതാണ്	_	_	_	_	_	_	_	SpaceAfter=No
-3	പീറ്ററിന്റേത്	പീറ്ററ്	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	2	nmod:poss	_	Translit= pīṟṟaṟinṟet
-4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit= āṇ
+3	പീറ്ററിന്റേത്	പീറ്ററ്	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	2	nmod:poss	_	Translit=pīṟṟaṟinṟet
+4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=āṇ
 5	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
-6	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Gender=Neut|Number=Sing|Person=3	8	nsubj	_	Translit= at
-7	ഇന്നലെ	ഇന്നലെ	ADV	_	_	8	obl	_	Translit= innalĕ
+6	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Gender=Neut|Number=Sing|Person=3	8	nsubj	_	Translit=at
+7	ഇന്നലെ	ഇന്നലെ	ADV	_	_	8	obl	_	Translit=innalĕ
 8	കൈമാറി	കൈമാറി	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	Translit=kaimāṟi|SpaceAfter=No
 9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	SpaceAfter=No
 
@@ -294,8 +294,8 @@
 1	ഫ്രാൻസിന്റെ	ഫ്രാൻസ്	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	translit = phrānsinṟĕ
 2	തലസ്ഥാനമായ	തലസ്ഥാനം	ADJ	_	_	3	amod	_	translit = talasthānamāya
 3-4	പാരീസിലാണ്	_	_	_	_	_	_	_	_
-3	പാരീസിൽ	പാരീസ്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	6	obl	_	Translit= pārīsil
-4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	Translit= āṇ
+3	പാരീസിൽ	പാരീസ്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	6	obl	_	Translit=pārīsil
+4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	Translit=āṇ
 5	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Translit=aval̤
 6	വളർന്നത്	വളരുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=val̤arnnat
 7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	SpaceAfter=No
@@ -369,7 +369,7 @@
 1	അവ	അവ	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Plur|Person=3|PronType=Dem	3	det	_	Translit=ava
 2	എൻറെ	ഞാൻ	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=1|PronType=Prs	3	nmod:poss	_	Translit=ĕnṟĕ
 3-4	പുസ്തകങ്ങളാൺ	_	_	_	_	_	_	_	SpaceAfter=No
-3	പുസ്തകങ്ങൾ	പുസ്തകങ്ങൾ	NOUN	_	Animacy=Anim|Case=Acc|Number=Plur	0	root	_	Translit= pustakaṅṅal̤
+3	പുസ്തകങ്ങൾ	പുസ്തകങ്ങൾ	NOUN	_	Animacy=Anim|Case=Acc|Number=Plur	0	root	_	Translit=pustakaṅṅal̤
 4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Translit=āṇ
 5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	SpaceAfter=No
 
