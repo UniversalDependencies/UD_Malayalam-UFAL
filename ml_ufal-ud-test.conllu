@@ -165,7 +165,7 @@
 1	ആര്	ആര്	PRON	_	Animacy=Anim|Case=Nom|Deixis=Prox|Number=Sing|PronType=Int	3	nsubj	_	Translit=ār|LTranslit=ār
 2	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Translit=āṇ|LTranslit=āk
 3-4	എഴുതിയതെന്ന്	_	_	_	_	_	_	_	Translit=eḻutiyatenn
-3	എഴുതിയത്	എഴുതുക	VERB	_	Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp	_	Translit=eḻutiyat|LTranslit=eḻutuka
+3	എഴുതിയത്	എഴുതുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp	_	Translit=eḻutiyat|LTranslit=eḻutuka
 4	എന്ന്	എന്ന്	PART	_	_	3	mark	_	Translit=enn|LTranslit=enn
 5	അവർക്ക്	അവർ	PRON	_	Animacy=Anim|Case=Dat|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	Translit=avaṟkk|LTranslit=avaṟ
 6	അറിയില്ല	അരിയുക	VERB	_	Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=aṟiyilla|LTranslit=ariyuka
