@@ -276,23 +276,23 @@
 # translit = ī katt pīṟṟaṟinṟētāṇ, at innale kaimāṟi.
 # text_en = This letter is from Peter and it was delivered yesterday.
 1	ഈ	ഈ	PRON	_	Deixis=Prox|PronType=Dem	2	nmod	_	Translit=ī|LTranslit=ī
-2	കത്ത്	കത്ത്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=katt|LTranslit=katt
+2	കത്ത്	കത്ത്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=katt|LTranslit=katt
 3-4	പീറ്ററിന്റേതാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=pīṟṟaṟinṟētāṇ
-3	പീറ്ററിന്റേത്	പീറ്ററ്	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	2	nmod:poss	_	Translit=pīṟṟaṟinṟēt|LTranslit=pīṟṟaṟ
-4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=āṇ|LTranslit=āk
+3	പീറ്ററിന്റേത്	പീറ്ററ്	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	0	root	_	Translit=pīṟṟaṟinṟēt|LTranslit=pīṟṟaṟ
+4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Translit=āṇ|LTranslit=āk
 5	,	,	PUNCT	_	PunctType=Comm	8	punct	_	Translit=,|LTranslit=,
 6	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Gender=Neut|Number=Sing|Person=3	8	nsubj	_	Translit=at|LTranslit=at
 7	ഇന്നലെ	ഇന്നലെ	ADV	_	_	8	obl	_	Translit=innale|LTranslit=innale
-8	കൈമാറി	കൈമാറി	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	SpaceAfter=No|Translit=kaimāṟi|LTranslit=kaimāṟi
-9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	Translit=.|LTranslit=.
+8	കൈമാറി	കൈമാറി	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	SpaceAfter=No|Translit=kaimāṟi|LTranslit=kaimāṟi
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo20
 # sent_id = cairo20
 # text = ഫ്രാൻസിന്റെ തലസ്ഥാനമായ പാരീസിലാണ് അവൾ വളർന്നത്.
 # translit = phrānsinṟe talasthānamāya pārīsilāṇ avaḷ vaḷaṟnnat.
 # text_en = She grew up in Paris, the capital of France.
-1	ഫ്രാൻസിന്റെ	ഫ്രാൻസ്	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	translit = phrānsinṟĕ|Translit=phrānsinṟe|LTranslit=phrāns
-2	തലസ്ഥാനമായ	തലസ്ഥാനം	ADJ	_	_	3	amod	_	translit = talasthānamāya|Translit=talasthānamāya|LTranslit=talasthānaṁ
+1	ഫ്രാൻസിന്റെ	ഫ്രാൻസ്	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	_	Translit=phrānsinṟe|LTranslit=phrāns
+2	തലസ്ഥാനമായ	തലസ്ഥാനം	ADJ	_	_	3	amod	_	Translit=talasthānamāya|LTranslit=talasthānaṁ
 3-4	പാരീസിലാണ്	_	_	_	_	_	_	_	Translit=pārīsilāṇ
 3	പാരീസിൽ	പാരീസ്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	6	obl	_	Translit=pārīsil|LTranslit=pārīs
 4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	Translit=āṇ|LTranslit=āk
