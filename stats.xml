@@ -30,7 +30,7 @@
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="45">
-    <feat name="Animacy" value="Anim" upos="NOUN,PRON,PROPN">48</feat><!-- അവൾ, അവൻ, എൻറെ, ഞാൻ, നിങ്ങൾ, നിങ്ങൾക്ക്, നിനക്ക്, പീറ്റർ, മേരി, അച്ഛനേക്കാൾ -->
+    <feat name="Animacy" value="Anim" upos="NOUN,PRON,PROPN">50</feat><!-- അവൾ, അവൻ, പീറ്റർ, മേരി, എൻറെ, ഞാൻ, നിങ്ങൾ, നിങ്ങൾക്ക്, നിനക്ക്, അച്ഛനേക്കാൾ -->
     <feat name="Animacy" value="Inan" upos="NOUN,PRON,PROPN">28</feat><!-- അത്, കത്ത്, കാർ, രാജ്യം, അവ, ഇഗ്വാസു, ഇത്, ഐസ്ക്രിം, കാരണങ്ങളാൽ, ജനൽ -->
     <feat name="Aspect" value="Imp" upos="VERB">2</feat><!-- കളിക്കുകയാൺ, പെയ്യുകയാണ് -->
     <feat name="Aspect" value="Prog" upos="VERB">1</feat><!-- ചീകിക്കൊണ്ടിരിക്കണം -->
@@ -43,8 +43,8 @@
     <feat name="Case" value="Nom" upos="NOUN,PRON,PROPN">36</feat><!-- അവൾ, അവൻ, പീറ്റർ, മേരി, അത്, ഞാൻ, നിങ്ങൾ, അച്ഛൻ, അയൽക്കാരൻ, അവ -->
     <feat name="Deixis" value="Prox" upos="PRON">3</feat><!-- ആര്, ഇത്, ഈ -->
     <feat name="Deixis" value="Remt" upos="PRON">15</feat><!-- അവൾ, അവൻ, അത്, അവ, അവന്റെ, അവളുടെ, അവർ, അവർക്ക് -->
-    <feat name="Gender" value="Fem" upos="NOUN,PRON,PROPN">11</feat><!-- അവൾ, മേരി, അവളുടെ, അവൻ, ജെയിൻ, പെൺകുട്ടി -->
-    <feat name="Gender" value="Masc" upos="NOUN,PRON,PROPN">7</feat><!-- അവൻ, പീറ്റർ, അവന്റെ, എനിക്ക്, സഹോദരൻ -->
+    <feat name="Gender" value="Fem" upos="PRON">7</feat><!-- അവൾ, അവളുടെ, അവൻ -->
+    <feat name="Gender" value="Masc" upos="PRON">4</feat><!-- അവൻ, അവന്റെ, എനിക്ക് -->
     <feat name="Gender" value="Neut" upos="PRON">1</feat><!-- അത് -->
     <feat name="Mood" value="Des" upos="VERB">1</feat><!-- പോകണമോ -->
     <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- തുറക്കൂ -->
@@ -54,8 +54,8 @@
     <feat name="Number" value="Plur" upos="NOUN,PRON">5</feat><!-- അവ, അവർ, അവർക്ക്, കാരണങ്ങളാൽ, പുസ്തകങ്ങൾ -->
     <feat name="Number" value="Sing" upos="NOUN,PRON,PROPN,VERB">74</feat><!-- അവൾ, അവൻ, പീറ്റർ, മേരി, അത്, എൻറെ, കത്ത്, കാർ, ഞാൻ, നിങ്ങൾ -->
     <feat name="Person" value="1" upos="PRON">6</feat><!-- എൻറെ, ഞാൻ, എനിക്ക്, എന്റെ -->
-    <feat name="Person" value="2" upos="PRON,PROPN">10</feat><!-- നിങ്ങൾ, നിങ്ങൾക്ക്, നിനക്ക്, നിങ്ങള്, നിന്റെ, നീ, സാം -->
-    <feat name="Person" value="3" upos="NOUN,PRON,PROPN,VERB">26</feat><!-- അവൾ, അവൻ, അത്, പീറ്റർ, മേരി, അവ, അവന്റെ, അവളുടെ, അവർ, അവർക്ക് -->
+    <feat name="Person" value="2" upos="PRON">9</feat><!-- നിങ്ങൾ, നിങ്ങൾക്ക്, നിനക്ക്, നിങ്ങള്, നിന്റെ, നീ -->
+    <feat name="Person" value="3" upos="PRON,VERB">18</feat><!-- അവൾ, അവൻ, അത്, അവ, അവന്റെ, അവളുടെ, അവർ, അവർക്ക്, ഇത്, എഴുതിയത് -->
     <feat name="Polarity" value="Neg" upos="AUX,VERB">5</feat><!-- അറിയില്ല, ആണോ, ആയില്ല, കഴിഞ്ഞില്ല, ചെയ്തില്ല -->
     <feat name="Polarity" value="Pos" upos="AUX,VERB">34</feat><!-- ആണ്, ആണോ, കരുതുന്നു, വാങ്ങി, അടിച്ചു, അറിയാമോ, അല്ല, ആയിരുന്നു, എഴുതി, എഴുതിയത് -->
     <feat name="Polite" value="Form" upos="VERB">1</feat><!-- തുറക്കൂ -->
@@ -77,28 +77,30 @@
     <feat name="Voice" value="Cau" upos="VERB">1</feat><!-- കഴികിച്ചു -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="22">
+  <deps unique="24">
     <dep name="advcl">3</dep>
     <dep name="advmod">9</dep>
     <dep name="amod">5</dep>
     <dep name="aux">1</dep>
     <dep name="case">1</dep>
-    <dep name="cc">9</dep>
+    <dep name="cc">11</dep>
     <dep name="ccomp">3</dep>
     <dep name="conj">7</dep>
     <dep name="cop">12</dep>
-    <dep name="det">6</dep>
+    <dep name="det">7</dep>
+    <dep name="flat">2</dep>
     <dep name="iobj">1</dep>
-    <dep name="mark">5</dep>
-    <dep name="nmod">5</dep>
+    <dep name="mark">3</dep>
+    <dep name="nmod">4</dep>
     <dep name="nmod:poss">7</dep>
-    <dep name="nsubj">34</dep>
-    <dep name="obj">15</dep>
+    <dep name="nsubj">33</dep>
+    <dep name="obj">14</dep>
     <dep name="obl">7</dep>
-    <dep name="orphan">3</dep>
+    <dep name="orphan">2</dep>
     <dep name="parataxis">1</dep>
     <dep name="punct">34</dep>
     <dep name="root">30</dep>
+    <dep name="vocative">1</dep>
     <dep name="xcomp">4</dep>
   </deps>
 </treebank>
