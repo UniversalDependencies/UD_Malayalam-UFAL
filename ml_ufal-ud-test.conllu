@@ -55,8 +55,8 @@
 # text = സാം, ജനൽ തുറക്കൂ!
 # translit = sāṁ, janal tuṟakkū!
 # text_en = Sam, open the window!
-1	സാം	സാം	PROPN	_	Animacy=Anim|Case=Nom	4	nsubj	_	SpaceAfter=No|Translit=sāṁ|LTranslit=sāṁ
-2	,	,	PUNCT	_	PunctType=Comm	4	punct	_	Translit=,|LTranslit=,
+1	സാം	സാം	PROPN	_	Animacy=Anim|Case=Nom	4	vocative	_	SpaceAfter=No|Translit=sāṁ|LTranslit=sāṁ
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	Translit=,|LTranslit=,
 3	ജനൽ	ജനൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit=janal|LTranslit=janal
 4	തുറക്കൂ	തുറക്കുക	VERB	_	Mood=Imp|Polarity=Pos|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=tuṟakkū|LTranslit=tuṟakkuka
 5	!	!	PUNCT	_	PunctType=Excl	4	punct	_	Translit=!|LTranslit=!
@@ -224,10 +224,10 @@
 # text_en = Peter and Mary hugged each other and then left the room.
 1-2	പീറ്ററും	_	_	_	_	_	_	_	Translit=pīṟṟaṟuṁ
 1	പീറ്റർ	പീറ്റർ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Translit=pīṟṟaṟ|LTranslit=pīṟṟaṟ
-2	ഉം	ഉം	PART	_	_	1	mark	_	Translit=uṁ|LTranslit=uṁ
+2	ഉം	ഉം	PART	_	_	1	cc	_	Translit=uṁ|LTranslit=uṁ
 3-4	മേരിയും	_	_	_	_	_	_	_	Translit=mēriyuṁ
 3	മേരി	മേരി	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	Translit=mēri|LTranslit=mēri
-4	ഉം	ഉം	PART	_	_	3	mark	_	Translit=uṁ|LTranslit=uṁ
+4	ഉം	ഉം	PART	_	_	3	cc	_	Translit=uṁ|LTranslit=uṁ
 5	പരസ്പരം	പരസ്പരം	ADV	_	_	7	advmod	_	Translit=parasparaṁ|LTranslit=parasparaṁ
 6	ആലിംഗനം	ആലിംഗനം	NOUN	_	Case=Acc|Number=Sing	7	obj	_	Translit=āliṁganaṁ|LTranslit=āliṁganaṁ
 7	ചെയ്ത	ചെയ്യുക	VERB	_	VerbForm=Part	10	advcl	_	Translit=ceyta|LTranslit=ceyyuka
@@ -247,7 +247,7 @@
 4-5	ചീകിക്കൊണ്ടിരിക്കണമായിരുന്നു	_	_	_	_	_	_	_	SpaceAfter=No|Translit=cīkikkoṇṭirikkaṇamāyirunnu
 4	ചീകിക്കൊണ്ടിരിക്കണം	ചീകുക	VERB	_	Aspect=Prog|Mood=Nec|VerbForm=Fin	12	advcl	_	Translit=cīkikkoṇṭirikkaṇaṁ|LTranslit=cīkuka
 5	ആയിരുന്നു	ആക്	AUX	_	Polarity=Pos|Tense=Past|Voice=Act	4	aux	_	Translit=āyirunnu|LTranslit=āk
-6	,	,	PUNCT	_	PunctType=Comm	12	punct	_	Translit=,|LTranslit=,
+6	,	,	PUNCT	_	PunctType=Comm	4	punct	_	Translit=,|LTranslit=,
 7	പക്ഷേ	പക്ഷേ	CCONJ	_	_	12	cc	_	Translit=pakṣē|LTranslit=pakṣē
 8	ചില	ചില	ADJ	_	_	9	amod	_	Translit=cila|LTranslit=cila
 9	കാരണങ്ങളാൽ	കാരണം	NOUN	_	Animacy=Inan|Case=Ins|Number=Plur	12	obl	_	Translit=kāraṇaṅṅaḷāl|LTranslit=kāraṇaṁ
