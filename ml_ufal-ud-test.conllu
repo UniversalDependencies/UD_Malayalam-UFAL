@@ -10,7 +10,7 @@
 4-5	കത്തെഴുതി	_	_	_	_	_	_	_	SpaceAfter=No|Translit=katteḻuti
 4	കത്ത്	കത്ത്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=katt|LTranslit=katt
 5	എഴുതി	എഴുതുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=eḻuti|LTranslit=eḻutuka
-6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	Translit=.|LTranslit=.
+6	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo02
 # sent_id = cairo02
@@ -23,7 +23,7 @@
 3	എന്ന്	എന്ന്	PART	_	_	2	mark	_	Translit=enn|LTranslit=enn
 4	ഞാൻ	ഞാൻ	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1	5	nsubj	_	Translit=ñān|LTranslit=ñān
 5	കരുതുന്നു	കരുതുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=karutunnu|LTranslit=karutuka
-6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	Translit=.|LTranslit=.
+6	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo03
 # sent_id = cairo03
@@ -39,7 +39,7 @@
 5	ഉം	ഉം	PART	_	_	4	cc	_	Translit=uṁ|LTranslit=uṁ
 6	നിർത്താൻ	നിർത്ത്	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	7	xcomp	_	Translit=niṟttān|LTranslit=niṟtt
 7	ശ്രമിച്ചു	ശ്രമിക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=śramiccu|LTranslit=śramik
-8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	Translit=.|LTranslit=.
+8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo04
 # sent_id = cairo04
@@ -48,7 +48,7 @@
 # text_en = Do you want to go?
 1	നിനക്ക്	നീ	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Translit=ninakk|LTranslit=nī
 2	പോകണമോ	പോകുക	VERB	_	Mood=Des|VerbForm=Fin|Voice=Act	0	root	_	Translit=pōkaṇamō|LTranslit=pōkuka|SpaceAfter=No
-3	?	?	PUNCT	_	PunctType=Qest	2	punct	_	Translit=?|LTranslit=?
+3	?	?	PUNCT	_	_	2	punct	_	Translit=?|LTranslit=?
 
 # newpar id = cairo05
 # sent_id = cairo05
@@ -56,10 +56,10 @@
 # translit = sāṁ, janal tuṟakkū!
 # text_en = Sam, open the window!
 1	സാം	സാം	PROPN	_	Animacy=Anim|Case=Nom	4	vocative	_	SpaceAfter=No|Translit=sāṁ|LTranslit=sāṁ
-2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	Translit=,|LTranslit=,
+2	,	,	PUNCT	_	_	1	punct	_	Translit=,|LTranslit=,
 3	ജനൽ	ജനൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit=janal|LTranslit=janal
 4	തുറക്കൂ	തുറക്കുക	VERB	_	Mood=Imp|Polarity=Pos|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=tuṟakkū|LTranslit=tuṟakkuka
-5	!	!	PUNCT	_	PunctType=Excl	4	punct	_	Translit=!|LTranslit=!
+5	!	!	PUNCT	_	_	4	punct	_	Translit=!|LTranslit=!
 
 # newpar id = cairo06
 # sent_id = cairo06
@@ -71,7 +71,7 @@
 3	കൊണ്ട്	കൊണ്ട്	ADP	_	_	2	case	_	Translit=koṇṭ|LTranslit=koṇṭ
 4	കാർ	കാർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=kāṟ|LTranslit=kāṟ
 5	കഴികിച്ചു	കഴുകുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	SpaceAfter=No|Translit=kaḻikiccu|LTranslit=kaḻukuka
-6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	Translit=.|LTranslit=.
+6	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo07
 # sent_id = cairo07
@@ -84,7 +84,7 @@
 4	ചുവപ്പ്	ചുവപ്പ്	ADJ	_	_	5	amod	_	Translit=cuvapp|LTranslit=cuvapp
 5	നിറം	നിറം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	Translit=niṟaṁ|LTranslit=niṟaṁ
 6	അടിച്ചു	അടിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=aṭiccu|LTranslit=aṭikkuka
-7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	Translit=.|LTranslit=.
+7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo08
 # sent_id = cairo08
@@ -99,7 +99,7 @@
 6-7	ശാന്തനാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=śāntanāṇ
 6	ശാന്തൻ	ശാന്തൻ	ADJ	_	_	0	root	_	Translit=śāntan|LTranslit=śāntan
 7	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	Translit=āṇ|LTranslit=āk
-8	.	.	PUNCT	_	PunctType=Peri	6	punct	_	Translit=.|LTranslit=.
+8	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo09
 # sent_id = cairo09
@@ -119,7 +119,7 @@
 8	സ്വർണം	സ്വർണം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	Translit=svaṟṇaṁ|LTranslit=svaṟṇaṁ
 9	ഉം	ഉം	PART	_	_	10	cc	_	Translit=uṁ|LTranslit=uṁ
 10	നേടി	നെടുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No|Translit=nēṭi|LTranslit=neṭuka
-11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	Translit=.|LTranslit=.
+11	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo10
 # sent_id = cairo10
@@ -136,7 +136,7 @@
 7-8	രാജ്യമാണോ	_	_	_	_	_	_	_	SpaceAfter=No|Translit=rājyamāṇō
 7	രാജ്യം	രാജ്യം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	conj	_	Translit=rājyaṁ|LTranslit=rājyaṁ
 8	ആണോ	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	Translit=āṇō|LTranslit=āk
-9	?	?	PUNCT	_	PunctType=Qest	4	punct	_	Translit=?|LTranslit=?
+9	?	?	PUNCT	_	_	4	punct	_	Translit=?|LTranslit=?
 
 # newpar id = cairo11
 # sent_id = cairo11
@@ -154,7 +154,7 @@
 7-8	തിരഞ്ഞെടുക്കാനായില്ല	_	_	_	_	_	_	_	SpaceAfter=No|Translit=tiraññeṭukkānāyilla
 7	തിരഞ്ഞെടുക്കാൻ	തിരഞ്ഞെടുകുക	VERB	_	Mood=Prp|VerbForm=Inf	0	root	_	Translit=tiraññeṭukkān|LTranslit=tiraññeṭukuka
 8	ആയില്ല	ആക്	AUX	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	7	aux	_	Translit=āyilla|LTranslit=āk
-9	.	.	PUNCT	_	PunctType=Peri	7	punct	_	Translit=.|LTranslit=.
+9	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo12
 # sent_id = cairo12
@@ -169,7 +169,7 @@
 4	എന്ന്	എന്ന്	PART	_	_	3	mark	_	Translit=enn|LTranslit=enn
 5	അവർക്ക്	അവർ	PRON	_	Animacy=Anim|Case=Dat|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	Translit=avaṟkk|LTranslit=avaṟ
 6	അറിയില്ല	അരിയുക	VERB	_	Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=aṟiyilla|LTranslit=ariyuka
-7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	Translit=.|LTranslit=.
+7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo13
 # sent_id = cairo13
@@ -181,7 +181,7 @@
 2	എന്ത്	എന്ത്	PRON	_	PronType=Int	4	obj	_	Translit=ent|LTranslit=ent
 3	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	Translit=āṇ|LTranslit=āk
 4	നോക്കുന്നത്	നോക്കുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	0	root	_	Translit=nōkkunnat|LTranslit=nōkkuka|SpaceAfter=No
-5	?	?	PUNCT	_	PunctType=Qest	4	punct	_	Translit=?|LTranslit=?
+5	?	?	PUNCT	_	_	4	punct	_	Translit=?|LTranslit=?
 
 # newpar id = cairo14
 # sent_id = cairo14
@@ -196,7 +196,7 @@
 5	എന്ന്	എന്ന്	PART	_	_	3	mark	_	Translit=enn|LTranslit=enn
 6	നിങ്ങൾ	നിങ്ങൾ	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Translit=niṅṅaḷ|LTranslit=niṅṅaḷ
 7	കരുതുന്നു	കരുതുന്നു	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=karutunnu|LTranslit=karutunnu
-8	?	?	PUNCT	_	PunctType=Qest	7	punct	_	Translit=?|LTranslit=?
+8	?	?	PUNCT	_	_	7	punct	_	Translit=?|LTranslit=?
 
 # newpar id = cairo15
 # sent_id = cairo15
@@ -234,7 +234,7 @@
 8	ശേഷം	ശേഷം	ADV	_	_	7	advmod	_	Translit=śēṣaṁ|LTranslit=śēṣaṁ
 9	മുറി	മുറി	NOUN	_	Case=Acc|Number=Sing	10	obl	_	Translit=muṟi|LTranslit=muṟi
 10	വിട്ടു	വിടുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=viṭṭu|LTranslit=viṭuka
-11	.	.	PUNCT	_	PunctType=Peri	10	punct	_	Translit=.|LTranslit=.
+11	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo17
 # sent_id = cairo17
@@ -247,14 +247,14 @@
 4-5	ചീകിക്കൊണ്ടിരിക്കണമായിരുന്നു	_	_	_	_	_	_	_	SpaceAfter=No|Translit=cīkikkoṇṭirikkaṇamāyirunnu
 4	ചീകിക്കൊണ്ടിരിക്കണം	ചീകുക	VERB	_	Aspect=Prog|Mood=Nec|VerbForm=Fin	12	advcl	_	Translit=cīkikkoṇṭirikkaṇaṁ|LTranslit=cīkuka
 5	ആയിരുന്നു	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	Translit=āyirunnu|LTranslit=āk
-6	,	,	PUNCT	_	PunctType=Comm	4	punct	_	Translit=,|LTranslit=,
+6	,	,	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,
 7	പക്ഷേ	പക്ഷേ	CCONJ	_	_	12	cc	_	Translit=pakṣē|LTranslit=pakṣē
 8	ചില	ചില	ADJ	_	_	9	amod	_	Translit=cila|LTranslit=cila
 9	കാരണങ്ങളാൽ	കാരണം	NOUN	_	Animacy=Inan|Case=Ins|Number=Plur	12	obl	_	Translit=kāraṇaṅṅaḷāl|LTranslit=kāraṇaṁ
 10	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=avaḷ|LTranslit=avaḷ
 11	അന്ന്	അന്ന്	ADV	_	_	12	advmod	_	Translit=ann|LTranslit=ann
 12	ചെയ്തില്ല	ചെയ്യുക	VERB	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=ceytilla|LTranslit=ceyyuka
-13	.	.	PUNCT	_	PunctType=Peri	12	punct	_	Translit=.|LTranslit=.
+13	.	.	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo18
 # sent_id = cairo18
@@ -268,7 +268,7 @@
 5	എനിക്ക്	ഞാൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Translit=enikk|LTranslit=ñān
 6	പിടിച്ചുനിൽക്കാൻ	പിടിച്ചുനിൽക്കുക	VERB	_	VerbForm=Inf	0	root	_	Translit=piṭiccunilkkān|LTranslit=piṭiccunilkkuka
 7	കഴിഞ്ഞില്ല	കഴിയുക	AUX	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	SpaceAfter=No|Translit=kaḻiññilla|LTranslit=kaḻiyuka
-8	.	.	PUNCT	_	PunctType=Peri	6	punct	_	Translit=.|LTranslit=.
+8	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo19
 # sent_id = cairo19
@@ -280,11 +280,11 @@
 3-4	പീറ്ററിന്റേതാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=pīṟṟaṟinṟētāṇ
 3	പീറ്ററിന്റേത്	പീറ്ററ്	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	0	root	_	Translit=pīṟṟaṟinṟēt|LTranslit=pīṟṟaṟ
 4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Translit=āṇ|LTranslit=āk
-5	,	,	PUNCT	_	PunctType=Comm	8	punct	_	Translit=,|LTranslit=,
+5	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
 6	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Gender=Neut|Number=Sing|Person=3	8	nsubj	_	Translit=at|LTranslit=at
 7	ഇന്നലെ	ഇന്നലെ	ADV	_	_	8	obl	_	Translit=innale|LTranslit=innale
 8	കൈമാറി	കൈമാറി	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	SpaceAfter=No|Translit=kaimāṟi|LTranslit=kaimāṟi
-9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	Translit=.|LTranslit=.
+9	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo20
 # sent_id = cairo20
@@ -298,7 +298,7 @@
 4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	Translit=āṇ|LTranslit=āk
 5	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Translit=avaḷ|LTranslit=avaḷ
 6	വളർന്നത്	വളരുക	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	0	root	_	SpaceAfter=No|Translit=vaḷaṟnnat|LTranslit=vaḷaruka
-7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	Translit=.|LTranslit=.
+7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = grammar
 # newpar id = gex01
@@ -311,7 +311,7 @@
 3-4	വിദ്യാർത്ഥിയാണോ	_	_	_	_	_	_	_	SpaceAfter=No|Translit=vidyāṟtthiyāṇō
 3	വിദ്യാർത്ഥി	വിദ്യാർത്ഥി	NOUN	_	Animacy=Anim|Case=Acc|Number=Sing	0	root	_	Translit=vidyāṟtthi|LTranslit=vidyāṟtthi
 4	ആണോ	ആക്	AUX	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Translit=āṇō|LTranslit=āk
-5	?	?	PUNCT	_	PunctType=Qest	3	punct	_	Translit=?|LTranslit=?
+5	?	?	PUNCT	_	_	3	punct	_	Translit=?|LTranslit=?
 
 # newpar id = gex02
 # sent_id = gex02
@@ -320,7 +320,7 @@
 # text_en = I am running.
 1	ഞാൻ	ഞാൻ	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Translit=ñān|LTranslit=ñān
 2	ഓടുന്നു	ഓടുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=ōṭunnu|LTranslit=ōṭuka
-3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	Translit=.|LTranslit=.
+3	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 # newpar id = gex03
 # sent_id = gex03
@@ -329,7 +329,7 @@
 # text_en = She is reading.
 1	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=avaḷ|LTranslit=avaḷ
 2	വായിക്കുന്നു	വായിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=vāyikkunnu|LTranslit=vāyikkuka
-3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	Translit=.|LTranslit=.
+3	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 # newpar id = gex04
 # sent_id = gex04
@@ -338,7 +338,7 @@
 # text_en = They are playing.
 1	അവർ	അവർ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Translit=avaṟ|LTranslit=avaṟ
 2	കളിക്കുകയാൺ	കളിക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=kaḷikkukayāṇ|LTranslit=kaḷikkuka
-3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	Translit=.|LTranslit=.
+3	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 # newpar id = gex05
 # sent_id = gex05
@@ -350,7 +350,7 @@
 3-4	ഇഷ്ടമാണോ	_	_	_	_	_	_	_	SpaceAfter=No|Translit=iṣṭamāṇō
 3	ഇഷ്ടം	ഇഷ്ടം	NOUN	_	_	0	root	_	Translit=iṣṭaṁ|LTranslit=iṣṭaṁ
 4	ആണോ	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Translit=āṇō|LTranslit=āk
-5	?	?	PUNCT	_	PunctType=Peri	3	punct	_	Translit=?|LTranslit=?
+5	?	?	PUNCT	_	_	3	punct	_	Translit=?|LTranslit=?
 
 # newpar id = gex06
 # sent_id = gex06
@@ -360,7 +360,7 @@
 1	നിങ്ങൾക്ക്	നിങ്ങൾ	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Translit=niṅṅaḷkk|LTranslit=niṅṅaḷ
 2	മലയാളം	മലയാളം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	3	obj	_	Translit=malayāḷaṁ|LTranslit=malayāḷaṁ
 3	അറിയാമോ	അറിയുക	VERB	_	Polarity=Pos|VerbForm=Fin	0	root	_	Translit=aṟiyāmō|LTranslit=aṟiyuka|SpaceAfter=No
-4	?	?	PUNCT	_	PunctType=Qest	3	punct	_	Translit=?|LTranslit=?
+4	?	?	PUNCT	_	_	3	punct	_	Translit=?|LTranslit=?
 
 # newpar id = gex07
 # sent_id = gex07
@@ -372,7 +372,7 @@
 3-4	പുസ്തകങ്ങളാൺ	_	_	_	_	_	_	_	SpaceAfter=No|Translit=pustakaṅṅaḷāṇ
 3	പുസ്തകങ്ങൾ	പുസ്തകങ്ങൾ	NOUN	_	Animacy=Anim|Case=Acc|Number=Plur	0	root	_	Translit=pustakaṅṅaḷ|LTranslit=pustakaṅṅaḷ
 4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Translit=āṇ|LTranslit=āk
-5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	Translit=.|LTranslit=.
+5	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 # newpar id = gex08
 # sent_id = gex08
@@ -383,7 +383,7 @@
 2-3	എൻറേതല്ല	_	_	_	_	_	_	_	SpaceAfter=No|Translit=enṟētalla
 2	എന്റേത്	എന്റേ	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	0	root	_	Translit=enṟēt|LTranslit=enṟē
 3	അല്ല	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	Translit=alla|LTranslit=āk
-4	!	!	PUNCT	_	PunctType=Excl	2	punct	_	Translit=!|LTranslit=!
+4	!	!	PUNCT	_	_	2	punct	_	Translit=!|LTranslit=!
 
 # newpar id = gex09
 # sent_id = gex09
@@ -395,7 +395,7 @@
 2	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Translit=āṇ|LTranslit=āk
 3	എൻറെ	ഞാൻ	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	Translit=enṟe|LTranslit=ñān
 4	വീട്	വീട്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=vīṭ|LTranslit=vīṭ
-5	.	.	PUNCT	_	PunctType=Qest	4	punct	_	Translit=.|LTranslit=.
+5	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
 # newpar id = gex10
 # sent_id = gex10
@@ -408,5 +408,5 @@
 3	എന്ത്	എന്ത്	PRON	_	PronType=Int	5	obj	_	Translit=ent|LTranslit=ent
 4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	Translit=āṇ|LTranslit=āk
 5	ചെയ്യുന്നത്	ചെയ്യുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	0	root	_	SpaceAfter=No|Translit=ceyyunnat|LTranslit=ceyyuka
-6	?	?	PUNCT	_	PunctType=Peri	5	punct	_	Translit=?|LTranslit=?
+6	?	?	PUNCT	_	_	5	punct	_	Translit=?|LTranslit=?
 

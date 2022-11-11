@@ -29,7 +29,7 @@
     <tag name="VERB">31</tag><!-- ചെയ്യുക, എഴുതുക, ഓടുക, വാങ്ങുക, അടിക്കുക, അരിയുക, അറിയുക, കരുതുക, കരുതുന്നു, കളിക്കുക -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="46">
+  <feats unique="42">
     <feat name="Animacy" value="Anim" upos="NOUN,PRON,PROPN">50</feat><!-- അവൾ, അവൻ, പീറ്റർ, മേരി, എൻറെ, ഞാൻ, നിങ്ങൾ, നിങ്ങൾക്ക്, നിനക്ക്, അച്ഛനേക്കാൾ -->
     <feat name="Animacy" value="Inan" upos="NOUN,PRON,PROPN">28</feat><!-- അത്, കത്ത്, കാർ, രാജ്യം, അവ, ഇഗ്വാസു, ഇത്, ഐസ്ക്രിം, കാരണങ്ങളാൽ, ജനൽ -->
     <feat name="Aspect" value="Imp" upos="VERB">2</feat><!-- കളിക്കുകയാൺ, പെയ്യുകയാണ് -->
@@ -63,10 +63,6 @@
     <feat name="PronType" value="Dem" upos="PRON">4</feat><!-- അത്, അവ, ഇത്, ഈ -->
     <feat name="PronType" value="Int" upos="PRON">3</feat><!-- എന്ത്, ആര് -->
     <feat name="PronType" value="Prs" upos="PRON">27</feat><!-- അവൾ, അവൻ, എൻറെ, നിങ്ങൾ, നിങ്ങൾക്ക്, നിനക്ക്, അവന്റെ, അവളുടെ, അവർ, അവർക്ക് -->
-    <feat name="PunctType" value="Comm" upos="PUNCT">3</feat><!-- , -->
-    <feat name="PunctType" value="Excl" upos="PUNCT">2</feat><!-- ! -->
-    <feat name="PunctType" value="Peri" upos="PUNCT">20</feat><!-- ., ? -->
-    <feat name="PunctType" value="Qest" upos="PUNCT">7</feat><!-- ?, . -->
     <feat name="Tense" value="Fut" upos="AUX">1</feat><!-- കഴിയും -->
     <feat name="Tense" value="Past" upos="AUX,VERB">17</feat><!-- വാങ്ങി, അടിച്ചു, അറിയില്ല, ആയിരുന്നു, ആയില്ല, എഴുതി, എഴുതിയത്, ഓടിയതിനാൽ, കഴികിച്ചു, കഴിഞ്ഞില്ല -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">22</feat><!-- ആണ്, ആണോ, കരുതുന്നു, അല്ല, ഓടുന്നു, കളിക്കുകയാൺ, ചെയ്യുന്നത്, തുറക്കൂ, നോക്കുന്നത്, പെയ്യുകയാണ് -->
