@@ -152,7 +152,7 @@
 5	ബ്രൗണിനെ	ബ്രൗൺ	PROPN	_	Animacy=Anim|Case=Acc|Number=Sing	4	flat	_	Translit=brauṇine|LTranslit=brauṇ
 6	ഓ	ഓ	PART	_	_	4	cc	_	Translit=ō|LTranslit=ō
 7-8	തിരഞ്ഞെടുക്കാനായില്ല	_	_	_	_	_	_	_	SpaceAfter=No|Translit=tiraññeṭukkānāyilla
-7	തിരഞ്ഞെടുക്കാൻ	തിരഞ്ഞെടുകുക	VERB	_	Mood=Prp|VerbForm=Inf	0	root	_	Translit=tiraññeṭukkān|LTranslit=tiraññeṭukuka
+7	തിരഞ്ഞെടുക്കാൻ	തിരഞ്ഞെടുകുക	VERB	_	VerbForm=Inf	0	root	_	Translit=tiraññeṭukkān|LTranslit=tiraññeṭukuka
 8	ആയില്ല	ആക്	AUX	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	7	aux	_	Translit=āyilla|LTranslit=āk
 9	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
