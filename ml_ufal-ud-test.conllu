@@ -9,7 +9,7 @@
 3	സുഹൃത്തിന്	സുഹൃത്ത്	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	5	obl	_	Translit=suhr̥ttin|LTranslit=suhr̥tt
 4-5	കത്തെഴുതി	_	_	_	_	_	_	_	SpaceAfter=No|Translit=katteḻuti
 4	കത്ത്	കത്ത്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=katt|LTranslit=katt
-5	എഴുതി	എഴുതുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=eḻuti|LTranslit=eḻutuka
+5	എഴുതി	എഴുതുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=eḻuti|LTranslit=eḻutuka
 6	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo02
@@ -19,10 +19,10 @@
 # text_en = I think that it is raining.
 1	മഴ	മഴ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	_	Translit=maḻa|LTranslit=maḻa
 2-3	പെയ്യുകയാണെന്ന്	_	_	_	_	_	_	_	Translit=peyyukayāṇenn
-2	പെയ്യുകയാണ്	പെയ്യുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	Translit=peyyukayāṇ|LTranslit=peyyuka
+2	പെയ്യുകയാണ്	പെയ്യുക	VERB	_	Aspect=Prog|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	Translit=peyyukayāṇ|LTranslit=peyyuka
 3	എന്ന്	എന്ന്	PART	_	_	2	mark	_	Translit=enn|LTranslit=enn
 4	ഞാൻ	ഞാൻ	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1	5	nsubj	_	Translit=ñān|LTranslit=ñān
-5	കരുതുന്നു	കരുതുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=karutunnu|LTranslit=karutuka
+5	കരുതുന്നു	കരുതുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=karutunnu|LTranslit=karutuka
 6	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo03
@@ -38,7 +38,7 @@
 4	മദ്യപാനം	മദ്യപാനം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	conj	_	Translit=madyapānaṁ|LTranslit=madyapānaṁ
 5	ഉം	ഉം	PART	_	_	4	cc	_	Translit=uṁ|LTranslit=uṁ
 6	നിർത്താൻ	നിർത്ത്	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	7	xcomp	_	Translit=niṟttān|LTranslit=niṟtt
-7	ശ്രമിച്ചു	ശ്രമിക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=śramiccu|LTranslit=śramik
+7	ശ്രമിച്ചു	ശ്രമിക്	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=śramiccu|LTranslit=śramik
 8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo04
@@ -70,7 +70,7 @@
 2	ഭർത്താവിനെ	ഭർത്താവ്	NOUN	_	Animacy=Anim|Case=Ins|Number=Sing	5	obl	_	Translit=bhaṟttāvine|LTranslit=bhaṟttāv
 3	കൊണ്ട്	കൊണ്ട്	ADP	_	_	2	case	_	Translit=koṇṭ|LTranslit=koṇṭ
 4	കാർ	കാർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=kāṟ|LTranslit=kāṟ
-5	കഴികിച്ചു	കഴുകുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	SpaceAfter=No|Translit=kaḻikiccu|LTranslit=kaḻukuka
+5	കഴികിച്ചു	കഴുകുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	SpaceAfter=No|Translit=kaḻikiccu|LTranslit=kaḻukuka
 6	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo07
@@ -83,7 +83,7 @@
 3	വേലിക്ക്	വേലി	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	6	iobj	_	Translit=vēlikk|LTranslit=vēli
 4	ചുവപ്പ്	ചുവപ്പ്	ADJ	_	_	5	amod	_	Translit=cuvapp|LTranslit=cuvapp
 5	നിറം	നിറം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	Translit=niṟaṁ|LTranslit=niṟaṁ
-6	അടിച്ചു	അടിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=aṭiccu|LTranslit=aṭikkuka
+6	അടിച്ചു	അടിക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=aṭiccu|LTranslit=aṭikkuka
 7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo08
@@ -118,7 +118,7 @@
 8-9	സ്വർണവും	_	_	_	_	_	_	_	Translit=svaṟṇavuṁ
 8	സ്വർണം	സ്വർണം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	Translit=svaṟṇaṁ|LTranslit=svaṟṇaṁ
 9	ഉം	ഉം	PART	_	_	10	cc	_	Translit=uṁ|LTranslit=uṁ
-10	നേടി	നെടുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No|Translit=nēṭi|LTranslit=neṭuka
+10	നേടി	നെടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No|Translit=nēṭi|LTranslit=neṭuka
 11	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo10
@@ -168,7 +168,7 @@
 3	എഴുതിയത്	എഴുതുക	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	6	ccomp	_	Translit=eḻutiyat|LTranslit=eḻutuka
 4	എന്ന്	എന്ന്	PART	_	_	3	mark	_	Translit=enn|LTranslit=enn
 5	അവർക്ക്	അവർ	PRON	_	Animacy=Anim|Case=Dat|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	Translit=avaṟkk|LTranslit=avaṟ
-6	അറിയില്ല	അരിയുക	VERB	_	Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=aṟiyilla|LTranslit=ariyuka
+6	അറിയില്ല	അരിയുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=aṟiyilla|LTranslit=ariyuka
 7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo13
@@ -195,7 +195,7 @@
 4	കഴിയും	കഴിയുക	AUX	_	Tense=Fut|VerbForm=Fin	3	aux	_	Translit=kaḻiyuṁ|LTranslit=kaḻiyuka
 5	എന്ന്	എന്ന്	PART	_	_	3	mark	_	Translit=enn|LTranslit=enn
 6	നിങ്ങൾ	നിങ്ങൾ	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Translit=niṅṅaḷ|LTranslit=niṅṅaḷ
-7	കരുതുന്നു	കരുതുന്നു	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=karutunnu|LTranslit=karutunnu
+7	കരുതുന്നു	കരുതുന്നു	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=karutunnu|LTranslit=karutunnu
 8	?	?	PUNCT	_	_	7	punct	_	Translit=?|LTranslit=?
 
 # newpar id = cairo15
@@ -206,7 +206,7 @@
 1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=avan|LTranslit=avan
 2	ഒരു	ഒരു	DET	_	_	3	det	_	Translit=oru|LTranslit=oru
 3	കാർ	കാർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit=kāṟ|LTranslit=kāṟ
-4	വാങ്ങി	വാങ്ങുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=vāṅṅi|LTranslit=vāṅṅuka
+4	വാങ്ങി	വാങ്ങുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=vāṅṅi|LTranslit=vāṅṅuka
 5	,	,	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,
 6	പക്ഷേ	പക്ഷേ	CCONJ	_	_	12	cc	_	Translit=pakṣē|LTranslit=pakṣē
 7	അവന്റെ	അവൻ	PRON	_	Animacy=Anim|Case=Gen|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	Translit=avanṟe|LTranslit=avan
@@ -214,7 +214,7 @@
 9	ഒരു	ഒരു	DET	_	_	10	det	_	Translit=oru|LTranslit=oru
 10	ബൈക്ക്	ബൈക്ക്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	obj	_	Translit=baikk|LTranslit=baikk
 11	മാത്രം	മാത്രം	ADV	_	_	12	advmod	_	Translit=mātraṁ|LTranslit=mātraṁ
-12	വാങ്ങി	വാങ്ങുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	SpaceAfter=No|Translit=vāṅṅi|LTranslit=vāṅṅuka
+12	വാങ്ങി	വാങ്ങുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	SpaceAfter=No|Translit=vāṅṅi|LTranslit=vāṅṅuka
 13	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo16
@@ -233,7 +233,7 @@
 7	ചെയ്ത	ചെയ്യുക	VERB	_	VerbForm=Part	10	advcl	_	Translit=ceyta|LTranslit=ceyyuka
 8	ശേഷം	ശേഷം	ADV	_	_	7	advmod	_	Translit=śēṣaṁ|LTranslit=śēṣaṁ
 9	മുറി	മുറി	NOUN	_	Case=Acc|Number=Sing	10	obl	_	Translit=muṟi|LTranslit=muṟi
-10	വിട്ടു	വിടുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=viṭṭu|LTranslit=viṭuka
+10	വിട്ടു	വിടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=viṭṭu|LTranslit=viṭuka
 11	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo17
@@ -253,7 +253,7 @@
 9	കാരണങ്ങളാൽ	കാരണം	NOUN	_	Animacy=Inan|Case=Ins|Number=Plur	12	obl	_	Translit=kāraṇaṅṅaḷāl|LTranslit=kāraṇaṁ
 10	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=avaḷ|LTranslit=avaḷ
 11	അന്ന്	അന്ന്	ADV	_	_	12	advmod	_	Translit=ann|LTranslit=ann
-12	ചെയ്തില്ല	ചെയ്യുക	VERB	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=ceytilla|LTranslit=ceyyuka
+12	ചെയ്തില്ല	ചെയ്യുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=ceytilla|LTranslit=ceyyuka
 13	.	.	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo18
@@ -264,7 +264,7 @@
 1	അവൻ	അവൻ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=avan|LTranslit=avan
 2	വളരെ	വളരെ	ADV	_	_	3	advmod	_	Translit=vaḷare|LTranslit=vaḷare
 3	വേഗത്തിൽ	വെഗം	ADV	_	_	4	advmod	_	Translit=vēgattil|LTranslit=vegaṁ
-4	ഓടിയതിനാൽ	ഓടുക	VERB	_	Tense=Past	6	advcl	_	Translit=ōṭiyatināl|LTranslit=ōṭuka
+4	ഓടിയതിനാൽ	ഓടുക	VERB	_	Tense=Past|VerbForm=Vnoun	6	advcl	_	Translit=ōṭiyatināl|LTranslit=ōṭuka
 5	എനിക്ക്	ഞാൻ	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Translit=enikk|LTranslit=ñān
 6	പിടിച്ചുനിൽക്കാൻ	പിടിച്ചുനിൽക്കുക	VERB	_	VerbForm=Inf	0	root	_	Translit=piṭiccunilkkān|LTranslit=piṭiccunilkkuka
 7	കഴിഞ്ഞില്ല	കഴിയുക	AUX	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	SpaceAfter=No|Translit=kaḻiññilla|LTranslit=kaḻiyuka
@@ -283,7 +283,7 @@
 5	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
 6	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Gender=Neut|Number=Sing|Person=3	8	nsubj	_	Translit=at|LTranslit=at
 7	ഇന്നലെ	ഇന്നലെ	ADV	_	_	8	obl	_	Translit=innale|LTranslit=innale
-8	കൈമാറി	കൈമാറി	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	SpaceAfter=No|Translit=kaimāṟi|LTranslit=kaimāṟi
+8	കൈമാറി	കൈമാറി	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	SpaceAfter=No|Translit=kaimāṟi|LTranslit=kaimāṟi
 9	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo20
@@ -319,7 +319,7 @@
 # translit = ñān ōṭunnu.
 # text_en = I am running.
 1	ഞാൻ	ഞാൻ	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Translit=ñān|LTranslit=ñān
-2	ഓടുന്നു	ഓടുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=ōṭunnu|LTranslit=ōṭuka
+2	ഓടുന്നു	ഓടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=ōṭunnu|LTranslit=ōṭuka
 3	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 # newpar id = gex03
@@ -328,7 +328,7 @@
 # translit = avaḷ vāyikkunnu.
 # text_en = She is reading.
 1	അവൾ	അവൾ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=avaḷ|LTranslit=avaḷ
-2	വായിക്കുന്നു	വായിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=vāyikkunnu|LTranslit=vāyikkuka
+2	വായിക്കുന്നു	വായിക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=vāyikkunnu|LTranslit=vāyikkuka
 3	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 # newpar id = gex04
@@ -337,7 +337,7 @@
 # translit = avaṟ kaḷikkukayāṇ.
 # text_en = They are playing.
 1	അവർ	അവർ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Translit=avaṟ|LTranslit=avaṟ
-2	കളിക്കുകയാൺ	കളിക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=kaḷikkukayāṇ|LTranslit=kaḷikkuka
+2	കളിക്കുകയാൺ	കളിക്കുക	VERB	_	Aspect=Prog|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=kaḷikkukayāṇ|LTranslit=kaḷikkuka
 3	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 # newpar id = gex05
