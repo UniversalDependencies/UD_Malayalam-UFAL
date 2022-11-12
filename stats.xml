@@ -29,7 +29,7 @@
     <tag name="VERB">31</tag><!-- ചെയ്യുക, എഴുതുക, ഓടുക, വാങ്ങുക, അടിക്കുക, അരിയുക, അറിയുക, കരുതുക, കരുതുന്നു, കളിക്കുക -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="42">
+  <feats unique="41">
     <feat name="Animacy" value="Anim" upos="NOUN,PRON,PROPN">50</feat><!-- അവൾ, അവൻ, പീറ്റർ, മേരി, എൻറെ, ഞാൻ, നിങ്ങൾ, നിങ്ങൾക്ക്, നിനക്ക്, അച്ഛനേക്കാൾ -->
     <feat name="Animacy" value="Inan" upos="NOUN,PRON,PROPN">28</feat><!-- അത്, കത്ത്, കാർ, രാജ്യം, അവ, ഇഗ്വാസു, ഇത്, ഐസ്ക്രിം, കാരണങ്ങളാൽ, ജനൽ -->
     <feat name="Aspect" value="Imp" upos="VERB">15</feat><!-- കരുതുന്നു, വാങ്ങി, അടിച്ചു, അറിയില്ല, എഴുതി, ഓടുന്നു, കഴികിച്ചു, കൈമാറി, ചെയ്തില്ല, നേടി -->
@@ -50,7 +50,6 @@
     <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- തുറക്കൂ -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">33</feat><!-- ആണ്, ആണോ, കരുതുന്നു, വാങ്ങി, അടിച്ചു, അറിയില്ല, അല്ല, ആയിരുന്നു, ആയില്ല, എഴുതി -->
     <feat name="Mood" value="Nec" upos="VERB">1</feat><!-- ചീകിക്കൊണ്ടിരിക്കണം -->
-    <feat name="Mood" value="Prp" upos="VERB">1</feat><!-- തിരഞ്ഞെടുക്കാൻ -->
     <feat name="Number" value="Plur" upos="NOUN,PRON">5</feat><!-- അവ, അവർ, അവർക്ക്, കാരണങ്ങളാൽ, പുസ്തകങ്ങൾ -->
     <feat name="Number" value="Sing" upos="NOUN,PRON,PROPN">73</feat><!-- അവൾ, അവൻ, പീറ്റർ, മേരി, അത്, എൻറെ, കത്ത്, കാർ, ഞാൻ, നിങ്ങൾ -->
     <feat name="Person" value="1" upos="PRON">6</feat><!-- എൻറെ, ഞാൻ, എനിക്ക്, എന്റെ -->
