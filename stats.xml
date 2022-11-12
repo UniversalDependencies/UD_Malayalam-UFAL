@@ -32,8 +32,8 @@
   <feats unique="42">
     <feat name="Animacy" value="Anim" upos="NOUN,PRON,PROPN">50</feat><!-- അവൾ, അവൻ, പീറ്റർ, മേരി, എൻറെ, ഞാൻ, നിങ്ങൾ, നിങ്ങൾക്ക്, നിനക്ക്, അച്ഛനേക്കാൾ -->
     <feat name="Animacy" value="Inan" upos="NOUN,PRON,PROPN">28</feat><!-- അത്, കത്ത്, കാർ, രാജ്യം, അവ, ഇഗ്വാസു, ഇത്, ഐസ്ക്രിം, കാരണങ്ങളാൽ, ജനൽ -->
-    <feat name="Aspect" value="Imp" upos="VERB">2</feat><!-- കളിക്കുകയാൺ, പെയ്യുകയാണ് -->
-    <feat name="Aspect" value="Prog" upos="VERB">1</feat><!-- ചീകിക്കൊണ്ടിരിക്കണം -->
+    <feat name="Aspect" value="Imp" upos="VERB">15</feat><!-- കരുതുന്നു, വാങ്ങി, അടിച്ചു, അറിയില്ല, എഴുതി, ഓടുന്നു, കഴികിച്ചു, കൈമാറി, ചെയ്തില്ല, നേടി -->
+    <feat name="Aspect" value="Prog" upos="VERB">3</feat><!-- കളിക്കുകയാൺ, ചീകിക്കൊണ്ടിരിക്കണം, പെയ്യുകയാണ് -->
     <feat name="Case" value="Acc" upos="NOUN,PROPN">23</feat><!-- കാർ, രാജ്യം, ആലിംഗനം, ഐസ്ക്രിം, കത്ത്, ജനൽ, നിറം, പുകവലി, പുസ്തകങ്ങൾ, ബൈക്ക് -->
     <feat name="Case" value="Cmp" upos="NOUN">1</feat><!-- അച്ഛനേക്കാൾ -->
     <feat name="Case" value="Dat" upos="NOUN,PRON">7</feat><!-- നിങ്ങൾക്ക്, നിനക്ക്, അവർക്ക്, വേലിക്ക്, സുഹൃത്തിന് -->
@@ -48,7 +48,7 @@
     <feat name="Gender" value="Neut" upos="PRON">1</feat><!-- അത് -->
     <feat name="Mood" value="Des" upos="VERB">1</feat><!-- പോകണമോ -->
     <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- തുറക്കൂ -->
-    <feat name="Mood" value="Ind" upos="AUX,VERB">32</feat><!-- ആണ്, ആണോ, കരുതുന്നു, വാങ്ങി, അടിച്ചു, അല്ല, ആയിരുന്നു, ആയില്ല, എഴുതി, ഓടുന്നു -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">33</feat><!-- ആണ്, ആണോ, കരുതുന്നു, വാങ്ങി, അടിച്ചു, അറിയില്ല, അല്ല, ആയിരുന്നു, ആയില്ല, എഴുതി -->
     <feat name="Mood" value="Nec" upos="VERB">1</feat><!-- ചീകിക്കൊണ്ടിരിക്കണം -->
     <feat name="Mood" value="Prp" upos="VERB">1</feat><!-- തിരഞ്ഞെടുക്കാൻ -->
     <feat name="Number" value="Plur" upos="NOUN,PRON">5</feat><!-- അവ, അവർ, അവർക്ക്, കാരണങ്ങളാൽ, പുസ്തകങ്ങൾ -->
@@ -69,7 +69,7 @@
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">38</feat><!-- ആണ്, ആണോ, കരുതുന്നു, വാങ്ങി, അടിച്ചു, അറിയാമോ, അറിയില്ല, അല്ല, ആയിരുന്നു, ആയില്ല -->
     <feat name="VerbForm" value="Inf" upos="VERB">4</feat><!-- തിരഞ്ഞെടുക്കാൻ, നിർത്താൻ, പിടിച്ചുനിൽക്കാൻ, വരാൻ -->
     <feat name="VerbForm" value="Part" upos="VERB">1</feat><!-- ചെയ്ത -->
-    <feat name="VerbForm" value="Vnoun" upos="VERB">4</feat><!-- എഴുതിയത്, ചെയ്യുന്നത്, നോക്കുന്നത്, വളർന്നത് -->
+    <feat name="VerbForm" value="Vnoun" upos="VERB">5</feat><!-- എഴുതിയത്, ഓടിയതിനാൽ, ചെയ്യുന്നത്, നോക്കുന്നത്, വളർന്നത് -->
     <feat name="Voice" value="Act" upos="AUX,VERB">39</feat><!-- ആണ്, ആണോ, കരുതുന്നു, വാങ്ങി, അടിച്ചു, അറിയില്ല, അല്ല, ആയിരുന്നു, ആയില്ല, എഴുതി -->
     <feat name="Voice" value="Cau" upos="VERB">1</feat><!-- കഴികിച്ചു -->
   </feats>
