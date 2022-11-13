@@ -1,0 +1,9 @@
+VERB i AUX musí mít VerbForm.
+Bez ohledu na VerbForm musí mít i Polarity a Voice; ty se rozlišují i u infinitivu. (U Voice zatím nemám jasno, ale možná bude lexikální.) Voice možná bude potřeba jen u VERB, ale ne u AUX.
+Pokud je VerbForm=Fin, musí být vyplněn Mood. Obráceně to ale neplatí, protože některé hodnoty Mood je zřejmě možné rozlišit i u neurčitých tvarů.
+Otázka je, jestli tedy u neurčitých tvarů, kde se Mood vyskytnout může, ho máme vyžadovat vždy (výchozí hodnota je Mood=Ind). Týkalo by se to příčestí i nominalizovaných tvarů.
+Existuje návrh, aby tvary pro věty tázací byly anotované jako Mood=Int (interrogative). Jenže interogativita se, stejně jako zápor, může míchat s některými jinými způsoby (např. Mood=Nec). Takže buď musíme zavést Mood=NecInt, nebo musí být interogativita samostatný rys, podobně jako Polarity.
+Pokud je Mood=Ind, pak musí být vyplněn Tense a Aspect (výchozí je Aspect=Imp). Některé další způsoby rovněž rozlišují čas a vid, jiné ne.
+Nominalizované tvary navíc mohou mít pád. Otázkou je, zda ho potom u nich máme vyžadovat vždycky (výchozí je Case=Nom).
+
+Pokud je něco VERB a má to lemma, které nekončí na -ka, je to asi chyba.
