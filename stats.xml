@@ -29,10 +29,10 @@
     <tag name="VERB">31</tag><!-- ചെയ്യുക, എഴുതുക, ഓടുക, വാങ്ങുക, അടിക്കുക, അരിയുക, അറിയുക, കരുതുക, കരുതുന്നു, കളിക്കുക -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="41">
+  <feats unique="40">
     <feat name="Animacy" value="Anim" upos="NOUN,PRON,PROPN">50</feat><!-- അവൾ, അവൻ, പീറ്റർ, മേരി, എൻറെ, ഞാൻ, നിങ്ങൾ, നിങ്ങൾക്ക്, നിനക്ക്, അച്ഛനേക്കാൾ -->
     <feat name="Animacy" value="Inan" upos="NOUN,PRON,PROPN">28</feat><!-- അത്, കത്ത്, കാർ, രാജ്യം, അവ, ഇഗ്വാസു, ഇത്, ഐസ്ക്രിം, കാരണങ്ങളാൽ, ജനൽ -->
-    <feat name="Aspect" value="Imp" upos="VERB">15</feat><!-- കരുതുന്നു, വാങ്ങി, അടിച്ചു, അറിയില്ല, എഴുതി, ഓടുന്നു, കഴികിച്ചു, കൈമാറി, ചെയ്തില്ല, നേടി -->
+    <feat name="Aspect" value="Imp" upos="VERB">17</feat><!-- കരുതുന്നു, വാങ്ങി, അടിച്ചു, അറിയാമോ, അറിയില്ല, എഴുതി, ഓടുന്നു, കഴികിച്ചു, കൈമാറി, ചെയ്തില്ല -->
     <feat name="Aspect" value="Prog" upos="VERB">3</feat><!-- കളിക്കുകയാൺ, ചീകിക്കൊണ്ടിരിക്കണം, പെയ്യുകയാണ് -->
     <feat name="Case" value="Acc" upos="NOUN,PROPN">23</feat><!-- കാർ, രാജ്യം, ആലിംഗനം, ഐസ്ക്രിം, കത്ത്, ജനൽ, നിറം, പുകവലി, പുസ്തകങ്ങൾ, ബൈക്ക് -->
     <feat name="Case" value="Cmp" upos="NOUN">1</feat><!-- അച്ഛനേക്കാൾ -->
@@ -46,17 +46,16 @@
     <feat name="Gender" value="Fem" upos="PRON">7</feat><!-- അവൾ, അവളുടെ, അവൻ -->
     <feat name="Gender" value="Masc" upos="PRON">4</feat><!-- അവൻ, അവന്റെ, എനിക്ക് -->
     <feat name="Gender" value="Neut" upos="PRON">1</feat><!-- അത് -->
-    <feat name="Mood" value="Des" upos="VERB">1</feat><!-- പോകണമോ -->
     <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- തുറക്കൂ -->
-    <feat name="Mood" value="Ind" upos="AUX,VERB">33</feat><!-- ആണ്, ആണോ, കരുതുന്നു, വാങ്ങി, അടിച്ചു, അറിയില്ല, അല്ല, ആയിരുന്നു, ആയില്ല, എഴുതി -->
-    <feat name="Mood" value="Nec" upos="VERB">1</feat><!-- ചീകിക്കൊണ്ടിരിക്കണം -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">35</feat><!-- ആണ്, ആണോ, കരുതുന്നു, വാങ്ങി, അടിച്ചു, അറിയാമോ, അറിയില്ല, അല്ല, ആയിരുന്നു, ആയില്ല -->
+    <feat name="Mood" value="Nec" upos="VERB">2</feat><!-- ചീകിക്കൊണ്ടിരിക്കണം, പോകണമോ -->
     <feat name="Number" value="Plur" upos="NOUN,PRON">5</feat><!-- അവ, അവർ, അവർക്ക്, കാരണങ്ങളാൽ, പുസ്തകങ്ങൾ -->
     <feat name="Number" value="Sing" upos="NOUN,PRON,PROPN">73</feat><!-- അവൾ, അവൻ, പീറ്റർ, മേരി, അത്, എൻറെ, കത്ത്, കാർ, ഞാൻ, നിങ്ങൾ -->
     <feat name="Person" value="1" upos="PRON">6</feat><!-- എൻറെ, ഞാൻ, എനിക്ക്, എന്റെ -->
     <feat name="Person" value="2" upos="PRON">9</feat><!-- നിങ്ങൾ, നിങ്ങൾക്ക്, നിനക്ക്, നിങ്ങള്, നിന്റെ, നീ -->
     <feat name="Person" value="3" upos="PRON">17</feat><!-- അവൾ, അവൻ, അത്, അവ, അവന്റെ, അവളുടെ, അവർ, അവർക്ക്, ഇത്, തന്റെ -->
     <feat name="Polarity" value="Neg" upos="AUX,VERB">5</feat><!-- അറിയില്ല, ആണോ, ആയില്ല, കഴിഞ്ഞില്ല, ചെയ്തില്ല -->
-    <feat name="Polarity" value="Pos" upos="AUX,VERB">35</feat><!-- ആണ്, ആണോ, കരുതുന്നു, വാങ്ങി, അടിച്ചു, അറിയാമോ, അല്ല, ആയിരുന്നു, എഴുതി, എഴുതിയത് -->
+    <feat name="Polarity" value="Pos" upos="AUX,VERB">43</feat><!-- ആണ്, ആണോ, കരുതുന്നു, വാങ്ങി, അടിച്ചു, അറിയാമോ, അല്ല, ആയിരുന്നു, എഴുതി, എഴുതിയത് -->
     <feat name="Polite" value="Form" upos="VERB">1</feat><!-- തുറക്കൂ -->
     <feat name="Poss" value="Yes" upos="PRON">2</feat><!-- എന്റെ, നിന്റെ -->
     <feat name="PronType" value="Dem" upos="PRON">4</feat><!-- അത്, അവ, ഇത്, ഈ -->
@@ -64,12 +63,12 @@
     <feat name="PronType" value="Prs" upos="PRON">27</feat><!-- അവൾ, അവൻ, എൻറെ, നിങ്ങൾ, നിങ്ങൾക്ക്, നിനക്ക്, അവന്റെ, അവളുടെ, അവർ, അവർക്ക് -->
     <feat name="Tense" value="Fut" upos="AUX">1</feat><!-- കഴിയും -->
     <feat name="Tense" value="Past" upos="AUX,VERB">17</feat><!-- വാങ്ങി, അടിച്ചു, അറിയില്ല, ആയിരുന്നു, ആയില്ല, എഴുതി, എഴുതിയത്, ഓടിയതിനാൽ, കഴികിച്ചു, കഴിഞ്ഞില്ല -->
-    <feat name="Tense" value="Pres" upos="AUX,VERB">22</feat><!-- ആണ്, ആണോ, കരുതുന്നു, അല്ല, ഓടുന്നു, കളിക്കുകയാൺ, ചെയ്യുന്നത്, തുറക്കൂ, നോക്കുന്നത്, പെയ്യുകയാണ് -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">24</feat><!-- ആണ്, ആണോ, കരുതുന്നു, അറിയാമോ, അല്ല, ഓടുന്നു, കളിക്കുകയാൺ, ചീകിക്കൊണ്ടിരിക്കണം, ചെയ്യുന്നത്, നോക്കുന്നത് -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">38</feat><!-- ആണ്, ആണോ, കരുതുന്നു, വാങ്ങി, അടിച്ചു, അറിയാമോ, അറിയില്ല, അല്ല, ആയിരുന്നു, ആയില്ല -->
     <feat name="VerbForm" value="Inf" upos="VERB">4</feat><!-- തിരഞ്ഞെടുക്കാൻ, നിർത്താൻ, പിടിച്ചുനിൽക്കാൻ, വരാൻ -->
     <feat name="VerbForm" value="Part" upos="VERB">1</feat><!-- ചെയ്ത -->
     <feat name="VerbForm" value="Vnoun" upos="VERB">5</feat><!-- എഴുതിയത്, ഓടിയതിനാൽ, ചെയ്യുന്നത്, നോക്കുന്നത്, വളർന്നത് -->
-    <feat name="Voice" value="Act" upos="AUX,VERB">39</feat><!-- ആണ്, ആണോ, കരുതുന്നു, വാങ്ങി, അടിച്ചു, അറിയില്ല, അല്ല, ആയിരുന്നു, ആയില്ല, എഴുതി -->
+    <feat name="Voice" value="Act" upos="AUX,VERB">31</feat><!-- കരുതുന്നു, വാങ്ങി, അടിച്ചു, അറിയാമോ, അറിയില്ല, ആണ്, എഴുതി, എഴുതിയത്, ഓടിയതിനാൽ, ഓടുന്നു -->
     <feat name="Voice" value="Cau" upos="VERB">1</feat><!-- കഴികിച്ചു -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
