@@ -275,7 +275,7 @@
 # text = ഈ കത്ത് പീറ്ററിന്റേതാണ്, അത് ഇന്നലെ കൈമാറി.
 # translit = ī katt pīṟṟaṟinṟētāṇ, at innale kaimāṟi.
 # text_en = This letter is from Peter and it was delivered yesterday.
-1	ഈ	ഈ	PRON	_	Deixis=Prox|PronType=Dem	2	nmod	_	Translit=ī|LTranslit=ī
+1	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	2	det	_	Translit=ī|LTranslit=ī
 2	കത്ത്	കത്ത്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=katt|LTranslit=katt
 3-4	പീറ്ററിന്റേതാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=pīṟṟaṟinṟētāṇ
 3	പീറ്ററിന്റേത്	പീറ്ററ്	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	0	root	_	Translit=pīṟṟaṟinṟēt|LTranslit=pīṟṟaṟ
