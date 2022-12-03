@@ -415,79 +415,86 @@
 # sent_id = indiccorp1
 # text = കത്തോലിക്കാസഭയുടെ വേദോപദേശത്തിനൊപ്പം നില്‍ക്കുന്നു.
 # translit = kattōlikkāsabhayuṭe vēdōpadēśattinoppaṁ nilkkunnu.
-1	കത്തോലിക്കാസഭയുടെ	കത്തോലിക്കാസഭയുടെ	ADV	_	_	3	nsubj	_	Translit=kattōlikkāsabhayuṭe|LTranslit=kattōlikkāsabhayuṭe
-2	വേദോപദേശത്തിനൊപ്പം	വേദോപദേശത്തിനൊപ്പം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	3	obj	_	Translit=vēdōpadēśattinoppaṁ|LTranslit=vēdōpadēśattinoppaṁ
+1	കത്തോലിക്കാസഭയുടെ	കത്തോലിക്കാസഭ	NOUN	_	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	_	Translit=kattōlikkāsabhayuṭe|LTranslit=kattōlikkāsabhayuṭe
+2	വേദോപദേശത്തിനൊപ്പം	വേദോപദേശം	NOUN	_	Animacy=Inan|Case=Com|Number=Sing	3	obl	_	Translit=vēdōpadēśattinoppaṁ|LTranslit=vēdōpadēśattinoppaṁ
 3	നില്‍ക്കുന്നു	നില്‍ക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=nilkkunnu|LTranslit=nilkkuka
 4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
+# newdoc
+# newpar
 # sent_id = indiccorp2
 # text = അറിയിപ്പുകൾക്കായി വിദ്യാർഥികൾ വെബ്സൈറ്റ് സ്ഥിരമായി പരിശോധിക്കണം.
 # translit = aṟiyippukaḷ̕kkāyi vidyāṟ̕thikaḷ̕ vebsaiṟṟ sthiramāyi pariśōdhikkaṇaṁ.
-1	അറിയിപ്പുകൾക്കായി	അറിയിപ്പുകൾക്കായുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	nsubj	_	Translit=aṟiyippukaḷ̕kkāyi|LTranslit=aṟiyippukaḷ̕kkāyuka
-2	വിദ്യാർഥികൾ	വിദ്യാർഥികൾ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=vidyāṟ̕thikaḷ̕|LTranslit=vidyāṟ̕thikaḷ̕
-3	വെബ്സൈറ്റ്	വെബ്സൈറ്റ്	ADV	_	_	4	advmod	_	Translit=vebsaiṟṟ|LTranslit=vebsaiṟṟ
-4	സ്ഥിരമായി	സ്ഥിരമായുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=sthiramāyi|LTranslit=sthiramāyuka
-5	പരിശോധിക്കണം	പരിശോധിക്കണം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	punct	_	SpaceAfter=No|Translit=pariśōdhikkaṇaṁ|LTranslit=pariśōdhikkaṇaṁ
-6	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
+# text_en = Students should check the website regularly for notifications.
+1	അറിയിപ്പുകൾക്കായി	അറിയിപ്പ്	NOUN	_	Animacy=Inan|Case=Ben|Number=Plur	5	obl	_	Translit=aṟiyippukaḷ̕kkāyi|LTranslit=aṟiyippukaḷ̕kkāyuka
+2	വിദ്യാർഥികൾ	വിദ്യാർഥി	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur	5	nsubj	_	Translit=vidyāṟ̕thikaḷ̕|LTranslit=vidyāṟ̕thikaḷ̕
+3	വെബ്സൈറ്റ്	വെബ്സൈറ്റ്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=vebsaiṟṟ|LTranslit=vebsaiṟṟ
+4	സ്ഥിരമായി	സ്ഥിരം	ADV	_	_	5	advmod	_	Translit=sthiramāyi|LTranslit=sthiramāyuka
+5	പരിശോധിക്കണം	പരിശോധിക്കക	VERB	_	Mood=Nec|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=pariśōdhikkaṇaṁ|LTranslit=pariśōdhikkaṇaṁ
+6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
+# newdoc
+# newpar
 # sent_id = indiccorp3
 # text = മാധ്യമരംഗത്തേക്ക് വരുന്ന സ്ത്രീകള്‍ കൃത്യമായ നിലപാടുകളുള്ളവരാണ്.
 # translit = mādhyamaraṁgattēkk varunna strīkaḷ kr̥tyamāya nilapāṭukaḷuḷḷavarāṇ.
-1	മാധ്യമരംഗത്തേക്ക്	മാധ്യമരംഗത്തേ	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=2|PronType=Prs	5	nmod:poss	_	Translit=mādhyamaraṁgattēkk|LTranslit=mādhyamaraṁgattē
-2	വരുന്ന	വരുന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	nsubj	_	Translit=varunna|LTranslit=varunna
-3	സ്ത്രീകള്‍	സ്ത്രീകള്‍	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	det	_	Translit=strīkaḷ|LTranslit=strīkaḷ
+# text_en = Women who come to the media field have definite attitudes.
+1	മാധ്യമരംഗത്തേക്ക്	മധ്യമരംഗം	NOUN	_	Animacy=Inan|Case=All|Number=Plur	5	obl	_	Translit=mādhyamaraṁgattēkk|LTranslit=mādhyamaraṁgattē
+2	വരുന്ന	വരുക	ADJ	_	_	3	amod	_	Translit=varunna|LTranslit=varunna
+3	സ്ത്രീകള്‍	സ്ത്രീ	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur	5	nsubj	_	Translit=strīkaḷ|LTranslit=strīkaḷ
 4	കൃത്യമായ	കൃത്യം	ADJ	_	_	5	amod	_	Translit=kr̥tyamāya|LTranslit=kr̥tyaṁ
 5-6	നിലപാടുകളുള്ളവരാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=nilapāṭukaḷuḷḷavarāṇ
-5	നിലപാടുകളുള്ളവര്	നിലപാടുകളുള്ളവര്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=nilapāṭukaḷuḷḷavar|LTranslit=nilapāṭukaḷuḷḷavar
+5	നിലപാടുകളുള്ളവര്	നിലപാടുകളുള്ളവര്	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur	0	root	_	Translit=nilapāṭukaḷuḷḷavar|LTranslit=nilapāṭukaḷuḷḷavar
 6	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	Translit=āṇ|LTranslit=āk
 7	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp4
 # text = വിപ്ലവകാരികള്‍ നശിപ്പിച്ച ക്രിസ്റ്റ്യന്‍ ദേവാലയങ്ങള്‍ പിന്നീട് അവര്‍തന്നെ യുക്തിദേവതാ ആരാധനയ്ക്കുള്ള അള്‍ത്താരയാക്കി മാറ്റുകയും ചെയ്തു.
 # translit = viplavakārikaḷ naśippicca krisṟṟyan dēvālayaṅṅaḷ pinnīṭ avartanne yuktidēvatā ārādhanaykkuḷḷa aḷttārayākki māṟṟukayuṁ ceytu.
-1	വിപ്ലവകാരികള്‍	വിപ്ലവകാരികള്‍	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=viplavakārikaḷ|LTranslit=viplavakārikaḷ
-2	നശിപ്പിച്ച	നശിപ്പിച്ച	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=naśippicca|LTranslit=naśippicca
-3	ക്രിസ്റ്റ്യന്‍	ക്രിസ്റ്റ്യന്‍	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=krisṟṟyan|LTranslit=krisṟṟyan
-4	ദേവാലയങ്ങള്‍	ദേവാലയങ്ങള്‍	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	obj	_	Translit=dēvālayaṅṅaḷ|LTranslit=dēvālayaṅṅaḷ
-5	പിന്നീട്	പിന്നീട്	ADP	_	_	12	nsubj	_	Translit=pinnīṭ|LTranslit=pinnīṭ
+1	വിപ്ലവകാരികള്‍	വിപ്ലവകാരി	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur	12	nsubj	_	Translit=viplavakārikaḷ|LTranslit=viplavakārikaḷ
+2	നശിപ്പിച്ച	നശിപ്പിക്കുക	ADJ	_	_	12	amod	_	Translit=naśippicca|LTranslit=naśippicca
+3	ക്രിസ്റ്റ്യന്‍	ക്രിസ്റ്റ്യന്‍	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	12	compound	_	Translit=krisṟṟyan|LTranslit=krisṟṟyan
+4	ദേവാലയങ്ങള്‍	ദേവാലയം	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	12	obj	_	Translit=dēvālayaṅṅaḷ|LTranslit=dēvālayaṅṅaḷ
+5	പിന്നീട്	പിന്നീട്	ADV	_	_	12	advmod	_	Translit=pinnīṭ|LTranslit=pinnīṭ
 6	അവര്‍തന്നെ	അവര്‍തന്നെ	ADV	_	_	12	advmod	_	Translit=avartanne|LTranslit=avartanne
-7	യുക്തിദേവതാ	യുക്തിദേവതാ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=yuktidēvatā|LTranslit=yuktidēvatā
-8	ആരാധനയ്ക്കുള്ള	ആരാധനയ്ക്കുള്ള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=ārādhanaykkuḷḷa|LTranslit=ārādhanaykkuḷḷa
-9	അള്‍ത്താരയാക്കി	അള്‍ത്താരയാക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	12	nsubj	_	Translit=aḷttārayākki|LTranslit=aḷttārayākkuka
+7	യുക്തിദേവതാ	യുക്തിദേവതാ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	12	nsubj	_	Translit=yuktidēvatā|LTranslit=yuktidēvatā
+8	ആരാധനയ്ക്കുള്ള	ആരാധനയ്ക്കുള്ള	ADJ	_	_	12	nsubj	_	Translit=ārādhanaykkuḷḷa|LTranslit=ārādhanaykkuḷḷa
+9	അള്‍ത്താരയാക്കി	അള്‍ത്താരയാക്കുക	ADV	_	_	12	nsubj	_	Translit=aḷttārayākki|LTranslit=aḷttārayākkuka
 10-11	മാറ്റുകയും	_	_	_	_	_	_	_	Translit=māṟṟukayuṁ
 10	മാറ്റുക	മാറ്റുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	obj	_	Translit=māṟṟuka|LTranslit=māṟṟuka
 11	ഉം	ഉം	PART	_	_	12	obj	_	Translit=uṁ|LTranslit=uṁ
-12	ചെയ്തു	ചെയ്തു	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=ceytu|LTranslit=ceytu
+12	ചെയ്തു	ചെയ്യുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=ceytu|LTranslit=ceytu
 13	.	.	PUNCT	_	_	12	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp5
 # text = രാഷ്ട്രപതി അംഗീകരിച്ചില്ലെങ്കില്‍ സുപ്രീം കോടതിയെ സമീപിക്കാനും തീരുമാനം.
 # translit = rāṣṭrapati aṁgīkariccilleṅkil suprīṁ kōṭatiye samīpikkānuṁ tīrumānaṁ.
-1	രാഷ്ട്രപതി	രാഷ്ട്രപതി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	7	nsubj	_	Translit=rāṣṭrapati|LTranslit=rāṣṭrapati
-2	അംഗീകരിച്ചില്ലെങ്കില്‍	അംഗീകരിച്ചില്ലെങ്കില്‍	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	3	nmod:poss	_	Translit=aṁgīkariccilleṅkil|LTranslit=aṁgīkariccilleṅkil
-3	സുപ്രീം	സുപ്രീം	PART	_	_	7	nsubj	_	Translit=suprīṁ|LTranslit=suprīṁ
-4	കോടതിയെ	കോടതിയെ	ADV	_	_	7	advmod	_	Translit=kōṭatiye|LTranslit=kōṭatiye
+1	രാഷ്ട്രപതി	രാഷ്ട്രപതി	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	7	nsubj	_	Translit=rāṣṭrapati|LTranslit=rāṣṭrapati
+2	അംഗീകരിച്ചില്ലെങ്കില്‍	അംഗീകരിക്കക	VERB	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=aṁgīkariccilleṅkil|LTranslit=aṁgīkariccilleṅkil
+3	സുപ്രീം	സുപ്രീം	NOUN	_	_	4	compound	_	Translit=suprīṁ|LTranslit=suprīṁ
+4	കോടതിയെ	കോടതി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	7	advmod	_	Translit=kōṭatiye|LTranslit=kōṭatiye
 5-6	സമീപിക്കാനും	_	_	_	_	_	_	_	Translit=samīpikkānuṁ
-5	സമീപിക്കാന	സമീപിക്കാന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	7	nsubj	_	Translit=samīpikkāna|LTranslit=samīpikkāna
-6	ഉം	ഉം	PART	_	_	7	obj	_	Translit=uṁ|LTranslit=uṁ
-7	തീരുമാനം	തീരുമാനം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=tīrumānaṁ|LTranslit=tīrumānaṁ
+5	സമീപിക്കാന	സമീപിക്കക	VERB	_	VerbForm=Inf	7	nsubj	_	Translit=samīpikkāna|LTranslit=samīpikkāna
+6	ഉം	ഉം	PART	_	_	5	cc	_	Translit=uṁ|LTranslit=uṁ
+7	തീരുമാനം	തീരുമാനം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=tīrumānaṁ|LTranslit=tīrumānaṁ
 8	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
+# newdoc
+# newpar
 # sent_id = indiccorp6
-# text = കബാലിക്ക് പിന്നാലെ ആകാശം തൊടുന്ന പ്രമോഷനുമായി ദര്‍ബാറും എത്തിയിരിക്കുകയാണ്.
+# text = കബാലിക്ക് പിന്നാലെ ആകാശം തൊടുന്ന പ്രമോഷനുമായി ദര്‍ബാറും എത്തിയിരിക്കുകയ് .
 # translit = kabālikk pinnāle ākāśaṁ toṭunna pramōṣanumāyi darbāṟuṁ ettiyirikkukayāṇ.
-1	കബാലിക്ക്	കബാലിക്ക്	ADV	_	_	5	nsubj	_	Translit=kabālikk|LTranslit=kabālikk
-2	പിന്നാലെ	പിന്നാലെ	ADV	_	_	5	advmod	_	Translit=pinnāle|LTranslit=pinnāle
-3	ആകാശം	ആകാശം	NOUN	_	Case=Acc|Number=Sing	5	nsubj	_	Translit=ākāśaṁ|LTranslit=ākāśaṁ
-4	തൊടുന്ന	തൊടുന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	nsubj	_	Translit=toṭunna|LTranslit=toṭunna
-5	പ്രമോഷനുമായി	പ്രമോഷനുമായുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=pramōṣanumāyi|LTranslit=pramōṣanumāyuka
+# text_en = After Kabali, Darbar has come up with sky-high promotions.
+1	കബാലിക്ക്	കബാലിക്ക്	NOUN	_	Animacy=Inam|Case=Dat|Number=Sing	8	obl	_	Translit=kabālikk|LTranslit=kabālikk
+2	പിന്നാലെ	പിന്നാലെ	ADP	_	_	1	case	_	Translit=pinnāle|LTranslit=pinnāle
+3	ആകാശം	ആകാശം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	compound	_	Translit=ākāśaṁ|LTranslit=ākāśaṁ
+4	തൊടുന്ന	തൊടുന്ന	ADJ	_	_	5	compound	_	Translit=toṭunna|LTranslit=toṭunna
+5	പ്രമോഷനുമായി	പ്രമോഷൻ	NOUN	_	Animacy=Inan|Case=Com|Number=Sing	8	obl	_	Translit=pramōṣanumāyi|LTranslit=pramōṣanumāyuka
 6-7	ദര്‍ബാറും	_	_	_	_	_	_	_	Translit=darbāṟuṁ
-6	ദര്‍ബാർ	ദര്‍ബാർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	8	nsubj	_	Translit=darbāṟ̕|LTranslit=darbāṟ̕
+6	ദര്‍ബാർ	ദര്‍ബാർ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	8	nsubj	_	Translit=darbāṟ̕|LTranslit=darbāṟ̕
 7	ഉം	ഉം	PART	_	_	6	cc	_	Translit=uṁ|LTranslit=uṁ
-8-9	എത്തിയിരിക്കുകയാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ettiyirikkukayāṇ
-8	എത്തിയിരിക്കുകയ്	എത്തിയിരിക്കുകയ്	ADV	_	_	5	punct	_	Translit=ettiyirikkukay|LTranslit=ettiyirikkukay
-9	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	punct	_	Translit=āṇ|LTranslit=āk
-10	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
+8	എത്തിയിരിക്കുകയ്	എത്തുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=ettiyirikkukay|LTranslit=ettiyirikkukay
+9	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp7
 # text = ഉള്ളതൊക്കെ പരസ്പരം മത്സരിച്ച് കുറേപ്പേര്‍കൂടി നശിപ്പിക്കുകയും ചെയ്തു.
@@ -698,20 +705,24 @@
 13	സജ്ജിവമായിക്കഴിഞ്ഞു	സജ്ജിവമായിക്കഴിഞ്ഞു	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=sajjivamāyikkaḻiññu|LTranslit=sajjivamāyikkaḻiññu
 14	.	.	PUNCT	_	_	13	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
+# newdoc
+# newpar
 # sent_id = indiccorp18
-# text = രസം സുഖകരമായ ചലനാത്മകമായ ആണ്.
+# text = രസം സുഖകരമായ ചലനാത്മകമായ ആണ് .
 # translit = rasaṁ sukhakaramāya calanātmakamāya āṇ.
-1	രസം	രസം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	nsubj	_	Translit=rasaṁ|LTranslit=rasaṁ
-2	സുഖകരമായ	സുഖകരം	ADJ	_	_	4	det	_	Translit=sukhakaramāya|LTranslit=sukhakaraṁ
-3	ചലനാത്മകമായ	ചലനാത്മകം	ADJ	_	_	4	amod	_	Translit=calanātmakamāya|LTranslit=calanātmakaṁ
-4-5	ആണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=āṇ
-4	ആ	ആ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=ā|LTranslit=ā
-5	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=āṇ|LTranslit=āk
-6	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
+# text_en = The flavor is pleasantly dynamic.
+1	രസം	രസം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=rasaṁ|LTranslit=rasaṁ
+2	സുഖകരമായ	സുഖകരം	ADJ	_	_	3	amod	_	Translit=sukhakaramāya|LTranslit=sukhakaraṁ
+3	ചലനാത്മകമായ	ചലനാത്മകം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=calanātmakamāya|LTranslit=calanātmakaṁ
+4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	Translit=āṇ|LTranslit=āk
+5	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
+# newdoc
+# newpar
 # sent_id = indiccorp19
-# text = ഇതിന്റെ തുടർച്ചയെന്നോണം ഉപയോക്താക്കളെ അസിസ്റ്റന്റുമായി കൂടുതൽ ബന്ധിപ്പിക്കാനാണ‌് പുതിയ സംവിധാനത്തിലൂടെ ഗൂഗിൾ ലക്ഷ്യമിടുന്നത‌്.
+# text = ഇതിന്റെ തുടർച്ചയെന്നോണം ഉപയോക്താക്കളെ അസിസ്റ്റന്റുമായി കൂടുതൽ ബന്ധിപ്പിക്കാനാണ‌്  പുതിയ സംവിധാനത്തിലൂടെ ഗൂഗിൾ ലക്ഷ്യമിടുന്നത‌്.
 # translit = itinṟe tuṭaṟ̕ccayennōṇaṁ upayōktākkaḷe asisṟṟanṟumāyi kūṭutal̕ bandhippikkānāṇa് putiya saṁvidhānattilūṭe gūgiḷ̕ lakṣyamiṭunnata്.
+# text_en = As a continuation of this, Google aims to connect users more with the assistant through the new system.
 1	ഇതിന്റെ	ഇതീ	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	Translit=itinṟe|LTranslit=itī
 2	തുടർച്ചയെന്നോണം	തുടർച്ചയെന്നോണം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	nsubj	_	Translit=tuṭaṟ̕ccayennōṇaṁ|LTranslit=tuṭaṟ̕ccayennōṇaṁ
 3	ഉപയോക്താക്കളെ	ഉപയോക്താക്കളെ	ADV	_	_	4	advmod	_	Translit=upayōktākkaḷe|LTranslit=upayōktākkaḷe
@@ -742,15 +753,18 @@
 13	ശുപാർശ	ശുപാർശ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	punct	_	SpaceAfter=No|Translit=śupāṟ̕śa|LTranslit=śupāṟ̕śa
 14	.	.	PUNCT	_	_	12	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
+# newdoc
+# newpar
 # sent_id = indiccorp21
 # text = തൊണ്ണൂറു ശതമാനം വലകള്‍ക്കും നഷ്ടപരിഹാരം അനുവദിച്ചതാണ്.
 # translit = toṇṇūṟu śatamānaṁ valakaḷkkuṁ naṣṭaparihāraṁ anuvadiccatāṇ.
+# text_en = Ninety percent of the nets were compensated.
 1	തൊണ്ണൂറു	തൊണ്ണൂറു	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	5	nsubj	_	Translit=toṇṇūṟu|LTranslit=toṇṇūṟu
 2	ശതമാനം	ശതമാനം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	nsubj	_	Translit=śatamānaṁ|LTranslit=śatamānaṁ
 3-4	വലകള്‍ക്കും	_	_	_	_	_	_	_	Translit=valakaḷkkuṁ
 3	വലകള്‍ക്ക	വലകള്‍ക്ക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=valakaḷkka|LTranslit=valakaḷkka
 4	ഉം	ഉം	PART	_	_	3	cc	_	Translit=uṁ|LTranslit=uṁ
-5	നഷ്ടപരിഹാരം	നഷ്ടപരിഹാരം	ADV	_	_	0	root	_	Translit=naṣṭaparihāraṁ|LTranslit=naṣṭaparihāraṁ
+5	നഷ്ടപരിഹാരം	നഷ്ടപരിഹാരം	NOUN	_	_	0	root	_	Translit=naṣṭaparihāraṁ|LTranslit=naṣṭaparihāraṁ
 6-7	അനുവദിച്ചതാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=anuvadiccatāṇ
 6	അനുവദിച്ചത്	അനുവദിച്ചത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	Translit=anuvadiccat|LTranslit=anuvadiccat
 7	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	punct	_	Translit=āṇ|LTranslit=āk
@@ -788,15 +802,16 @@
 24	ഉണ്ടാകുന്നത്	ഉണ്ടാകുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	0	root	_	SpaceAfter=No|Translit=uṇṭākunnat|LTranslit=uṇṭākuka
 25	.	.	PUNCT	_	_	24	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
+# newdoc
+# newpar
 # sent_id = indiccorp23
-# text = തറ ടൈല്‍സ് പാകും.
+# text = തറ ടൈല്‍സ് പാകും .
 # translit = taṟa ṭails pākuṁ.
-1	തറ	തറ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	nsubj	_	Translit=taṟa|LTranslit=taṟa
-2	ടൈല്‍സ്	ടൈല്‍സ്	ADV	_	_	4	advmod	_	Translit=ṭails|LTranslit=ṭails
-3-4	പാകും	_	_	_	_	_	_	_	SpaceAfter=No|Translit=pākuṁ
-3	പാക	പാക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit=pāka|LTranslit=pāka
-4	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
-5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
+# text_en = The floor will be tiled.
+1	തറ	തറ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=taṟa|LTranslit=taṟa
+2	ടൈല്‍സ്	ടൈല്‍സ്	ADV	_	_	3	obj	_	Translit=ṭails|LTranslit=ṭails
+3	പാകും	പകുക്ക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Translit=pāka|LTranslit=pāka
+4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp24
 # text = ധോണിക്കൊപ്പം റായ് ലക്ഷ്മി; പ്രതികരണവുമായി താരം
@@ -880,7 +895,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp30
-# text = അനുജന് കളിക്കാന്‍ ബൈക്കുകള്‍ നിര്‍മിച്ചു നല്‍കി യായിരുന്നു തുടക്കം.
+# text = അനുജന് കളിക്കാന്‍  ബൈക്കുകള്‍ നിര്‍മിച്ചു നല്‍കി യായിരുന്നു തുടക്കം.
 # translit = anujan kaḷikkān baikkukaḷ nirmiccu nalki yāyirunnu tuṭakkaṁ.
 1	അനുജന്	അനുജന്	ADV	_	_	2	advmod	_	Translit=anujan|LTranslit=anujan
 2	കളിക്കാന്‍	കളിക്കാന്‍	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	8	nsubj	_	SpacesAfter= \s|Translit=kaḷikkān|LTranslit=kaḷikkān
@@ -1003,7 +1018,7 @@
 11	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp36
-# text = പാകിസ്ഥാൻ നിയമപ്രകാരം കാനഡയിലുള്ള തന്‍റെ ട്വിറ്റര് സെൻസർ ചെയ്തതിൽ പ്രകോപിതനായ എസ്രാ കടുത്ത ഭാഷയിലാണ് മന്ത്രിയെ വിമർശിച്ചത്.
+# text = പാകിസ്ഥാൻ നിയമപ്രകാരം കാനഡയിലുള്ള തന്‍റെ  ട്വിറ്റര് സെൻസർ ചെയ്തതിൽ പ്രകോപിതനായ എസ്രാ കടുത്ത ഭാഷയിലാണ് മന്ത്രിയെ വിമർശിച്ചത്.
 # translit = pākisthān̕ niyamaprakāraṁ kānaḍayiluḷḷa tanṟe ṭviṟṟar sen̕saṟ̕ ceytatil̕ prakōpitanāya esrā kaṭutta bhāṣayilāṇ mantriye vimaṟ̕śiccat.
 1	പാകിസ്ഥാൻ	പാകിസ്ഥാൻ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Translit=pākisthān̕|LTranslit=pākisthān̕
 2	നിയമപ്രകാരം	നിയമപ്രകാരം	NOUN	_	Case=Acc|Number=Sing	3	nmod:poss	_	Translit=niyamaprakāraṁ|LTranslit=niyamaprakāraṁ
@@ -1782,6 +1797,8 @@
 25	പ്രതികരിച്ചു	പ്രതികരിക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=pratikariccu|LTranslit=pratikarikkuka
 26	.	.	PUNCT	_	_	25	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
+# newdoc
+# newpar
 # sent_id = indiccorp70
 # text = ജി-സീരീസ് ട്രക്കുകൾ "സ്ചനിഅ" - കൂടുതൽ ഖര ഓപ്ഷൻ ഉണ്ട്.
 # translit = ji-sīrīs ṭrakkukaḷ̕ "scania" - kūṭutal̕ khara ōpṣan̕ uṇṭ.
@@ -2174,7 +2191,7 @@
 2	/22	/22	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	3	nmod:poss	_	SpaceAfter=No|Translit=/22|LTranslit=/22
 3	/2019	/2019	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	nsubj	_	Translit=/2019|LTranslit=/2019
 4	-	-	PUNCT	_	_	6	advmod	_	Translit=-|LTranslit=-
-5	05	05	NUM	_	_	6	advmod	_	SpaceAfter=No|Translit=05|LTranslit=05
+5	05	05	NUM	_	_	6	advmod	_	SpaceAfter=No|Translit=5|LTranslit=5
 6	:45	:45	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpacesAfter=\n|Translit=:45|LTranslit=:45
 
 # sent_id = indiccorp95
