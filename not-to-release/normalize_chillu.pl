@@ -34,13 +34,14 @@ sub normalize_chillu
     $x =~ s/\x{D34}\x{D4D}\x{200D}/\x{D56}/g; # chillu lll
     $x =~ s/\x{D23}\x{D4D}\x{200D}/\x{D7A}/g; # chillu nn
     $x =~ s/\x{D28}\x{D4D}\x{200D}/\x{D7B}/g; # chillu n
+    $x =~ s/\x{D30}\x{D4D}\x{200D}/\x{D7C}/g; # chillu rr
     $x =~ s/\x{D31}\x{D4D}\x{200D}/\x{D7C}/g; # chillu rr
     $x =~ s/\x{D32}\x{D4D}\x{200D}/\x{D7D}/g; # chillu l
     $x =~ s/\x{D33}\x{D4D}\x{200D}/\x{D7E}/g; # chillu ll
     $x =~ s/\x{D15}\x{D4D}\x{200D}/\x{D7F}/g; # chillu k
     if($x =~ m/(.)?\x{D4D}\x{200D}/)
     {
-        my $code = uc(hex(ord($1)));
+        my $code = sprintf("%X", ord($1));
         print STDERR ("WARNING: Cannot handle string '$1\x{D4D}\x{200D}' (\\x{$code} followed by viram and zero width joiner).\n");
     }
     return $x;
