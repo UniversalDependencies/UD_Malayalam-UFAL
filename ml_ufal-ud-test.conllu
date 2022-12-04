@@ -391,7 +391,7 @@
 # translit = atāṇ̕ en̕ṟe vīṭ.
 # text_en = That is my house.
 1-2	അതാൺ	_	_	_	_	_	_	_	Translit=atāṇ̕
-1	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Sing|Person=3|PronType=Prs	4	det	_	Translit=at|LTranslit=at
+1	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	det	_	Translit=at|LTranslit=at
 2	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=āṇ|LTranslit=āk
 3	എൻറെ	ഞാൻ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	Translit=en̕ṟe|LTranslit=ñān̕
 4	വീട്	വീട്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=vīṭ|LTranslit=vīṭ
@@ -1151,7 +1151,7 @@
 # sent_id = indiccorp41
 # text = അത് ചെയ്യുന്നത് ആരായാലും അവരെ നിയമത്തിന്റെ മുന്നിൽ കൊണ്ടുവരണം എന്നും പ്രസ്താവനയിൽ ആവശ്യപ്പെടുന്നു.
 # translit = at ceyyunnat ārāyāluṁ avare niyamattinṟe munnil̕ koṇṭuvaraṇaṁ ennuṁ prastāvanayil̕ āvaśyappeṭunnu.
-1	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=at|LTranslit=at
+1	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=at|LTranslit=at
 2	ചെയ്യുന്നത്	ചെയ്യുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	12	nsubj	_	Translit=ceyyunnat|LTranslit=ceyyuka
 3-4	ആരായാലും	_	_	_	_	_	_	_	Translit=ārāyāluṁ
 3	ആരായാല	ആരായാല	ADJ	_	_	12	nsubj	_	Translit=ārāyāla|LTranslit=ārāyāla
