@@ -33,7 +33,7 @@
   <feats unique="45">
     <feat name="Animacy" value="Anim" upos="NOUN,PRON,PROPN">82</feat><!-- പീറ്റർ, മേരി, വിദ്യാർത്ഥി, നല്ലത്, പി, രാജ്യത്തിന്, അച്ഛനേക്കാൾ, അച്ഛൻ, അധികമായി, അയൽക്കാരൻ -->
     <feat name="Animacy" value="Inam" upos="NOUN">1</feat><!-- കബാലിക്ക് -->
-    <feat name="Animacy" value="Inan" upos="NOUN,PRON,PROPN,VERB">440</feat><!-- ഇത്, എന്ന, കൂടുതൽ, അതിനാൽ, അത്, ഓരോ, കഴിഞ്ഞ, ബൈക്ക്, അല്ലെങ്കിൽ, എന്നാൽ -->
+    <feat name="Animacy" value="Inan" upos="NOUN,PRON,PROPN,VERB">443</feat><!-- ഇത്, എന്ന, കൂടുതൽ, അതിനാൽ, അത്, എന്ത്, ഓരോ, കഴിഞ്ഞ, ബൈക്ക്, അല്ലെങ്കിൽ -->
     <feat name="Aspect" value="Imp" upos="VERB">92</feat><!-- ബി, കരുതുന്നു, ചെയ്തു, ജി, തുടങ്ങി, തുടർച്ചയായി, വാങ്ങി, ഷഷ്ഠി, അടിച്ചു, അറസ്റ്റിലായി -->
     <feat name="Aspect" value="Prog" upos="VERB">3</feat><!-- കളിക്കുകയാൺ, ചീകിക്കൊണ്ടിരിക്കണം, പെയ്യുകയാണ് -->
     <feat name="Case" value="Acc" upos="NOUN,PROPN,VERB">395</feat><!-- എന്ന, കൂടുതൽ, അതിനാൽ, ഓരോ, കഴിഞ്ഞ, ബൈക്ക്, വിദ്യാർത്ഥി, എന്നാൽ, എല്ലാ, കാർ -->
