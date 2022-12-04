@@ -55,7 +55,7 @@
 # text = സാം, ജനൽ തുറക്കൂ!
 # translit = sāṁ, janal̕ tuṟakkū!
 # text_en = Sam, open the window!
-1	സാം	സാം	PROPN	_	Animacy=Anim|Case=Nom	4	vocative	_	SpaceAfter=No|Translit=sāṁ|LTranslit=sāṁ
+1	സാം	സാം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	4	vocative	_	SpaceAfter=No|Translit=sāṁ|LTranslit=sāṁ
 2	,	,	PUNCT	_	_	1	punct	_	Translit=,|LTranslit=,
 3	ജനൽ	ജനൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit=janal̕|LTranslit=janal̕
 4	തുറക്കൂ	തുറക്കുക	VERB	_	Mood=Imp|Polarity=Pos|Polite=Form|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=tuṟakkū|LTranslit=tuṟakkuka
@@ -78,7 +78,7 @@
 # text = പീറ്ററിന്റെ അയൽക്കാരൻ വേലിക്ക് ചുവപ്പ് നിറം അടിച്ചു.
 # translit = pīṟṟaṟinṟe ayal̕kkāran̕ vēlikk cuvapp niṟaṁ aṭiccu.
 # text_en = Peter’s neighbor painted the fence red.
-1	പീറ്ററിന്റെ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Gen	2	nmod:poss	_	Translit=pīṟṟaṟinṟe|LTranslit=pīṟṟaṟ̕
+1	പീറ്ററിന്റെ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Gen|Number=Sing	2	nmod:poss	_	Translit=pīṟṟaṟinṟe|LTranslit=pīṟṟaṟ̕
 2	അയൽക്കാരൻ	അയൽക്കാരൻ	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	6	nsubj	_	Translit=ayal̕kkāran̕|LTranslit=ayal̕kkāran̕
 3	വേലിക്ക്	വേലി	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	6	iobj	_	Translit=vēlikk|LTranslit=vēli
 4	ചുവപ്പ്	ചുവപ്പ്	ADJ	_	_	5	amod	_	Translit=cuvapp|LTranslit=cuvapp
@@ -634,7 +634,7 @@
 # sent_id = indiccorp13
 # text = തന്മൂലം മറ്റ്‌ ജനങ്ങളുമായി സഹവർത്തിത്വം ഇല്ലാതെവരുന്നു.
 # translit = tanmūlaṁ maṟṟ janaṅṅaḷumāyi sahavaṟ̕ttitvaṁ illātevarunnu.
-1	തന്മൂലം	തന്മൂലം	PROPN	_	Animacy=Anim|Case=Nom	2	nmod:poss	_	Translit=tanmūlaṁ|LTranslit=tanmūlaṁ
+1	തന്മൂലം	തന്മൂലം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	2	nmod:poss	_	Translit=tanmūlaṁ|LTranslit=tanmūlaṁ
 2	മറ്റ്‌	മറ്റ്‌	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	nsubj	_	Translit=maṟṟ|LTranslit=maṟṟ
 3	ജനങ്ങളുമായി	ജനങ്ങളുമായുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	5	advmod	_	Translit=janaṅṅaḷumāyi|LTranslit=janaṅṅaḷumāyuka
 4	സഹവർത്തിത്വം	സഹവർത്തിത്വം	NOUN	_	Case=Acc|Number=Sing	5	nsubj	_	Translit=sahavaṟ̕ttitvaṁ|LTranslit=sahavaṟ̕ttitvaṁ
@@ -1070,7 +1070,7 @@
 # sent_id = indiccorp38
 # text = പ്രളയം: ഹംപി ഹെറിറ്റേജ് സൈറ്റിൽ കുടുങ്ങിയ വിനോദസഞ്ചാരികളെ രക്ഷപ്പെടുത്തി
 # translit = praḷayaṁ: haṁpi heṟiṟṟēj saiṟṟil̕ kuṭuṅṅiya vinōdasañcārikaḷe rakṣappeṭutti
-1	പ്രളയം	പ്രളയം	PROPN	_	Animacy=Anim|Case=Nom	6	nsubj	_	SpaceAfter=No|Translit=praḷayaṁ|LTranslit=praḷayaṁ
+1	പ്രളയം	പ്രളയം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	6	nsubj	_	SpaceAfter=No|Translit=praḷayaṁ|LTranslit=praḷayaṁ
 2	:	:	PUNCT	_	_	6	nsubj	_	Translit=:|LTranslit=:
 3	ഹംപി	ഹംപുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	nsubj	_	Translit=haṁpi|LTranslit=haṁpuka
 4	ഹെറിറ്റേജ്	ഹെറിറ്റേജ്	ADV	_	_	6	nsubj	_	Translit=heṟiṟṟēj|LTranslit=heṟiṟṟēj
@@ -1699,7 +1699,7 @@
 # sent_id = indiccorp66
 # text = ഭൂപരിഷ്‌കരണം, വിദ്യാഭ്യാസത്തിന്റെയും ആരോഗ്യ സംരക്ഷണത്തിന്റെയും വ്യാപനം, വികേന്ദ്രീകൃതാസൂത്രണം, പെൻഷൻ പദ്ധതികൾ, പൊതുവിതരണ സമ്പ്രദായം, കുടുംബശ്രീ, ആസൂത്രണ പദ്ധതികൾ എന്നിവ കേരളത്തിലെ ഗ്രാമനഗര പ്രദേശങ്ങളിലെ ദാരിദ്ര്യത്തിന്റെ തോത് കുറക്കുന്നതിൽ ഫലപ്രദമായ പങ്ക് വഹിച്ചിട്ടുണ്ട്.
 # translit = bhūpariṣkaraṇaṁ, vidyābhyāsattinṟeyuṁ ārōgya saṁrakṣaṇattinṟeyuṁ vyāpanaṁ, vikēndrīkr̥tāsūtraṇaṁ, pen̕ṣan̕ paddhatikaḷ̕, potuvitaraṇa sampradāyaṁ, kuṭuṁbaśrī, āsūtraṇa paddhatikaḷ̕ enniva kēraḷattile grāmanagara pradēśaṅṅaḷile dāridryattinṟe tōt kuṟakkunnatil̕ phalapradamāya paṅk vahicciṭṭuṇṭ.
-1	ഭൂപരിഷ്‌കരണം	ഭൂപരിഷ്‌കരണം	PROPN	_	Animacy=Anim|Case=Nom	31	nmod:poss	_	SpaceAfter=No|Translit=bhūpariṣkaraṇaṁ|LTranslit=bhūpariṣkaraṇaṁ
+1	ഭൂപരിഷ്‌കരണം	ഭൂപരിഷ്‌കരണം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	31	nmod:poss	_	SpaceAfter=No|Translit=bhūpariṣkaraṇaṁ|LTranslit=bhūpariṣkaraṇaṁ
 2	,	,	PUNCT	_	_	31	det	_	Translit=,|LTranslit=,
 3-4	വിദ്യാഭ്യാസത്തിന്റെയും	_	_	_	_	_	_	_	Translit=vidyābhyāsattinṟeyuṁ
 3	വിദ്യാഭ്യാസത്തിന്റെ	വിദ്യാഭ്യാസത്തീ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	31	nsubj	_	Translit=vidyābhyāsattinṟe|LTranslit=vidyābhyāsattī
@@ -1862,7 +1862,7 @@
 # sent_id = indiccorp73
 # text = ഇതിനകം സൂചിപ്പിച്ചതുപോലെ, ധാന്യം - പ്ലാന്റ് പിന്നീട്.
 # translit = itinakaṁ sūcippiccatupōle, dhānyaṁ - plānṟ pinnīṭ.
-1	ഇതിനകം	ഇതിനകം	PROPN	_	Animacy=Anim|Case=Nom	7	nmod:poss	_	Translit=itinakaṁ|LTranslit=itinakaṁ
+1	ഇതിനകം	ഇതിനകം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	7	nmod:poss	_	Translit=itinakaṁ|LTranslit=itinakaṁ
 2	സൂചിപ്പിച്ചതുപോലെ	സൂചിപ്പിച്ചതുപോലെ	ADV	_	_	1	punct	_	SpaceAfter=No|Translit=sūcippiccatupōle|LTranslit=sūcippiccatupōle
 3	,	,	PUNCT	_	_	7	nmod:poss	_	Translit=,|LTranslit=,
 4	ധാന്യം	ധാന്യം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	7	nsubj	_	Translit=dhānyaṁ|LTranslit=dhānyaṁ
@@ -1926,7 +1926,7 @@
 # sent_id = indiccorp77
 # text = രക്ഷാപ്രവർത്തനം കാണാനും ആളുകൾ തടിച്ചുകൂടരുതെന്ന് പോലിസ് അറിയിച്ചു.
 # translit = rakṣāpravaṟ̕ttanaṁ kāṇānuṁ āḷukaḷ̕ taṭiccukūṭarutenn pōlis aṟiyiccu.
-1	രക്ഷാപ്രവർത്തനം	രക്ഷാപ്രവർത്തനം	PROPN	_	Animacy=Anim|Case=Nom	8	nsubj	_	Translit=rakṣāpravaṟ̕ttanaṁ|LTranslit=rakṣāpravaṟ̕ttanaṁ
+1	രക്ഷാപ്രവർത്തനം	രക്ഷാപ്രവർത്തനം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	8	nsubj	_	Translit=rakṣāpravaṟ̕ttanaṁ|LTranslit=rakṣāpravaṟ̕ttanaṁ
 2-3	കാണാനും	_	_	_	_	_	_	_	Translit=kāṇānuṁ
 2	കാണാന	കാണാന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	8	nsubj	_	Translit=kāṇāna|LTranslit=kāṇāna
 3	ഉം	ഉം	PART	_	_	8	nsubj	_	Translit=uṁ|LTranslit=uṁ
@@ -1941,7 +1941,7 @@
 # sent_id = indiccorp78
 # text = കോട്ടയം : സുവിശേഷ വത്‌ക്കരം ദൗത്യം ഓരോ വിശ്വാസിയുടെയും അവകാശവും ഉത്തരവാദിത്വവുമാണെന്ന്‌ പപ്പുവാ ന്യൂ ഗിനിയ അപ്പസ്‌തോലിക്‌ ന്യൂൺഷ്യോ ആർച്ചുബിഷപ്പ്‌ മാർ കുര്യൻ വയലുങ്കൽ.
 # translit = kōṭṭayaṁ : suviśēṣa vatkkaraṁ dautyaṁ ōrō viśvāsiyuṭeyuṁ avakāśavuṁ uttaravāditvavumāṇenn pappuvā nyū giniya appastōlik nyūṇ̕ṣyō āṟ̕ccubiṣapp māṟ̕ kuryan̕ vayaluṅkal̕.
-1	കോട്ടയം	കോട്ടയം	PROPN	_	Animacy=Anim|Case=Nom	20	nmod:poss	_	Translit=kōṭṭayaṁ|LTranslit=kōṭṭayaṁ
+1	കോട്ടയം	കോട്ടയം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	20	nmod:poss	_	Translit=kōṭṭayaṁ|LTranslit=kōṭṭayaṁ
 2	:	:	PUNCT	_	_	20	nmod:poss	_	Translit=:|LTranslit=:
 3	സുവിശേഷ	സുവിശേഷ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	20	nsubj	_	Translit=suviśēṣa|LTranslit=suviśēṣa
 4	വത്‌ക്കരം	വത്‌ക്കരം	ADV	_	_	20	advmod	_	Translit=vatkkaraṁ|LTranslit=vatkkaraṁ
@@ -2012,7 +2012,7 @@
 7	അധികമായി	അധികമായി	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	16	nsubj	_	Translit=adhikamāyi|LTranslit=adhikamāyi
 8	ചെലവഴിച്ച	ചെലവഴിച്ച	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	16	nsubj	_	Translit=celavaḻicca|LTranslit=celavaḻicca
 9	തുകയ്ക്ക്	തുകയ്ക്ക്	ADV	_	_	16	advmod	_	Translit=tukaykk|LTranslit=tukaykk
-10	പാർലമെന്റിന്റെ	പാർലമെന്ർ	PROPN	_	Animacy=Anim|Case=Gen	16	nsubj	_	Translit=pāṟ̕lamenṟinṟe|LTranslit=pāṟ̕lamenṟ̕
+10	പാർലമെന്റിന്റെ	പാർലമെന്ർ	PROPN	_	Animacy=Anim|Case=Gen|Number=Sing	16	nsubj	_	Translit=pāṟ̕lamenṟinṟe|LTranslit=pāṟ̕lamenṟ̕
 11	അനുമതി	അനുമതി	NOUN	_	Animacy=Inan|Case=Acc	16	nsubj	_	Translit=anumati|LTranslit=anumati
 12	നേടിയെടുക്കുന്നതിൽ	നേടിയെടുക്കുന്നതിൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	16	nsubj	_	Translit=nēṭiyeṭukkunnatil̕|LTranslit=nēṭiyeṭukkunnatil̕
 13-14	പരാജയപ്പെട്ടതായും	_	_	_	_	_	_	_	Translit=parājayappeṭṭatāyuṁ
@@ -2133,7 +2133,7 @@
 # sent_id = indiccorp91
 # text = ഗുലാം നബി സഞ്ചരിച്ചിരുന്ന സ്‌കോർപിയോ
 # translit = gulāṁ nabi sañcariccirunna skōṟ̕piyō
-1	ഗുലാം	ഗുലാം	PROPN	_	Animacy=Anim|Case=Nom	4	nsubj	_	Translit=gulāṁ|LTranslit=gulāṁ
+1	ഗുലാം	ഗുലാം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	4	nsubj	_	Translit=gulāṁ|LTranslit=gulāṁ
 2	നബി	നബി	NOUN	_	Animacy=Inan|Case=Acc	4	nsubj	_	Translit=nabi|LTranslit=nabi
 3	സഞ്ചരിച്ചിരുന്ന	സഞ്ചരിച്ചിരുന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit=sañcariccirunna|LTranslit=sañcariccirunna
 4-5	സ്‌കോർപിയോ	_	_	_	_	_	_	_	SpacesAfter=\n|Translit=skōṟ̕piyō
