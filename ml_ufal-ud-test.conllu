@@ -275,7 +275,7 @@
 # text = ഈ കത്ത് പീറ്ററിന്റേതാണ്, അത് ഇന്നലെ കൈമാറി.
 # translit = ī katt pīṟṟaṟinṟētāṇ, at innale kaimāṟi.
 # text_en = This letter is from Peter and it was delivered yesterday.
-1	ഈ	ഈ	PRON	_	Deixis=Prox|PronType=Dem	2	nmod	_	Translit=ī|LTranslit=ī
+1	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	2	nmod	_	Translit=ī|LTranslit=ī
 2	കത്ത്	കത്ത്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	Translit=katt|LTranslit=katt
 3-4	പീറ്ററിന്റേതാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=pīṟṟaṟinṟētāṇ
 3	പീറ്ററിന്റേത്	പീറ്ററ്	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	0	root	_	Translit=pīṟṟaṟinṟēt|LTranslit=pīṟṟaṟ
@@ -1509,7 +1509,7 @@
 114	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	171	det	_	Translit=āṇ|LTranslit=āk
 115	.	.	PUNCT	_	_	171	nmod:poss	_	Translit=.|LTranslit=.
 116	അതിനാൽ	അതിനാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nmod:poss	_	Translit=atināl̕|LTranslit=atināl̕
-117	ഈ	ഈ	PRON	_	Deixis=Prox|PronType=Dem	171	nmod:poss	_	Translit=ī|LTranslit=ī
+117	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	171	nmod:poss	_	Translit=ī|LTranslit=ī
 118	തിരഞ്ഞെടുപ്പുഫലം	തിരഞ്ഞെടുപ്പുഫലം	ADV	_	_	171	advmod	_	Translit=tiraññeṭuppuphalaṁ|LTranslit=tiraññeṭuppuphalaṁ
 119	ദൈവകരങ്ങളിൽ	ദൈവകരങ്ങള്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	171	nmod:poss	_	Translit=daivakaraṅṅaḷil̕|LTranslit=daivakaraṅṅaḷ
 120-121	നിന്നും	_	_	_	_	_	_	_	Translit=ninnuṁ
@@ -1577,7 +1577,7 @@
 # sent_id = indiccorp57
 # text = ഈ ഭൂവൈവിധ്യവും ആൻഡ് ബൈക്ക് പാത ഒരു മനോഹരമായ വിനോദം പ്രദേശം സൃഷ്ടിച്ചു.
 # translit = ī bhūvaividhyavuṁ ān̕ḍ baikk pāta oru manōharamāya vinōdaṁ pradēśaṁ sr̥ṣṭiccu.
-1	ഈ	ഈ	PRON	_	Deixis=Prox|PronType=Dem	11	nsubj	_	Translit=ī|LTranslit=ī
+1	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	11	nsubj	_	Translit=ī|LTranslit=ī
 2-3	ഭൂവൈവിധ്യവും	_	_	_	_	_	_	_	Translit=bhūvaividhyavuṁ
 2	ഭൂവൈവിധ്യം	ഭൂവൈവിധ്യം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	11	obj	_	Translit=bhūvaividhyaṁ|LTranslit=bhūvaividhyaṁ
 3	ഉം	ഉം	PART	_	_	2	cc	_	Translit=uṁ|LTranslit=uṁ
@@ -1894,7 +1894,7 @@
 1-2	ഇനിയും	_	_	_	_	_	_	_	Translit=iniyuṁ
 1	ഇനി	ഇനി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	17	nsubj	_	Translit=ini|LTranslit=ini
 2	ഉം	ഉം	PART	_	_	1	cc	_	Translit=uṁ|LTranslit=uṁ
-3	ഈ	ഈ	PRON	_	Deixis=Prox|PronType=Dem	17	nsubj	_	Translit=ī|LTranslit=ī
+3	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	17	nsubj	_	Translit=ī|LTranslit=ī
 4	പ്രഹസനം	പ്രഹസനം	NOUN	_	Number=Sing	17	det	_	Translit=prahasanaṁ|LTranslit=prahasanaṁ
 5	അവസാനിപ്പിക്കാൻ	അവസാനിപ്പിക്കാൻ	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	Translit=avasānippikkān̕|LTranslit=avasānippikkān̕
 6	ഉള്ള	ഉള്ള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	17	nsubj	_	Translit=uḷḷa|LTranslit=uḷḷa
@@ -2069,7 +2069,7 @@
 # sent_id = indiccorp86
 # text = ഈ ചൊംപര്ത്മെംതലിജെദ് പ്രവർത്തനങ്ങൾ പിന്തുണച്ചിരുന്നു ആകുന്നു:
 # translit = ī coṁpartmeṁtalijed pravaṟ̕ttanaṅṅaḷ̕ pintuṇaccirunnu ākunnu:
-1	ഈ	ഈ	PRON	_	Deixis=Prox|PronType=Dem	5	nsubj	_	Translit=ī|LTranslit=ī
+1	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	5	nsubj	_	Translit=ī|LTranslit=ī
 2	ചൊംപര്ത്മെംതലിജെദ്	ചൊംപര്ത്മെംതലിജെദ്	ADV	_	_	5	advmod	_	Translit=coṁpartmeṁtalijed|LTranslit=coṁpartmeṁtalijed
 3	പ്രവർത്തനങ്ങൾ	പ്രവർത്തനങ്ങൾ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Translit=pravaṟ̕ttanaṅṅaḷ̕|LTranslit=pravaṟ̕ttanaṅṅaḷ̕
 4	പിന്തുണച്ചിരുന്നു	പിന്തുണച്ചിരുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	obj	_	Translit=pintuṇaccirunnu|LTranslit=pintuṇacciruka
