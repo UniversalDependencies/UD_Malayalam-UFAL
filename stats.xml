@@ -45,7 +45,7 @@
     <feat name="Case" value="Gen" upos="NOUN,PRON,PROPN">43</feat><!-- പാർട്ടികളുടെ, ഇതിന്റെ, എൻറെ, നല്ലത്, നിങ്ങളുടെ, അവന്റെ, അവളുടെ, ആളുകളുടെ, എന്റെ, എന്റേത് -->
     <feat name="Case" value="Ins" upos="NOUN">2</feat><!-- കാരണങ്ങളാൽ, ഭർത്താവിനെ -->
     <feat name="Case" value="Loc" upos="PROPN">20</feat><!-- വിമാനത്തിൽ, അടുപ്പിൽ, അല്ലെങ്കിൽ, ഈഞ്ചയ്ക്കലിൽ, കാലഘട്ടത്തിൽ, തിരഞ്ഞെടുപ്പുകളിൽ, ദൈവകരങ്ങളിൽ, നിഗൂഡശാസ്ത്രങ്ങളിൽ, പാരീസിൽ, പാർട്ടികളിൽ -->
-    <feat name="Case" value="Nom" upos="NOUN,PRON,PROPN">152</feat><!-- അവൾ, ഇത്, അത്, അവൻ, പീറ്റർ, മേരി, അമേരിക്കൻ, എന്നിവ, ഞാൻ, നിങ്ങൾ -->
+    <feat name="Case" value="Nom" upos="NOUN,PRON,PROPN">157</feat><!-- അവൾ, ഇത്, അത്, അവൻ, എന്ത്, പീറ്റർ, മേരി, അമേരിക്കൻ, എന്നിവ, ഞാൻ -->
     <feat name="Definite" value="Ind" upos="DET">14</feat><!-- ഒരു -->
     <feat name="Deixis" value="Prox" upos="DET,PRON">11</feat><!-- ഇത്, ഈ -->
     <feat name="Deixis" value="Remt" upos="PRON">73</feat><!-- അവൾ, അത്, അവൻ, പാർട്ടികളുടെ, അമേരിക്കൻ, എന്നിവ, നിങ്ങളുടെ, പാർട്ടികൾ, അനുവദിച്ചത്, അവ -->
