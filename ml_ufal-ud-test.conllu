@@ -21,7 +21,7 @@
 2-3	പെയ്യുകയാണെന്ന്	_	_	_	_	_	_	_	Translit=peyyukayāṇenn
 2	പെയ്യുകയാണ്	പെയ്യുക	VERB	_	Aspect=Prog|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	Translit=peyyukayāṇ|LTranslit=peyyuka
 3	എന്ന്	എന്ന്	PART	_	_	2	mark	_	Translit=enn|LTranslit=enn
-4	ഞാൻ	ഞാൻ	PRON	_	Case=Nom|Number=Sing|Person=1	5	nsubj	_	Translit=ñān̕|LTranslit=ñān̕
+4	ഞാൻ	ഞാൻ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Translit=ñān̕|LTranslit=ñān̕
 5	കരുതുന്നു	കരുതുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=karutunnu|LTranslit=karutuka
 6	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
