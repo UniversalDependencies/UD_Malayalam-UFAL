@@ -127,7 +127,7 @@
 # translit = igvāsu oru valiya rājyamāṇō ceṟiya rājyamāṇō?
 # text_en = Is Iguazu a big or a small country?
 1	ഇഗ്വാസു	ഇഗ്വാസു	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=igvāsu|LTranslit=igvāsu
-2	ഒരു	ഒരു	DET	_	_	4	det	_	Translit=oru|LTranslit=oru
+2	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	4	det	_	Translit=oru|LTranslit=oru
 3	വലിയ	വലിയ	ADJ	_	_	4	amod	_	Translit=valiya|LTranslit=valiya
 4-5	രാജ്യമാണോ	_	_	_	_	_	_	_	Translit=rājyamāṇō
 4	രാജ്യം	രാജ്യം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=rājyaṁ|LTranslit=rājyaṁ
@@ -204,14 +204,14 @@
 # translit = avan̕ oru kāṟ̕ vāṅṅi, pakṣē avanṟe sahōdaran̕ oru baikk mātraṁ vāṅṅi.
 # text_en = He bought a car but his brother just a bike.
 1	അവൻ	അവൻ	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=avan̕|LTranslit=avan̕
-2	ഒരു	ഒരു	DET	_	_	3	det	_	Translit=oru|LTranslit=oru
+2	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	3	det	_	Translit=oru|LTranslit=oru
 3	കാർ	കാർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit=kāṟ̕|LTranslit=kāṟ̕
 4	വാങ്ങി	വാങ്ങുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=vāṅṅi|LTranslit=vāṅṅuka
 5	,	,	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,
 6	പക്ഷേ	പക്ഷേ	CCONJ	_	_	12	cc	_	Translit=pakṣē|LTranslit=pakṣē
 7	അവന്റെ	അവൻ	PRON	_	Case=Gen|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	Translit=avanṟe|LTranslit=avan̕
 8	സഹോദരൻ	സഹോദരൻ	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	12	nsubj	_	Translit=sahōdaran̕|LTranslit=sahōdaran̕
-9	ഒരു	ഒരു	DET	_	_	10	det	_	Translit=oru|LTranslit=oru
+9	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	10	det	_	Translit=oru|LTranslit=oru
 10	ബൈക്ക്	ബൈക്ക്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	obj	_	Translit=baikk|LTranslit=baikk
 11	മാത്രം	മാത്രം	ADV	_	_	12	advmod	_	Translit=mātraṁ|LTranslit=mātraṁ
 12	വാങ്ങി	വാങ്ങുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	SpaceAfter=No|Translit=vāṅṅi|LTranslit=vāṅṅuka
@@ -307,7 +307,7 @@
 # translit = niṅṅaḷ̕ oru vidyāṟ̕tthiyāṇō?
 # text_en = Are you a student?
 1	നിങ്ങൾ	നിങ്ങൾ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Translit=niṅṅaḷ̕|LTranslit=niṅṅaḷ̕
-2	ഒരു	ഒരു	DET	_	_	3	det	_	Translit=oru|LTranslit=oru
+2	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	3	det	_	Translit=oru|LTranslit=oru
 3-4	വിദ്യാർത്ഥിയാണോ	_	_	_	_	_	_	_	SpaceAfter=No|Translit=vidyāṟ̕tthiyāṇō
 3	വിദ്യാർത്ഥി	വിദ്യാർത്ഥി	NOUN	_	Animacy=Anim|Case=Acc|Number=Sing	0	root	_	Translit=vidyāṟ̕tthi|LTranslit=vidyāṟ̕tthi
 4	ആണോ	ആക്	AUX	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin	3	cop	_	Translit=āṇō|LTranslit=āk
@@ -744,7 +744,7 @@
 4	20	20	NUM	_	_	12	nsubj	_	Translit=20|LTranslit=20
 5	മിനിറ്റ്	മിനിറ്റ്	ADV	_	_	12	advmod	_	Translit=miniṟṟ|LTranslit=miniṟṟ
 6	മരുന്ന്	മരുന്ന്	ADV	_	_	12	nsubj	_	Translit=marunn|LTranslit=marunn
-7	ഒരു	ഒരു	DET	_	_	12	nsubj	_	Translit=oru|LTranslit=oru
+7	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	12	nsubj	_	Translit=oru|LTranslit=oru
 8	തവണ	തവണ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	obj	_	Translit=tavaṇa|LTranslit=tavaṇa
 9	സ്പൂൺ	സ്പൂൺ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=spūṇ̕|LTranslit=spūṇ̕
 10	മൂന്ന്	മൂന്ന്	ADV	_	_	12	advmod	_	Translit=mūnn|LTranslit=mūnn
@@ -1108,7 +1108,7 @@
 21	,	,	PUNCT	_	_	32	nsubj	_	Translit=,|LTranslit=,
 22	പ്രതിനിധീകരിച്ചു്	പ്രതിനിധീകരിച്ചു്	ADV	_	_	32	advmod	_	Translit=pratinidhīkariccu്|LTranslit=pratinidhīkariccu്
 23	-	-	PUNCT	_	_	32	nsubj	_	Translit=-|LTranslit=-
-24	ഒരു	ഒരു	DET	_	_	32	nsubj	_	Translit=oru|LTranslit=oru
+24	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	32	nsubj	_	Translit=oru|LTranslit=oru
 25	സാങ്കൽപ്പിക	സാങ്കൽപ്പിക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	32	nsubj	_	Translit=sāṅkal̕ppika|LTranslit=sāṅkal̕ppika
 26	വ്യക്തിക്ക്	വ്യക്തിക്ക്	ADV	_	_	32	advmod	_	Translit=vyaktikk|LTranslit=vyaktikk
 27	ആരോപിക്കപ്പെട്ടു	ആരോപിക്കപ്പെടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	32	nsubj	_	Translit=ārōpikkappeṭṭu|LTranslit=ārōpikkappeṭuka
@@ -1123,7 +1123,7 @@
 36	ഹെല്ലെനിസ്മ്	ഹെല്ലെനിസ്മ്	ADV	_	_	43	advmod	_	Translit=hellenism|LTranslit=hellenism
 37	കാലഘട്ടത്തിൽ	കാലഘട്ടത്ത്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	43	nmod:poss	_	Translit=kālaghaṭṭattil̕|LTranslit=kālaghaṭṭatt
 38	നിലനിന്നിരുന്ന	നിലനിന്നിരുന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	43	nsubj	_	Translit=nilaninnirunna|LTranslit=nilaninnirunna
-39	ഒരു	ഒരു	DET	_	_	43	det	_	Translit=oru|LTranslit=oru
+39	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	43	det	_	Translit=oru|LTranslit=oru
 40	മാജിക്	മാജിക്	ADV	_	_	43	amod	_	Translit=mājik|LTranslit=mājik
 41	നിഗൂഡശാസ്ത്രങ്ങളിൽ	നിഗൂഡശാസ്ത്രങ്ങള്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	43	nsubj	_	Translit=nigūḍaśāstraṅṅaḷil̕|LTranslit=nigūḍaśāstraṅṅaḷ
 42	ഉപദേശം	ഉപദേശം	ADV	_	_	43	advmod	_	Translit=upadēśaṁ|LTranslit=upadēśaṁ
@@ -1188,7 +1188,7 @@
 6	210	210	NUM	_	_	12	nmod:poss	_	Translit=210|LTranslit=210
 7	ഡിഗ്രി	ഡിഗ്രി	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	8	nsubj	_	Translit=ḍigri|LTranslit=ḍigri
 8	സെൽഷ്യസിൽ	സെൽഷ്യസ്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	12	nsubj	_	Translit=sel̕ṣyasil̕|LTranslit=sel̕ṣyas
-9	ഒരു	ഒരു	DET	_	_	12	det	_	Translit=oru|LTranslit=oru
+9	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	12	det	_	Translit=oru|LTranslit=oru
 10	ചൂടാക്കിയ	ചൂടാക്കിയ	ADJ	_	_	12	amod	_	Translit=cūṭākkiya|LTranslit=cūṭākkiya
 11	അടുപ്പിൽ	അടുപ്പ്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	12	obj	_	Translit=aṭuppil̕|LTranslit=aṭupp
 12	വയ്ക്കുക	വയ്ക്കുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=vaykkuka|LTranslit=vaykkuka
@@ -1493,7 +1493,7 @@
 101	കേവല	കേവല	ADJ	_	_	171	nmod:poss	_	Translit=kēvala|LTranslit=kēvala
 102	ഭൂരിപക്ഷം	ഭൂരിപക്ഷം	ADV	_	_	171	advmod	_	Translit=bhūripakṣaṁ|LTranslit=bhūripakṣaṁ
 103	ഒറ്റയ്ക്കുള്ള	ഒറ്റയ്ക്കുള്ള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nsubj	_	Translit=oṟṟaykkuḷḷa|LTranslit=oṟṟaykkuḷḷa
-104	ഒരു	ഒരു	DET	_	_	171	det	_	Translit=oru|LTranslit=oru
+104	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	171	det	_	Translit=oru|LTranslit=oru
 105	പാർട്ടി	പാർട്ടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	171	amod	_	Translit=pāṟ̕ṭṭi|LTranslit=pāṟ̕ṭṭuka
 106	ഭരിക്കുന്നതിനാൽ	ഭരിക്കുന്നതിനാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nmod:poss	_	Translit=bharikkunnatināl̕|LTranslit=bharikkunnatināl̕
 107	കൂടുതൽ	കൂടുതൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nmod:poss	_	Translit=kūṭutal̕|LTranslit=kūṭutal̕
@@ -1584,7 +1584,7 @@
 4	ആൻഡ്	ആൻഡ്	ADV	_	_	11	advmod	_	Translit=ān̕ḍ|LTranslit=ān̕ḍ
 5	ബൈക്ക്	ബൈക്ക്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	nsubj	_	Translit=baikk|LTranslit=baikk
 6	പാത	പായുക	VERB	_	Polarity=Pos|VerbForm=Part|Voice=Act	11	nsubj	_	Translit=pāta|LTranslit=pāyuka
-7	ഒരു	ഒരു	DET	_	_	11	nsubj	_	Translit=oru|LTranslit=oru
+7	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	11	nsubj	_	Translit=oru|LTranslit=oru
 8	മനോഹരമായ	മനോഹരം	ADJ	_	_	11	obl	_	Translit=manōharamāya|LTranslit=manōharaṁ
 9	വിനോദം	വിനോദം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	11	nsubj	_	Translit=vinōdaṁ|LTranslit=vinōdaṁ
 10	പ്രദേശം	പ്രദേശം	ADV	_	_	11	advmod	_	Translit=pradēśaṁ|LTranslit=pradēśaṁ
@@ -1637,7 +1637,7 @@
 1-2	റൺമഴയ്ക്കാണ്	_	_	_	_	_	_	_	Translit=ṟaṇ̕maḻaykkāṇ
 1	റൺമഴയ്ക്ക്	റൺമഴയ്	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Translit=ṟaṇ̕maḻaykk|LTranslit=ṟaṇ̕maḻay
 2	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	17	nsubj	_	Translit=āṇ|LTranslit=āk
-3	ഒരു	ഒരു	DET	_	_	17	nsubj	_	Translit=oru|LTranslit=oru
+3	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	17	nsubj	_	Translit=oru|LTranslit=oru
 4	അനൗദ്യോഗിക	അനൗദ്യോഗിക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	17	obj	_	Translit=anaudyōgika|LTranslit=anaudyōgika
 5	ടി20	ടി20	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	17	nsubj	_	Translit=ṭi20|LTranslit=ṭi20
 6	മൽസരം	മൽസരം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	17	nsubj	_	SpaceAfter=No|Translit=mal̕saraṁ|LTranslit=mal̕saraṁ
@@ -1762,7 +1762,7 @@
 # sent_id = indiccorp69
 # text = ഒരു വിമാനത്തിൽ പൈലറ്റും ട്രെയിനറും അല്ലെങ്കിൽ ട്രെയിനറും വിദ്യാർത്ഥിയും മറ്റൊരു വിമാനത്തിൽ ട്രെയിനറും വിദ്യാർത്ഥിയും ഉണ്ടെന്നാണ് കുരുതുന്നതെന്ന് മിയാമി പൊലീസ് വക്താവ് പ്രതികരിച്ചു.
 # translit = oru vimānattil̕ pailaṟṟuṁ ṭreyinaṟuṁ alleṅkil̕ ṭreyinaṟuṁ vidyāṟ̕tthiyuṁ maṟṟoru vimānattil̕ ṭreyinaṟuṁ vidyāṟ̕tthiyuṁ uṇṭennāṇ kurutunnatenn miyāmi polīs vaktāv pratikariccu.
-1	ഒരു	ഒരു	DET	_	_	2	det	_	Translit=oru|LTranslit=oru
+1	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	2	det	_	Translit=oru|LTranslit=oru
 2	വിമാനത്തിൽ	വിമാനത്ത്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	25	obj	_	Translit=vimānattil̕|LTranslit=vimānatt
 3-4	പൈലറ്റും	_	_	_	_	_	_	_	Translit=pailaṟṟuṁ
 3	പൈലറ്ർ	പൈലറ്ർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	25	nsubj	_	Translit=pailaṟṟ̕|LTranslit=pailaṟṟ̕
@@ -1980,7 +1980,7 @@
 10	.	.	PUNCT	_	_	14	nsubj	_	Translit=.|LTranslit=.
 11	വാഗ്നറുടെ	വാഗ്നറുടെ	ADV	_	_	14	advmod	_	Translit=vāgnaṟuṭe|LTranslit=vāgnaṟuṭe
 12	രസകരമായ	രസകരം	ADJ	_	_	14	nsubj	_	Translit=rasakaramāya|LTranslit=rasakaraṁ
-13	ഒരു	ഒരു	DET	_	_	14	det	_	Translit=oru|LTranslit=oru
+13	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	14	det	_	Translit=oru|LTranslit=oru
 14	മ്യൂസിയവുമുണ്ട്	മ്യൂസിയവുമുണ്ട്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=myūsiyavumuṇṭ|LTranslit=myūsiyavumuṇṭ
 15	.	.	PUNCT	_	_	14	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
@@ -2125,7 +2125,7 @@
 # text = താഴേക്ക് ഒരു ബൈക്ക് എങ്ങനെ തിരഞ്ഞെടുക്കാൻ
 # translit = tāḻēkk oru baikk eṅṅane tiraññeṭukkān̕
 1	താഴേക്ക്	താഴേ	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Translit=tāḻēkk|LTranslit=tāḻē
-2	ഒരു	ഒരു	DET	_	_	3	det	_	Translit=oru|LTranslit=oru
+2	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	3	det	_	Translit=oru|LTranslit=oru
 3	ബൈക്ക്	ബൈക്ക്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=baikk|LTranslit=baikk
 4	എങ്ങനെ	എങ്ങനെ	ADV	_	_	5	advmod	_	Translit=eṅṅane|LTranslit=eṅṅane
 5	തിരഞ്ഞെടുക്കാൻ	തിരഞ്ഞെടുകുക	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	_	SpacesAfter=\n|Translit=tiraññeṭukkān̕|LTranslit=tiraññeṭukuka

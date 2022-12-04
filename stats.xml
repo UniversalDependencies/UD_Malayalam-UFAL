@@ -30,7 +30,7 @@
     <tag name="VERB">149</tag><!-- ചെയ്യുക, തുടങ്ങുക, നൽകുക, ബുക, എഴുതുക, ഓടുക, ചെയ്തു, ജുക, തിരഞ്ഞെടുകുക, തുടർച്ചയായുക -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="43">
+  <feats unique="45">
     <feat name="Animacy" value="Anim" upos="NOUN,PRON,PROPN">82</feat><!-- പീറ്റർ, മേരി, വിദ്യാർത്ഥി, നല്ലത്, പി, രാജ്യത്തിന്, അച്ഛനേക്കാൾ, അച്ഛൻ, അധികമായി, അയൽക്കാരൻ -->
     <feat name="Animacy" value="Inam" upos="NOUN">1</feat><!-- കബാലിക്ക് -->
     <feat name="Animacy" value="Inan" upos="NOUN,PRON,PROPN,VERB">437</feat><!-- ഇത്, എന്ന, കൂടുതൽ, അതിനാൽ, അത്, ഓരോ, കഴിഞ്ഞ, ബൈക്ക്, അല്ലെങ്കിൽ, എന്നാൽ -->
@@ -46,6 +46,7 @@
     <feat name="Case" value="Ins" upos="NOUN">2</feat><!-- കാരണങ്ങളാൽ, ഭർത്താവിനെ -->
     <feat name="Case" value="Loc" upos="PROPN">20</feat><!-- വിമാനത്തിൽ, അടുപ്പിൽ, അല്ലെങ്കിൽ, ഈഞ്ചയ്ക്കലിൽ, കാലഘട്ടത്തിൽ, തിരഞ്ഞെടുപ്പുകളിൽ, ദൈവകരങ്ങളിൽ, നിഗൂഡശാസ്ത്രങ്ങളിൽ, പാരീസിൽ, പാർട്ടികളിൽ -->
     <feat name="Case" value="Nom" upos="NOUN,PRON,PROPN">151</feat><!-- അവൾ, ഇത്, അത്, അവൻ, പീറ്റർ, മേരി, അമേരിക്കൻ, എന്നിവ, ഞാൻ, നിങ്ങൾ -->
+    <feat name="Definite" value="Ind" upos="DET">14</feat><!-- ഒരു -->
     <feat name="Deixis" value="Prox" upos="PRON">12</feat><!-- ഇത്, ഈ, ആര് -->
     <feat name="Deixis" value="Remt" upos="PRON">73</feat><!-- അവൾ, അത്, അവൻ, പാർട്ടികളുടെ, അമേരിക്കൻ, എന്നിവ, നിങ്ങളുടെ, പാർട്ടികൾ, അനുവദിച്ചത്, അവ -->
     <feat name="Gender" value="Fem" upos="PRON">33</feat><!-- അവൾ, പാർട്ടികളുടെ, നിങ്ങളുടെ, പാർട്ടികൾ, അവളുടെ, അവൻ, അസ്ഥികൾ, ആളുകളുടെ, കാൾ, കുക്കികൾ -->
@@ -62,6 +63,7 @@
     <feat name="Polarity" value="Neg" upos="AUX,VERB">5</feat><!-- അറിയില്ല, ആണോ, ആയില്ല, കഴിഞ്ഞില്ല, ചെയ്തില്ല -->
     <feat name="Polarity" value="Pos" upos="AUX,VERB">196</feat><!-- ആണ്, ആയിരുന്നു, ആണോ, ചെയ്തു, ചെയ്യുന്നത്, നൽകുന്നത്, ബി, കരുതുന്നു, ജി, തിരഞ്ഞെടുക്കാൻ -->
     <feat name="Polite" value="Form" upos="VERB">3</feat><!-- തുറക്കൂ, ന്യൂ, ബാധിക്കുകയുള്ളൂ -->
+    <feat name="PronType" value="Art" upos="DET">14</feat><!-- ഒരു -->
     <feat name="PronType" value="Dem" upos="PRON">20</feat><!-- ഇത്, ഈ, അത്, എന്നിവ, അനുവദിച്ചത്, അവ, ഇടയായത്, നല്ലത്, പൗരത്വ -->
     <feat name="PronType" value="Int" upos="PRON">6</feat><!-- എന്ത്, ആര്, കൊള്ളരുത്, ജനിച്ചത് -->
     <feat name="PronType" value="Prs" upos="PRON">100</feat><!-- അവൾ, അവൻ, പാർട്ടികളുടെ, അമേരിക്കൻ, ഇതിന്റെ, എൻറെ, ഞാൻ, നിങ്ങളുടെ, നിങ്ങൾ, നിങ്ങൾക്ക് -->
