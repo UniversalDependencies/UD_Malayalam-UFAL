@@ -91,9 +91,9 @@
 # text = നിന്റെ അച്ഛനേക്കാൾ എന്റെ അച്ഛൻ വളരെ ശാന്തനാണ്.
 # translit = ninṟe acchanēkkāḷ̕ enṟe acchan̕ vaḷare śāntanāṇ.
 # text_en = My dad is cooler than yours.
-1	നിന്റെ	നീ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	Translit=ninṟe|LTranslit=nī
+1	നിന്റെ	നീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nmod:poss	_	Translit=ninṟe|LTranslit=nī
 2	അച്ഛനേക്കാൾ	അച്ഛൻ	NOUN	_	Animacy=Anim|Case=Cmp|Number=Sing	6	obl	_	Translit=acchanēkkāḷ̕|LTranslit=acchan̕
-3	എന്റെ	ഞാൻ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	Translit=enṟe|LTranslit=ñān̕
+3	എന്റെ	ഞാൻ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	Translit=enṟe|LTranslit=ñān̕
 4	അച്ഛൻ	അച്ഛൻ	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	6	nsubj	_	Translit=acchan̕|LTranslit=acchan̕
 5	വളരെ	വളരെ	ADV	_	_	6	advmod	_	Translit=vaḷare|LTranslit=vaḷare
 6-7	ശാന്തനാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=śāntanāṇ
@@ -582,7 +582,7 @@
 5	തിയേറ്ററുകളിലേക്ക്	തിയേറ്ററുകളിലേക്ക്	ADV	_	_	17	nsubj	_	Translit=tiyēṟṟaṟukaḷilēkk|LTranslit=tiyēṟṟaṟukaḷilēkk
 6	ചിത്രം	ചിത്രം	ADV	_	_	17	advmod	_	Translit=citraṁ|LTranslit=citraṁ
 7	എത്തിക്കണമെന്ന	എത്തിക്കണമെന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	17	nsubj	_	Translit=ettikkaṇamenna|LTranslit=ettikkaṇamenna
-8	മെഗാസ്റ്റാറിന്റെ	മെഗാസ്റ്റാറീ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	17	nsubj	_	Translit=megāsṟṟāṟinṟe|LTranslit=megāsṟṟāṟī
+8	മെഗാസ്റ്റാറിന്റെ	മെഗാസ്റ്റാറീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	17	nsubj	_	Translit=megāsṟṟāṟinṟe|LTranslit=megāsṟṟāṟī
 9	ആഗ്രഹത്തിന്	ആഗ്രഹത്ത്	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	17	nsubj	_	Translit=āgrahattin|LTranslit=āgrahatt
 10	വേണ്ടിയാണഅ	വേണ്ടിയാണഅ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	17	nsubj	_	Translit=vēṇṭiyāṇaa|LTranslit=vēṇṭiyāṇaa
 11	റിലീസ്	റിലീസ്	ADV	_	_	17	advmod	_	Translit=ṟilīs|LTranslit=ṟilīs
@@ -723,7 +723,7 @@
 # text = ഇതിന്റെ തുടർച്ചയെന്നോണം ഉപയോക്താക്കളെ അസിസ്റ്റന്റുമായി കൂടുതൽ ബന്ധിപ്പിക്കാനാണ‌്  പുതിയ സംവിധാനത്തിലൂടെ ഗൂഗിൾ ലക്ഷ്യമിടുന്നത‌്.
 # translit = itinṟe tuṭaṟ̕ccayennōṇaṁ upayōktākkaḷe asisṟṟanṟumāyi kūṭutal̕ bandhippikkānāṇa്  putiya saṁvidhānattilūṭe gūgiḷ̕ lakṣyamiṭunnata്.
 # text_en = As a continuation of this, Google aims to connect users more with the assistant through the new system.
-1	ഇതിന്റെ	ഇതീ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	Translit=itinṟe|LTranslit=itī
+1	ഇതിന്റെ	ഇതീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nmod:poss	_	Translit=itinṟe|LTranslit=itī
 2	തുടർച്ചയെന്നോണം	തുടർച്ചയെന്നോണം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	nsubj	_	Translit=tuṭaṟ̕ccayennōṇaṁ|LTranslit=tuṭaṟ̕ccayennōṇaṁ
 3	ഉപയോക്താക്കളെ	ഉപയോക്താക്കളെ	ADV	_	_	4	advmod	_	Translit=upayōktākkaḷe|LTranslit=upayōktākkaḷe
 4	അസിസ്റ്റന്റുമായി	അസിസ്റ്റന്റുമായുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=asisṟṟanṟumāyi|LTranslit=asisṟṟanṟumāyuka
@@ -1010,7 +1010,7 @@
 4	ഉം	ഉം	PART	_	_	3	cc	_	Translit=uṁ|LTranslit=uṁ
 5	പൊക്കംകൊണ്ട്	പൊക്കംകൊണ്ട്	ADV	_	_	10	advmod	_	Translit=pokkaṁkoṇṭ|LTranslit=pokkaṁkoṇṭ
 6-7	ഒന്നിന്റെയും	_	_	_	_	_	_	_	Translit=onninṟeyuṁ
-6	ഒന്നിന്റെ	ഒന്നീ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	10	nsubj	_	Translit=onninṟe|LTranslit=onnī
+6	ഒന്നിന്റെ	ഒന്നീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	Translit=onninṟe|LTranslit=onnī
 7	ഉം	ഉം	PART	_	_	10	nsubj	_	Translit=uṁ|LTranslit=uṁ
 8	തുഞ്ചം	തുഞ്ചം	ADV	_	_	10	advmod	_	Translit=tuñcaṁ|LTranslit=tuñcaṁ
 9	കാണാൻ	കാണാൻ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	Translit=kāṇān̕|LTranslit=kāṇān̕
@@ -1059,7 +1059,7 @@
 16	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	25	nsubj	_	Translit=āṇ|LTranslit=āk
 17	മോദി”	മോദി”	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	25	nsubj	_	SpaceAfter=No|Translit=mōdi”|LTranslit=mōdi”
 18	;	;	PUNCT	_	_	25	advmod	_	Translit=;|LTranslit=;
-19	ഹിന്ദുയിസത്തിന്റെ	ഹിന്ദുയിസത്തീ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	25	nsubj	_	Translit=hinduyisattinṟe|LTranslit=hinduyisattī
+19	ഹിന്ദുയിസത്തിന്റെ	ഹിന്ദുയിസത്തീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	25	nsubj	_	Translit=hinduyisattinṟe|LTranslit=hinduyisattī
 20	അടിസ്ഥാന	അടിസ്ഥാന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	25	nsubj	_	Translit=aṭisthāna|LTranslit=aṭisthāna
 21	തത്വങ്ങളെ	തത്വങ്ങളെ	ADV	_	_	25	advmod	_	Translit=tatvaṅṅaḷe|LTranslit=tatvaṅṅaḷe
 22	കുറിച്ച്	കുറിച്ച്	ADV	_	_	25	nsubj	_	Translit=kuṟicc|LTranslit=kuṟicc
@@ -1157,7 +1157,7 @@
 3	ആരായാല	ആരായാല	ADJ	_	_	12	nsubj	_	Translit=ārāyāla|LTranslit=ārāyāla
 4	ഉം	ഉം	PART	_	_	3	cc	_	Translit=uṁ|LTranslit=uṁ
 5	അവരെ	അവരെ	ADV	_	_	12	advmod	_	Translit=avare|LTranslit=avare
-6	നിയമത്തിന്റെ	നിയമത്തീ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	12	nsubj	_	Translit=niyamattinṟe|LTranslit=niyamattī
+6	നിയമത്തിന്റെ	നിയമത്തീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	Translit=niyamattinṟe|LTranslit=niyamattī
 7	മുന്നിൽ	മുന്നിൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=munnil̕|LTranslit=munnil̕
 8	കൊണ്ടുവരണം	കൊണ്ടുവരണം	ADV	_	_	12	advmod	_	Translit=koṇṭuvaraṇaṁ|LTranslit=koṇṭuvaraṇaṁ
 9-10	എന്നും	_	_	_	_	_	_	_	Translit=ennuṁ
@@ -1251,7 +1251,7 @@
 # sent_id = indiccorp48
 # text = ഇതിന്റെ ഭാഗമായാണ് വരാന്ത്യത്തിൽ ഇരു രാജ്യങ്ങളിൽ നിന്നുമുള്ള ഉദ്യോഗസ്ഥർ ചർച്ച നടത്തുന്നത്
 # translit = itinṟe bhāgamāyāṇ varāntyattil̕ iru rājyaṅṅaḷil̕ ninnumuḷḷa udyōgasthaṟ̕ caṟ̕cca naṭattunnat
-1	ഇതിന്റെ	ഇതീ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nsubj	_	Translit=itinṟe|LTranslit=itī
+1	ഇതിന്റെ	ഇതീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Translit=itinṟe|LTranslit=itī
 2-3	ഭാഗമായാണ്	_	_	_	_	_	_	_	Translit=bhāgamāyāṇ
 2	ഭാഗമായ്	ഭാഗമായ്	ADV	_	_	10	advmod	_	Translit=bhāgamāy|LTranslit=bhāgamāy
 3	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	nsubj	_	Translit=āṇ|LTranslit=āk
@@ -1562,7 +1562,7 @@
 160	'	'	PUNCT	_	_	171	nmod:poss	_	Translit='|LTranslit='
 161	എന്ന	എന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nsubj	_	Translit=enna|LTranslit=enna
 162	സെന്റ്	സെന്റ്	ADV	_	_	171	advmod	_	Translit=senṟ|LTranslit=senṟ
-163	പോളിന്റെ	പോളീ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	171	nsubj	_	Translit=pōḷinṟe|LTranslit=pōḷī
+163	പോളിന്റെ	പോളീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	171	nsubj	_	Translit=pōḷinṟe|LTranslit=pōḷī
 164	വാക്കുകൾ	വാക്കുകൾ	NOUN	_	Animacy=Anim|Case=Acc|Number=Plur	171	nsubj	_	Translit=vākkukaḷ̕|LTranslit=vākkukaḷ̕
 165	ഇവിടെ	ഇവിടെ	ADV	_	_	171	advmod	_	Translit=iviṭe|LTranslit=iviṭe
 166-167	സ്മരണീയമാണ്	_	_	_	_	_	_	_	Translit=smaraṇīyamāṇ
@@ -1606,7 +1606,7 @@
 # sent_id = indiccorp59
 # text = ബീഫിന്റെ പേരിൽ കുറ്റപ്പെടുത്തൽ
 # translit = bīphinṟe pēril̕ kuṟṟappeṭuttal̕
-1	ബീഫിന്റെ	ബീഫീ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	Translit=bīphinṟe|LTranslit=bīphī
+1	ബീഫിന്റെ	ബീഫീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nmod:poss	_	Translit=bīphinṟe|LTranslit=bīphī
 2	പേരിൽ	പേര്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	0	root	_	Translit=pēril̕|LTranslit=pēr
 3	കുറ്റപ്പെടുത്തൽ	കുറ്റപ്പെടുത്തൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	punct	_	SpacesAfter=\n|Translit=kuṟṟappeṭuttal̕|LTranslit=kuṟṟappeṭuttal̕
 
@@ -1702,11 +1702,11 @@
 1	ഭൂപരിഷ്‌കരണം	ഭൂപരിഷ്‌കരണം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	31	nmod:poss	_	SpaceAfter=No|Translit=bhūpariṣkaraṇaṁ|LTranslit=bhūpariṣkaraṇaṁ
 2	,	,	PUNCT	_	_	31	det	_	Translit=,|LTranslit=,
 3-4	വിദ്യാഭ്യാസത്തിന്റെയും	_	_	_	_	_	_	_	Translit=vidyābhyāsattinṟeyuṁ
-3	വിദ്യാഭ്യാസത്തിന്റെ	വിദ്യാഭ്യാസത്തീ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	31	nsubj	_	Translit=vidyābhyāsattinṟe|LTranslit=vidyābhyāsattī
+3	വിദ്യാഭ്യാസത്തിന്റെ	വിദ്യാഭ്യാസത്തീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	31	nsubj	_	Translit=vidyābhyāsattinṟe|LTranslit=vidyābhyāsattī
 4	ഉം	ഉം	PART	_	_	31	det	_	Translit=uṁ|LTranslit=uṁ
 5	ആരോഗ്യ	ആരോഗ്യ	ADJ	_	_	31	amod	_	Translit=ārōgya|LTranslit=ārōgya
 6-7	സംരക്ഷണത്തിന്റെയും	_	_	_	_	_	_	_	Translit=saṁrakṣaṇattinṟeyuṁ
-6	സംരക്ഷണത്തിന്റെ	സംരക്ഷണത്തീ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	Translit=saṁrakṣaṇattinṟe|LTranslit=saṁrakṣaṇattī
+6	സംരക്ഷണത്തിന്റെ	സംരക്ഷണത്തീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	7	nmod:poss	_	Translit=saṁrakṣaṇattinṟe|LTranslit=saṁrakṣaṇattī
 7	ഉം	ഉം	PART	_	_	31	obl	_	Translit=uṁ|LTranslit=uṁ
 8	വ്യാപനം	വ്യാപനം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	31	nmod:poss	_	SpaceAfter=No|Translit=vyāpanaṁ|LTranslit=vyāpanaṁ
 9	,	,	PUNCT	_	_	31	nmod:poss	_	Translit=,|LTranslit=,
@@ -1726,7 +1726,7 @@
 23	കേരളത്തിലെ	കേരളത്തിലെ	ADV	_	_	31	advmod	_	Translit=kēraḷattile|LTranslit=kēraḷattile
 24	ഗ്രാമനഗര	ഗ്രാമനഗര	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	31	nsubj	_	Translit=grāmanagara|LTranslit=grāmanagara
 25	പ്രദേശങ്ങളിലെ	പ്രദേശങ്ങളിലെ	ADV	_	_	31	advmod	_	Translit=pradēśaṅṅaḷile|LTranslit=pradēśaṅṅaḷile
-26	ദാരിദ്ര്യത്തിന്റെ	ദാരിദ്ര്യത്തീ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	31	nsubj	_	Translit=dāridryattinṟe|LTranslit=dāridryattī
+26	ദാരിദ്ര്യത്തിന്റെ	ദാരിദ്ര്യത്തീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	31	nsubj	_	Translit=dāridryattinṟe|LTranslit=dāridryattī
 27	തോത്	തോ	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	31	nmod:poss	_	Translit=tōt|LTranslit=tō
 28	കുറക്കുന്നതിൽ	കുറക്കുന്നതിൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	31	nsubj	_	Translit=kuṟakkunnatil̕|LTranslit=kuṟakkunnatil̕
 29	ഫലപ്രദമായ	ഫലപ്രദം	ADJ	_	_	31	det	_	Translit=phalapradamāya|LTranslit=phalapradaṁ
