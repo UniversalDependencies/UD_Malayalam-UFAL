@@ -281,7 +281,7 @@
 3	പീറ്ററിന്റേത്	പീറ്ററ്	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	0	root	_	Translit=pīṟṟaṟinṟēt|LTranslit=pīṟṟaṟ
 4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	Translit=āṇ|LTranslit=āk
 5	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
-6	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Gender=Neut|Number=Sing|Person=3	8	nsubj	_	Translit=at|LTranslit=at
+6	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Translit=at|LTranslit=at
 7	ഇന്നലെ	ഇന്നലെ	ADV	_	_	8	obl	_	Translit=innale|LTranslit=innale
 8	കൈമാറി	കൈമാറുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	SpaceAfter=No|Translit=kaimāṟi|LTranslit=kaimāṟuka
 9	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
@@ -367,7 +367,7 @@
 # text = അവ എൻറെ പുസ്തകങ്ങളാൺ.
 # translit = ava en̕ṟe pustakaṅṅaḷāṇ̕.
 # text_en = Those are my books.
-1	അവ	അവ	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Plur|Person=3|PronType=Dem	3	det	_	Translit=ava|LTranslit=ava
+1	അവ	അവ	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	3	det	_	Translit=ava|LTranslit=ava
 2	എൻറെ	ഞാൻ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	nmod:poss	_	Translit=en̕ṟe|LTranslit=ñān̕
 3-4	പുസ്തകങ്ങളാൺ	_	_	_	_	_	_	_	SpaceAfter=No|Translit=pustakaṅṅaḷāṇ̕
 3	പുസ്തകങ്ങൾ	പുസ്തകങ്ങൾ	NOUN	_	Animacy=Anim|Case=Acc|Number=Plur	0	root	_	Translit=pustakaṅṅaḷ̕|LTranslit=pustakaṅṅaḷ̕
@@ -379,7 +379,7 @@
 # text = ഇത് എൻറേതല്ല!
 # translit = it en̕ṟētalla!
 # text_en = This is not mine!
-1	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Dem	2	det	_	Translit=it|LTranslit=it
+1	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Prs	2	det	_	Translit=it|LTranslit=it
 2-3	എൻറേതല്ല	_	_	_	_	_	_	_	SpaceAfter=No|Translit=en̕ṟētalla
 2	എന്റേത്	എന്റേ	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	0	root	_	Translit=enṟēt|LTranslit=enṟē
 3	അല്ല	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	cop	_	Translit=alla|LTranslit=āk
@@ -391,7 +391,7 @@
 # translit = atāṇ̕ en̕ṟe vīṭ.
 # text_en = That is my house.
 1-2	അതാൺ	_	_	_	_	_	_	_	Translit=atāṇ̕
-1	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	4	det	_	Translit=at|LTranslit=at
+1	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Sing|Person=3|PronType=Prs	4	det	_	Translit=at|LTranslit=at
 2	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=āṇ|LTranslit=āk
 3	എൻറെ	ഞാൻ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	Translit=en̕ṟe|LTranslit=ñān̕
 4	വീട്	വീട്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=vīṭ|LTranslit=vīṭ
@@ -626,7 +626,7 @@
 11-12	വാഗ്‌ദാനമായിരുന്നു	_	_	_	_	_	_	_	Translit=vāgdānamāyirunnu
 11	വാഗ്‌ദാനം	വാഗ്‌ദാനം	NOUN	_	Number=Sing	15	det	_	Translit=vāgdānaṁ|LTranslit=vāgdānaṁ
 12	ആയിരുന്നു	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin	15	nmod:poss	_	Translit=āyirunnu|LTranslit=āk
-13	പൗരത്വ	പൗരത്വ	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Plur|Person=3|PronType=Dem	15	nsubj	_	Translit=pauratva|LTranslit=pauratva
+13	പൗരത്വ	പൗരത്വ	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	Translit=pauratva|LTranslit=pauratva
 14	ഭേദഗതി	ഭേദഗതി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	15	obj	_	Translit=bhēdagati|LTranslit=bhēdagati
 15	ബിൽ	ബിൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=bil̕|LTranslit=bil̕
 16	.	.	PUNCT	_	_	15	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
@@ -766,7 +766,7 @@
 4	ഉം	ഉം	PART	_	_	3	cc	_	Translit=uṁ|LTranslit=uṁ
 5	നഷ്ടപരിഹാരം	നഷ്ടപരിഹാരം	NOUN	_	Number=Sing	0	root	_	Translit=naṣṭaparihāraṁ|LTranslit=naṣṭaparihāraṁ
 6-7	അനുവദിച്ചതാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=anuvadiccatāṇ
-6	അനുവദിച്ചത്	അനുവദിച്ചത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	Translit=anuvadiccat|LTranslit=anuvadiccat
+6	അനുവദിച്ചത്	അനുവദിച്ചത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Translit=anuvadiccat|LTranslit=anuvadiccat
 7	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	punct	_	Translit=āṇ|LTranslit=āk
 8	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
@@ -847,7 +847,7 @@
 # sent_id = indiccorp27
 # text = ഇത് അധികൃതരുടെ ശ്രദ്ധയിൽപ്പെട്ടിട്ടും ലീക്ക് മാറ്റാൻ അവർ തയാറാകുന്നില്ലെന്നാണ് സമാപവാസികൾക്കുള്ള ആക്ഷേപം.
 # translit = it adhikr̥taruṭe śraddhayil̕ppeṭṭiṭṭuṁ līkk māṟṟān̕ avaṟ̕ tayāṟākunnillennāṇ samāpavāsikaḷ̕kkuḷḷa ākṣēpaṁ.
-1	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	Translit=it|LTranslit=it
+1	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Translit=it|LTranslit=it
 2	അധികൃതരുടെ	അധികൃതരുടെ	ADV	_	_	11	advmod	_	Translit=adhikr̥taruṭe|LTranslit=adhikr̥taruṭe
 3-4	ശ്രദ്ധയിൽപ്പെട്ടിട്ടും	_	_	_	_	_	_	_	Translit=śraddhayil̕ppeṭṭiṭṭuṁ
 3	ശ്രദ്ധയിൽപ്പെട്ടിട്ട	ശ്രദ്ധയിൽപ്പെട്ടിട്ട	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	11	nsubj	_	Translit=śraddhayil̕ppeṭṭiṭṭa|LTranslit=śraddhayil̕ppeṭṭiṭṭa
@@ -867,7 +867,7 @@
 # translit = ennāl̕, it kaṇṭ maṭaṅṅi pōkāte iṭikūṭunna vidyāṟ̕thikaḷ̕kk iṭayilūṭe itokke ent enna mukhabhāvattōṭeyāṇ ṣaṟaphuddīn̕ naṭann pōyat
 1	എന്നാൽ	എന്നാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	nsubj	_	SpaceAfter=No|Translit=ennāl̕|LTranslit=ennāl̕
 2	,	,	PUNCT	_	_	5	nsubj	_	Translit=,|LTranslit=,
-3	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	Translit=it|LTranslit=it
+3	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=it|LTranslit=it
 4	കണ്ട്	കണ്ട്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=kaṇṭ|LTranslit=kaṇṭ
 5	മടങ്ങി	മടങ്ങുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=maṭaṅṅi|LTranslit=maṭaṅṅuka
 6	പോകാതെ	പോകാതെ	ADV	_	_	10	advmod	_	Translit=pōkāte|LTranslit=pōkāte
@@ -977,10 +977,10 @@
 6	ചെയ്യുന്നത്	ചെയ്യുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	0	root	_	Translit=ceyyunnat|LTranslit=ceyyuka
 7	വളരെ	വളരെ	ADV	_	_	14	advmod	_	Translit=vaḷare|LTranslit=vaḷare
 8-9	നല്ലതാണ്	_	_	_	_	_	_	_	Translit=nallatāṇ
-8	നല്ലത്	നല്ലത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	Translit=nallat|LTranslit=nallat
+8	നല്ലത്	നല്ലത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Translit=nallat|LTranslit=nallat
 9	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	nsubj	_	Translit=āṇ|LTranslit=āk
 10	-	-	PUNCT	_	_	14	obl	_	Translit=-|LTranslit=-
-11	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	Translit=it|LTranslit=it
+11	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Translit=it|LTranslit=it
 12	വളരെ	വളരെ	ADV	_	_	14	advmod	_	Translit=vaḷare|LTranslit=vaḷare
 13	ബുദ്ധിമുട്ടുള്ള	ബുദ്ധിമുട്ടുള്ള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	14	obj	_	Translit=buddhimuṭṭuḷḷa|LTranslit=buddhimuṭṭuḷḷa
 14	കാര്യമല്ല	കാര്യമല്ല	ADJ	_	_	6	punct	_	SpaceAfter=No|Translit=kāryamalla|LTranslit=kāryamalla
@@ -1034,7 +1034,7 @@
 11	ഭാഷയിൽ	ഭാഷയ്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	14	obj	_	Translit=bhāṣayil̕|LTranslit=bhāṣay
 12	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	nsubj	_	Translit=āṇ|LTranslit=āk
 13	മന്ത്രിയെ	മന്ത്രിയെ	ADV	_	_	14	advmod	_	Translit=mantriye|LTranslit=mantriye
-14	വിമർശിച്ചത്	വിമർശിച്ചത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Gender=Neut|Number=Sing|Person=3	0	root	_	SpaceAfter=No|Translit=vimaṟ̕śiccat|LTranslit=vimaṟ̕śiccat
+14	വിമർശിച്ചത്	വിമർശിച്ചത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	root	_	SpaceAfter=No|Translit=vimaṟ̕śiccat|LTranslit=vimaṟ̕śiccat
 15	.	.	PUNCT	_	_	14	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp37
@@ -1151,7 +1151,7 @@
 # sent_id = indiccorp41
 # text = അത് ചെയ്യുന്നത് ആരായാലും അവരെ നിയമത്തിന്റെ മുന്നിൽ കൊണ്ടുവരണം എന്നും പ്രസ്താവനയിൽ ആവശ്യപ്പെടുന്നു.
 # translit = at ceyyunnat ārāyāluṁ avare niyamattinṟe munnil̕ koṇṭuvaraṇaṁ ennuṁ prastāvanayil̕ āvaśyappeṭunnu.
-1	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	12	nsubj	_	Translit=at|LTranslit=at
+1	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=at|LTranslit=at
 2	ചെയ്യുന്നത്	ചെയ്യുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	12	nsubj	_	Translit=ceyyunnat|LTranslit=ceyyuka
 3-4	ആരായാലും	_	_	_	_	_	_	_	Translit=ārāyāluṁ
 3	ആരായാല	ആരായാല	ADJ	_	_	12	nsubj	_	Translit=ārāyāla|LTranslit=ārāyāla
@@ -1546,7 +1546,7 @@
 146	ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടി	ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	171	nmod:poss	_	Translit=unnatasthānīyaṟ̕kkuṁvēṇṭi|LTranslit=unnatasthānīyaṟ̕kkuṁvēṇṭuka
 147	പ്രാർത്ഥിക്കണം	പ്രാർത്ഥിക്കണം	NOUN	_	Case=Acc|Number=Sing	171	nsubj	_	SpaceAfter=No|Translit=prāṟ̕tthikkaṇaṁ|LTranslit=prāṟ̕tthikkaṇaṁ
 148	.	.	PUNCT	_	_	171	det	_	Translit=.|LTranslit=.
-149	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Dem	171	nsubj	_	Translit=it|LTranslit=it
+149	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Prs	171	nsubj	_	Translit=it|LTranslit=it
 150-151	ഉത്തമവും	_	_	_	_	_	_	_	Translit=uttamavuṁ
 150	ഉത്തമം	ഉത്തമം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	obj	_	Translit=uttamaṁ|LTranslit=uttamaṁ
 151	ഉം	ഉം	PART	_	_	171	nsubj	_	Translit=uṁ|LTranslit=uṁ
@@ -1722,7 +1722,7 @@
 19	,	,	PUNCT	_	_	31	det	_	Translit=,|LTranslit=,
 20	ആസൂത്രണ	ആസൂത്രണ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	31	nmod:poss	_	Translit=āsūtraṇa|LTranslit=āsūtraṇa
 21	പദ്ധതികൾ	പദ്ധതികൾ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	31	nmod:poss	_	Translit=paddhatikaḷ̕|LTranslit=paddhatikaḷ̕
-22	എന്നിവ	എന്നിവ	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Plur|Person=3|PronType=Dem	31	nsubj	_	Translit=enniva|LTranslit=enniva
+22	എന്നിവ	എന്നിവ	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	31	nsubj	_	Translit=enniva|LTranslit=enniva
 23	കേരളത്തിലെ	കേരളത്തിലെ	ADV	_	_	31	advmod	_	Translit=kēraḷattile|LTranslit=kēraḷattile
 24	ഗ്രാമനഗര	ഗ്രാമനഗര	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	31	nsubj	_	Translit=grāmanagara|LTranslit=grāmanagara
 25	പ്രദേശങ്ങളിലെ	പ്രദേശങ്ങളിലെ	ADV	_	_	31	advmod	_	Translit=pradēśaṅṅaḷile|LTranslit=pradēśaṅṅaḷile
@@ -2062,7 +2062,7 @@
 8	ബിസിനസ്സ്	ബിസിനസ്സ്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=bisinass|LTranslit=bisinass
 9	ഉപകരണങ്ങളെ	ഉപകരണങ്ങളെ	ADV	_	_	12	advmod	_	Translit=upakaraṇaṅṅaḷe|LTranslit=upakaraṇaṅṅaḷe
 10	മാത്രമേ	മാത്രമേ	CCONJ	_	_	12	obl	_	Translit=mātramē|LTranslit=mātramē
-11	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Dem	12	nsubj	_	Translit=it|LTranslit=it
+11	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=it|LTranslit=it
 12	ബാധിക്കുകയുള്ളൂ	ബാധിക്കുകയുള്ളുക	VERB	_	Mood=Imp|Polarity=Pos|Polite=Form|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=bādhikkukayuḷḷū|LTranslit=bādhikkukayuḷḷuka
 13	.	.	PUNCT	_	_	12	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
@@ -2178,7 +2178,7 @@
 11	നാണയം	നാണയം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	13	nsubj	_	SpaceAfter=No|Translit=nāṇayaṁ|LTranslit=nāṇayaṁ
 12	,	,	PUNCT	_	_	13	det	_	Translit=,|LTranslit=,
 13	പഴുക്കടയ്ക്ക	പഴുക്കടയ്ക്ക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=paḻukkaṭaykka|LTranslit=paḻukkaṭaykka
-14	എന്നിവ	എന്നിവ	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Plur|Person=3|PronType=Dem	16	nsubj	_	Translit=enniva|LTranslit=enniva
+14	എന്നിവ	എന്നിവ	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	Translit=enniva|LTranslit=enniva
 15-16	വയ്ക്കും	_	_	_	_	_	_	_	SpaceAfter=No|Translit=vaykkuṁ
 15	വയ്ക്ക	വയ്ക്ക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	16	obj	_	Translit=vaykka|LTranslit=vaykka
 16	ഉം	ഉം	PART	_	_	13	conj	_	Translit=uṁ|LTranslit=uṁ
@@ -2206,7 +2206,7 @@
 7	സംബന്ധിച്ച	സംബന്ധിച്ച	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	19	nsubj	_	Translit=saṁbandhicca|LTranslit=saṁbandhicca
 8	വിവാദങ്ങൾക്ക്	വിവാദങ്ങൾക്ക്	ADV	_	_	19	advmod	_	Translit=vivādaṅṅaḷ̕kk|LTranslit=vivādaṅṅaḷ̕kk
 9-10	ഇടയായതാണ്	_	_	_	_	_	_	_	Translit=iṭayāyatāṇ
-9	ഇടയായത്	ഇടയായത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	19	nsubj	_	Translit=iṭayāyat|LTranslit=iṭayāyat
+9	ഇടയായത്	ഇടയായത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	Translit=iṭayāyat|LTranslit=iṭayāyat
 10	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	19	det	_	Translit=āṇ|LTranslit=āk
 11	നിതി	നിതി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	19	nsubj	_	Translit=niti|LTranslit=niti
 12	ആയോഗിന്	ആയോഗിന്	ADV	_	_	19	advmod	_	Translit=āyōgin|LTranslit=āyōgin

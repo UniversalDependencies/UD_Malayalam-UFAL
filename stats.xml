@@ -64,9 +64,9 @@
     <feat name="Polarity" value="Pos" upos="AUX,VERB">196</feat><!-- ആണ്, ആയിരുന്നു, ആണോ, ചെയ്തു, ചെയ്യുന്നത്, നൽകുന്നത്, ബി, കരുതുന്നു, ജി, തിരഞ്ഞെടുക്കാൻ -->
     <feat name="Polite" value="Form" upos="VERB">3</feat><!-- തുറക്കൂ, ന്യൂ, ബാധിക്കുകയുള്ളൂ -->
     <feat name="PronType" value="Art" upos="DET">14</feat><!-- ഒരു -->
-    <feat name="PronType" value="Dem" upos="DET,PRON">20</feat><!-- ഇത്, ഈ, അത്, എന്നിവ, അനുവദിച്ചത്, അവ, ഇടയായത്, നല്ലത്, പൗരത്വ -->
+    <feat name="PronType" value="Dem" upos="DET">5</feat><!-- ഈ -->
     <feat name="PronType" value="Int" upos="PRON">6</feat><!-- എന്ത്, ആര്, കൊള്ളരുത്, ജനിച്ചത് -->
-    <feat name="PronType" value="Prs" upos="PRON">100</feat><!-- അവൾ, അവൻ, പാർട്ടികളുടെ, അമേരിക്കൻ, ഇതിന്റെ, എൻറെ, ഞാൻ, നിങ്ങളുടെ, നിങ്ങൾ, നിങ്ങൾക്ക് -->
+    <feat name="PronType" value="Prs" upos="PRON">117</feat><!-- അവൾ, ഇത്, അത്, അവൻ, പാർട്ടികളുടെ, അമേരിക്കൻ, ഇതിന്റെ, എന്നിവ, എൻറെ, ഞാൻ -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">2</feat><!-- കഴിയും, പാകും -->
     <feat name="Tense" value="Past" upos="AUX,VERB">69</feat><!-- ആയിരുന്നു, ബി, ജി, തുടങ്ങി, തുടർച്ചയായി, വാങ്ങി, ഷഷ്ഠി, അടിച്ചു, അറസ്റ്റിലായി, അറിയിച്ചു -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">104</feat><!-- ആണ്, ആണോ, ചെയ്യുന്നത്, നൽകുന്നത്, കരുതുന്നു, ചെയ്തു, അറിയാമോ, അല്ല, ആകുന്നു, ആഗ്രഹിക്കുന്നു -->
