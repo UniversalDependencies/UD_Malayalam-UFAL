@@ -50,7 +50,7 @@
     <feat name="Deixis" value="Prox" upos="PRON">12</feat><!-- ഇത്, ഈ, ആര് -->
     <feat name="Deixis" value="Remt" upos="PRON">73</feat><!-- അവൾ, അത്, അവൻ, പാർട്ടികളുടെ, അമേരിക്കൻ, എന്നിവ, നിങ്ങളുടെ, പാർട്ടികൾ, അനുവദിച്ചത്, അവ -->
     <feat name="Gender" value="Fem" upos="PRON">33</feat><!-- അവൾ, പാർട്ടികളുടെ, നിങ്ങളുടെ, പാർട്ടികൾ, അവളുടെ, അവൻ, അസ്ഥികൾ, ആളുകളുടെ, കാൾ, കുക്കികൾ -->
-    <feat name="Gender" value="Masc" upos="PRON">23</feat><!-- അമേരിക്കൻ, അവൻ, അവന്റെ, അവസാനിപ്പിക്കാൻ, ഈജിപ്ഷ്യൻ, ഉണ്ടെന്ൻ, എനിക്ക്, എന്ൻ, ഒന്ൻ, ഓപ്ഷൻ -->
+    <feat name="Gender" value="Masc" upos="PRON">22</feat><!-- അമേരിക്കൻ, അവൻ, അവന്റെ, അവസാനിപ്പിക്കാൻ, ഈജിപ്ഷ്യൻ, ഉണ്ടെന്ൻ, എന്ൻ, ഒന്ൻ, ഓപ്ഷൻ, കമ്മീഷൻ -->
     <feat name="Gender" value="Neut" upos="PRON">2</feat><!-- അത്, വിമർശിച്ചത് -->
     <feat name="Mood" value="Imp" upos="VERB">3</feat><!-- തുറക്കൂ, ന്യൂ, ബാധിക്കുകയുള്ളൂ -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">149</feat><!-- ആണ്, ആണോ, ആയിരുന്നു, ചെയ്തു, ബി, കരുതുന്നു, ജി, തുടങ്ങി, തുടർച്ചയായി, വാങ്ങി -->

@@ -265,7 +265,7 @@
 2	വളരെ	വളരെ	ADV	_	_	3	advmod	_	Translit=vaḷare|LTranslit=vaḷare
 3	വേഗത്തിൽ	വെഗം	ADV	_	_	4	advmod	_	Translit=vēgattil̕|LTranslit=vegaṁ
 4	ഓടിയതിനാൽ	ഓടുക	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	6	advcl	_	Translit=ōṭiyatināl̕|LTranslit=ōṭuka
-5	എനിക്ക്	ഞാൻ	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Translit=enikk|LTranslit=ñān̕
+5	എനിക്ക്	ഞാൻ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Translit=enikk|LTranslit=ñān̕
 6	പിടിച്ചുനിൽക്കാൻ	പിടിച്ചുനിൽക്കുക	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	_	Translit=piṭiccunil̕kkān̕|LTranslit=piṭiccunil̕kkuka
 7	കഴിഞ്ഞില്ല	കഴിയുക	AUX	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin	6	aux	_	SpaceAfter=No|Translit=kaḻiññilla|LTranslit=kaḻiyuka
 8	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
