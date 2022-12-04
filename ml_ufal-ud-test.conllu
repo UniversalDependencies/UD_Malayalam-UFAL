@@ -415,6 +415,7 @@
 # sent_id = indiccorp1
 # text = കത്തോലിക്കാസഭയുടെ വേദോപദേശത്തിനൊപ്പം നിൽക്കുന്നു.
 # translit = kattōlikkāsabhayuṭe vēdōpadēśattinoppaṁ nil̕kkunnu.
+# text_en = Stands with the Catholic Church.
 1	കത്തോലിക്കാസഭയുടെ	കത്തോലിക്കാസഭ	NOUN	_	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	_	Translit=kattōlikkāsabhayuṭe|LTranslit=kattōlikkāsabha
 2	വേദോപദേശത്തിനൊപ്പം	വേദോപദേശം	NOUN	_	Animacy=Inan|Case=Com|Number=Sing	3	obl	_	Translit=vēdōpadēśattinoppaṁ|LTranslit=vēdōpadēśaṁ
 3	നിൽക്കുന്നു	നിൽക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=nil̕kkunnu|LTranslit=nil̕kkuka
@@ -451,6 +452,7 @@
 # sent_id = indiccorp4
 # text = വിപ്ലവകാരികൾ നശിപ്പിച്ച ക്രിസ്റ്റ്യൻ ദേവാലയങ്ങൾ പിന്നീട് അവർതന്നെ യുക്തിദേവതാ ആരാധനയ്ക്കുള്ള അൾത്താരയാക്കി മാറ്റുകയും ചെയ്തു.
 # translit = viplavakārikaḷ̕ naśippicca krisṟṟyan̕ dēvālayaṅṅaḷ̕ pinnīṭ avaṟ̕tanne yuktidēvatā ārādhanaykkuḷḷa aḷ̕ttārayākki māṟṟukayuṁ ceytu.
+# text_en = The Christian churches destroyed by the revolutionaries were later converted into altars for the worship of the Goddess of Reason.
 1	വിപ്ലവകാരികൾ	വിപ്ലവകാരി	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur	12	nsubj	_	Translit=viplavakārikaḷ̕|LTranslit=viplavakāri
 2	നശിപ്പിച്ച	നശിപ്പിക്കുക	ADJ	_	_	12	amod	_	Translit=naśippicca|LTranslit=naśippikkuka
 3	ക്രിസ്റ്റ്യൻ	ക്രിസ്റ്റ്യൻ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	12	compound	_	Translit=krisṟṟyan̕|LTranslit=krisṟṟyan̕
@@ -469,6 +471,7 @@
 # sent_id = indiccorp5
 # text = രാഷ്ട്രപതി അംഗീകരിച്ചില്ലെങ്കിൽ സുപ്രീം കോടതിയെ സമീപിക്കാനും തീരുമാനം.
 # translit = rāṣṭrapati aṁgīkariccilleṅkil̕ suprīṁ kōṭatiye samīpikkānuṁ tīrumānaṁ.
+# text_en = Decision to approach the Supreme Court if the President does not agree.
 1	രാഷ്ട്രപതി	രാഷ്ട്രപതി	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	7	nsubj	_	Translit=rāṣṭrapati|LTranslit=rāṣṭrapati
 2	അംഗീകരിച്ചില്ലെങ്കിൽ	അംഗീകരിക്കക	VERB	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=aṁgīkariccilleṅkil̕|LTranslit=aṁgīkarikkaka
 3	സുപ്രീം	സുപ്രീം	NOUN	_	Number=Sing	4	compound	_	Translit=suprīṁ|LTranslit=suprīṁ
@@ -499,6 +502,7 @@
 # sent_id = indiccorp7
 # text = ഉള്ളതൊക്കെ പരസ്പരം മത്സരിച്ച് കുറേപ്പേർകൂടി നശിപ്പിക്കുകയും ചെയ്തു.
 # translit = uḷḷatokke parasparaṁ matsaricc kuṟēppēṟ̕kūṭi naśippikkukayuṁ ceytu.
+# text_en = Everything that was there was destroyed by competing with each other.
 1	ഉള്ളതൊക്കെ	ഉള്ളതൊക്കെ	ADV	_	_	7	nsubj	_	Translit=uḷḷatokke|LTranslit=uḷḷatokke
 2	പരസ്പരം	പരസ്പരം	ADV	_	_	7	nsubj	_	Translit=parasparaṁ|LTranslit=parasparaṁ
 3	മത്സരിച്ച്	മത്സരിച്ച്	ADV	_	_	7	advmod	_	Translit=matsaricc|LTranslit=matsaricc
@@ -512,6 +516,7 @@
 # sent_id = indiccorp8
 # text = ഹെവി മൂടുശീല, രസകരമായ വെളിച്ചം ഇതിനും, ചിലപ്പോൾ പ്രസവിച്ചു മതിലുകൾ, വെളിച്ചം സോഫകളും, തലയണകളും, അലമാരയിലെ കൂണില് കാര്യങ്ങൾ - എല്ലാം വളരെ സൌഹാര്ദപൂര്ണ്ണവുമായിരിക്കും ഏട്ടനും തോന്നുന്നു.
 # translit = hevi mūṭuśīla, rasakaramāya veḷiccaṁ itinuṁ, cilappōḷ̕ prasaviccu matilukaḷ̕, veḷiccaṁ sōphakaḷuṁ, talayaṇakaḷuṁ, alamārayile kūṇil kāryaṅṅaḷ̕ - ellāṁ vaḷare sauhārdapūrṇṇavumāyirikkuṁ ēṭṭanuṁ tōnnunnu.
+# text_en = Heavy curtains, interesting light for this, sometimes bare walls, light sofas, cushions, things in the closet - everything will be very cozy.
 1	ഹെവി	ഹെവി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	nsubj	_	Translit=hevi|LTranslit=hevi
 2	മൂടുശീല	മൂടുശീല	ADJ	_	_	30	nsubj	_	SpaceAfter=No|Translit=mūṭuśīla|LTranslit=mūṭuśīla
 3	,	,	PUNCT	_	_	30	nsubj	_	Translit=,|LTranslit=,
@@ -552,6 +557,7 @@
 # sent_id = indiccorp9
 # text = സ്കൂൾ ചെറിയ മനുഷ്യൻ ഫുട്ബോൾ, കാണുക വായിച്ചു, നോൺ-സാധാരണ പ്രവർത്തനങ്ങൾ ഗെയിം പുനരുജ്ജീവിപ്പിക്കാൻ കഴിവ് പ്രകാരം എവിടെ ഉൽകൃഷ്ടനായിരിക്കുന്നു കളിക്കാൻ തുടങ്ങി.
 # translit = skūḷ̕ ceṟiya manuṣyan̕ phuṭbōḷ̕, kāṇuka vāyiccu, nōṇ̕-sādhāraṇa pravaṟ̕ttanaṅṅaḷ̕ geyiṁ punarujjīvippikkān̕ kaḻiv prakāraṁ eviṭe ul̕kr̥ṣṭanāyirikkunnu kaḷikkān̕ tuṭaṅṅi.
+# text_en = At school, the little man began to play football, watch and read, where he excelled by the ability to revive the game of non-ordinary activities.
 1	സ്കൂൾ	സ്കൂൾ	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	Translit=skūḷ̕|LTranslit=skūḷ̕
 2	ചെറിയ	ചെറിയ	ADJ	_	_	18	advmod	_	Translit=ceṟiya|LTranslit=ceṟiya
 3	മനുഷ്യൻ	മനുഷ്യൻ	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	Translit=manuṣyan̕|LTranslit=manuṣyan̕
@@ -575,6 +581,7 @@
 # sent_id = indiccorp10
 # text = എന്നാൽ റിലീസിങ്ങ് ദിനത്തിൽ പരമാവധി തിയേറ്ററുകളിലേക്ക് ചിത്രം എത്തിക്കണമെന്ന മെഗാസ്റ്റാറിന്റെ ആഗ്രഹത്തിന് വേണ്ടിയാണഅ റിലീസ് മാറ്റിയത് എന്ന് പിന്നീട് പാപ്പരാസികൾ കണ്ടെത്തികയായിരുന്നു.
 # translit = ennāl̕ ṟilīsiṅṅ dinattil̕ paramāvadhi tiyēṟṟaṟukaḷilēkk citraṁ ettikkaṇamenna megāsṟṟāṟinṟe āgrahattin vēṇṭiyāṇaa ṟilīs māṟṟiyat enn pinnīṭ pāpparāsikaḷ̕ kaṇṭettikayāyirunnu.
+# text_en = But later the paparazzi discovered that the release was changed for the megastar's desire to reach maximum number of theaters on the release day.
 1	എന്നാൽ	എന്നാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	17	nsubj	_	Translit=ennāl̕|LTranslit=ennāl̕
 2	റിലീസിങ്ങ്	റിലീസിങ്ങ്	ADV	_	_	17	advmod	_	Translit=ṟilīsiṅṅ|LTranslit=ṟilīsiṅṅ
 3	ദിനത്തിൽ	ദിനത്തിൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	nsubj	_	Translit=dinattil̕|LTranslit=dinattil̕
@@ -598,6 +605,7 @@
 # sent_id = indiccorp11
 # text = കഴിഞ്ഞ വർഷം ജൂലൈ 24 നാണ് കൊളീജിയം ശുപാർശ നൽകുന്നത്.
 # translit = kaḻiñña vaṟ̕ṣaṁ jūlai 24 nāṇ koḷījiyaṁ śupāṟ̕śa nal̕kunnat.
+# text_en = The collegium makes the recommendation on July 24 last year.
 1	കഴിഞ്ഞ	കഴിഞ്ഞ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	9	nsubj	_	Translit=kaḻiñña|LTranslit=kaḻiñña
 2	വർഷം	വർഷം	ADV	_	_	9	advmod	_	Translit=vaṟ̕ṣaṁ|LTranslit=vaṟ̕ṣaṁ
 3	ജൂലൈ	ജൂലൈ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	9	nsubj	_	Translit=jūlai|LTranslit=jūlai
@@ -613,6 +621,7 @@
 # sent_id = indiccorp12
 # text = 2014-ൽ ബി. ജെ. പി. പ്രകടന പത്രികയിലെ പ്രധാന വാഗ്‌ദാനമായിരുന്നു പൗരത്വ ഭേദഗതി ബിൽ.
 # translit = 2014-l̕ bi. je. pi. prakaṭana patrikayile pradhāna vāgdānamāyirunnu pauratva bhēdagati bil̕.
+# text_en = In 2014, B. J. P. The main promise in the manifesto was the Citizenship Amendment Bill.
 1	2014-ൽ	2014-ൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	nsubj	_	Translit=2014-l̕|LTranslit=2014-l̕
 2	ബി	ബുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	15	nsubj	_	SpaceAfter=No|Translit=bi|LTranslit=buka
 3	.	.	PUNCT	_	_	15	det	_	Translit=.|LTranslit=.
@@ -634,6 +643,7 @@
 # sent_id = indiccorp13
 # text = തന്മൂലം മറ്റ്‌ ജനങ്ങളുമായി സഹവർത്തിത്വം ഇല്ലാതെവരുന്നു.
 # translit = tanmūlaṁ maṟṟ janaṅṅaḷumāyi sahavaṟ̕ttitvaṁ illātevarunnu.
+# text_en = As a result, coexistence with other people ceases.
 1	തന്മൂലം	തന്മൂലം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	2	nmod:poss	_	Translit=tanmūlaṁ|LTranslit=tanmūlaṁ
 2	മറ്റ്‌	മറ്റ്‌	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	nsubj	_	Translit=maṟṟ|LTranslit=maṟṟ
 3	ജനങ്ങളുമായി	ജനങ്ങളുമായുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	5	advmod	_	Translit=janaṅṅaḷumāyi|LTranslit=janaṅṅaḷumāyuka
@@ -644,6 +654,7 @@
 # sent_id = indiccorp14
 # text = സൗമ്യയുടെ മാതാപിതാക്കളായ കുഞ്ഞിക്കണ്ണൻ, കമല എന്നിവരും സൗമ്യയുടെ രണ്ടാമത്തെ മകൾ ഐശ്വര്യയും ദുരൂഹസാഹചര്യത്തിൽ മരിച്ചിരുന്നു.
 # translit = saumyayuṭe mātāpitākkaḷāya kuññikkaṇṇan̕, kamala ennivaruṁ saumyayuṭe raṇṭāmatte makaḷ̕ aiśvaryayuṁ durūhasāhacaryattil̕ mariccirunnu.
+# text_en = Soumya's parents Kunhikannan and Kamala and Soumya's second daughter Aishwarya died under mysterious circumstances.
 1	സൗമ്യയുടെ	സൗമ്യയുടെ	ADV	_	_	14	advmod	_	Translit=saumyayuṭe|LTranslit=saumyayuṭe
 2	മാതാപിതാക്കളായ	മാതാപിതാക്കളായ	ADJ	_	_	14	nsubj	_	Translit=mātāpitākkaḷāya|LTranslit=mātāpitākkaḷāya
 3	കുഞ്ഞിക്കണ്ണൻ	കുഞ്ഞിക്കണ്ണൻ	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	SpaceAfter=No|Translit=kuññikkaṇṇan̕|LTranslit=kuññikkaṇṇan̕
@@ -665,6 +676,7 @@
 # sent_id = indiccorp15
 # text = ശ്രീനഗർ: ജമ്മുകശ്മിരിൽ കനത്തമഴയെ തുടർന്നുണ്ടായ മണ്ണിടിച്ചിലിൽ മൂന്നു തീർഥാടകർ ഉൾപ്പെടെ നാലു പേർ മരിച്ചു.
 # translit = śrīnagaṟ̕: jammukaśmiril̕ kanattamaḻaye tuṭaṟ̕nnuṇṭāya maṇṇiṭiccilil̕ mūnnu tīṟ̕thāṭakaṟ̕ uḷ̕ppeṭe nālu pēṟ̕ mariccu.
+# text_en = Srinagar: Four people, including three pilgrims, died in a landslide following heavy rains in Jammu and Kashmir.
 1	ശ്രീനഗർ	ശ്രീനഗർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	SpaceAfter=No|Translit=śrīnagaṟ̕|LTranslit=śrīnagaṟ̕
 2	:	:	PUNCT	_	_	12	nsubj	_	Translit=:|LTranslit=:
 3	ജമ്മുകശ്മിരിൽ	ജമ്മുകശ്മിരിൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=jammukaśmiril̕|LTranslit=jammukaśmiril̕
@@ -682,12 +694,14 @@
 # sent_id = indiccorp16
 # text = " ആഗ്രഹിക്കുന്നു
 # translit = " āgrahikkunnu
+# text_en = "Wish
 1	"	"	PUNCT	_	_	2	nsubj	_	Translit="|LTranslit="
 2	ആഗ്രഹിക്കുന്നു	ആഗ്രഹിക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n|Translit=āgrahikkunnu|LTranslit=āgrahikkuka
 
 # sent_id = indiccorp17
 # text = കോഴിക്കോട്: നിയമസഭ തെരെഞ്ഞെടുപ്പിനു മുന്നോടിയായി എല്ലാ പാർട്ടികളും മുന്നണികളും പ്രചരണ രംഗത്തു സജ്ജിവമായിക്കഴിഞ്ഞു.
 # translit = kōḻikkōṭ: niyamasabha tereññeṭuppinu munnōṭiyāyi ellā pāṟ̕ṭṭikaḷuṁ munnaṇikaḷuṁ pracaraṇa raṁgattu sajjivamāyikkaḻiññu.
+# text_en = Kozhikode: Ahead of the assembly elections, all the parties and fronts are gearing up for campaigning.
 1	കോഴിക്കോട്	കോഴിക്കോട്	ADV	_	_	13	advmod	_	SpaceAfter=No|Translit=kōḻikkōṭ|LTranslit=kōḻikkōṭ
 2	:	:	PUNCT	_	_	13	nsubj	_	Translit=:|LTranslit=:
 3	നിയമസഭ	നിയമസഭ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	13	nsubj	_	Translit=niyamasabha|LTranslit=niyamasabha
@@ -738,6 +752,7 @@
 # sent_id = indiccorp20
 # text = മുതിർന്നവർക്ക് ഭക്ഷണം മുമ്പിൽ 20 മിനിറ്റ് മരുന്ന് ഒരു തവണ സ്പൂൺ മൂന്ന് തവണ എടുത്തു ശുപാർശ.
 # translit = mutiṟ̕nnavaṟ̕kk bhakṣaṇaṁ mumpil̕ 20 miniṟṟ marunn oru tavaṇa spūṇ̕ mūnn tavaṇa eṭuttu śupāṟ̕śa.
+# text_en = For adults, it is recommended to take the medicine three times a spoon, 20 minutes before meals.
 1	മുതിർന്നവർക്ക്	മുതിർന്നവർ	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	Translit=mutiṟ̕nnavaṟ̕kk|LTranslit=mutiṟ̕nnavaṟ̕
 2	ഭക്ഷണം	ഭക്ഷണം	NOUN	_	Case=Acc|Number=Sing	12	nsubj	_	Translit=bhakṣaṇaṁ|LTranslit=bhakṣaṇaṁ
 3	മുമ്പിൽ	മുമ്പിൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	obj	_	Translit=mumpil̕|LTranslit=mumpil̕
@@ -773,6 +788,7 @@
 # sent_id = indiccorp22
 # text = എല്ലാതരം മിഥ്യാ ബോധ്യങ്ങളും മാറ്റിവെച്ച്‌ഐ ക്യപ്പെടാനുള്ള സന്ദേശം എല്ലാവരും ഉൾക്കൊള്ളുമെന്ന വിശ്വാസമാണ് കർണാടക വിധിക്ക് ശേഷം ബി. ജെ. പി ഇതര പാർട്ടികളിൽ നിന്നെല്ലാം ഉണ്ടാകുന്നത്.
 # translit = ellātaraṁ mithyā bōdhyaṅṅaḷuṁ māṟṟiveccai kyappeṭānuḷḷa sandēśaṁ ellāvaruṁ uḷ̕kkoḷḷumenna viśvāsamāṇ kaṟ̕ṇāṭaka vidhikk śēṣaṁ bi. je. pi itara pāṟ̕ṭṭikaḷil̕ ninnellāṁ uṇṭākunnat.
+# text_en = After the Karnataka verdict, it is the belief that everyone will embrace the message of reconciliation, leaving aside all kinds of false beliefs. J. Arising from all non-P parties.
 1	എല്ലാതരം	എല്ലാതരം	ADV	_	_	24	advmod	_	Translit=ellātaraṁ|LTranslit=ellātaraṁ
 2	മിഥ്യാ	മിഥ്യാ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	24	nsubj	_	Translit=mithyā|LTranslit=mithyā
 3-4	ബോധ്യങ്ങളും	_	_	_	_	_	_	_	Translit=bōdhyaṅṅaḷuṁ
@@ -816,6 +832,7 @@
 # sent_id = indiccorp24
 # text = ധോണിക്കൊപ്പം റായ് ലക്ഷ്മി; പ്രതികരണവുമായി താരം
 # translit = dhōṇikkoppaṁ ṟāy lakṣmi; pratikaraṇavumāyi tāraṁ
+# text_en = Rai Lakshmi with Dhoni; Actor with response
 1	ധോണിക്കൊപ്പം	ധോണിക്കൊപ്പം	NOUN	_	Case=Acc|Number=Sing	3	nsubj	_	Translit=dhōṇikkoppaṁ|LTranslit=dhōṇikkoppaṁ
 2	റായ്	റായ്	ADV	_	_	3	advmod	_	Translit=ṟāy|LTranslit=ṟāy
 3	ലക്ഷ്മി	ലക്ഷ്മുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=lakṣmi|LTranslit=lakṣmuka
@@ -826,6 +843,7 @@
 # sent_id = indiccorp25
 # text = ജേക്കബ് തോമസിന് ഹൈക്കോടതിയുടെ രൂക്ഷ വിമർശനം.
 # translit = jēkkab tōmasin haikkōṭatiyuṭe rūkṣa vimaṟ̕śanaṁ.
+# text_en = High Court criticizes Jacob Thomas.
 1	ജേക്കബ്	ജേക്കബ്	ADV	_	_	5	advmod	_	Translit=jēkkab|LTranslit=jēkkab
 2	തോമസിന്	തോമസ്	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	5	nsubj	_	Translit=tōmasin|LTranslit=tōmas
 3	ഹൈക്കോടതിയുടെ	ഹൈക്കോടതിയുടെ	ADV	_	_	5	advmod	_	Translit=haikkōṭatiyuṭe|LTranslit=haikkōṭatiyuṭe
@@ -836,6 +854,7 @@
 # sent_id = indiccorp26
 # text = ഉച്ചയ്ക്ക് ശേഷം ഈഞ്ചയ്ക്കലിൽ തുടങ്ങി പഴവങ്ങാടിയിൽ സമാപിച്ചു.
 # translit = uccaykk śēṣaṁ īñcaykkalil̕ tuṭaṅṅi paḻavaṅṅāṭiyil̕ samāpiccu.
+# text_en = Afternoon started from Eenchakal and ended at Pazhavangadi.
 1	ഉച്ചയ്ക്ക്	ഉച്ചയ്	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Translit=uccaykk|LTranslit=uccay
 2	ശേഷം	ശേഷം	ADV	_	_	6	advmod	_	Translit=śēṣaṁ|LTranslit=śēṣaṁ
 3	ഈഞ്ചയ്ക്കലിൽ	ഈഞ്ചയ്ക്കല്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	6	nsubj	_	Translit=īñcaykkalil̕|LTranslit=īñcaykkal
@@ -847,6 +866,7 @@
 # sent_id = indiccorp27
 # text = ഇത് അധികൃതരുടെ ശ്രദ്ധയിൽപ്പെട്ടിട്ടും ലീക്ക് മാറ്റാൻ അവർ തയാറാകുന്നില്ലെന്നാണ് സമാപവാസികൾക്കുള്ള ആക്ഷേപം.
 # translit = it adhikr̥taruṭe śraddhayil̕ppeṭṭiṭṭuṁ līkk māṟṟān̕ avaṟ̕ tayāṟākunnillennāṇ samāpavāsikaḷ̕kkuḷḷa ākṣēpaṁ.
+# text_en = The residents of Samapa have complained that they are not ready to change the leak even though this has been brought to the attention of the authorities.
 1	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Translit=it|LTranslit=it
 2	അധികൃതരുടെ	അധികൃതരുടെ	ADV	_	_	11	advmod	_	Translit=adhikr̥taruṭe|LTranslit=adhikr̥taruṭe
 3-4	ശ്രദ്ധയിൽപ്പെട്ടിട്ടും	_	_	_	_	_	_	_	Translit=śraddhayil̕ppeṭṭiṭṭuṁ
@@ -865,6 +885,7 @@
 # sent_id = indiccorp28
 # text = എന്നാൽ, ഇത് കണ്ട് മടങ്ങി പോകാതെ ഇടികൂടുന്ന വിദ്യാർഥികൾക്ക് ഇടയിലൂടെ ഇതൊക്കെ എന്ത് എന്ന മുഖഭാവത്തോടെയാണ് ഷറഫുദ്ദീൻ നടന്ന് പോയത്
 # translit = ennāl̕, it kaṇṭ maṭaṅṅi pōkāte iṭikūṭunna vidyāṟ̕thikaḷ̕kk iṭayilūṭe itokke ent enna mukhabhāvattōṭeyāṇ ṣaṟaphuddīn̕ naṭann pōyat
+# text_en = However, seeing this, Sharafuddin walked through the crowd of students with the expression of "What is this?"
 1	എന്നാൽ	എന്നാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	nsubj	_	SpaceAfter=No|Translit=ennāl̕|LTranslit=ennāl̕
 2	,	,	PUNCT	_	_	5	nsubj	_	Translit=,|LTranslit=,
 3	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=it|LTranslit=it
@@ -887,6 +908,7 @@
 # sent_id = indiccorp29
 # text = 1950 ജൂലൈ 12ന് ഡൽഹിയിൽ അറസ്റ്റിലായി.
 # translit = 1950 jūlai 12n ḍal̕hiyil̕ aṟasṟṟilāyi.
+# text_en = He was arrested on July 12, 1950 in Delhi.
 1	1950	1950	NUM	_	_	5	nsubj	_	Translit=1950|LTranslit=1950
 2	ജൂലൈ	ജൂലൈ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	nsubj	_	Translit=jūlai|LTranslit=jūlai
 3	12ന്	12ന്	ADV	_	_	5	advmod	_	Translit=12n|LTranslit=12n
@@ -897,6 +919,7 @@
 # sent_id = indiccorp30
 # text = അനുജന് കളിക്കാൻ  ബൈക്കുകൾ നിർമിച്ചു നൽകി യായിരുന്നു തുടക്കം.
 # translit = anujan kaḷikkān̕  baikkukaḷ̕ niṟ̕miccu nal̕ki yāyirunnu tuṭakkaṁ.
+# text_en = It started with making bikes for Anujan to play with.
 1	അനുജന്	അനുജന്	ADV	_	_	2	advmod	_	Translit=anujan|LTranslit=anujan
 2	കളിക്കാൻ	കളിക്കാൻ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	8	nsubj	_	SpacesAfter= \s|Translit=kaḷikkān̕|LTranslit=kaḷikkān̕
 3	ബൈക്കുകൾ	ബൈക്കുകൾ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	8	nmod:poss	_	Translit=baikkukaḷ̕|LTranslit=baikkukaḷ̕
@@ -911,6 +934,7 @@
 # sent_id = indiccorp31
 # text = മീഡിയ ഫോറത്തിലെ പ്രതിനിധികളുമായി വീഡിയോ സംവാദത്തിന് അവസരമൊരുക്കിയ മലയാളികളും വീട്ടിൽ സൽക്കരിച്ച നിയാസ്‌, ഭാര്യ ഷമീം, റിയാസ്‌ ഭാര്യ ആയിഷ ഫർസീന തുടങ്ങിയവരും പിന്നെ സമീർക്കയും അഫ്‌സൽക്കയുമൊക്കെയാണ് യു. എസ് എന്ന മഹാനഗരത്തെക്കുറിച്ചുള്ള ഓരോ കാര്യങ്ങളും പറഞ്ഞുതന്നത്.
 # translit = mīḍiya phōṟattile pratinidhikaḷumāyi vīḍiyō saṁvādattin avasaramorukkiya malayāḷikaḷuṁ vīṭṭil̕ sal̕kkaricca niyās, bhārya ṣamīṁ, ṟiyās bhārya āyiṣa phaṟ̕sīna tuṭaṅṅiyavaruṁ pinne samīṟ̕kkayuṁ aphsal̕kkayumokkeyāṇ yu. es enna mahānagarattekkuṟiccuḷḷa ōrō kāryaṅṅaḷuṁ paṟaññutannat.
+# text_en = The Malayalees who gave an opportunity for a video discussion with the representatives of the media forum, Niaz, his wife Shamim, Riaz's wife Ayesha Farsina, and Samirka and Afzalka, who were entertained at home, were also present. Each and every thing about the great city of S was told.
 1	മീഡിയ	മീഡിയ	ADJ	_	_	36	nsubj	_	Translit=mīḍiya|LTranslit=mīḍiya
 2	ഫോറത്തിലെ	ഫോറത്തിലെ	ADV	_	_	36	advmod	_	Translit=phōṟattile|LTranslit=phōṟattile
 3	പ്രതിനിധികളുമായി	പ്രതിനിധികളുമായി	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	36	nsubj	_	Translit=pratinidhikaḷumāyi|LTranslit=pratinidhikaḷumāyi
@@ -958,6 +982,7 @@
 # sent_id = indiccorp32
 # text = പ്രഭാതമായെന്ന് ബോധ്യമായാൽ പിന്നെ ഭക്ഷിക്കരുത്.
 # translit = prabhātamāyenn bōdhyamāyāl̕ pinne bhakṣikkarut.
+# text_en = Do not eat again when you are sure that it is morning.
 1-2	പ്രഭാതമായെന്ന്	_	_	_	_	_	_	_	Translit=prabhātamāyenn
 1	പ്രഭാതമായ്	പ്രഭാതമായ്	ADV	_	_	5	advmod	_	Translit=prabhātamāy|LTranslit=prabhātamāy
 2	എന്ന്	എന്ന്	PART	_	_	5	nsubj	_	Translit=enn|LTranslit=enn
@@ -969,6 +994,7 @@
 # sent_id = indiccorp33
 # text = രുചികരമായ ഭവനങ്ങളിൽ അരകപ്പ് കുക്കികൾ പാചകം ചെയ്യുന്നത് വളരെ നല്ലതാണ് - ഇത് വളരെ ബുദ്ധിമുട്ടുള്ള കാര്യമല്ല.
 # translit = rucikaramāya bhavanaṅṅaḷil̕ arakapp kukkikaḷ̕ pācakaṁ ceyyunnat vaḷare nallatāṇ - it vaḷare buddhimuṭṭuḷḷa kāryamalla.
+# text_en = It's great to cook delicious homemade half-cup cookies - it's not too difficult.
 1	രുചികരമായ	രുചികരം	ADJ	_	_	6	nsubj	_	Translit=rucikaramāya|LTranslit=rucikaraṁ
 2	ഭവനങ്ങളിൽ	ഭവനങ്ങള്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	6	nsubj	_	Translit=bhavanaṅṅaḷil̕|LTranslit=bhavanaṅṅaḷ
 3	അരകപ്പ്	അരകപ്പ്	ADJ	_	_	6	advmod	_	Translit=arakapp|LTranslit=arakapp
@@ -989,6 +1015,7 @@
 # sent_id = indiccorp34
 # text = , പുതിയ ചെറി ഉപയോഗിച്ച് കഴുകിക്കളയുക നീക്കാൻ അസ്ഥികൾ നിന്ന് റിലീസ്.
 # translit = , putiya ceṟi upayōgicc kaḻukikkaḷayuka nīkkān̕ asthikaḷ̕ ninn ṟilīs.
+# text_en = , rinse with fresh cherry to remove and release from the bones.
 1	,	,	PUNCT	_	_	6	nsubj	_	Translit=,|LTranslit=,
 2	പുതിയ	പുതിയ	ADJ	_	_	6	nsubj	_	Translit=putiya|LTranslit=putiya
 3	ചെറി	ചെറി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	nsubj	_	Translit=ceṟi|LTranslit=ceṟi
@@ -1003,6 +1030,7 @@
 # sent_id = indiccorp35
 # text = വണ്ണത്തിൽ വമ്പ് പറയാനില്ലെങ്കിലും പൊക്കംകൊണ്ട് ഒന്നിന്റെയും തുഞ്ചം കാണാൻ വയ്യ.
 # translit = vaṇṇattil̕ vamp paṟayānilleṅkiluṁ pokkaṁkoṇṭ onninṟeyuṁ tuñcaṁ kāṇān̕ vayya.
+# text_en = Although there is no bulk in the body, you can't see the height of anything.
 1	വണ്ണത്തിൽ	വണ്ണത്തിൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	nsubj	_	Translit=vaṇṇattil̕|LTranslit=vaṇṇattil̕
 2	വമ്പ്	വമ്പ്	ADJ	_	_	10	det	_	Translit=vamp|LTranslit=vamp
 3-4	പറയാനില്ലെങ്കിലും	_	_	_	_	_	_	_	Translit=paṟayānilleṅkiluṁ
@@ -1020,6 +1048,7 @@
 # sent_id = indiccorp36
 # text = പാകിസ്ഥാൻ നിയമപ്രകാരം കാനഡയിലുള്ള തൻറെ  ട്വിറ്റര് സെൻസർ ചെയ്തതിൽ പ്രകോപിതനായ എസ്രാ കടുത്ത ഭാഷയിലാണ് മന്ത്രിയെ വിമർശിച്ചത്.
 # translit = pākisthān̕ niyamaprakāraṁ kānaḍayiluḷḷa tan̕ṟe  ṭviṟṟar sen̕saṟ̕ ceytatil̕ prakōpitanāya esrā kaṭutta bhāṣayilāṇ mantriye vimaṟ̕śiccat.
+# text_en = Enraged by the censoring of his Twitter account in Canada under Pakistani law, Ezra criticized the minister in harsh language.
 1	പാകിസ്ഥാൻ	പാകിസ്ഥാൻ	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Translit=pākisthān̕|LTranslit=pākisthān̕
 2	നിയമപ്രകാരം	നിയമപ്രകാരം	NOUN	_	Case=Acc|Number=Sing	3	nmod:poss	_	Translit=niyamaprakāraṁ|LTranslit=niyamaprakāraṁ
 3	കാനഡയിലുള്ള	കാനഡയിലുള്ള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	14	nsubj	_	Translit=kānaḍayiluḷḷa|LTranslit=kānaḍayiluḷḷa
@@ -1040,6 +1069,7 @@
 # sent_id = indiccorp37
 # text = വനിതാ മതിൽ' നിർമ്മാണത്തിന് സംസ്ഥാന ഗവൺമെന്റ് നേതൃത്വം നൽകുന്നത് ഭരണഘടനയുടെ. . . “എന്ത് തരം ഹിന്ദുവാണ് മോദി”; ഹിന്ദുയിസത്തിന്റെ അടിസ്ഥാന തത്വങ്ങളെ കുറിച്ച് ചോദിച്ച് രാഹുൽ ഗാന്ധി
 # translit = vanitā matil̕' niṟ̕mmāṇattin saṁsthāna gavaṇ̕menṟ nētr̥tvaṁ nal̕kunnat bharaṇaghaṭanayuṭe. . . “ent taraṁ hinduvāṇ mōdi”; hinduyisattinṟe aṭisthāna tatvaṅṅaḷe kuṟicc cōdicc rāhul̕ gāndhi
+# text_en = The State Government is leading the construction of 'Women's Wall' under the Constitution. . . “What kind of Hindu is Modi”; Rahul Gandhi asked about the basic principles of Hinduism
 1	വനിതാ	വനിതാ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	25	nsubj	_	Translit=vanitā|LTranslit=vanitā
 2	മതിൽ	മതിൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	25	nsubj	_	SpaceAfter=No|Translit=matil̕|LTranslit=matil̕
 3	'	'	PUNCT	_	_	25	nsubj	_	Translit='|LTranslit='
@@ -1070,6 +1100,7 @@
 # sent_id = indiccorp38
 # text = പ്രളയം: ഹംപി ഹെറിറ്റേജ് സൈറ്റിൽ കുടുങ്ങിയ വിനോദസഞ്ചാരികളെ രക്ഷപ്പെടുത്തി
 # translit = praḷayaṁ: haṁpi heṟiṟṟēj saiṟṟil̕ kuṭuṅṅiya vinōdasañcārikaḷe rakṣappeṭutti
+# text_en = Flood: Tourists rescued from Hampi heritage site
 1	പ്രളയം	പ്രളയം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	6	nsubj	_	SpaceAfter=No|Translit=praḷayaṁ|LTranslit=praḷayaṁ
 2	:	:	PUNCT	_	_	6	nsubj	_	Translit=:|LTranslit=:
 3	ഹംപി	ഹംപുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	nsubj	_	Translit=haṁpi|LTranslit=haṁpuka
@@ -1082,6 +1113,7 @@
 # sent_id = indiccorp39
 # text = അപലപനീയമാണ് തത്ത്വചിന്ത - മുനി ഹെർമീസ് ത്രിസ്മെഗിസ്തുസ്, ഗ്രീക്കുകാർ മുഖ്യപ്രസംഗിയാകയാൽ പ്രകാരം വിളിക്കപ്പെട്ട അറിവും ജ്ഞാനവും പുരാതന ഈജിപ്ഷ്യൻ, ഥൊഥ്, പ്രതിനിധീകരിച്ചു് - ഒരു സാങ്കൽപ്പിക വ്യക്തിക്ക് ആരോപിക്കപ്പെട്ടു രഹസ്യ അറിവ് കടന്നതു പുസ്തകങ്ങളിൽ പഠിക്കാൻ, വൈകി പൗരാണികത ഹെല്ലെനിസ്മ് കാലഘട്ടത്തിൽ നിലനിന്നിരുന്ന ഒരു മാജിക് നിഗൂഡശാസ്ത്രങ്ങളിൽ ഉപദേശം ആണ്.
 # translit = apalapanīyamāṇ tattvacinta - muni heṟ̕mīs trismegistus, grīkkukāṟ̕ mukhyaprasaṁgiyākayāl̕ prakāraṁ viḷikkappeṭṭa aṟivuṁ jñānavuṁ purātana ījipṣyan̕, thoth, pratinidhīkariccu് - oru sāṅkal̕ppika vyaktikk ārōpikkappeṭṭu rahasya aṟiv kaṭannatu pustakaṅṅaḷil̕ paṭhikkān̕, vaiki paurāṇikata hellenism kālaghaṭṭattil̕ nilaninnirunna oru mājik nigūḍaśāstraṅṅaḷil̕ upadēśaṁ āṇ.
+# text_en = The reprehensible philosophy - the knowledge and wisdom called by the sage Hermes Trismegistus, the Greeks as the main preacher, represented by the ancient Egyptian, Thoth - was attributed to an imaginary person who passed the secret knowledge to study in books, a magic mystery that existed in the period of Late Antiquity Hellenism.
 1-2	അപലപനീയമാണ്	_	_	_	_	_	_	_	Translit=apalapanīyamāṇ
 1	അപലപനീയമ്	അപലപനീയമ്	ADV	_	_	32	advmod	_	Translit=apalapanīyam|LTranslit=apalapanīyam
 2	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	32	nsubj	_	Translit=āṇ|LTranslit=āk
@@ -1135,6 +1167,7 @@
 # sent_id = indiccorp40
 # text = ഇന്ന് ഇരുവരും ഒന്നിച്ചുള്ള ആദ്യ ചിത്രമാണ് നസ്രിയ പങ്കുവച്ചിരിക്കുന്നത്.
 # translit = inn iruvaruṁ onniccuḷḷa ādya citramāṇ nasriya paṅkuvaccirikkunnat.
+# text_en = Today Nazriya has shared the first picture of the two together.
 1	ഇന്ന്	ഇന്ന്	ADV	_	_	9	advmod	_	Translit=inn|LTranslit=inn
 2-3	ഇരുവരും	_	_	_	_	_	_	_	Translit=iruvaruṁ
 2	ഇരുവര	ഇരുവര	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	9	nsubj	_	Translit=iruvara|LTranslit=iruvara
@@ -1151,6 +1184,7 @@
 # sent_id = indiccorp41
 # text = അത് ചെയ്യുന്നത് ആരായാലും അവരെ നിയമത്തിന്റെ മുന്നിൽ കൊണ്ടുവരണം എന്നും പ്രസ്താവനയിൽ ആവശ്യപ്പെടുന്നു.
 # translit = at ceyyunnat ārāyāluṁ avare niyamattinṟe munnil̕ koṇṭuvaraṇaṁ ennuṁ prastāvanayil̕ āvaśyappeṭunnu.
+# text_en = The statement also demanded that whoever is doing it should be brought to justice.
 1	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=at|LTranslit=at
 2	ചെയ്യുന്നത്	ചെയ്യുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	12	nsubj	_	Translit=ceyyunnat|LTranslit=ceyyuka
 3-4	ആരായാലും	_	_	_	_	_	_	_	Translit=ārāyāluṁ
@@ -1170,6 +1204,7 @@
 # sent_id = indiccorp42
 # text = രോഗികൾക്ക്‌ രോഗശാന്തി കൈവരും.
 # translit = rōgikaḷ̕kk rōgaśānti kaivaruṁ.
+# text_en = Patients will get cured.
 1	രോഗികൾക്ക്‌	രോഗികൾക്ക്‌	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	nmod:poss	_	Translit=rōgikaḷ̕kk|LTranslit=rōgikaḷ̕kk
 2	രോഗശാന്തി	രോഗശാന്തി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	nsubj	_	Translit=rōgaśānti|LTranslit=rōgaśānti
 3-4	കൈവരും	_	_	_	_	_	_	_	SpaceAfter=No|Translit=kaivaruṁ
@@ -1180,6 +1215,7 @@
 # sent_id = indiccorp43
 # text = മുപ്പതു മുതൽ നാൽപ്പതു മിനിറ്റ് വരെ 210 ഡിഗ്രി സെൽഷ്യസിൽ ഒരു ചൂടാക്കിയ അടുപ്പിൽ വയ്ക്കുക.
 # translit = muppatu mutal̕ nāl̕ppatu miniṟṟ vare 210 ḍigri sel̕ṣyasil̕ oru cūṭākkiya aṭuppil̕ vaykkuka.
+# text_en = Place in a preheated oven at 210 degrees Celsius for thirty to forty minutes.
 1	മുപ്പതു	മുപ്പതു	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	12	nmod:poss	_	Translit=muppatu|LTranslit=muppatu
 2	മുതൽ	മുതൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=mutal̕|LTranslit=mutal̕
 3	നാൽപ്പതു	നാൽപ്പതു	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	12	det	_	Translit=nāl̕ppatu|LTranslit=nāl̕ppatu
@@ -1197,6 +1233,7 @@
 # sent_id = indiccorp44
 # text = ഇയാളെ പോക്‌സോ കേസ് ചുമത്തിയാണ് പോലീസ് അറസ്റ്റു ചെയ്തത്.
 # translit = iyāḷe pōksō kēs cumattiyāṇ pōlīs aṟasṟṟu ceytat.
+# text_en = He was arrested by the police on a POCSO case.
 1	ഇയാളെ	ഇയാളെ	ADV	_	_	6	advmod	_	Translit=iyāḷe|LTranslit=iyāḷe
 2	പോക്‌സോ	പോക്‌സോ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	nsubj	_	Translit=pōksō|LTranslit=pōksō
 3	കേസ്	കേസ്	ADV	_	_	6	advmod	_	Translit=kēs|LTranslit=kēs
@@ -1211,6 +1248,7 @@
 # sent_id = indiccorp45
 # text = ഇതോടെ ലണ്ടൻ ബ്രിഡ്ജ് പരിസരമാകെ ജനങ്ങൾ പരിഭ്രാന്തരായി പരക്കം പായാൻ തുടങ്ങി.
 # translit = itōṭe laṇṭan̕ briḍj parisaramāke janaṅṅaḷ̕ paribhrāntarāyi parakkaṁ pāyān̕ tuṭaṅṅi.
+# text_en = With this, the people around London Bridge started to panic.
 1	ഇതോടെ	ഇതോടെ	ADV	_	_	9	advmod	_	Translit=itōṭe|LTranslit=itōṭe
 2	ലണ്ടൻ	ലണ്ടൻ	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Translit=laṇṭan̕|LTranslit=laṇṭan̕
 3	ബ്രിഡ്ജ്	ബ്രിഡ്ജ്	ADV	_	_	9	advmod	_	Translit=briḍj|LTranslit=briḍj
@@ -1225,6 +1263,7 @@
 # sent_id = indiccorp46
 # text = മൂന്ന് സംസ്ഥാനങ്ങളിലേക്കുള്ള വോട്ടെണ്ണൽ ആരംഭിച്ചു
 # translit = mūnn saṁsthānaṅṅaḷilēkkuḷḷa vōṭṭeṇṇal̕ āraṁbhiccu
+# text_en = Counting of votes for three states has started
 1	മൂന്ന്	മൂന്ന്	ADV	_	_	2	nmod:poss	_	Translit=mūnn|LTranslit=mūnn
 2	സംസ്ഥാനങ്ങളിലേക്കുള്ള	സംസ്ഥാനങ്ങളിലേക്കുള്ള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	nsubj	_	Translit=saṁsthānaṅṅaḷilēkkuḷḷa|LTranslit=saṁsthānaṅṅaḷilēkkuḷḷa
 3	വോട്ടെണ്ണൽ	വോട്ടെണ്ണൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit=vōṭṭeṇṇal̕|LTranslit=vōṭṭeṇṇal̕
@@ -1233,6 +1272,7 @@
 # sent_id = indiccorp47
 # text = എൽ. എമാർക്കെതിരെ ഉയരുന്ന ആരോപണങ്ങളെ എങ്ങനെ നേരിടുമെന്ന പ്രതിസന്ധിയിലാണ് ഇടതു നേതൃത്വം ഇപ്പോൾ.
 # translit = el̕. emāṟ̕kketire uyarunna ārōpaṇaṅṅaḷe eṅṅane nēriṭumenna pratisandhiyilāṇ iṭatu nētr̥tvaṁ ippōḷ̕.
+# text_en = L. The Left leadership is now in a crisis of how to deal with the allegations against Emer.
 1	എൽ	എൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	nsubj	_	SpacesBefore=\s|SpaceAfter=No|Translit=el̕|LTranslit=el̕
 2	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 3	എമാർക്കെതിരെ	എമാർക്കെതിരെ	ADV	_	_	10	advmod	_	Translit=emāṟ̕kketire|LTranslit=emāṟ̕kketire
@@ -1251,6 +1291,7 @@
 # sent_id = indiccorp48
 # text = ഇതിന്റെ ഭാഗമായാണ് വരാന്ത്യത്തിൽ ഇരു രാജ്യങ്ങളിൽ നിന്നുമുള്ള ഉദ്യോഗസ്ഥർ ചർച്ച നടത്തുന്നത്
 # translit = itinṟe bhāgamāyāṇ varāntyattil̕ iru rājyaṅṅaḷil̕ ninnumuḷḷa udyōgasthaṟ̕ caṟ̕cca naṭattunnat
+# text_en = As part of this, the officials from both the countries are holding talks on the weekend
 1	ഇതിന്റെ	ഇതീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Translit=itinṟe|LTranslit=itī
 2-3	ഭാഗമായാണ്	_	_	_	_	_	_	_	Translit=bhāgamāyāṇ
 2	ഭാഗമായ്	ഭാഗമായ്	ADV	_	_	10	advmod	_	Translit=bhāgamāy|LTranslit=bhāgamāy
@@ -1266,6 +1307,7 @@
 # sent_id = indiccorp49
 # text = നാരാങ്ങാനീരുകൊണ്ടും കരിമ്പൻ കളയാം.
 # translit = nārāṅṅānīrukoṇṭuṁ karimpan̕ kaḷayāṁ.
+# text_en = Sugarcane can also be removed with lemon juice.
 1-2	നാരാങ്ങാനീരുകൊണ്ടും	_	_	_	_	_	_	_	Translit=nārāṅṅānīrukoṇṭuṁ
 1	നാരാങ്ങാനീരുകൊണ്ട	നാരാങ്ങാനീരുകൊണ്ട	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	nsubj	_	Translit=nārāṅṅānīrukoṇṭa|LTranslit=nārāṅṅānīrukoṇṭa
 2	ഉം	ഉം	PART	_	_	1	cc	_	Translit=uṁ|LTranslit=uṁ
@@ -1276,6 +1318,7 @@
 # sent_id = indiccorp50
 # text = ആമാശയവും അന്നനാളവും സംബന്ധിച്ചുള്ള രോഗങ്ങൾ:
 # translit = āmāśayavuṁ annanāḷavuṁ saṁbandhiccuḷḷa rōgaṅṅaḷ̕:
+# text_en = Diseases related to Stomach and Esophagus:
 1-2	ആമാശയവും	_	_	_	_	_	_	_	Translit=āmāśayavuṁ
 1	ആമാശയം	ആമാശയം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	nsubj	_	Translit=āmāśayaṁ|LTranslit=āmāśayaṁ
 2	ഉം	ഉം	PART	_	_	1	cc	_	Translit=uṁ|LTranslit=uṁ
@@ -1289,6 +1332,7 @@
 # sent_id = indiccorp51
 # text = പഠനങ്ങൾ അനുസരിച്ച് ബിയർ കഴിയ്ക്കുന്നത് കിഡ്‌നി സ്റ്റോൺ പോലുള്ള അസുഖങ്ങളെ ഇല്ലാതാക്കുന്നുവെന്നും വൃക്കയുടെ ആരോഗ്യത്തെ സംരക്ഷിക്കുന്നുവെന്നും പറയുന്നു. ധാരാളം ബി വിറ്റാമിനുകളെ ശരീരത്തിന് നൽകാൻ ബിയറിന് സാധിക്കുന്നു.
 # translit = paṭhanaṅṅaḷ̕ anusaricc biyaṟ̕ kaḻiykkunnat kiḍni sṟṟōṇ̕ pōluḷḷa asukhaṅṅaḷe illātākkunnuvennuṁ vr̥kkayuṭe ārōgyatte saṁrakṣikkunnuvennuṁ paṟayunnu. dhārāḷaṁ bi viṟṟāminukaḷe śarīrattin nal̕kān̕ biyaṟin sādhikkunnu.
+# text_en = Studies have shown that drinking beer can prevent diseases like kidney stones and protect kidney health. Beer can provide the body with many B vitamins.
 1	പഠനങ്ങൾ	പഠനങ്ങൾ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	23	nsubj	_	Translit=paṭhanaṅṅaḷ̕|LTranslit=paṭhanaṅṅaḷ̕
 2	അനുസരിച്ച്	അനുസരിച്ച്	ADV	_	_	23	advmod	_	Translit=anusaricc|LTranslit=anusaricc
 3	ബിയർ	ബിയർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	23	nsubj	_	Translit=biyaṟ̕|LTranslit=biyaṟ̕
@@ -1319,6 +1363,7 @@
 # sent_id = indiccorp52
 # text = സഹകരണ ആസ്പത്രിയിലെ ജീവനക്കാരുടെ സേവനവ്യവസ്ഥ പരിഷ്‌കരിക്കാൻ സർക്കാർ 2004ൽ ഇ. നാരായണൻ കമ്മീഷനെ നിയോഗിച്ചിരുന്നു.
 # translit = sahakaraṇa āspatriyile jīvanakkāruṭe sēvanavyavastha pariṣkarikkān̕ saṟ̕kkāṟ̕ 2004l̕ i. nārāyaṇan̕ kammīṣane niyōgiccirunnu.
+# text_en = In 2004, the government decided to reform the service system of co-operative hospital employees. Narayanan appointed the commission.
 1	സഹകരണ	സഹകരണ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=sahakaraṇa|LTranslit=sahakaraṇa
 2	ആസ്പത്രിയിലെ	ആസ്പത്രിയിലെ	ADV	_	_	12	advmod	_	Translit=āspatriyile|LTranslit=āspatriyile
 3	ജീവനക്കാരുടെ	ജീവനക്കാരുടെ	ADV	_	_	12	advmod	_	Translit=jīvanakkāruṭe|LTranslit=jīvanakkāruṭe
@@ -1336,6 +1381,7 @@
 # sent_id = indiccorp53
 # text = ''റോമാ സാമ്രാജ്യത്തിലെ അഫ്‌യൂസ് പട്ടണത്തിലെ ഏതാനും ചെറുപ്പക്കാർ ക്രിസ്തുമതം സ്വീകരിച്ചു.
 # translit = ''ṟōmā sāmrājyattile aphyūs paṭṭaṇattile ētānuṁ ceṟuppakkāṟ̕ kristumataṁ svīkariccu.
+# text_en = "A few young men in the Roman city of Apheus converted to Christianity.
 1	'	'	PUNCT	_	_	10	nsubj	_	SpaceAfter=No|Translit='|LTranslit='
 2	'റോമാ	'റോമാ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	nsubj	_	Translit='ṟōmā|LTranslit='ṟōmā
 3	സാമ്രാജ്യത്തിലെ	സാമ്രാജ്യത്തിലെ	ADV	_	_	10	advmod	_	Translit=sāmrājyattile|LTranslit=sāmrājyattile
@@ -1352,12 +1398,14 @@
 # sent_id = indiccorp54
 # text = സംപൂർണമല്ലാത്ത.
 # translit = saṁpūṟ̕ṇamallātta.
+# text_en = Incomplete.
 1	സംപൂർണമല്ലാത്ത	സംപൂർണമല്ലാത്യുക	VERB	_	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=saṁpūṟ̕ṇamallātta|LTranslit=saṁpūṟ̕ṇamallātyuka
 2	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp55
 # text = ബൽരാജ്, തൃക്കരിപ്പൂർ മണ്ഡലം പ്രസിഡന്റ് എം.
 # translit = bal̕rāj, tr̥kkarippūṟ̕ maṇḍalaṁ prasiḍanṟ eṁ.
+# text_en = Balraj, Thrikaripur Mandal President M.
 1	ബൽരാജ്	ബൽരാജ്	ADV	_	_	6	advmod	_	SpaceAfter=No|Translit=bal̕rāj|LTranslit=bal̕rāj
 2	,	,	PUNCT	_	_	6	det	_	Translit=,|LTranslit=,
 3	തൃക്കരിപ്പൂർ	തൃക്കരിപ്പൂർ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	Translit=tr̥kkarippūṟ̕|LTranslit=tr̥kkarippūṟ̕
@@ -1369,6 +1417,7 @@
 # sent_id = indiccorp56
 # text = അധികാരം എപ്പോഴും ദുഷിപ്പിക്കുന്ന ഒന്നാണ്. ഒരേ പാർട്ടി തന്നെ തുടർച്ചയായി അധികാരം കൈയാളുമ്പോൾ അധികാര ദല്ലാളന്മാരും ഉദ്യോഗസ്ഥരും പ്രബലരാവുകയും ഭരണം ജീർണിക്കുകയും ചെയ്യുക സ്വാഭാവികമാണ്. അതുകൊണ്ട് അധികാരത്തിൽനിന്നും ഇടയ്ക്കിടെ മാറിനില്ക്കുന്നത് രാഷ്ട്രീയ പാർട്ടികളുടെ വിശുദ്ധീകരണത്തിനും ശക്തീകരണത്തിനും നല്ലതാണ്. അതിനാൽ, കോൺഗ്രസിന്റെയും സഖ്യകക്ഷികളുടെയും പരാജയവും ഇന്ത്യയുടെ ജനാധിപത്യത്തിനും അതതു പാർട്ടികളുടെ നല്ല ഭാവിക്കും അത്യാവശ്യമാണ്. മാത്രമല്ല, ഒറ്റയ്ക്ക് ഭരിക്കാൻ ഭൂരിപക്ഷമില്ലാത്തതിനാൽ സഖ്യകക്ഷികളുടെയെല്ലാം ഇംഗിതത്തിനു വഴങ്ങി ഭരിക്കുന്ന ദേശീയ പാർട്ടികൾക്ക് ശക്തമായ ഭരണം കാഴ്ചവയ്ക്കുക സാധ്യമല്ല. കഴിഞ്ഞ തിരഞ്ഞെടുപ്പുകളിൽ ദേശീയ പാർട്ടികൾ ദുർബലമാവുകയും പ്രാദേശിക പാർട്ടികൾ ശക്തരാവുകയും ചെയ്തതിനാൽ ഭരണത്തിൽ പങ്കാളിത്തമുള്ള പ്രാദേശിക പാർട്ടികളുടെ അഴിമതികളും സ്വാർത്ഥതയും രാജ്യത്തിന് വലിയ നഷ്ടങ്ങളുണ്ടാക്കിയിട്ടുണ്ട്. ഇപ്രാവശ്യം കേവല ഭൂരിപക്ഷം ഒറ്റയ്ക്കുള്ള ഒരു പാർട്ടി ഭരിക്കുന്നതിനാൽ കൂടുതൽ കാര്യക്ഷമതയും ഊർജസ്വലതയും ഭരണത്തിനുണ്ടാകാൻ സാധ്യതയേറെയാണ്. അതിനാൽ ഈ തിരഞ്ഞെടുപ്പുഫലം ദൈവകരങ്ങളിൽ നിന്നും സ്വീകരിച്ച് പുതിയ സർക്കാരിന് കൂടുതൽ ദൈവകൃപ ലഭിക്കുവാൻ നാം പ്രാർത്ഥിക്കണം. ''എല്ലാ ഭക്തിയിലും വിശുദ്ധിയിലും ശാന്തവും സമാധാനപൂർണവുമായ ജീവിതം നയിക്കാൻ നമുക്കിടയാകത്തക്കവിധം രാജാക്കന്മാർക്കും ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടി പ്രാർത്ഥിക്കണം. ഇത് ഉത്തമവും നമ്മുടെ രക്ഷകനായ ദൈവത്തിന്റെ മുന്നിൽ സ്വീകാര്യവും അത്രെ'' എന്ന സെന്റ് പോളിന്റെ വാക്കുകൾ ഇവിടെ സ്മരണീയമാണ് (1 തിമോത്തി 21:23).
 # translit = adhikāraṁ eppōḻuṁ duṣippikkunna onnāṇ. orē pāṟ̕ṭṭi tanne tuṭaṟ̕ccayāyi adhikāraṁ kaiyāḷumpōḷ̕ adhikāra dallāḷanmāruṁ udyōgastharuṁ prabalarāvukayuṁ bharaṇaṁ jīṟ̕ṇikkukayuṁ ceyyuka svābhāvikamāṇ. atukoṇṭ adhikārattil̕ninnuṁ iṭaykkiṭe māṟinilkkunnat rāṣṭrīya pāṟ̕ṭṭikaḷuṭe viśuddhīkaraṇattinuṁ śaktīkaraṇattinuṁ nallatāṇ. atināl̕, kōṇ̕grasinṟeyuṁ sakhyakakṣikaḷuṭeyuṁ parājayavuṁ intyayuṭe janādhipatyattinuṁ atatu pāṟ̕ṭṭikaḷuṭe nalla bhāvikkuṁ atyāvaśyamāṇ. mātramalla, oṟṟaykk bharikkān̕ bhūripakṣamillāttatināl̕ sakhyakakṣikaḷuṭeyellāṁ iṁgitattinu vaḻaṅṅi bharikkunna dēśīya pāṟ̕ṭṭikaḷ̕kk śaktamāya bharaṇaṁ kāḻcavaykkuka sādhyamalla. kaḻiñña tiraññeṭuppukaḷil̕ dēśīya pāṟ̕ṭṭikaḷ̕ duṟ̕balamāvukayuṁ prādēśika pāṟ̕ṭṭikaḷ̕ śaktarāvukayuṁ ceytatināl̕ bharaṇattil̕ paṅkāḷittamuḷḷa prādēśika pāṟ̕ṭṭikaḷuṭe aḻimatikaḷuṁ svāṟ̕tthatayuṁ rājyattin valiya naṣṭaṅṅaḷuṇṭākkiyiṭṭuṇṭ. iprāvaśyaṁ kēvala bhūripakṣaṁ oṟṟaykkuḷḷa oru pāṟ̕ṭṭi bharikkunnatināl̕ kūṭutal̕ kāryakṣamatayuṁ ūṟ̕jasvalatayuṁ bharaṇattinuṇṭākān̕ sādhyatayēṟeyāṇ. atināl̕ ī tiraññeṭuppuphalaṁ daivakaraṅṅaḷil̕ ninnuṁ svīkaricc putiya saṟ̕kkārin kūṭutal̕ daivakr̥pa labhikkuvān̕ nāṁ prāṟ̕tthikkaṇaṁ. ''ellā bhaktiyiluṁ viśuddhiyiluṁ śāntavuṁ samādhānapūṟ̕ṇavumāya jīvitaṁ nayikkān̕ namukkiṭayākattakkavidhaṁ rājākkanmāṟ̕kkuṁ unnatasthānīyaṟ̕kkuṁvēṇṭi prāṟ̕tthikkaṇaṁ. it uttamavuṁ nammuṭe rakṣakanāya daivattinṟe munnil̕ svīkāryavuṁ atre'' enna senṟ pōḷinṟe vākkukaḷ̕ iviṭe smaraṇīyamāṇ (1 timōtti 21:23).
+# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
 1	അധികാരം	അധികാരം	ADV	_	_	67	advmod	_	Translit=adhikāraṁ|LTranslit=adhikāraṁ
 2-3	എപ്പോഴും	_	_	_	_	_	_	_	Translit=eppōḻuṁ
 2	എപ്പോഴ	എപ്പോഴ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	67	nsubj	_	Translit=eppōḻa|LTranslit=eppōḻa
@@ -1577,6 +1626,7 @@
 # sent_id = indiccorp57
 # text = ഈ ഭൂവൈവിധ്യവും ആൻഡ് ബൈക്ക് പാത ഒരു മനോഹരമായ വിനോദം പ്രദേശം സൃഷ്ടിച്ചു.
 # translit = ī bhūvaividhyavuṁ ān̕ḍ baikk pāta oru manōharamāya vinōdaṁ pradēśaṁ sr̥ṣṭiccu.
+# text_en = This diversity of terrain and bike path has created a beautiful recreation area.
 1	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	11	nsubj	_	Translit=ī|LTranslit=ī
 2-3	ഭൂവൈവിധ്യവും	_	_	_	_	_	_	_	Translit=bhūvaividhyavuṁ
 2	ഭൂവൈവിധ്യം	ഭൂവൈവിധ്യം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	11	obj	_	Translit=bhūvaividhyaṁ|LTranslit=bhūvaividhyaṁ
@@ -1594,6 +1644,7 @@
 # sent_id = indiccorp58
 # text = പതിവുപോലെ ബ്ലാസ്റ്റഴ്‌സ് മുന്നേറ്റത്തോടെയാണ് കളി തുടങ്ങിയത്.
 # translit = pativupōle blāsṟṟaḻs munnēṟṟattōṭeyāṇ kaḷi tuṭaṅṅiyat.
+# text_en = As usual, the game started with Blasters progressing.
 1	പതിവുപോലെ	പതിവുപോലെ	ADV	_	_	2	amod	_	Translit=pativupōle|LTranslit=pativupōle
 2	ബ്ലാസ്റ്റഴ്‌സ്	ബ്ലാസ്റ്റഴ്‌സ്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	nsubj	_	Translit=blāsṟṟaḻs|LTranslit=blāsṟṟaḻs
 3-4	മുന്നേറ്റത്തോടെയാണ്	_	_	_	_	_	_	_	Translit=munnēṟṟattōṭeyāṇ
@@ -1606,6 +1657,7 @@
 # sent_id = indiccorp59
 # text = ബീഫിന്റെ പേരിൽ കുറ്റപ്പെടുത്തൽ
 # translit = bīphinṟe pēril̕ kuṟṟappeṭuttal̕
+# text_en = Blame it on beef
 1	ബീഫിന്റെ	ബീഫീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nmod:poss	_	Translit=bīphinṟe|LTranslit=bīphī
 2	പേരിൽ	പേര്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	0	root	_	Translit=pēril̕|LTranslit=pēr
 3	കുറ്റപ്പെടുത്തൽ	കുറ്റപ്പെടുത്തൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	punct	_	SpacesAfter=\n|Translit=kuṟṟappeṭuttal̕|LTranslit=kuṟṟappeṭuttal̕
@@ -1613,6 +1665,7 @@
 # sent_id = indiccorp60
 # text = ഗതി, മഴ 20-30 സെ.
 # translit = gati, maḻa 20-30 se.
+# text_en = Course, rain 20-30 cm.
 1	ഗതി	ഗതുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	nsubj	_	SpaceAfter=No|Translit=gati|LTranslit=gatuka
 2	,	,	PUNCT	_	_	3	nsubj	_	Translit=,|LTranslit=,
 3	മഴ	മഴ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=maḻa|LTranslit=maḻa
@@ -1623,6 +1676,7 @@
 # sent_id = indiccorp61
 # text = ഇപ്പോൾ അംഗങ്ങൾ പരസ്പരം പോരടിക്കുകയാണ്.
 # translit = ippōḷ̕ aṁgaṅṅaḷ̕ parasparaṁ pōraṭikkukayāṇ.
+# text_en = Now the members are fighting each other.
 1	ഇപ്പോൾ	ഇപ്പോൾ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	nmod:poss	_	Translit=ippōḷ̕|LTranslit=ippōḷ̕
 2	അംഗങ്ങൾ	അംഗങ്ങൾ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	nsubj	_	Translit=aṁgaṅṅaḷ̕|LTranslit=aṁgaṅṅaḷ̕
 3	പരസ്പരം	പരസ്പരം	ADV	_	_	4	advmod	_	Translit=parasparaṁ|LTranslit=parasparaṁ
@@ -1634,6 +1688,7 @@
 # sent_id = indiccorp62
 # text = റൺമഴയ്ക്കാണ് ഒരു അനൗദ്യോഗിക ടി20 മൽസരം. . . അർബുദത്തോട് കീഴടങ്ങി, മുൻ സ്‌കോട്ടിഷ് വൈസ് ക്യാപ്റ്റൻ ഡി ലാൻജ് വിടവാങ്ങി
 # translit = ṟaṇ̕maḻaykkāṇ oru anaudyōgika ṭi20 mal̕saraṁ. . . aṟ̕budattōṭ kīḻaṭaṅṅi, mun̕ skōṭṭiṣ vais kyāpṟṟan̕ ḍi lān̕j viṭavāṅṅi
+# text_en = An unofficial T20 match is for run rain. . . Former Scottish vice-captain de Lange has passed away after succumbing to cancer
 1-2	റൺമഴയ്ക്കാണ്	_	_	_	_	_	_	_	Translit=ṟaṇ̕maḻaykkāṇ
 1	റൺമഴയ്ക്ക്	റൺമഴയ്	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Translit=ṟaṇ̕maḻaykk|LTranslit=ṟaṇ̕maḻay
 2	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	17	nsubj	_	Translit=āṇ|LTranslit=āk
@@ -1658,6 +1713,7 @@
 # sent_id = indiccorp63
 # text = മാവു, 400 ഗ്രീസ്.
 # translit = māvu, 400 grīs.
+# text_en = Flour, 400 gr.
 1	മാവു	മാവു	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	4	det	_	SpaceAfter=No|Translit=māvu|LTranslit=māvu
 2	,	,	PUNCT	_	_	1	punct	_	Translit=,|LTranslit=,
 3	400	400	NUM	_	_	4	nmod:poss	_	Translit=400|LTranslit=400
@@ -1667,6 +1723,7 @@
 # sent_id = indiccorp64
 # text = 'സൗഹൃദം പൂക്കുന്ന സമൂഹം'': കെ. ഐ. ജി കുവൈത്ത് പൊതു സമ്മേളനം മാർച്ച് എട്ടിന്
 # translit = 'sauhr̥daṁ pūkkunna samūhaṁ'': ke. ai. ji kuvaitt potu sammēḷanaṁ māṟ̕cc eṭṭin
+# text_en = 'Society where friendship blossoms': K. I. G Kuwait General Conference on March 8
 1	'	'	PUNCT	_	_	12	nsubj	_	SpaceAfter=No|Translit='|LTranslit='
 2	സൗഹൃദം	സൗഹൃദം	NOUN	_	Case=Acc|Number=Sing	12	nsubj	_	Translit=sauhr̥daṁ|LTranslit=sauhr̥daṁ
 3	പൂക്കുന്ന	പൂക്കുന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=pūkkunna|LTranslit=pūkkunna
@@ -1688,6 +1745,7 @@
 # sent_id = indiccorp65
 # text = ഇവരുടെ ജാമ്യാപേക്ഷ ഇന്ന് പരിഗണിക്കും.
 # translit = ivaruṭe jāmyāpēkṣa inn parigaṇikkuṁ.
+# text_en = Their bail application will be considered today.
 1	ഇവരുടെ	ഇവരുടെ	ADV	_	_	2	amod	_	Translit=ivaruṭe|LTranslit=ivaruṭe
 2	ജാമ്യാപേക്ഷ	ജാമ്യാപേക്ഷ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	nsubj	_	Translit=jāmyāpēkṣa|LTranslit=jāmyāpēkṣa
 3	ഇന്ന്	ഇന്ന്	ADV	_	_	5	advmod	_	Translit=inn|LTranslit=inn
@@ -1699,6 +1757,7 @@
 # sent_id = indiccorp66
 # text = ഭൂപരിഷ്‌കരണം, വിദ്യാഭ്യാസത്തിന്റെയും ആരോഗ്യ സംരക്ഷണത്തിന്റെയും വ്യാപനം, വികേന്ദ്രീകൃതാസൂത്രണം, പെൻഷൻ പദ്ധതികൾ, പൊതുവിതരണ സമ്പ്രദായം, കുടുംബശ്രീ, ആസൂത്രണ പദ്ധതികൾ എന്നിവ കേരളത്തിലെ ഗ്രാമനഗര പ്രദേശങ്ങളിലെ ദാരിദ്ര്യത്തിന്റെ തോത് കുറക്കുന്നതിൽ ഫലപ്രദമായ പങ്ക് വഹിച്ചിട്ടുണ്ട്.
 # translit = bhūpariṣkaraṇaṁ, vidyābhyāsattinṟeyuṁ ārōgya saṁrakṣaṇattinṟeyuṁ vyāpanaṁ, vikēndrīkr̥tāsūtraṇaṁ, pen̕ṣan̕ paddhatikaḷ̕, potuvitaraṇa sampradāyaṁ, kuṭuṁbaśrī, āsūtraṇa paddhatikaḷ̕ enniva kēraḷattile grāmanagara pradēśaṅṅaḷile dāridryattinṟe tōt kuṟakkunnatil̕ phalapradamāya paṅk vahicciṭṭuṇṭ.
+# text_en = Land reform, expansion of education and health care, decentralized planning, pension schemes, public distribution system, Kudumbashree and planning schemes have played an effective role in reducing the level of poverty in rural urban areas of Kerala.
 1	ഭൂപരിഷ്‌കരണം	ഭൂപരിഷ്‌കരണം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	31	nmod:poss	_	SpaceAfter=No|Translit=bhūpariṣkaraṇaṁ|LTranslit=bhūpariṣkaraṇaṁ
 2	,	,	PUNCT	_	_	31	det	_	Translit=,|LTranslit=,
 3-4	വിദ്യാഭ്യാസത്തിന്റെയും	_	_	_	_	_	_	_	Translit=vidyābhyāsattinṟeyuṁ
@@ -1737,6 +1796,7 @@
 # sent_id = indiccorp67
 # text = അവൾ ശുദ്ധജലം വസിക്കുന്നു.
 # translit = avaḷ̕ śuddhajalaṁ vasikkunnu.
+# text_en = She lives in fresh water.
 1	അവൾ	അവൾ	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Translit=avaḷ̕|LTranslit=avaḷ̕
 2	ശുദ്ധജലം	ശുദ്ധജലം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	3	obj	_	Translit=śuddhajalaṁ|LTranslit=śuddhajalaṁ
 3	വസിക്കുന്നു	വസിക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=vasikkunnu|LTranslit=vasikkuka
@@ -1745,6 +1805,7 @@
 # sent_id = indiccorp68
 # text = സുബ്രഹ്മണ്യ ഭഗവാൻ ഷഷ്ഠി ദിനത്തിൽ ജനിച്ചത് കൊണ്ടാണ് കുമാര ഷഷ്ഠി എന്ന് പറയുന്നത്.
 # translit = subrahmaṇya bhagavān̕ ṣaṣṭhi dinattil̕ janiccat koṇṭāṇ kumāra ṣaṣṭhi enn paṟayunnat.
+# text_en = Kumara Shashti is called Kumara Shashti because Lord Subrahmanya was born on Shashti day.
 1	സുബ്രഹ്മണ്യ	സുബ്രഹ്മണ്യ	ADJ	_	_	11	nsubj	_	Translit=subrahmaṇya|LTranslit=subrahmaṇya
 2	ഭഗവാൻ	ഭഗവാൻ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	11	nsubj	_	Translit=bhagavān̕|LTranslit=bhagavān̕
 3	ഷഷ്ഠി	ഷഷ്ഠുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	11	advmod	_	Translit=ṣaṣṭhi|LTranslit=ṣaṣṭhuka
@@ -1762,6 +1823,7 @@
 # sent_id = indiccorp69
 # text = ഒരു വിമാനത്തിൽ പൈലറ്റും ട്രെയിനറും അല്ലെങ്കിൽ ട്രെയിനറും വിദ്യാർത്ഥിയും മറ്റൊരു വിമാനത്തിൽ ട്രെയിനറും വിദ്യാർത്ഥിയും ഉണ്ടെന്നാണ് കുരുതുന്നതെന്ന് മിയാമി പൊലീസ് വക്താവ് പ്രതികരിച്ചു.
 # translit = oru vimānattil̕ pailaṟṟuṁ ṭreyinaṟuṁ alleṅkil̕ ṭreyinaṟuṁ vidyāṟ̕tthiyuṁ maṟṟoru vimānattil̕ ṭreyinaṟuṁ vidyāṟ̕tthiyuṁ uṇṭennāṇ kurutunnatenn miyāmi polīs vaktāv pratikariccu.
+# text_en = A Miami police spokeswoman responded that the pilot and trainer or trainer and student were on one plane and the trainer and student on the other plane.
 1	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	2	det	_	Translit=oru|LTranslit=oru
 2	വിമാനത്തിൽ	വിമാനത്ത്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	25	obj	_	Translit=vimānattil̕|LTranslit=vimānatt
 3-4	പൈലറ്റും	_	_	_	_	_	_	_	Translit=pailaṟṟuṁ
@@ -1802,6 +1864,7 @@
 # sent_id = indiccorp70
 # text = ജി-സീരീസ് ട്രക്കുകൾ "സ്ചനിഅ" - കൂടുതൽ ഖര ഓപ്ഷൻ ഉണ്ട്.
 # translit = ji-sīrīs ṭrakkukaḷ̕ "scania" - kūṭutal̕ khara ōpṣan̕ uṇṭ.
+# text_en = G-series trucks "Schania" - there is a more solid option.
 1	ജി-സീരീസ്	ജി-സീരീസ്	ADV	_	_	6	det	_	Translit=ji-sīrīs|LTranslit=ji-sīrīs
 2	ട്രക്കുകൾ	ട്രക്കുകൾ	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Translit=ṭrakkukaḷ̕|LTranslit=ṭrakkukaḷ̕
 3	"സ്ചനിഅ"	"സ്ചനിഅ"	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	nsubj	_	Translit="scania"|LTranslit="scania"
@@ -1815,6 +1878,7 @@
 # sent_id = indiccorp71
 # text = ഗൗതമും വെങ്കട്ട് പ്രഭുവും നേതൃത്വം നൽകുന്ന ഒൺട്രംഗ എന്റർടെയിൻമെന്റും എസ്‌കേപ് ആർട്ടിസ്റ്റും ചേർന്നാണ് സിനിമ നിർമിക്കുന്നത്.
 # translit = gautamuṁ veṅkaṭṭ prabhuvuṁ nētr̥tvaṁ nal̕kunna oṇ̕ṭraṁga enṟaṟ̕ṭeyin̕menṟuṁ eskēp āṟ̕ṭṭisṟṟuṁ cēṟ̕nnāṇ sinima niṟ̕mikkunnat.
+# text_en = The film is jointly produced by Ontranga Entertainment and Escape Artist, headed by Gautham and Venkat Prabhu.
 1-2	ഗൗതമും	_	_	_	_	_	_	_	Translit=gautamuṁ
 1	ഗൗതമ	ഗൗതമ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	17	nsubj	_	Translit=gautama|LTranslit=gautama
 2	ഉം	ഉം	PART	_	_	1	cc	_	Translit=uṁ|LTranslit=uṁ
@@ -1842,6 +1906,7 @@
 # sent_id = indiccorp72
 # text = വീഡിയോ കണ്ടശേഷം ഇതിനെതിരെ ആരെങ്കിലും പ്രതികരിക്കും എന്നാണ് ആളുകളുടെ പ്രതീക്ഷ.
 # translit = vīḍiyō kaṇṭaśēṣaṁ itinetire āreṅkiluṁ pratikarikkuṁ ennāṇ āḷukaḷuṭe pratīkṣa.
+# text_en = People hope that after watching the video, someone will react against it.
 1-2	വീഡിയോ	_	_	_	_	_	_	_	Translit=vīḍiyō
 1	വീഡി	വീഡി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	11	nsubj	_	Translit=vīḍi|LTranslit=vīḍi
 2	ഓ	ഓ	PART	_	_	11	nsubj	_	Translit=ō|LTranslit=ō
@@ -1862,6 +1927,7 @@
 # sent_id = indiccorp73
 # text = ഇതിനകം സൂചിപ്പിച്ചതുപോലെ, ധാന്യം - പ്ലാന്റ് പിന്നീട്.
 # translit = itinakaṁ sūcippiccatupōle, dhānyaṁ - plānṟ pinnīṭ.
+# text_en = As already mentioned, corn - plant later.
 1	ഇതിനകം	ഇതിനകം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	7	nmod:poss	_	Translit=itinakaṁ|LTranslit=itinakaṁ
 2	സൂചിപ്പിച്ചതുപോലെ	സൂചിപ്പിച്ചതുപോലെ	ADV	_	_	1	punct	_	SpaceAfter=No|Translit=sūcippiccatupōle|LTranslit=sūcippiccatupōle
 3	,	,	PUNCT	_	_	7	nmod:poss	_	Translit=,|LTranslit=,
@@ -1874,6 +1940,7 @@
 # sent_id = indiccorp74
 # text = അതിനാൽ ജനുവരിക്കു മുൻപുള്ള മാസങ്ങളിലെ കണക്കുമായി കഴിഞ്ഞ മാസത്തേതു താരതമ്യം ചെയ്തു പണിയെ‌‌ടുക്കാത്തവരെ കണ്ടെത്താനാണു ശ്രമം.
 # translit = atināl̕ januvarikku mun̕puḷḷa māsaṅṅaḷile kaṇakkumāyi kaḻiñña māsattētu tāratamyaṁ ceytu paṇiyeṭukkāttavare kaṇṭettānāṇu śramaṁ.
+# text_en = Therefore, an attempt is made to find those who are not working by comparing the figures of the previous month with the figures of the months before January.
 1	അതിനാൽ	അതിനാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	9	nsubj	_	Translit=atināl̕|LTranslit=atināl̕
 2	ജനുവരിക്കു	ജനുവരിക്കു	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	9	nsubj	_	Translit=januvarikku|LTranslit=januvarikku
 3	മുൻപുള്ള	മുൻപുള്ള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	9	nsubj	_	Translit=mun̕puḷḷa|LTranslit=mun̕puḷḷa
@@ -1891,6 +1958,7 @@
 # sent_id = indiccorp75
 # text = ഇനിയും ഈ പ്രഹസനം അവസാനിപ്പിക്കാൻ ഉള്ള കാലം ആയിട്ടില്ല എന്നു തോന്നുന്നെങ്കിൽ ദയവ് ചെയ്ത് പ്രബുദ്ധരായ മലയാളികൾ എന്ന് ഊറ്റം കൊള്ളരുത്.
 # translit = iniyuṁ ī prahasanaṁ avasānippikkān̕ uḷḷa kālaṁ āyiṭṭilla ennu tōnnunneṅkil̕ dayav ceyt prabuddharāya malayāḷikaḷ̕ enn ūṟṟaṁ koḷḷarut.
+# text_en = If you feel that it is not time to end this farce, please don't pretend to be enlightened Malayalis.
 1-2	ഇനിയും	_	_	_	_	_	_	_	Translit=iniyuṁ
 1	ഇനി	ഇനി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	17	nsubj	_	Translit=ini|LTranslit=ini
 2	ഉം	ഉം	PART	_	_	1	cc	_	Translit=uṁ|LTranslit=uṁ
@@ -1914,6 +1982,7 @@
 # sent_id = indiccorp76
 # text = രാഹുൽഗാന്ധിയുടെ വിവാഹം: ജനങ്ങളുടെ ചോദ്യത്തിന് റോബർട്ട് വാദ്രയുടെ മറുപടി
 # translit = rāhul̕gāndhiyuṭe vivāhaṁ: janaṅṅaḷuṭe cōdyattin ṟōbaṟ̕ṭṭ vādrayuṭe maṟupaṭi
+# text_en = Rahul Gandhi's Marriage: Robert Vadra's Answer to People's Question
 1	രാഹുൽഗാന്ധിയുടെ	രാഹുൽഗാന്ധിയുടെ	ADV	_	_	8	advmod	_	Translit=rāhul̕gāndhiyuṭe|LTranslit=rāhul̕gāndhiyuṭe
 2	വിവാഹം	വിവാഹം	NOUN	_	Case=Acc|Number=Sing	8	nsubj	_	SpaceAfter=No|Translit=vivāhaṁ|LTranslit=vivāhaṁ
 3	:	:	PUNCT	_	_	8	nsubj	_	Translit=:|LTranslit=:
@@ -1926,6 +1995,7 @@
 # sent_id = indiccorp77
 # text = രക്ഷാപ്രവർത്തനം കാണാനും ആളുകൾ തടിച്ചുകൂടരുതെന്ന് പോലിസ് അറിയിച്ചു.
 # translit = rakṣāpravaṟ̕ttanaṁ kāṇānuṁ āḷukaḷ̕ taṭiccukūṭarutenn pōlis aṟiyiccu.
+# text_en = Police said that people should not gather to watch the rescue operation.
 1	രക്ഷാപ്രവർത്തനം	രക്ഷാപ്രവർത്തനം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	8	nsubj	_	Translit=rakṣāpravaṟ̕ttanaṁ|LTranslit=rakṣāpravaṟ̕ttanaṁ
 2-3	കാണാനും	_	_	_	_	_	_	_	Translit=kāṇānuṁ
 2	കാണാന	കാണാന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	8	nsubj	_	Translit=kāṇāna|LTranslit=kāṇāna
@@ -1941,6 +2011,7 @@
 # sent_id = indiccorp78
 # text = കോട്ടയം : സുവിശേഷ വത്‌ക്കരം ദൗത്യം ഓരോ വിശ്വാസിയുടെയും അവകാശവും ഉത്തരവാദിത്വവുമാണെന്ന്‌ പപ്പുവാ ന്യൂ ഗിനിയ അപ്പസ്‌തോലിക്‌ ന്യൂൺഷ്യോ ആർച്ചുബിഷപ്പ്‌ മാർ കുര്യൻ വയലുങ്കൽ.
 # translit = kōṭṭayaṁ : suviśēṣa vatkkaraṁ dautyaṁ ōrō viśvāsiyuṭeyuṁ avakāśavuṁ uttaravāditvavumāṇenn pappuvā nyū giniya appastōlik nyūṇ̕ṣyō āṟ̕ccubiṣapp māṟ̕ kuryan̕ vayaluṅkal̕.
+# text_en = Kottayam: Papua New Guinea Apostolic Nuncio Archbishop Mar Kurian Wayalungal said that the mission of evangelism is the right and responsibility of every believer.
 1	കോട്ടയം	കോട്ടയം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	20	nmod:poss	_	Translit=kōṭṭayaṁ|LTranslit=kōṭṭayaṁ
 2	:	:	PUNCT	_	_	20	nmod:poss	_	Translit=:|LTranslit=:
 3	സുവിശേഷ	സുവിശേഷ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	20	nsubj	_	Translit=suviśēṣa|LTranslit=suviśēṣa
@@ -1968,6 +2039,7 @@
 # sent_id = indiccorp79
 # text = സ്വാഭാവിക സ്മാരകങ്ങൾ കൂടാതെ, സ്പാസ്ക്-റയാസൻസ്കി പട്ടണത്തിൽ ജി. കെ. വാഗ്നറുടെ രസകരമായ ഒരു മ്യൂസിയവുമുണ്ട്.
 # translit = svābhāvika smārakaṅṅaḷ̕ kūṭāte, spāsk-ṟayāsan̕ski paṭṭaṇattil̕ ji. ke. vāgnaṟuṭe rasakaramāya oru myūsiyavumuṇṭ.
+# text_en = In addition to natural monuments, in the town of Spask-Ryazansky G. K. There is also an interesting museum of Wagner.
 1	സ്വാഭാവിക	സ്വാഭാവിക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	14	nsubj	_	Translit=svābhāvika|LTranslit=svābhāvika
 2	സ്മാരകങ്ങൾ	സ്മാരകങ്ങൾ	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Translit=smārakaṅṅaḷ̕|LTranslit=smārakaṅṅaḷ̕
 3	കൂടാതെ	കൂടാതെ	ADV	_	_	14	advmod	_	SpaceAfter=No|Translit=kūṭāte|LTranslit=kūṭāte
@@ -1987,6 +2059,7 @@
 # sent_id = indiccorp80
 # text = നിരവധി ഹോട്ടലുകൾ കുട്ടികളുടെ വേണ്ടി വലിയ കുടുംബം റൂമുകൾ അല്ലെങ്കിൽ സൗജന്യ ബുക്കിംഗ് ഡിസ്കൗണ്ടുകൾ.
 # translit = niravadhi hōṭṭalukaḷ̕ kuṭṭikaḷuṭe vēṇṭi valiya kuṭuṁbaṁ ṟūmukaḷ̕ alleṅkil̕ saujanya bukkiṁg ḍiskauṇṭukaḷ̕.
+# text_en = Many hotels offer large family rooms or free booking discounts for children.
 1	നിരവധി	നിരവധുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	9	nmod:poss	_	Translit=niravadhi|LTranslit=niravadhuka
 2	ഹോട്ടലുകൾ	ഹോട്ടലുകൾ	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Translit=hōṭṭalukaḷ̕|LTranslit=hōṭṭalukaḷ̕
 3	കുട്ടികളുടെ	കുട്ടികൾ	PRON	_	Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Translit=kuṭṭikaḷuṭe|LTranslit=kuṭṭikaḷ̕
@@ -2003,6 +2076,7 @@
 # sent_id = indiccorp81
 # text = ഇതിന് പുറമേ ധനമന്ത്രാലയത്തിന് കീഴിലുളള സാമ്പത്തികകാര്യ വകുപ്പ് അധികമായി ചെലവഴിച്ച തുകയ്ക്ക് പാർലമെന്റിന്റെ അനുമതി നേടിയെടുക്കുന്നതിൽ പരാജയപ്പെട്ടതായും റിപ്പോർട്ട് കുറ്റപ്പെടുത്തുന്നു.
 # translit = itin puṟamē dhanamantrālayattin kīḻiluḷaḷa sāmpattikakārya vakupp adhikamāyi celavaḻicca tukaykk pāṟ̕lamenṟinṟe anumati nēṭiyeṭukkunnatil̕ parājayappeṭṭatāyuṁ ṟippōṟ̕ṭṭ kuṟṟappeṭuttunnu.
+# text_en = Apart from this, the report also accused the Department of Economic Affairs under the Ministry of Finance of failing to get parliamentary approval for the overspending.
 1	ഇതിന്	ഇത്	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	16	nsubj	_	Translit=itin|LTranslit=it
 2	പുറമേ	പുറമേ	CCONJ	_	_	16	nsubj	_	Translit=puṟamē|LTranslit=puṟamē
 3	ധനമന്ത്രാലയത്തിന്	ധനമന്ത്രാലയത്ത്	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	16	nsubj	_	Translit=dhanamantrālayattin|LTranslit=dhanamantrālayatt
@@ -2025,6 +2099,7 @@
 # sent_id = indiccorp82
 # text = ഒരുപക്ഷേ, ചോക്ലേറ്റിനേക്കാൾ നല്ലതാണ്.
 # translit = orupakṣē, cōklēṟṟinēkkāḷ̕ nallatāṇ.
+# text_en = Maybe even better than chocolate.
 1	ഒരുപക്ഷേ	ഒരുപക്ഷേ	CCONJ	_	_	4	det	_	SpaceAfter=No|Translit=orupakṣē|LTranslit=orupakṣē
 2	,	,	PUNCT	_	_	4	det	_	Translit=,|LTranslit=,
 3	ചോക്ലേറ്റിനേക്കാൾ	ചോക്ലേറ്റിൻ	NOUN	_	Animacy=Anim|Case=Cmp|Number=Sing	4	nsubj	_	Translit=cōklēṟṟinēkkāḷ̕|LTranslit=cōklēṟṟin̕
@@ -2036,6 +2111,7 @@
 # sent_id = indiccorp83
 # text = ബിജെപി ദേശീയ…
 # translit = bijepi dēśīya…
+# text_en = BJP National…
 1	ബിജെപി	ബിജെപി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	nsubj	_	Translit=bijepi|LTranslit=bijepi
 2	ദേശീയ	ദേശീയ	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=dēśīya|LTranslit=dēśīya
 3	…	…	PUNCT	_	_	2	punct	_	SpacesAfter=\n|Translit=…|LTranslit=…
@@ -2043,6 +2119,7 @@
 # sent_id = indiccorp84
 # text = കേസ് മൂന്ന് വർഷം നടന്നു.
 # translit = kēs mūnn vaṟ̕ṣaṁ naṭannu.
+# text_en = The case went on for three years.
 1	കേസ്	കേസ്	ADV	_	_	4	nsubj	_	Translit=kēs|LTranslit=kēs
 2	മൂന്ന്	മൂന്ന്	ADV	_	_	4	nsubj	_	Translit=mūnn|LTranslit=mūnn
 3	വർഷം	വർഷം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit=vaṟ̕ṣaṁ|LTranslit=vaṟ̕ṣaṁ
@@ -2052,6 +2129,7 @@
 # sent_id = indiccorp85
 # text = നിങ്ങളുടെ വാസസ്ഥലത്ത് ആയിരിക്കുമ്പോൾ, നിങ്ങളുടെ വീട്ടിലെ പോളിസിയുടെ ബിസിനസ്സ് ഉപകരണങ്ങളെ മാത്രമേ ഇത് ബാധിക്കുകയുള്ളൂ.
 # translit = niṅṅaḷuṭe vāsasthalatt āyirikkumpōḷ̕, niṅṅaḷuṭe vīṭṭile pōḷisiyuṭe bisinass upakaraṇaṅṅaḷe mātramē it bādhikkukayuḷḷū.
+# text_en = While at your residence, it only covers the business equipment of your home policy.
 1	നിങ്ങളുടെ	നിങ്ങൾ	PRON	_	Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=niṅṅaḷuṭe|LTranslit=niṅṅaḷ̕
 2	വാസസ്ഥലത്ത്	വാസസ്ഥലത്ത്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	12	nsubj	_	Translit=vāsasthalatt|LTranslit=vāsasthalatt
 3	ആയിരിക്കുമ്പോൾ	ആയിരിക്കുമ്പോൾ	ADV	_	_	12	advmod	_	SpaceAfter=No|Translit=āyirikkumpōḷ̕|LTranslit=āyirikkumpōḷ̕
@@ -2069,6 +2147,7 @@
 # sent_id = indiccorp86
 # text = ഈ ചൊംപര്ത്മെംതലിജെദ് പ്രവർത്തനങ്ങൾ പിന്തുണച്ചിരുന്നു ആകുന്നു:
 # translit = ī coṁpartmeṁtalijed pravaṟ̕ttanaṅṅaḷ̕ pintuṇaccirunnu ākunnu:
+# text_en = These chomparthemtalijed activities are supported by:
 1	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	5	nsubj	_	Translit=ī|LTranslit=ī
 2	ചൊംപര്ത്മെംതലിജെദ്	ചൊംപര്ത്മെംതലിജെദ്	ADV	_	_	5	advmod	_	Translit=coṁpartmeṁtalijed|LTranslit=coṁpartmeṁtalijed
 3	പ്രവർത്തനങ്ങൾ	പ്രവർത്തനങ്ങൾ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Translit=pravaṟ̕ttanaṅṅaḷ̕|LTranslit=pravaṟ̕ttanaṅṅaḷ̕
@@ -2079,6 +2158,7 @@
 # sent_id = indiccorp87
 # text = ലവ് അറ്റ് ഫസ്റ്റസൈറ്റ് എന്ന കൺസെപ്ടിൽ വിശ്വസിക്കുന്നുണ്ടോ?
 # translit = lav aṟṟ phasṟṟasaiṟṟ enna kaṇ̕sepṭil̕ viśvasikkunnuṇṭō?
+# text_en = Do you believe in the concept of love at first sight?
 1	ലവ്	ലവ്	ADV	_	_	6	advmod	_	Translit=lav|LTranslit=lav
 2	അറ്റ്	അറ്റ്	ADV	_	_	6	advmod	_	Translit=aṟṟ|LTranslit=aṟṟ
 3	ഫസ്റ്റസൈറ്റ്	ഫസ്റ്റസൈറ്റ്	ADV	_	_	6	advmod	_	Translit=phasṟṟasaiṟṟ|LTranslit=phasṟṟasaiṟṟ
@@ -2090,6 +2170,7 @@
 # sent_id = indiccorp88
 # text = കശ്മീർ പണ്ഡിറ്റുകളുടെ പുനരധിവാസമാണ് പ്രധാനപ്രശ്‌നമെന്ന് ബോബ് ബ്ലാക്ക്മാൻ പറഞ്ഞു.
 # translit = kaśmīṟ̕ paṇḍiṟṟukaḷuṭe punaradhivāsamāṇ pradhānapraśnamenn bōb blākkmān̕ paṟaññu.
+# text_en = Bob Blackman said that the main issue is the resettlement of Kashmiri Pandits.
 1	കശ്മീർ	കശ്മീർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	9	nsubj	_	Translit=kaśmīṟ̕|LTranslit=kaśmīṟ̕
 2	പണ്ഡിറ്റുകളുടെ	പണ്ഡിറ്റുകൾ	PRON	_	Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Translit=paṇḍiṟṟukaḷuṭe|LTranslit=paṇḍiṟṟukaḷ̕
 3-4	പുനരധിവാസമാണ്	_	_	_	_	_	_	_	Translit=punaradhivāsamāṇ
@@ -2106,6 +2187,7 @@
 # sent_id = indiccorp89
 # text = 72 മണിക്കൂർ വെടിനിർത്തൽ നിലവിൽ വന്നതിനു തൊട്ടുപിന്നാലെ ഇസ്രയേൽ സേന നടത്തിയ ആക്രമണത്തിൽ നാല് പലസ്തീൻകാർ കൊല്ലപ്പെട്ടു.
 # translit = 72 maṇikkūṟ̕ veṭiniṟ̕ttal̕ nilavil̕ vannatinu toṭṭupinnāle israyēl̕ sēna naṭattiya ākramaṇattil̕ nāl palastīn̕kāṟ̕ kollappeṭṭu.
+# text_en = Four Palestinians were killed in an attack by Israeli forces shortly after the 72-hour ceasefire came into effect.
 1	72	72	NUM	_	_	13	nsubj	_	Translit=72|LTranslit=72
 2	മണിക്കൂർ	മണിക്കൂർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	13	nsubj	_	Translit=maṇikkūṟ̕|LTranslit=maṇikkūṟ̕
 3	വെടിനിർത്തൽ	വെടിനിർത്തൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	13	nsubj	_	Translit=veṭiniṟ̕ttal̕|LTranslit=veṭiniṟ̕ttal̕
@@ -2124,6 +2206,7 @@
 # sent_id = indiccorp90
 # text = താഴേക്ക് ഒരു ബൈക്ക് എങ്ങനെ തിരഞ്ഞെടുക്കാൻ
 # translit = tāḻēkk oru baikk eṅṅane tiraññeṭukkān̕
+# text_en = How to choose a bike down
 1	താഴേക്ക്	താഴേ	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Translit=tāḻēkk|LTranslit=tāḻē
 2	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	3	det	_	Translit=oru|LTranslit=oru
 3	ബൈക്ക്	ബൈക്ക്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=baikk|LTranslit=baikk
@@ -2133,6 +2216,7 @@
 # sent_id = indiccorp91
 # text = ഗുലാം നബി സഞ്ചരിച്ചിരുന്ന സ്‌കോർപിയോ
 # translit = gulāṁ nabi sañcariccirunna skōṟ̕piyō
+# text_en = The Scorpio that Ghulam Nabi traveled with
 1	ഗുലാം	ഗുലാം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	4	nsubj	_	Translit=gulāṁ|LTranslit=gulāṁ
 2	നബി	നബി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	nsubj	_	Translit=nabi|LTranslit=nabi
 3	സഞ്ചരിച്ചിരുന്ന	സഞ്ചരിച്ചിരുന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit=sañcariccirunna|LTranslit=sañcariccirunna
@@ -2143,6 +2227,7 @@
 # sent_id = indiccorp92
 # text = ധിരുബായി അമ്പാനി മരിച്ചപ്പോൾ ഉണ്ടായ കുടുംബ വഴക്കിനെ തുടർന്ന് മുകേഷ് അമ്പാനിക്ക് സഹോദരന് നൽകണ്ട വന്ന കമ്പനിയാണ് റിലയൻസ് കമ്യൂണിക്കേഷൻസ്.
 # translit = dhirubāyi ampāni mariccappōḷ̕ uṇṭāya kuṭuṁba vaḻakkine tuṭaṟ̕nn mukēṣ ampānikk sahōdaran nal̕kaṇṭa vanna kampaniyāṇ ṟilayan̕s kamyūṇikkēṣan̕s.
+# text_en = Reliance Communications is the company that Mukesh Ambani had to give to his brother after the family quarrel that arose when Dhirubhai Ambani died.
 1	ധിരുബായി	ധിരുബായി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	2	nmod:poss	_	Translit=dhirubāyi|LTranslit=dhirubāyi
 2	അമ്പാനി	അമ്പാനി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	nsubj	_	Translit=ampāni|LTranslit=ampāni
 3	മരിച്ചപ്പോൾ	മരിച്ചപ്പോൾ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	nsubj	_	Translit=mariccappōḷ̕|LTranslit=mariccappōḷ̕
@@ -2165,6 +2250,7 @@
 # sent_id = indiccorp93
 # text = ഉരുളിയോട് ചേർന്ന് താലത്തിൽ അലക്കിയ കസവു മുണ്ട്, ഗ്രന്ഥം, വെറ്റിലയിൽ നാണയം, പഴുക്കടയ്ക്ക എന്നിവ വയ്ക്കും.
 # translit = uruḷiyōṭ cēṟ̕nn tālattil̕ alakkiya kasavu muṇṭ, granthaṁ, veṟṟilayil̕ nāṇayaṁ, paḻukkaṭaykka enniva vaykkuṁ.
+# text_en = Washed kasavu mundi, grantham, coin in betel leaf and parukadakka will be placed on the plate next to the rice.
 1	ഉരുളിയോട്	ഉരുളിയോട്	ADV	_	_	13	advmod	_	Translit=uruḷiyōṭ|LTranslit=uruḷiyōṭ
 2	ചേർന്ന്	ചേർന്ന്	ADV	_	_	13	advmod	_	Translit=cēṟ̕nn|LTranslit=cēṟ̕nn
 3	താലത്തിൽ	താലത്തിൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	13	obj	_	Translit=tālattil̕|LTranslit=tālattil̕
@@ -2187,6 +2273,7 @@
 # sent_id = indiccorp94
 # text = 12/22/2019 - 05:45
 # translit = 12/22/2019 - 05:45
+# text_en = 12/22/2019 - 05:45
 1	12	12	NUM	_	_	6	nsubj	_	SpaceAfter=No|Translit=12|LTranslit=12
 2	/22	/22	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	3	nmod:poss	_	SpaceAfter=No|Translit=/22|LTranslit=/22
 3	/2019	/2019	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	nsubj	_	Translit=/2019|LTranslit=/2019
@@ -2197,6 +2284,7 @@
 # sent_id = indiccorp95
 # text = ഭരണപക്ഷ നേതാക്കൾക്ക് തുടർച്ചയായി ക്ലീൻ ചിറ്റ് നൽകുന്നത് സംബന്ധിച്ച വിവാദങ്ങൾക്ക് ഇടയായതാണ് നിതി ആയോഗിന് നൽകിയ ക്ളീൻ ചിറ്റ് പുനഃപരിശോധിക്കാനുള്ള തെരഞ്ഞെടുപ്പ് കമ്മീഷൻ തീരുമാനം.
 # translit = bharaṇapakṣa nētākkaḷ̕kk tuṭaṟ̕ccayāyi klīn̕ ciṟṟ nal̕kunnat saṁbandhicca vivādaṅṅaḷ̕kk iṭayāyatāṇ niti āyōgin nal̕kiya kḷīn̕ ciṟṟ punaḥpariśōdhikkānuḷḷa teraññeṭupp kammīṣan̕ tīrumānaṁ.
+# text_en = The Election Commission's decision to re-examine the clean chit given to the NITI Aayog has been the subject of controversies regarding the continuous giving of clean chits to ruling party leaders.
 1	ഭരണപക്ഷ	ഭരണപക്ഷ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	nsubj	_	Translit=bharaṇapakṣa|LTranslit=bharaṇapakṣa
 2	നേതാക്കൾക്ക്	നേതാക്കൾക്ക്	ADV	_	_	6	advmod	_	Translit=nētākkaḷ̕kk|LTranslit=nētākkaḷ̕kk
 3	തുടർച്ചയായി	തുടർച്ചയായുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	nsubj	_	Translit=tuṭaṟ̕ccayāyi|LTranslit=tuṭaṟ̕ccayāyuka
@@ -2222,6 +2310,7 @@
 # sent_id = indiccorp96
 # text = age 18, കാൾ ല്യുഇസ് അമേരിക്കൻ ടീം അംഗമായ മാറുകയും പാൻ അമേരിക്കൻ ഗെയിംസ് പോയി.
 # translit = age 18, kāḷ̕ lyuis amērikkan̕ ṭīṁ aṁgamāya māṟukayuṁ pān̕ amērikkan̕ geyiṁs pōyi.
+# text_en = At age 18, Carl Lewis became a member of the American team and went to the Pan American Games.
 1	age	age	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	nsubj	_	Translit=age|LTranslit=age
 2	18	18	NUM	_	_	14	nsubj	_	SpaceAfter=No|Translit=18|LTranslit=18
 3	,	,	PUNCT	_	_	14	nsubj	_	Translit=,|LTranslit=,
@@ -2242,6 +2331,7 @@
 # sent_id = indiccorp97
 # text = വിശപ്പ് മനുഷ്യന് മാത്രമല്ല.
 # translit = viśapp manuṣyan mātramalla.
+# text_en = Hunger is not just for humans.
 1	വിശപ്പ്	വിശപ്പ്	ADJ	_	_	2	amod	_	Translit=viśapp|LTranslit=viśapp
 2	മനുഷ്യന്	മനുഷ്യന്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	3	nsubj	_	Translit=manuṣyan|LTranslit=manuṣyan
 3	മാത്രമല്ല	മാത്രമല്ല	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=mātramalla|LTranslit=mātramalla
@@ -2250,6 +2340,7 @@
 # sent_id = indiccorp98
 # text = ചൈനീസ് പ്രസിഡന്റ് ഷി ജിൻപിങ് ബംഗ്ലാദേശ് സന്ദർശിക്കുന്നതിനിടെയാണ് രാജ്യത്തിന് ഇത്രയും തുകയുടെ വായ്പ കരാർ പ്രഖ്യാപിച്ചിരിക്കുന്നത്.
 # translit = cainīs prasiḍanṟ ṣi jin̕piṅ baṁglādēś sandaṟ̕śikkunnatiniṭeyāṇ rājyattin itrayuṁ tukayuṭe vāypa karāṟ̕ prakhyāpiccirikkunnat.
+# text_en = The loan agreement of this amount has been announced to the country while Chinese President Xi Jinping is visiting Bangladesh.
 1	ചൈനീസ്	ചൈനീസ്	ADV	_	_	14	advmod	_	Translit=cainīs|LTranslit=cainīs
 2	പ്രസിഡന്റ്	പ്രസിഡന്റ്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	14	nsubj	_	Translit=prasiḍanṟ|LTranslit=prasiḍanṟ
 3	ഷി	ഷുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	14	nsubj	_	Translit=ṣi|LTranslit=ṣuka
@@ -2271,6 +2362,7 @@
 # sent_id = indiccorp99
 # text = സമൂഹത്തിൽ മാന്യത നിലനിർത്തി പ്രൊഫഷണൽ വൈദഗ്ധ്യത്തോടെ മനസ്സാന്നിധ്യം കൈവിടാതെയാണ്‌ ഓരോ കൊലപാതകവും നടത്തിയത്.
 # translit = samūhattil̕ mānyata nilaniṟ̕tti prophaṣaṇal̕ vaidagdhyattōṭe manassānnidhyaṁ kaiviṭāteyāṇ ōrō kolapātakavuṁ naṭattiyat.
+# text_en = Each murder was carried out with professional skill and sanity while maintaining dignity in society.
 1	സമൂഹത്തിൽ	സമൂഹത്ത്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	2	nmod:poss	_	Translit=samūhattil̕|LTranslit=samūhatt
 2	മാന്യത	മാന്യയുക	VERB	_	Polarity=Pos|VerbForm=Part|Voice=Act	11	nsubj	_	Translit=mānyata|LTranslit=mānyayuka
 3	നിലനിർത്തി	നിലനിർത്തുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	11	nsubj	_	Translit=nilaniṟ̕tti|LTranslit=nilaniṟ̕ttuka
@@ -2288,6 +2380,7 @@
 # sent_id = indiccorp100
 # text = ഇന്ത്യയിലും കഞ്ചാവ് നിയമവിധേയമാക്കണമെന്ന വാദങ്ങൾ ഉയർന്നു വരുന്നുണ്ട്.
 # translit = intyayiluṁ kañcāv niyamavidhēyamākkaṇamenna vādaṅṅaḷ̕ uyaṟ̕nnu varunnuṇṭ.
+# text_en = Arguments to legalize cannabis are also emerging in India.
 1-2	ഇന്ത്യയിലും	_	_	_	_	_	_	_	Translit=intyayiluṁ
 1	ഇന്ത്യയില	ഇന്ത്യയില	ADJ	_	_	6	nsubj	_	Translit=intyayila|LTranslit=intyayila
 2	ഉം	ഉം	PART	_	_	1	cc	_	Translit=uṁ|LTranslit=uṁ
