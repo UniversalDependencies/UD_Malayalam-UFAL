@@ -162,7 +162,7 @@
 # translit = ārāṇ eḻutiyatenn avaṟ̕kk aṟiyilla.
 # text_en = They have no idea who wrote it.
 1-2	ആരാണ്	_	_	_	_	_	_	_	Translit=ārāṇ
-1	ആര്	ആര്	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|PronType=Int	3	nsubj	_	Translit=ār|LTranslit=ār
+1	ആര്	ആര്	PRON	_	Animacy=Anim|Case=Nom|PronType=Int	3	nsubj	_	Translit=ār|LTranslit=ār
 2	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	Translit=āṇ|LTranslit=āk
 3-4	എഴുതിയതെന്ന്	_	_	_	_	_	_	_	Translit=eḻutiyatenn
 3	എഴുതിയത്	എഴുതുക	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	6	ccomp	_	Translit=eḻutiyat|LTranslit=eḻutuka
