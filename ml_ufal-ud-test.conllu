@@ -379,7 +379,7 @@
 # text = ഇത് എൻറേതല്ല!
 # translit = it en̕ṟētalla!
 # text_en = This is not mine!
-1	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Prs	2	det	_	Translit=it|LTranslit=it
+1	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	det	_	Translit=it|LTranslit=it
 2-3	എൻറേതല്ല	_	_	_	_	_	_	_	SpaceAfter=No|Translit=en̕ṟētalla
 2	എന്റേത്	എന്റേ	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	0	root	_	Translit=enṟēt|LTranslit=enṟē
 3	അല്ല	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	cop	_	Translit=alla|LTranslit=āk
@@ -847,7 +847,7 @@
 # sent_id = indiccorp27
 # text = ഇത് അധികൃതരുടെ ശ്രദ്ധയിൽപ്പെട്ടിട്ടും ലീക്ക് മാറ്റാൻ അവർ തയാറാകുന്നില്ലെന്നാണ് സമാപവാസികൾക്കുള്ള ആക്ഷേപം.
 # translit = it adhikr̥taruṭe śraddhayil̕ppeṭṭiṭṭuṁ līkk māṟṟān̕ avaṟ̕ tayāṟākunnillennāṇ samāpavāsikaḷ̕kkuḷḷa ākṣēpaṁ.
-1	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Translit=it|LTranslit=it
+1	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Translit=it|LTranslit=it
 2	അധികൃതരുടെ	അധികൃതരുടെ	ADV	_	_	11	advmod	_	Translit=adhikr̥taruṭe|LTranslit=adhikr̥taruṭe
 3-4	ശ്രദ്ധയിൽപ്പെട്ടിട്ടും	_	_	_	_	_	_	_	Translit=śraddhayil̕ppeṭṭiṭṭuṁ
 3	ശ്രദ്ധയിൽപ്പെട്ടിട്ട	ശ്രദ്ധയിൽപ്പെട്ടിട്ട	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	11	nsubj	_	Translit=śraddhayil̕ppeṭṭiṭṭa|LTranslit=śraddhayil̕ppeṭṭiṭṭa
@@ -867,7 +867,7 @@
 # translit = ennāl̕, it kaṇṭ maṭaṅṅi pōkāte iṭikūṭunna vidyāṟ̕thikaḷ̕kk iṭayilūṭe itokke ent enna mukhabhāvattōṭeyāṇ ṣaṟaphuddīn̕ naṭann pōyat
 1	എന്നാൽ	എന്നാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	nsubj	_	SpaceAfter=No|Translit=ennāl̕|LTranslit=ennāl̕
 2	,	,	PUNCT	_	_	5	nsubj	_	Translit=,|LTranslit=,
-3	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=it|LTranslit=it
+3	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=it|LTranslit=it
 4	കണ്ട്	കണ്ട്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=kaṇṭ|LTranslit=kaṇṭ
 5	മടങ്ങി	മടങ്ങുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=maṭaṅṅi|LTranslit=maṭaṅṅuka
 6	പോകാതെ	പോകാതെ	ADV	_	_	10	advmod	_	Translit=pōkāte|LTranslit=pōkāte
@@ -980,7 +980,7 @@
 8	നല്ലത്	നല്ലത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Translit=nallat|LTranslit=nallat
 9	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	nsubj	_	Translit=āṇ|LTranslit=āk
 10	-	-	PUNCT	_	_	14	obl	_	Translit=-|LTranslit=-
-11	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Translit=it|LTranslit=it
+11	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Translit=it|LTranslit=it
 12	വളരെ	വളരെ	ADV	_	_	14	advmod	_	Translit=vaḷare|LTranslit=vaḷare
 13	ബുദ്ധിമുട്ടുള്ള	ബുദ്ധിമുട്ടുള്ള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	14	obj	_	Translit=buddhimuṭṭuḷḷa|LTranslit=buddhimuṭṭuḷḷa
 14	കാര്യമല്ല	കാര്യമല്ല	ADJ	_	_	6	punct	_	SpaceAfter=No|Translit=kāryamalla|LTranslit=kāryamalla
@@ -1546,7 +1546,7 @@
 146	ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടി	ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	171	nmod:poss	_	Translit=unnatasthānīyaṟ̕kkuṁvēṇṭi|LTranslit=unnatasthānīyaṟ̕kkuṁvēṇṭuka
 147	പ്രാർത്ഥിക്കണം	പ്രാർത്ഥിക്കണം	NOUN	_	Case=Acc|Number=Sing	171	nsubj	_	SpaceAfter=No|Translit=prāṟ̕tthikkaṇaṁ|LTranslit=prāṟ̕tthikkaṇaṁ
 148	.	.	PUNCT	_	_	171	det	_	Translit=.|LTranslit=.
-149	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Prs	171	nsubj	_	Translit=it|LTranslit=it
+149	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Gender=Neut|Number=Sing|Person=3|PronType=Prs	171	nsubj	_	Translit=it|LTranslit=it
 150-151	ഉത്തമവും	_	_	_	_	_	_	_	Translit=uttamavuṁ
 150	ഉത്തമം	ഉത്തമം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	obj	_	Translit=uttamaṁ|LTranslit=uttamaṁ
 151	ഉം	ഉം	PART	_	_	171	nsubj	_	Translit=uṁ|LTranslit=uṁ
@@ -2062,7 +2062,7 @@
 8	ബിസിനസ്സ്	ബിസിനസ്സ്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=bisinass|LTranslit=bisinass
 9	ഉപകരണങ്ങളെ	ഉപകരണങ്ങളെ	ADV	_	_	12	advmod	_	Translit=upakaraṇaṅṅaḷe|LTranslit=upakaraṇaṅṅaḷe
 10	മാത്രമേ	മാത്രമേ	CCONJ	_	_	12	obl	_	Translit=mātramē|LTranslit=mātramē
-11	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=it|LTranslit=it
+11	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=it|LTranslit=it
 12	ബാധിക്കുകയുള്ളൂ	ബാധിക്കുകയുള്ളുക	VERB	_	Mood=Imp|Polarity=Pos|Polite=Form|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=bādhikkukayuḷḷū|LTranslit=bādhikkukayuḷḷuka
 13	.	.	PUNCT	_	_	12	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
