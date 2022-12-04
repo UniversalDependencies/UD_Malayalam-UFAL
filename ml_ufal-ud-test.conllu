@@ -223,17 +223,17 @@
 # translit = pīṟṟaṟuṁ mēriyuṁ parasparaṁ āliṁganaṁ ceyta śēṣaṁ muṟi viṭṭu.
 # text_en = Peter and Mary hugged each other and then left the room.
 1-2	പീറ്ററും	_	_	_	_	_	_	_	Translit=pīṟṟaṟuṁ
-1	പീറ്റർ	പീറ്റർ	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	10	nsubj	_	Translit=pīṟṟaṟ̕|LTranslit=pīṟṟaṟ̕
-2	ഉം	ഉം	PART	_	_	1	cc	_	Translit=uṁ|LTranslit=uṁ
+1	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	10	nsubj	_	Translit=pīṟṟaṟ̕|LTranslit=pīṟṟaṟ̕|Gloss=Peter
+2	ഉം	ഉം	PART	_	_	1	cc	_	Translit=uṁ|LTranslit=uṁ|Gloss=and
 3-4	മേരിയും	_	_	_	_	_	_	_	Translit=mēriyuṁ
-3	മേരി	മേരി	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	1	conj	_	Translit=mēri|LTranslit=mēri
-4	ഉം	ഉം	PART	_	_	3	cc	_	Translit=uṁ|LTranslit=uṁ
-5	പരസ്പരം	പരസ്പരം	ADV	_	_	7	advmod	_	Translit=parasparaṁ|LTranslit=parasparaṁ
-6	ആലിംഗനം	ആലിംഗനം	NOUN	_	Case=Acc|Number=Sing	7	obj	_	Translit=āliṁganaṁ|LTranslit=āliṁganaṁ
-7	ചെയ്ത	ചെയ്യുക	VERB	_	Polarity=Pos|VerbForm=Part|Voice=Act	10	advcl	_	Translit=ceyta|LTranslit=ceyyuka
-8	ശേഷം	ശേഷം	ADV	_	_	7	advmod	_	Translit=śēṣaṁ|LTranslit=śēṣaṁ
-9	മുറി	മുറി	NOUN	_	Case=Acc|Number=Sing	10	obl	_	Translit=muṟi|LTranslit=muṟi
-10	വിട്ടു	വിടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=viṭṭu|LTranslit=viṭuka
+3	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	1	conj	_	Translit=mēri|LTranslit=mēri|Gloss=Mary
+4	ഉം	ഉം	PART	_	_	3	cc	_	Translit=uṁ|LTranslit=uṁ|Gloss=and
+5	പരസ്പരം	പരസ്പരം	ADV	_	_	7	advmod	_	Translit=parasparaṁ|LTranslit=parasparaṁ|Gloss=each-other
+6	ആലിംഗനം	ആലിംഗനം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	7	obj	_	Translit=āliṁganaṁ|LTranslit=āliṁganaṁ|Gloss=hug
+7	ചെയ്ത	ചെയ്യുക	VERB	_	Polarity=Pos|VerbForm=Part|Voice=Act	10	advcl	_	Translit=ceyta|LTranslit=ceyyuka|Gloss=did
+8	ശേഷം	ശേഷം	ADV	_	_	7	advmod	_	Translit=śēṣaṁ|LTranslit=śēṣaṁ|Gloss=then
+9	മുറി	മുറി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obl	_	Translit=muṟi|LTranslit=muṟi|Gloss=room
+10	വിട്ടു	വിടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=viṭṭu|LTranslit=viṭuka|Gloss=left
 11	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
 
 # newpar id = cairo17
@@ -345,12 +345,12 @@
 # text = നിനക്ക് ഐസ്ക്രിം ഇഷ്ടമാണോ?
 # translit = ninakk aiskriṁ iṣṭamāṇō?
 # text_en = Do you like ice cream?
-1	നിനക്ക്	നീ	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Translit=ninakk|LTranslit=nī
-2	ഐസ്ക്രിം	ഐസ്ക്രിം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	3	obj	_	Translit=aiskriṁ|LTranslit=aiskriṁ
+1	നിനക്ക്	നീ	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Translit=ninakk|LTranslit=nī|Gloss=to-you
+2	ഐസ്ക്രിം	ഐസ്ക്രിം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	3	obj	_	Translit=aiskriṁ|LTranslit=aiskriṁ|Gloss=ice-cream
 3-4	ഇഷ്ടമാണോ	_	_	_	_	_	_	_	SpaceAfter=No|Translit=iṣṭamāṇō
-3	ഇഷ്ടം	ഇഷ്ടം	NOUN	_	Number=Sing	0	root	_	Translit=iṣṭaṁ|LTranslit=iṣṭaṁ
-4	ആണോ	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	Translit=āṇō|LTranslit=āk
-5	?	?	PUNCT	_	_	3	punct	_	Translit=?|LTranslit=?
+3	ഇഷ്ടം	ഇഷ്ടം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=iṣṭaṁ|LTranslit=iṣṭaṁ|Gloss=pleasure
+4	ആണോ	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	Translit=āṇō|LTranslit=āk|Gloss=is
+5	?	?	PUNCT	_	_	3	punct	_	Translit=?|LTranslit=?|Gloss=?
 
 # newpar id = gex06
 # sent_id = gex06
@@ -402,13 +402,13 @@
 # text = ഇന്ന് നീ എന്താൺ ചെയ്യുന്നത്?
 # translit = inn nī entāṇ̕ ceyyunnat?
 # text_en = What are you doing today?
-1	ഇന്ന്	ഇന്ന്	ADV	_	_	5	advmod	_	Translit=inn|LTranslit=inn
-2	നീ	നീ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Translit=nī|LTranslit=nī
+1	ഇന്ന്	ഇന്ന്	ADV	_	_	5	advmod	_	Translit=inn|LTranslit=inn|Gloss=today
+2	നീ	നീ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Translit=nī|LTranslit=nī|Gloss=you
 3-4	എന്താൺ	_	_	_	_	_	_	_	Translit=entāṇ̕
-3	എന്ത്	എന്ത്	PRON	_	PronType=Int	5	obj	_	Translit=ent|LTranslit=ent
-4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	Translit=āṇ|LTranslit=āk
-5	ചെയ്യുന്നത്	ചെയ്യുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	0	root	_	SpaceAfter=No|Translit=ceyyunnat|LTranslit=ceyyuka
-6	?	?	PUNCT	_	_	5	punct	_	Translit=?|LTranslit=?
+3	എന്ത്	എന്ത്	PRON	_	PronType=Int	5	obj	_	Translit=ent|LTranslit=ent|Gloss=what
+4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	Translit=āṇ|LTranslit=āk|Gloss=is
+5	ചെയ്യുന്നത്	ചെയ്യുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	0	root	_	SpaceAfter=No|Translit=ceyyunnat|LTranslit=ceyyuka|Gloss=doing
+6	?	?	PUNCT	_	_	5	punct	_	Translit=?|LTranslit=?|Gloss=?
 
 # newdoc
 # newpar
