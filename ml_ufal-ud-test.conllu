@@ -458,7 +458,7 @@
 3	ക്രിസ്റ്റ്യൻ	ക്രിസ്റ്റ്യൻ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	nmod	_	Translit=krisṟṟyan̕|LTranslit=krisṟṟyan̕
 4	ദേവാലയങ്ങൾ	ദേവാലയം	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	11	obj	_	Translit=dēvālayaṅṅaḷ̕|LTranslit=dēvālayaṁ
 5	പിന്നീട്	പിന്നീട്	ADV	_	_	11	advmod	_	Translit=pinnīṭ|LTranslit=pinnīṭ
-6-7	അവർതന്നെ	_	_	_	_	_	_	_	Translit=avaṟ̕tanne
+6-7	അവർതന്നെ	_	_	_	_	_	_	_	_
 6	അവർ	അവർ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	Translit=avaṟ̕|LTranslit=avaṟ̕
 7	തന്നെ	തന്നെ	ADV	_	_	6	advmod:emph	_	Translit=tanne|LTranslit=tanne
 8	യുക്തിദേവതാ	യുക്തിദേവതാ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	9	nmod	_	Translit=yuktidēvatā|LTranslit=yuktidēvatā
@@ -508,10 +508,10 @@
 1	ഉള്ളതൊക്കെ	ഉള്ളതൊക്കെ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	7	obj	_	Translit=uḷḷatokke|LTranslit=uḷḷatokke
 2	പരസ്പരം	പരസ്പരം	ADV	_	_	7	advmod	_	Translit=parasparaṁ|LTranslit=parasparaṁ
 3	മത്സരിച്ച്	മത്സരിക്കുക	VERB	_	VerbForm=Part	7	compound:svc	_	Translit=matsaricc|LTranslit=matsarikkuka
-4-6	കുറേപ്പേർകൂടി	_	_	_	_	_	_	_	Translit=kuṟēppēṟ̕kūṭi
+4-6	കുറേപ്പേർകൂടി	_	_	_	_	_	_	_	_
 4	കുറേ	കുറേ	DET	_	_	5	det	_	Translit=kuṟē|LTranslit=kuṟē
-5	പ്പേർ	പ്പേർ	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	7	nsubj	_	Translit=ppēṟ̕|LTranslit=ppēṟ̕
-6	കൂടി	കൂടി	ADP	_	_	5	case	_	Translit=kūṭi|LTranslit=kūṭi
+5	പ്പേർ	പ്പേർ	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	7	nsubj	_	Translit=kuṟēppēṟ̕|LTranslit=kuṟēppēṟ̕
+6	കൂടി	കൂടി	ADP	_	_	5	case	_	Translit=kuṟēppēṟ̕|LTranslit=kuṟēppēṟ̕
 7-8	നശിപ്പിക്കുകയും	_	_	_	_	_	_	_	Translit=naśippikkukayuṁ
 7	നശിപ്പിക്കുക	നശിപ്പിക്കുക	VERB	_	VerbForm=Inf	0	root	_	Translit=naśippikkuka|LTranslit=naśippikkuka
 8	ഉം	ഉം	PART	_	_	7	cc	_	Translit=uṁ|LTranslit=uṁ
@@ -587,20 +587,20 @@
 # newpar
 # sent_id = indiccorp10
 # text = എന്നാൽ റിലീസിങ്ങ് ദിനത്തിൽ പരമാവധി തിയേറ്ററുകളിലേക്ക് ചിത്രം എത്തിക്കണമെന്ന മെഗാസ്റ്റാറിന്റെ ആഗ്രഹത്തിന് വേണ്ടിയാൺ റിലീസ് മാറ്റിയത് എന്ന് പിന്നീട് പാപ്പരാസികൾ കണ്ടെത്തികയായിരുന്നു .
-# translit = ennāl̕ ṟilīsiṅṅ dinattil̕ paramāvadhi tiyēṟṟaṟukaḷilēkk citraṁ ettikkaṇamenna megāsṟṟāṟinṟe āgrahattin vēṇṭiyāṇ̕ ṟilīs māṟṟiyat enn pinnīṭ pāpparāsikaḷ̕ kaṇṭettikayāyirunnu .
+# translit = ennāl̕ ṟilīsiṅṅ dinattil̕ paramāvadhi tiyēṟṟaṟukaḷilēkk citraṁ ettikkaṇamenna megāsṟṟāṟinṟe āgrahattin vēṇṭiyāṇ ṟilīs māṟṟiyat enn pinnīṭ pāpparāsikaḷ̕ kaṇṭettikayāyirunnu.
 # text_en = But later the paparazzi discovered that the release was changed for the megastar's desire to reach maximum number of theaters on the release day.
 1	എന്നാൽ	എന്നാൽ	CCONJ	_	_	18	cc	_	Translit=ennāl̕|LTranslit=ennāl̕
 2	റിലീസിങ്ങ്	റിലീസിങ്ങ്	ADJ	_	_	3	amod	_	Translit=ṟilīsiṅṅ|LTranslit=ṟilīsiṅṅ
 3	ദിനത്തിൽ	ദിനം	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	7	obl	_	Translit=dinattil̕|LTranslit=dinaṁ
 4	പരമാവധി	പരമാവധി	ADJ	_	_	5	amod	_	Translit=paramāvadhi|LTranslit=paramāvadhi
-5	തിയേറ്ററുകളിലേക്ക്	തിയേറ്റർ	NOUN	_	Animacy=Inan|Case=All|Number=Plur	7	obl	_	Translit=tiyēṟṟaṟukaḷilēkk|LTranslit=tiyēṟṟaṟ̕
+5	തിയേറ്ററുകളിലേക്ക്	തിയേറ്റർ	NOUN	_	Animacy=Inan|Case=All|Number=Plur	7	obl	_	Translit=tiyēṟṟaṟukaḷilēkk|LTranslit=tiyēṟṟaṟ
 6	ചിത്രം	ചിത്രം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	7	obj	_	Translit=citraṁ|LTranslit=citraṁ
-7-8	എത്തിക്കണമെന്ന	_	_	_	_	_	_	_	Translit=ettikkaṇamenna
-7	എത്തിക്കണം	എത്തിക്കക	VERB	_	Mood=Nec|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	_	Translit=ettikkaṇaṁ|LTranslit=ettikkaka
+7-8	എത്തിക്കണമെന്ന	_	_	_	_	_	_	_	_
+7	എത്തിക്കണം	എത്തിക്കക	VERB	_	Mood=Nec|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	_	Translit=ettikkaṇam|LTranslit=ettikkuka
 8	എന്ന	എന്ന	PART	_	_	7	mark	_	Translit=enna|LTranslit=enna
-9	മെഗാസ്റ്റാറിന്റെ	മെഗാസ്റ്റാർ	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	10	nmod:poss	_	Translit=megāsṟṟāṟinṟe|LTranslit=megāsṟṟāṟ̕
-10	ആഗ്രഹത്തിന്	അഗ്രഹം	NOUN	_	Animacy=Anim|Case=Ben|Number=Sing	14	obl	_	Translit=āgrahattin|LTranslit=agrahaṁ
-11-12	വേണ്ടിയാൺ	_	_	_	_	_	_	_	Translit=vēṇṭiyāṇ̕
+9	മെഗാസ്റ്റാറിന്റെ	മെഗാസ്റ്റാർ	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	10	nmod:poss	_	Translit=megāsṟṟāṟinṟe|LTranslit=megāsṟṟāṟ
+10	ആഗ്രഹത്തിന്	അഗ്രഹം	NOUN	_	Animacy=Anim|Case=Ben|Number=Sing	14	obl	_	Translit=āgrahattin|LTranslit=āgrahaṁ
+11-12	വേണ്ടിയാൺ	_	_	_	_	_	_	_	_
 11	വേണ്ടി	വേണ്ടി	ADP	_	_	10	case	_	Translit=vēṇṭi|LTranslit=vēṇṭi
 12	ആണ്	ആക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	Translit=āṇ|LTranslit=āk
 13	റിലീസ്	റിലീസ്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	14	obj	_	Translit=ṟilīs|LTranslit=ṟilīs
@@ -670,8 +670,8 @@
 4	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
 5	കമല	കമല	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	3	conj	_	Translit=kamala|LTranslit=kamala
 6-8	എന്നിവരും	_	_	_	_	_	_	_	Translit=ennivaruṁ
-6	എന്ന്	എന്ന്	SCONJ	_	_	3	mark	_	Translit=enn|LTranslit=enn
-7	ഇവർ	ഇവർ	PRON	_	Case=Nom|Deixis=Prox|Number=Plural|Person=3|PronType=Prs	15	ccomp	_	Translit=ivaṟ̕|LTranslit=ivaṟ̕
+6	എന്ന്	എന്ന്	SCONJ	_	_	3	mark	_	Translit=ennivara|LTranslit=ennivara
+7	ഇവർ	ഇവർ	PRON	_	Case=Nom|Deixis=Prox|Number=Plural|Person=3|PronType=Prs	15	ccomp	_	Translit=ennivara|LTranslit=ennivara
 8	ഉം	ഉം	PART	_	_	6	cc	_	Translit=uṁ|LTranslit=uṁ
 9	സൗമ്യയുടെ	സൗമ്യയുടെ	PROPN	_	Animacy=Anim|Case=Gen|Number=Sing	10	nmod:poss	_	Translit=saumyayuṭe|LTranslit=saumyayuṭe
 10	രണ്ടാമത്തെ	രണ്ടാമത്തെ	NUM	_	NumForm=Word|NumType=Ord	11	nummod	_	Translit=raṇṭāmatte|LTranslit=raṇṭāmatte
@@ -680,24 +680,24 @@
 12	ഐശ്വര്യ	ഐശ്വര്യ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	15	conj	_	Translit=aiśvarya|LTranslit=aiśvarya
 13	ഉം	ഉം	PART	_	_	12	cc	_	Translit=uṁ|LTranslit=uṁ
 14	ദുരൂഹസാഹചര്യത്തിൽ	ദുരൂഹസാഹചര്യം	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	15	obl	_	Translit=durūhasāhacaryattil̕|LTranslit=durūhasāhacaryaṁ
-15	മരിച്ചിരുന്നു	മരിക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=mariccirunnu|LTranslit=marikkuka
+15	മരിച്ചിരുന്നു	മരിക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=mariccirunnu|LTranslit=maricciruka
 16	.	.	PUNCT	_	_	15	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp15
 # text = ശ്രീനഗർ: ജമ്മുകശ്മിരിൽ കനത്തമഴയെകനത്തമഴയെ തുടർന്നുണ്ടായതുടർന്നുണ്ടായ മണ്ണിടിച്ചിലിൽ മൂന്നു തീർഥാടകർ ഉൾപ്പെടെ നാലു പേർ മരിച്ചു.
-# translit = śrīnagaṟ̕: jammukaśmiril̕ kanattamaḻayekanattamaḻaye tuṭaṟ̕nnuṇṭāyatuṭaṟ̕nnuṇṭāya maṇṇiṭiccilil̕ mūnnu tīṟ̕thāṭakaṟ̕ uḷ̕ppeṭe nālu pēṟ̕ mariccu.
+# translit = śrīnagaṟ̕: jammukaśmiril̕ kanattamaḻaye tuṭaṟ̕nnuṇṭāya maṇṇiṭiccilil̕ mūnnu tīṟ̕thāṭakaṟ̕ uḷ̕ppeṭe nālu pēṟ̕ mariccu.
 # text_en = Srinagar: Four people, including three pilgrims, died in a landslide following heavy rains in Jammu and Kashmir.
 1	ശ്രീനഗർ	ശ്രീനഗർ	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	14	parataxis	_	SpaceAfter=No|Translit=śrīnagaṟ̕|LTranslit=śrīnagaṟ̕
 2	:	:	PUNCT	_	_	14	punct	_	Translit=:|LTranslit=:
-3	ജമ്മുകശ്മിരിൽ	ജമ്മുകശ്മീർ	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	8	obl	_	Translit=jammukaśmiril̕|LTranslit=jammukaśmīṟ̕
-4-5	കനത്തമഴയെകനത്തമഴയെ	_	_	_	_	_	_	_	Translit=kanattamaḻayekanattamaḻaye
-4	കനത്ത	കനം	ADJ	_	_	5	amod	_	Translit=kanatta|LTranslit=kanaṁ
-5	മഴ	മഴയെ	NOUN	_	_	8	obj	_	Translit=maḻa|LTranslit=maḻaye
-6-7	തുടർന്നുണ്ടായതുടർന്നുണ്ടായ	_	_	_	_	_	_	_	Translit=tuṭaṟ̕nnuṇṭāyatuṭaṟ̕nnuṇṭāya
-6	തുടർന്നു	തുടരുക	VERB	_	VerbForm=Part	7	compound	_	Translit=tuṭaṟ̕nnu|LTranslit=tuṭaruka
+3	ജമ്മുകശ്മിരിൽ	ജമ്മുകശ്മീർ	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	8	obl	_	Translit=jammukaśmiril̕|LTranslit=jammukaśmir
+4-5	കനത്തമഴയെകനത്തമഴയെ	_	_	_	_	_	_	_	_
+4	കനത്ത	കനം	ADJ	_	_	5	amod	_	Translit=kanattamaḻaye|LTranslit=kanaṁ
+5	മഴ	മഴയെ	NOUN	_	_	8	obj	_	Translit=maḻa|LTranslit=kanattamaḻaye
+6-7	തുടർന്നുണ്ടായതുടർന്നുണ്ടായ	_	_	_	_	_	_	_	_
+6	തുടർന്നു	തുടരുക	VERB	_	VerbForm=Part	7	compound	_	Translit=tuṭaṟ̕nnu|LTranslit=tuṭaṟ̕nnuṇṭāya
 7	ഉണ്ടായ	ഉണ്ടാക്കുക	ADJ	_	_	8	amod	_	Translit=uṇṭāya|LTranslit=uṇṭākkuka
-8	മണ്ണിടിച്ചിലിൽ	മണ്ണിടിച്ചിൽ	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	14	advcl	_	Translit=maṇṇiṭiccilil̕|LTranslit=maṇṇiṭiccil̕
-9	മൂന്നു	മൂന്നു	NUM	_	NumForm=Word|NumType=Card	10	nummod	_	Translit=mūnnu|LTranslit=mūnnu
+8	മണ്ണിടിച്ചിലിൽ	മണ്ണിടിച്ചിൽ	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	14	advcl	_	Translit=maṇṇiṭiccilil̕|LTranslit=maṇṇiṭiccil
+9	മൂന്നു	മൂന്നു	NUM	_	NumForm=Word|NumType=Card	10	nummod	_	Translit=mūnnu|LTranslit=mūka
 10	തീർഥാടകർ	തീർഥാടകർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	13	nmod	_	Translit=tīṟ̕thāṭakaṟ̕|LTranslit=tīṟ̕thāṭakaṟ̕
 11	ഉൾപ്പെടെ	ഉൾപ്പെടെ	ADP	_	_	10	case	_	Translit=uḷ̕ppeṭe|LTranslit=uḷ̕ppeṭe
 12	നാലു	നാലു	NUM	_	NumForm=Word|NumType=Card	13	nummod	_	Translit=nālu|LTranslit=nālu
@@ -719,21 +719,21 @@
 1	കോഴിക്കോട്	കോഴിക്കോട്	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	13	parataxis	_	SpaceAfter=No|Translit=kōḻikkōṭ|LTranslit=kōḻikkōṭ
 2	:	:	PUNCT	_	_	13	punct	_	Translit=:|LTranslit=:
 3	നിയമസഭ	നിയമസഭ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	nmod	_	Translit=niyamasabha|LTranslit=niyamasabha
-4	തെരെഞ്ഞെടുപ്പിനു	തിരഞ്ഞെടുപ്പ്	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	5	obl	_	Translit=tereññeṭuppinu|LTranslit=tiraññeṭupp
+4	തെരെഞ്ഞെടുപ്പിനു	തിരഞ്ഞെടുപ്പ്	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	5	obl	_	Translit=tereññeṭuppinu|LTranslit=tereññeṭupp
 5	മുന്നോടിയായി	മുന്നോടി	ADV	_	_	13	advcl	_	Translit=munnōṭiyāyi|LTranslit=munnōṭi
 6	എല്ലാ	എല്ലാ	DET	_	_	7	det	_	Translit=ellā|LTranslit=ellā
 7-8	പാർട്ടികളും	_	_	_	_	_	_	_	Translit=pāṟ̕ṭṭikaḷuṁ
-7	പാർട്ടികൾ	പാർട്ടി	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	13	nsubj	_	Translit=pāṟ̕ṭṭikaḷ̕|LTranslit=pāṟ̕ṭṭi
+7	പാർട്ടികൾ	പാർട്ടി	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	13	nsubj	_	Translit=pāṟ̕ṭṭikaḷ|LTranslit=pāṟ̕ṭṭi
 8	ഉം	ഉം	PART	_	_	7	cc	_	Translit=uṁ|LTranslit=uṁ
 9-10	മുന്നണികളും	_	_	_	_	_	_	_	Translit=munnaṇikaḷuṁ
-9	മുന്നണികൾ	മുന്നണി	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	7	conj	_	Translit=munnaṇikaḷ̕|LTranslit=munnaṇi
+9	മുന്നണികൾ	മുന്നണി	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	7	conj	_	Translit=munnaṇikaḷ|LTranslit=munnaṇi
 10	ഉം	ഉം	PART	_	_	9	cc	_	Translit=uṁ|LTranslit=uṁ
 11	പ്രചരണ	പ്രചാരണം	ADJ	_	_	12	amod	_	Translit=pracaraṇa|LTranslit=pracāraṇaṁ
 12	രംഗത്തു	രംഗം	VERB	_	Animacy=Inan|Case=Nom|Number=Plur	13	obl	_	Translit=raṁgattu|LTranslit=raṁgaṁ
-13-15	സജ്ജിവമായിക്കഴിഞ്ഞു	_	_	_	_	_	_	_	SpaceAfter=No|Translit=sajjivamāyikkaḻiññu
-13	സജ്ജിവം	സജ്ജിവം	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	0	root	_	Translit=sajjivaṁ|LTranslit=sajjivaṁ
+13-15	സജ്ജിവമായിക്കഴിഞ്ഞു	_	_	_	_	_	_	_	SpaceAfter=No
+13	സജ്ജിവം	സജ്ജിവം	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	0	root	_	Translit=sajjivamāyikkaḻiññu|LTranslit=sajjivamāyikkaḻiññu
 14	ആയി	ആക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	Translit=āyi|LTranslit=āk
-15	കഴിഞ്ഞു	കഴിയുകാ	AUX	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	13	aux	_	Translit=kaḻiññu|LTranslit=kaḻiyukā
+15	കഴിഞ്ഞു	കഴിയുകാ	AUX	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	13	aux	_	Translit=kaḻiññu|LTranslit=kaḻiyuka
 16	.	.	PUNCT	_	_	13	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # newdoc
@@ -848,11 +848,11 @@
 
 # sent_id = indiccorp24
 # text = ധോണിക്കൊപ്പം റായ് ലക്ഷ്മി; പ്രതികരണവുമായി താരം .
-# translit = dhōṇikkoppaṁ ṟāy lakṣmi; pratikaraṇavumāyi tāraṁ .
+# translit = dhōṇikkoppaṁ ṟāy lakṣmi; pratikaraṇavumāyi tāraṁ
 # text_en = Rai Lakshmi with Dhoni; Actor with response
 1	ധോണിക്കൊപ്പം	ധോണി	PROPN	_	Animacy=Anim|Case=Com|Number=Sing	2	nmod	_	Translit=dhōṇikkoppaṁ|LTranslit=dhōṇi
 2	റായ്	റായ്	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	0	root	_	Translit=ṟāy|LTranslit=ṟāy
-3	ലക്ഷ്മി	ലക്ഷ്മി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	2	flat	_	SpaceAfter=No|Translit=lakṣmi|LTranslit=lakṣmi
+3	ലക്ഷ്മി	ലക്ഷ്മി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	2	flat	_	SpaceAfter=No|Translit=lakṣmi|LTranslit=lakṣmuka
 4	;	;	PUNCT	_	_	2	punct	_	Translit=;|LTranslit=;
 5	പ്രതികരണവുമായി	പ്രതികരണം	NOUN	_	Animacy=Inan|Case=Com|Number=Sing	6	nmod	_	Translit=pratikaraṇavumāyi|LTranslit=pratikaraṇaṁ
 6	താരം	താരം	NOUN	_	_	2	parataxis	_	SpacesAfter=\n|Translit=tāraṁ|LTranslit=tāraṁ
@@ -864,7 +864,7 @@
 # text_en = High Court criticizes Jacob Thomas.
 1	ജേക്കബ്	ജേക്കബ്	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	5	nmod	_	Translit=jēkkab|LTranslit=jēkkab
 2	തോമസിന്	തോമസ്	PROPN	_	Animacy=Anim|Case=Gen|Number=Sing	1	flat	_	Translit=tōmasin|LTranslit=tōmas
-3	ഹൈക്കോടതിയുടെ	ഹൈക്കോടതി	NOUN	_	Animacy=Inan|Case=Gen|Number=Sing	5	nmod:poss	_	Translit=haikkōṭatiyuṭe|LTranslit=haikkēാṭati
+3	ഹൈക്കോടതിയുടെ	ഹൈക്കോടതി	NOUN	_	Animacy=Inan|Case=Gen|Number=Sing	5	nmod:poss	_	Translit=haikkōṭatiyuṭe|LTranslit=haikkōṭati
 4	രൂക്ഷ	രൂക്ഷം	ADJ	_	_	5	amod	_	Translit=rūkṣa|LTranslit=rūkṣaṁ
 5	വിമർശനം	വിമർശനം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=vimaṟ̕śanaṁ|LTranslit=vimaṟ̕śanaṁ
 6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
@@ -889,13 +889,13 @@
 2	അധികൃതരുടെ	അധികൃതര്	NOUN	_	Animacy=Anim|Case=Gen|Number=Plur	3	nmod:poss	_	Translit=adhikr̥taruṭe|LTranslit=adhikr̥tar
 3-5	ശ്രദ്ധയിൽപ്പെട്ടിട്ടും	_	_	_	_	_	_	_	Translit=śraddhayil̕ppeṭṭiṭṭuṁ
 3	ശ്രദ്ധയിൽ	ശ്രദ്ധ	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	4	compound	_	Translit=śraddhayil̕|LTranslit=śraddha
-4	പ്പെട്ടിട്ട	പെടുക	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin	9	advcl	_	Translit=ppeṭṭiṭṭa|LTranslit=peṭuka
+4	പ്പെട്ടിട്ട	പെടുക	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin	9	advcl	_	Translit=peṭṭiṭṭa|LTranslit=peṭuka
 5	ഉം	ഉം	PART	_	_	4	advmod	_	Translit=uṁ|LTranslit=uṁ
 6	ലീക്ക്	ലീക്ക്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	7	obj	_	Translit=līkk|LTranslit=līkk
 7	മാറ്റാൻ	മാറ്റുക	VERB	_	VerbForm=Inf	9	xcomp	_	Translit=māṟṟān̕|LTranslit=māṟṟuka
 8	അവർ	അവർ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	Translit=avaṟ̕|LTranslit=avaṟ̕
 9-11	തയാറാകുന്നില്ലെന്നാണ്	_	_	_	_	_	_	_	Translit=tayāṟākunnillennāṇ
-9	തയ്യാറാകുന്നില്ല	തയ്യാറാകുക	VERB	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin	13	ccomp	_	Translit=tayyāṟākunnilla|LTranslit=tayyāṟākuka
+9	തയ്യാറാകുന്നില്ല	തയ്യാറാകുക	VERB	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin	13	ccomp	_	Translit=tayyāṟākunnilla|LTranslit=tayāṟākuka
 10	എന്ന്	എന്ന്	SCONJ	_	_	9	mark	_	Translit=enn|LTranslit=enn
 11	ആണ്	ആക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	Translit=āṇ|LTranslit=āk
 12	സമാപവാസികൾക്കുള്ള	സമാപവാസി	ADJ	_	_	13	amod	_	Translit=samāpavāsikaḷ̕kkuḷḷa|LTranslit=samāpavāsi
@@ -904,7 +904,7 @@
 
 # sent_id = indiccorp28
 # text = എന്നാൽ, ഇത് കണ്ട് മടങ്ങി പോകാതെ ഇടികൂടുന്ന വിദ്യാർഥികൾക്ക് ഇടയിലൂടെ ഇതൊക്കെ എന്ത് എന്ന മുഖഭാവത്തോടെയാണ് ഷറഫുദ്ദീൻ നടന്ന് പോയത്NO.
-# translit = ennāl̕, it kaṇṭ maṭaṅṅi pōkāte iṭikūṭunna vidyāṟ̕thikaḷ̕kk iṭayilūṭe itokke ent enna mukhabhāvattōṭeyāṇ ṣaṟaphuddīn̕ naṭann pōyatNO.
+# translit = ennāl̕, it kaṇṭ maṭaṅṅi pōkāte iṭikūṭunna vidyāṟ̕thikaḷ̕kk iṭayilūṭe itokke ent enna mukhabhāvattōṭeyāṇ ṣaṟaphuddīn̕ naṭann pōyat
 # text_en = However, seeing this, Sharafuddin walked through the crowd of students with the expression of "What is this?"
 1	എന്നാൽ	എന്നാൽ	ADV	_	_	18	advmod	_	SpaceAfter=No|Translit=ennāl̕|LTranslit=ennāl̕
 2	,	,	PUNCT	_	_	18	punct	_	Translit=,|LTranslit=,
@@ -915,7 +915,7 @@
 7	ഇടികൂടുന്ന	ഇടികൂടുക	ADJ	_	_	8	amod	_	Translit=iṭikūṭunna|LTranslit=iṭikūṭuka
 8	വിദ്യാർഥികൾക്ക്	വിദ്യാർഥി	NOUN	_	Animacy=Anim|Case=Dat|Number=Plur	9	obl	_	Translit=vidyāṟ̕thikaḷ̕kk|LTranslit=vidyāṟ̕thi
 9	ഇടയിലൂടെ	ഇടയിലൂടെ	ADV	_	_	10	advmod	_	Translit=iṭayilūṭe|LTranslit=iṭayilūṭe
-10-11	ഇതൊക്കെ	_	_	_	_	_	_	_	Translit=itokke
+10-11	ഇതൊക്കെ	_	_	_	_	_	_	_	_
 10	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=it|LTranslit=it
 11	ഒക്കെ	ഒക്കെ	DET	_	_	10	det	_	Translit=okke|LTranslit=okke
 12	എന്ത്	എന്ത്	PRON	_	Animacy=Inan|Case=Nom|PronType=Int	14	acl:recl	_	Translit=ent|LTranslit=ent
@@ -934,24 +934,24 @@
 # text_en = He was arrested on July 12, 1950 in Delhi.
 1	1950	1950	NUM	_	NumForm=Digit|NumType=Card	2	nummod	_	Translit=1950|LTranslit=1950
 2	ജൂലൈ	ജൂലൈ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obl	_	Translit=jūlai|LTranslit=jūlai
-3-4	12ന്	_	_	_	_	_	_	_	Translit=12n
+3-4	12ന്	_	_	_	_	_	_	_	_
 3	12	12	NUM	_	NumForm=Digit|NumType=Card	2	nummod	_	Translit=12|LTranslit=12
 4	ന്	ന്	ADP	_	_	3	case	_	Translit=n|LTranslit=n
-5	ഡൽഹിയിൽ	ഡൽഹി	PROPN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obl	_	Translit=ḍal̕hiyil̕|LTranslit=ḍal̕hi
-6-7	അറസ്റ്റിലായി	_	_	_	_	_	_	_	SpaceAfter=No|Translit=aṟasṟṟilāyi
-6	അറസ്റ്റിൽ	അറസ്റ്റ്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=aṟasṟṟil̕|LTranslit=aṟasṟṟ
+5	ഡൽഹിയിൽ	ഡൽഹി	PROPN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obl	_	Translit=ḍal̕hiyil̕|LTranslit=ḍal̕hiyil̕
+6-7	അറസ്റ്റിലായി	_	_	_	_	_	_	_	SpaceAfter=No
+6	അറസ്റ്റിൽ	അറസ്റ്റ്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=aṟasṟṟil|LTranslit=aṟasṟṟ
 7	ആയി	ആക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	Translit=āyi|LTranslit=āk
 8	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp30
 # text = അനുജന് കളിക്കാൻ  ബൈക്കുകൾ നിർമിച്ചു നൽകിയായിരുന്നു തുടക്കം.
-# translit = anujan kaḷikkān̕  baikkukaḷ̕ niṟ̕miccu nal̕kiyāyirunnu tuṭakkaṁ.
+# translit = anujan kaḷikkān̕  baikkukaḷ̕ niṟ̕miccu nal̕ki yāyirunnu tuṭakkaṁ.
 # text_en = It started with making bikes for Anujan to play with.
 1	അനുജന്	അനുജന്	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	5	nsubj	_	Translit=anujan|LTranslit=anujan
 2	കളിക്കാൻ	കളിക്കുക	VERB	_	VerbForm=Inf	5	xcomp	_	SpacesAfter= \s|Translit=kaḷikkān̕|LTranslit=kaḷikkuka
-3	ബൈക്കുകൾ	ബൈക്ക്	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	2	obj	_	Translit=baikkukaḷ̕|LTranslit=baikk
+3	ബൈക്കുകൾ	ബൈക്ക്	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	2	obj	_	Translit=baikkukaḷ̕|LTranslit=baikkukaḷ̕
 4	നിർമിച്ചു	നിർമിക്കുക	VERB	_	VerbForm=Part	5	compound:svc	_	Translit=niṟ̕miccu|LTranslit=niṟ̕mikkuka
-5	നൽകിയായിരുന്നു	നൽകുക	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	acl	_	Translit=nal̕kiyāyirunnu|LTranslit=nal̕kuka
+5	നൽകിയായിരുന്നു	നൽകുക	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	acl	_	Translit=nal̕ki|LTranslit=nal̕ki
 6	തുടക്കം	തുടക്കം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=tuṭakkaṁ|LTranslit=tuṭakkaṁ
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
@@ -1008,10 +1008,10 @@
 # translit = prabhātamāyenn bōdhyamāyāl̕ pinne bhakṣikkarut.
 # text_en = Do not eat again when you are sure that it is morning.
 1-3	പ്രഭാതമായെന്ന്	_	_	_	_	_	_	_	Translit=prabhātamāyenn
-1	പ്രഭാതം	പ്രഭാതം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	ccomp	_	Translit=prabhātaṁ|LTranslit=prabhātaṁ
-2	ആയി	ആക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Translit=āyi|LTranslit=āk
+1	പ്രഭാതം	പ്രഭാതം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	ccomp	_	Translit=prabhātamāy|LTranslit=prabhātamāy
+2	ആയി	ആക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Translit=prabhātamāy|LTranslit=prabhātamāy
 3	എന്ന്	എന്ന്	SCONJ	_	_	1	mark	_	Translit=enn|LTranslit=enn
-4	ബോധ്യമായാൽ	ബോധം	ADV	_	_	6	advcl	_	Translit=bōdhyamāyāl̕|LTranslit=bōdhaṁ
+4	ബോധ്യമായാൽ	ബോധം	ADV	_	_	6	advcl	_	Translit=bōdhyamāyāl̕|LTranslit=bōdhyaṁ
 5	പിന്നെ	പിന്നെ	ADV	_	_	6	advmod	_	Translit=pinne|LTranslit=pinne
 6	ഭക്ഷിക്കരുത്	ഭക്ഷിക്കുക	VERB	_	Mood=Imp|Polarity=Neg|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=bhakṣikkarut|LTranslit=bhakṣikkuka
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
@@ -1034,7 +1034,7 @@
 11	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Translit=it|LTranslit=it
 12	വളരെ	വളരെ	ADV	_	_	14	advmod	_	Translit=vaḷare|LTranslit=vaḷare
 13	ബുദ്ധിമുട്ടുള്ള	ബുദ്ധിമുട്ട്	ADJ	_	_	14	amod	_	Translit=buddhimuṭṭuḷḷa|LTranslit=buddhimuṭṭ
-14-15	കാര്യമല്ല	_	_	_	_	_	_	_	SpaceAfter=No|Translit=kāryamalla
+14-15	കാര്യമല്ല	_	_	_	_	_	_	_	SpaceAfter=No
 14	കാര്യം	കാര്യം	NOUN	_	_	8	parataxis	_	Translit=kāryaṁ|LTranslit=kāryaṁ
 15	അല്ല	ആക്	VERB	_	_	14	cop	_	Translit=alla|LTranslit=āk
 16	.	.	PUNCT	_	_	14	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
@@ -1205,98 +1205,104 @@
 6	ചിത്രമ്	ചിത്രമ്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	Translit=citram|LTranslit=citram
 7	ആണ്	ആക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=āṇ|LTranslit=āk
 8	നസ്രിയ	നസ്രിയ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	10	nsubj	_	Translit=nasriya|LTranslit=nasriya
-9-10	പങ്കുവച്ചിരിക്കുന്നത്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=paṅkuvaccirikkunnat
+9-10	പങ്കുവച്ചിരിക്കുന്നത്	_	_	_	_	_	_	_	SpaceAfter=No
 9	പങ്കു	പങ്കു	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	10	compound	_	Translit=paṅku|LTranslit=paṅku
 10	വച്ചിരിക്കുന്നത്	വയ്ക്കുക	VERB	_	Aspect=Perf|Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	0	root	_	Translit=vaccirikkunnat|LTranslit=vaykkuka
 11	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
+# newdoc
+# newpar
 # sent_id = indiccorp41
-# text = അത് ചെയ്യുന്നത് ആരായാലും അവരെ നിയമത്തിന്റെ മുന്നിൽ കൊണ്ടുവരണം എന്നും പ്രസ്താവനയിൽ ആവശ്യപ്പെടുന്നു.
+# text = അത് ചെയ്യുന്നത് ആരായാലഉം അവരെ നിയമത്തിന്റെ മുന്നിൽ കൊണ്ടുവരണം എന്നും പ്രസ്താവനയിൽ ആവശ്യപ്പെടുന്നു.
 # translit = at ceyyunnat ārāyāluṁ avare niyamattinṟe munnil̕ koṇṭuvaraṇaṁ ennuṁ prastāvanayil̕ āvaśyappeṭunnu.
 # text_en = The statement also demanded that whoever is doing it should be brought to justice.
-1	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=at|LTranslit=at
-2	ചെയ്യുന്നത്	ചെയ്യുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	12	nsubj	_	Translit=ceyyunnat|LTranslit=ceyyuka
-3-4	ആരായാലും	_	_	_	_	_	_	_	Translit=ārāyāluṁ
-3	ആരായാല	ആരായാല	ADJ	_	_	12	nsubj	_	Translit=ārāyāla|LTranslit=ārāyāla
-4	ഉം	ഉം	PART	_	_	3	cc	_	Translit=uṁ|LTranslit=uṁ
-5	അവരെ	അവരെ	ADV	_	_	12	advmod	_	Translit=avare|LTranslit=avare
-6	നിയമത്തിന്റെ	നിയമത്തീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	Translit=niyamattinṟe|LTranslit=niyamattī
-7	മുന്നിൽ	മുന്നിൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=munnil̕|LTranslit=munnil̕
-8	കൊണ്ടുവരണം	കൊണ്ടുവരണം	ADV	_	_	12	advmod	_	Translit=koṇṭuvaraṇaṁ|LTranslit=koṇṭuvaraṇaṁ
-9-10	എന്നും	_	_	_	_	_	_	_	Translit=ennuṁ
-9	എന്ന	എന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=enna|LTranslit=enna
-10	ഉം	ഉം	PART	_	_	12	nsubj	_	Translit=uṁ|LTranslit=uṁ
-11	പ്രസ്താവനയിൽ	പ്രസ്താവനയിൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	obj	_	Translit=prastāvanayil̕|LTranslit=prastāvanayil̕
-12	ആവശ്യപ്പെടുന്നു	ആവശ്യപ്പെടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=āvaśyappeṭunnu|LTranslit=āvaśyappeṭuka
-13	.	.	PUNCT	_	_	12	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
+1	അത്	അത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	Translit=at|LTranslit=at
+2	ചെയ്യുന്നത്	ചെയ്യുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	4	acl:relcl	_	Translit=ceyyunnat|LTranslit=ceyyuka
+3	ആരായാലഉം	ആരായാലഉം	PRON	_	PronType=Int	2	nsubj	_	Translit=ārāyāla|LTranslit=ārāyāla
+4	അവരെ	അവര്	PRON	_	Animacy=Anim|Case=Acc|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	7	obj	_	Translit=avare|LTranslit=avare
+5	നിയമത്തിന്റെ	നിയമം	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	7	obl	_	Translit=niyamattinṟe|LTranslit=niyamattī
+6	മുന്നിൽ	മുന്നിൽ	ADP	_	_	5	case	_	Translit=munnil̕|LTranslit=munnil̕
+7	കൊണ്ടുവരണം	കൊണ്ടുവരുക	VERB	_	Mood=Nec|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	ccomp	_	Translit=koṇṭuvaraṇaṁ|LTranslit=koṇṭuvaraṇaṁ
+8-9	എന്നും	_	_	_	_	_	_	_	Translit=ennuṁ
+8	എന്ന	എന്ന	SCONJ	_	Animacy=Inan|Case=Acc|Number=Sing	7	mark	_	Translit=enna|LTranslit=enna
+9	ഉം	ഉം	PART	_	_	8	advmod	_	Translit=uṁ|LTranslit=uṁ
+10	പ്രസ്താവനയിൽ	പ്രസ്താവനം	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	11	obl	_	Translit=prastāvanayil̕|LTranslit=prastāvanayil̕
+11	ആവശ്യപ്പെടുന്നു	ആവശ്യപ്പെടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=āvaśyappeṭunnu|LTranslit=āvaśyappeṭuka
+12	.	.	PUNCT	_	_	11	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp42
-# text = രോഗികൾക്ക്‌ രോഗശാന്തി കൈവരും.
+# text = രോഗികൾക്ക്‌ രോഗശാന്തി കൈ വരും .
 # translit = rōgikaḷ̕kk rōgaśānti kaivaruṁ.
 # text_en = Patients will get cured.
-1	രോഗികൾക്ക്‌	രോഗികൾക്ക്‌	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	nmod:poss	_	Translit=rōgikaḷ̕kk|LTranslit=rōgikaḷ̕kk
-2	രോഗശാന്തി	രോഗശാന്തി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	nsubj	_	Translit=rōgaśānti|LTranslit=rōgaśānti
-3-4	കൈവരും	_	_	_	_	_	_	_	SpaceAfter=No|Translit=kaivaruṁ
-3	കൈവര	കൈവര	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit=kaivara|LTranslit=kaivara
-4	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+1	രോഗികൾക്ക്‌	രോഗി	NOUN	_	Animacy=Anim|Case=Dat|Number=Plur	4	nsubj	_	Translit=rōgikaḷ̕kk|LTranslit=rōgikaḷ̕kk
+2	രോഗശാന്തി	രോഗശാന്തി	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	obj	_	Translit=rōgaśānti|LTranslit=rōgaśānti
+3	കൈ	കൈ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	compound	_	Translit=kaivara|LTranslit=kaivara
+4	വരും	വരുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Translit=uṁ|LTranslit=uṁ
 5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp43
 # text = മുപ്പതു മുതൽ നാൽപ്പതു മിനിറ്റ് വരെ 210 ഡിഗ്രി സെൽഷ്യസിൽ ഒരു ചൂടാക്കിയ അടുപ്പിൽ വയ്ക്കുക.
 # translit = muppatu mutal̕ nāl̕ppatu miniṟṟ vare 210 ḍigri sel̕ṣyasil̕ oru cūṭākkiya aṭuppil̕ vaykkuka.
 # text_en = Place in a preheated oven at 210 degrees Celsius for thirty to forty minutes.
-1	മുപ്പതു	മുപ്പതു	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	12	nmod:poss	_	Translit=muppatu|LTranslit=muppatu
-2	മുതൽ	മുതൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=mutal̕|LTranslit=mutal̕
-3	നാൽപ്പതു	നാൽപ്പതു	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	12	det	_	Translit=nāl̕ppatu|LTranslit=nāl̕ppatu
-4	മിനിറ്റ്	മിനിറ്റ്	ADV	_	_	12	advmod	_	Translit=miniṟṟ|LTranslit=miniṟṟ
-5	വരെ	വരെ	ADV	_	_	12	advmod	_	Translit=vare|LTranslit=vare
-6	210	210	NUM	_	_	12	nmod:poss	_	Translit=210|LTranslit=210
-7	ഡിഗ്രി	ഡിഗ്രി	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	8	nsubj	_	Translit=ḍigri|LTranslit=ḍigri
-8	സെൽഷ്യസിൽ	സെൽഷ്യസ്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	12	nsubj	_	Translit=sel̕ṣyasil̕|LTranslit=sel̕ṣyas
-9	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	12	det	_	Translit=oru|LTranslit=oru
-10	ചൂടാക്കിയ	ചൂടാക്കിയ	ADJ	_	_	12	amod	_	Translit=cūṭākkiya|LTranslit=cūṭākkiya
-11	അടുപ്പിൽ	അടുപ്പ്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	12	obj	_	Translit=aṭuppil̕|LTranslit=aṭupp
-12	വയ്ക്കുക	വയ്ക്കുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=vaykkuka|LTranslit=vaykkuka
+1	മുപ്പതു	മുപ്പതു	NUM	_	NumForm=Word|NumType=Card	4	nummod	_	Translit=muppatu|LTranslit=muppatu
+2	മുതൽ	മുതൽ	ADP	_	_	1	case	_	Translit=mutal̕|LTranslit=mutal̕
+3	നാൽപ്പതു	നാൽപ്പതു	NUM	_	NumForm=Word|NumType=Card	4	nummod	_	Translit=nāl̕ppatu|LTranslit=nāl̕ppatu
+4	മിനിറ്റ്	മിനിറ്റ്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	12	obl	_	Translit=miniṟṟ|LTranslit=miniṟṟ
+5	വരെ	വരെ	ADP	_	_	4	case	_	Translit=vare|LTranslit=vare
+6	210	210	NUM	_	NumForm=Digit|NumType=Card	7	nummod	_	Translit=210|LTranslit=210
+7	ഡിഗ്രി	ഡിഗ്രി	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	8	compound	_	Translit=ḍigri|LTranslit=ḍigri
+8	സെൽഷ്യസിൽ	സെൽഷ്യസ്	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	12	obl	_	Translit=sel̕ṣyasil̕|LTranslit=sel̕ṣyas
+9	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	10	det	_	Translit=oru|LTranslit=oru
+10	ചൂടാക്കിയ	ചൂടാക്കിയ	ADJ	_	_	11	amod	_	Translit=cūṭākkiya|LTranslit=cūṭākkiya
+11	അടുപ്പിൽ	അടുപ്പ്	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	12	obl	_	Translit=aṭuppil̕|LTranslit=aṭupp
+12	വയ്ക്കുക	വയ്ക്കുക	VERB	_	Mood=Imp|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=vaykkuka|LTranslit=vaykkuka
 13	.	.	PUNCT	_	_	12	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp44
 # text = ഇയാളെ പോക്‌സോ കേസ് ചുമത്തിയാണ് പോലീസ് അറസ്റ്റു ചെയ്തത്.
 # translit = iyāḷe pōksō kēs cumattiyāṇ pōlīs aṟasṟṟu ceytat.
 # text_en = He was arrested by the police on a POCSO case.
-1	ഇയാളെ	ഇയാളെ	ADV	_	_	6	advmod	_	Translit=iyāḷe|LTranslit=iyāḷe
-2	പോക്‌സോ	പോക്‌സോ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	nsubj	_	Translit=pōksō|LTranslit=pōksō
-3	കേസ്	കേസ്	ADV	_	_	6	advmod	_	Translit=kēs|LTranslit=kēs
-4-5	ചുമത്തിയാണ്	_	_	_	_	_	_	_	Translit=cumattiyāṇ
-4	ചുമത്തിയ്	ചുമത്തിയ്	ADV	_	_	6	advmod	_	Translit=cumattiy|LTranslit=cumattiy
-5	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	nsubj	_	Translit=āṇ|LTranslit=āk
-6	പോലീസ്	പോലീസ്	ADV	_	_	0	root	_	Translit=pōlīs|LTranslit=pōlīs
-7	അറസ്റ്റു	അറസ്റ്റു	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	8	nsubj	_	Translit=aṟasṟṟu|LTranslit=aṟasṟṟu
-8	ചെയ്തത്	ചെയ്ത	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	6	punct	_	SpaceAfter=No|Translit=ceytat|LTranslit=ceyta
-9	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
+1-2	ഇയാളെ	_	_	_	_	_	_	_	_
+1	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	2	det	_	Translit=iyāḷe|LTranslit=iyāḷe
+2	ആളെ	ആള്	NOUN	_	Animacy=Anim|Case=Acc|Number=Sing	9	obj	_	Translit=iyāḷe|LTranslit=iyāḷe
+3	പോക്‌സോ	പോക്‌സോ	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	4	compound	_	Translit=pōksō|LTranslit=pōksō
+4	കേസ്	കേസ്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=kēs|LTranslit=kēs
+5-6	ചുമത്തിയാണ്	_	_	_	_	_	_	_	Translit=cumattiyāṇ
+5	ചുമത്തി	ചുമത്തുക	VERB	_	VerbForm=Part	9	advcl	_	Translit=cumattiy|LTranslit=cumattiy
+6	ആണ്	ആക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	Translit=āṇ|LTranslit=āk
+7	പോലീസ്	പോലീസ്	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	9	nsubj	_	Translit=pōlīs|LTranslit=pōlīs
+8	അറസ്റ്റു	അറസ്റ്റു	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	9	compound	_	Translit=aṟasṟṟu|LTranslit=aṟasṟṟu
+9	ചെയ്തത്	ചെയ്യുക	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	0	root	_	SpaceAfter=No|Translit=ceytat|LTranslit=ceyta
+10	.	.	PUNCT	_	_	9	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp45
 # text = ഇതോടെ ലണ്ടൻ ബ്രിഡ്ജ് പരിസരമാകെ ജനങ്ങൾ പരിഭ്രാന്തരായി പരക്കം പായാൻ തുടങ്ങി.
 # translit = itōṭe laṇṭan̕ briḍj parisaramāke janaṅṅaḷ̕ paribhrāntarāyi parakkaṁ pāyān̕ tuṭaṅṅi.
 # text_en = With this, the people around London Bridge started to panic.
-1	ഇതോടെ	ഇതോടെ	ADV	_	_	9	advmod	_	Translit=itōṭe|LTranslit=itōṭe
-2	ലണ്ടൻ	ലണ്ടൻ	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Translit=laṇṭan̕|LTranslit=laṇṭan̕
-3	ബ്രിഡ്ജ്	ബ്രിഡ്ജ്	ADV	_	_	9	advmod	_	Translit=briḍj|LTranslit=briḍj
-4	പരിസരമാകെ	പരിസരമാകെ	ADV	_	_	9	advmod	_	Translit=parisaramāke|LTranslit=parisaramāke
-5	ജനങ്ങൾ	ജനങ്ങൾ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	Translit=janaṅṅaḷ̕|LTranslit=janaṅṅaḷ̕
-6	പരിഭ്രാന്തരായി	പരിഭ്രാന്തരായി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	9	nsubj	_	Translit=paribhrāntarāyi|LTranslit=paribhrāntarāyi
-7	പരക്കം	പരക്കം	ADV	_	_	9	advmod	_	Translit=parakkaṁ|LTranslit=parakkaṁ
-8	പായാൻ	പായുക	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	9	obj	_	Translit=pāyān̕|LTranslit=pāyuka
-9	തുടങ്ങി	തുടങ്ങുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=tuṭaṅṅi|LTranslit=tuṭaṅṅuka
-10	.	.	PUNCT	_	_	9	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
+1	ഇതോടെ	ഇതോടെ	PRON	_	Case=Com|Number=Sing|Person=3|PronType=Prs	10	obl	_	Translit=itōṭe|LTranslit=itōṭe
+2	ലണ്ടൻ	ലണ്ടൻ	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	4	nmod	_	Translit=laṇṭan̕|LTranslit=laṇṭan̕
+3	ബ്രിഡ്ജ്	ബ്രിഡ്ജ്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	2	flat	_	Translit=briḍj|LTranslit=briḍj
+4-5	പരിസരമാകെ	_	_	_	_	_	_	_	_
+4	പരിസരം	പരിസരം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	10	obl	_	Translit=parisaramāke|LTranslit=parisaramāke
+5	ആകെ	ആകെ	ADP	_	_	4	case	_	Translit=parisaramāke|LTranslit=parisaramāke
+6	ജനങ്ങൾ	ജനം	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur	10	nsubj	_	Translit=janaṅṅaḷ̕|LTranslit=janaṅṅaḷ̕
+7	പരിഭ്രാന്തരായി	പരിഭ്രാന്തര്	ADV	_	_	9	advmod	_	Translit=paribhrāntarāyi|LTranslit=paribhrāntarāyi
+8	പരക്കം	പരക്കം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	9	compound	_	Translit=parakkaṁ|LTranslit=parakkaṁ
+9	പായാൻ	പായുക	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	10	xcomp	_	Translit=pāyān̕|LTranslit=pāyuka
+10	തുടങ്ങി	തുടങ്ങുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=tuṭaṅṅi|LTranslit=tuṭaṅṅuka
+11	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp46
-# text = മൂന്ന് സംസ്ഥാനങ്ങളിലേക്കുള്ള വോട്ടെണ്ണൽ ആരംഭിച്ചു
+# text = മൂന്ന് സംസ്ഥാനങ്ങളിലേക്കുള്ള വോട്ടെണ്ണൽ ആരംഭിച്ചുNo.
 # translit = mūnn saṁsthānaṅṅaḷilēkkuḷḷa vōṭṭeṇṇal̕ āraṁbhiccu
 # text_en = Counting of votes for three states has started
-1	മൂന്ന്	മൂന്ന്	ADV	_	_	2	nmod:poss	_	Translit=mūnn|LTranslit=mūnn
-2	സംസ്ഥാനങ്ങളിലേക്കുള്ള	സംസ്ഥാനങ്ങളിലേക്കുള്ള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	nsubj	_	Translit=saṁsthānaṅṅaḷilēkkuḷḷa|LTranslit=saṁsthānaṅṅaḷilēkkuḷḷa
-3	വോട്ടെണ്ണൽ	വോട്ടെണ്ണൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit=vōṭṭeṇṇal̕|LTranslit=vōṭṭeṇṇal̕
-4	ആരംഭിച്ചു	ആരംഭിക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n|Translit=āraṁbhiccu|LTranslit=āraṁbhikkuka
+1	മൂന്ന്	മൂന്ന്	NUM	_	NumForm=Word|NumType=Card	2	nummod	_	Translit=mūnn|LTranslit=mūnn
+2	സംസ്ഥാനങ്ങളിലേക്കുള്ള	സംസ്ഥാനം	ADJ	_	_	4	amod	_	Translit=saṁsthānaṅṅaḷilēkkuḷḷa|LTranslit=saṁsthānaṅṅaḷilēkkuḷḷa
+3-4	വോട്ടെണ്ണൽ	_	_	_	_	_	_	_	_
+3	വോട്ട്	വോട്ട്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	compound	_	Translit=vōṭṭeṇṇal̕|LTranslit=vōṭṭeṇṇal̕
+4	എണ്ണൽ	എണ്ണുക	VERB	_	VerbForm=Vnoun	5	nsubj	_	Translit=vōṭṭeṇṇal̕|LTranslit=vōṭṭeṇṇal̕
+5	ആരംഭിച്ചു	ആരംഭിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=No|Translit=āraṁbhiccu|LTranslit=āraṁbhikkuka
+6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp47
 # text = എൽ. എമാർക്കെതിരെ ഉയരുന്ന ആരോപണങ്ങളെ എങ്ങനെ നേരിടുമെന്ന പ്രതിസന്ധിയിലാണ് ഇടതു നേതൃത്വം ഇപ്പോൾ.
@@ -1318,378 +1324,630 @@
 13	.	.	PUNCT	_	_	12	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp48
-# text = ഇതിന്റെ ഭാഗമായാണ് വരാന്ത്യത്തിൽ ഇരു രാജ്യങ്ങളിൽ നിന്നുമുള്ള ഉദ്യോഗസ്ഥർ ചർച്ച നടത്തുന്നത്
+# text = ഇതിന്റെ ഭാഗമായാണ് വരാന്ത്യത്തിൽ ഇരു രാജ്യങ്ങളിൽ നിന്നുമുള്ള ഉദ്യോഗസ്ഥർ ചർച്ച നടത്തുന്നത്No.
 # translit = itinṟe bhāgamāyāṇ varāntyattil̕ iru rājyaṅṅaḷil̕ ninnumuḷḷa udyōgasthaṟ̕ caṟ̕cca naṭattunnat
 # text_en = As part of this, the officials from both the countries are holding talks on the weekend
-1	ഇതിന്റെ	ഇതീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Translit=itinṟe|LTranslit=itī
+1	ഇതിന്റെ	ഇത്	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nmod:poss	_	Translit=itinṟe|LTranslit=itī
 2-3	ഭാഗമായാണ്	_	_	_	_	_	_	_	Translit=bhāgamāyāṇ
-2	ഭാഗമായ്	ഭാഗമായ്	ADV	_	_	10	advmod	_	Translit=bhāgamāy|LTranslit=bhāgamāy
-3	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	nsubj	_	Translit=āṇ|LTranslit=āk
-4	വരാന്ത്യത്തിൽ	വരാന്ത്യത്തിൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	nsubj	_	Translit=varāntyattil̕|LTranslit=varāntyattil̕
-5	ഇരു	ഇരു	DET	_	_	10	nsubj	_	Translit=iru|LTranslit=iru
-6	രാജ്യങ്ങളിൽ	രാജ്യങ്ങളിൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	nsubj	_	Translit=rājyaṅṅaḷil̕|LTranslit=rājyaṅṅaḷil̕
-7	നിന്നുമുള്ള	നിന്നുമുള്ള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	nsubj	_	Translit=ninnumuḷḷa|LTranslit=ninnumuḷḷa
-8	ഉദ്യോഗസ്ഥർ	ഉദ്യോഗസ്ഥർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	Translit=udyōgasthaṟ̕|LTranslit=udyōgasthaṟ̕
+2	ഭാഗമായി	ഭാഗം	ADV	_	_	10	advcl	_	Translit=bhāgamāy|LTranslit=bhāgamāy
+3	ആണ്	ആക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	cop	_	Translit=āṇ|LTranslit=āk
+4	വരാന്ത്യത്തിൽ	വാരാന്ത്യം	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	10	obl	_	CorrectForm=vārāntyattil|Translit=varāntyattil̕|LTranslit=varāntyattil̕
+5	ഇരു	ഇരു	DET	_	_	6	det	_	Translit=iru|LTranslit=iru
+6	രാജ്യങ്ങളിൽ	രാജ്യം	ADJ	_	_	10	obl	_	Translit=rājyaṅṅaḷil̕|LTranslit=rājyaṅṅaḷil̕
+7	നിന്നുമുള്ള	നിന്ന്	ADJ	_	_	8	amod	_	Translit=ninnumuḷḷa|LTranslit=ninnumuḷḷa
+8	ഉദ്യോഗസ്ഥർ	ഉദ്യോഗസ്ഥർ	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur	10	nsubj	_	Translit=udyōgasthaṟ̕|LTranslit=udyōgasthaṟ̕
 9	ചർച്ച	ചർച്ച	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	Translit=caṟ̕cca|LTranslit=caṟ̕cca
-10	നടത്തുന്നത്	നടത്തുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	0	root	_	SpacesAfter=\n|Translit=naṭattunnat|LTranslit=naṭattuka
+10	നടത്തുന്നത്	നടത്തുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	0	root	_	SpacesAfter=No|Translit=naṭattunnat|LTranslit=naṭattuka
+11	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp49
 # text = നാരാങ്ങാനീരുകൊണ്ടും കരിമ്പൻ കളയാം.
 # translit = nārāṅṅānīrukoṇṭuṁ karimpan̕ kaḷayāṁ.
 # text_en = Sugarcane can also be removed with lemon juice.
-1-2	നാരാങ്ങാനീരുകൊണ്ടും	_	_	_	_	_	_	_	Translit=nārāṅṅānīrukoṇṭuṁ
-1	നാരാങ്ങാനീരുകൊണ്ട	നാരാങ്ങാനീരുകൊണ്ട	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	nsubj	_	Translit=nārāṅṅānīrukoṇṭa|LTranslit=nārāṅṅānīrukoṇṭa
-2	ഉം	ഉം	PART	_	_	1	cc	_	Translit=uṁ|LTranslit=uṁ
-3	കരിമ്പൻ	കരിമ്പൻ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit=karimpan̕|LTranslit=karimpan̕
-4	കളയാം	കളയാം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=kaḷayāṁ|LTranslit=kaḷayāṁ
-5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
+1-4	നാരാങ്ങാനീരുകൊണ്ടും	_	_	_	_	_	_	_	Translit=nārāṅṅānīrukoṇṭuṁ
+1	നാരാങ്ങാ	നാരങ്ങ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing|Typo=Yes	2	nmod	_	CorrectForm=nāraṅṅa|Translit=nārāṅṅānīrukoṇṭa|LTranslit=nārāṅṅānīrukoṇṭa
+2	നീരു	നീര്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing|Typo=Yes	6	obl	_	CorrectForm=nīr|Translit=nārāṅṅānīrukoṇṭa|LTranslit=nārāṅṅānīrukoṇṭa
+3	കൊണ്ട	കൊണ്ട	ADP	_	_	2	case	_	Translit=nārāṅṅānīrukoṇṭa|LTranslit=nārāṅṅānīrukoṇṭa
+4	ഉം	ഉം	PART	_	_	3	advmod	_	Translit=uṁ|LTranslit=uṁ
+5	കരിമ്പൻ	കരിമ്പ്	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	6	nsubj	_	Translit=karimpan̕|LTranslit=karimpan̕
+6	കളയാം	കളയുക	VERB	_	Mood=Pot|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=kaḷayāṁ|LTranslit=kaḷayāṁ
+7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp50
 # text = ആമാശയവും അന്നനാളവും സംബന്ധിച്ചുള്ള രോഗങ്ങൾ:
 # translit = āmāśayavuṁ annanāḷavuṁ saṁbandhiccuḷḷa rōgaṅṅaḷ̕:
 # text_en = Diseases related to Stomach and Esophagus:
 1-2	ആമാശയവും	_	_	_	_	_	_	_	Translit=āmāśayavuṁ
-1	ആമാശയം	ആമാശയം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	nsubj	_	Translit=āmāśayaṁ|LTranslit=āmāśayaṁ
+1	ആമാശയം	ആമാശയം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj	_	Translit=āmāśayaṁ|LTranslit=āmāśayaṁ
 2	ഉം	ഉം	PART	_	_	1	cc	_	Translit=uṁ|LTranslit=uṁ
 3-4	അന്നനാളവും	_	_	_	_	_	_	_	Translit=annanāḷavuṁ
-3	അന്നനാളം	അന്നനാളം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	nsubj	_	Translit=annanāḷaṁ|LTranslit=annanāḷaṁ
-4	ഉം	ഉം	PART	_	_	6	nsubj	_	Translit=uṁ|LTranslit=uṁ
-5	സംബന്ധിച്ചുള്ള	സംബന്ധിച്ചുള്ള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	Translit=saṁbandhiccuḷḷa|LTranslit=saṁbandhiccuḷḷa
-6	രോഗങ്ങൾ	രോഗങ്ങൾ	ADV	_	_	0	root	_	SpaceAfter=No|Translit=rōgaṅṅaḷ̕|LTranslit=rōgaṅṅaḷ̕
+3	അന്നനാളം	അന്നനാളം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	1	conj	_	Translit=annanāḷaṁ|LTranslit=annanāḷaṁ
+4	ഉം	ഉം	PART	_	_	3	cc	_	Translit=uṁ|LTranslit=uṁ
+5	സംബന്ധിച്ചുള്ള	സംബന്ധിക്കുക	ADJ	_	_	6	amod	_	Translit=saṁbandhiccuḷḷa|LTranslit=saṁbandhiccuḷḷa
+6	രോഗങ്ങൾ	രോഗങ്ങൾ	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	0	root	_	SpaceAfter=No|Translit=rōgaṅṅaḷ̕|LTranslit=rōgaṅṅaḷ̕
 7	:	:	PUNCT	_	_	6	punct	_	SpacesAfter=\n|Translit=:|LTranslit=:
 
 # sent_id = indiccorp51
-# text = പഠനങ്ങൾ അനുസരിച്ച് ബിയർ കഴിയ്ക്കുന്നത് കിഡ്‌നി സ്റ്റോൺ പോലുള്ള അസുഖങ്ങളെ ഇല്ലാതാക്കുന്നുവെന്നും വൃക്കയുടെ ആരോഗ്യത്തെ സംരക്ഷിക്കുന്നുവെന്നും പറയുന്നു. ധാരാളം ബി വിറ്റാമിനുകളെ ശരീരത്തിന് നൽകാൻ ബിയറിന് സാധിക്കുന്നു.
+# text = പഠനങ്ങൾ അനുസരിച്ച് ബിയർ കഴിയ്ക്കുന്നത് കിഡ്‌നി സ്റ്റോൺ പോലുള്ള അസുഖങ്ങളെ ഇല്ലാതാക്കുന്നുവെന്നും വൃക്കയുടെ ആരോഗ്യത്തെ സംരക്ഷിക്കുന്നുവെന്നും പറയുന്നു.
 # translit = paṭhanaṅṅaḷ̕ anusaricc biyaṟ̕ kaḻiykkunnat kiḍni sṟṟōṇ̕ pōluḷḷa asukhaṅṅaḷe illātākkunnuvennuṁ vr̥kkayuṭe ārōgyatte saṁrakṣikkunnuvennuṁ paṟayunnu. dhārāḷaṁ bi viṟṟāminukaḷe śarīrattin nal̕kān̕ biyaṟin sādhikkunnu.
 # text_en = Studies have shown that drinking beer can prevent diseases like kidney stones and protect kidney health. Beer can provide the body with many B vitamins.
-1	പഠനങ്ങൾ	പഠനങ്ങൾ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	23	nsubj	_	Translit=paṭhanaṅṅaḷ̕|LTranslit=paṭhanaṅṅaḷ̕
-2	അനുസരിച്ച്	അനുസരിച്ച്	ADV	_	_	23	advmod	_	Translit=anusaricc|LTranslit=anusaricc
-3	ബിയർ	ബിയർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	23	nsubj	_	Translit=biyaṟ̕|LTranslit=biyaṟ̕
-4	കഴിയ്ക്കുന്നത്	കഴിയ്ക്കുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	23	nsubj	_	Translit=kaḻiykkunnat|LTranslit=kaḻiykkuka
-5	കിഡ്‌നി	കിഡ്‌നുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	23	nsubj	_	Translit=kiḍni|LTranslit=kiḍnuka
-6	സ്റ്റോൺ	സ്റ്റോൺ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	23	nsubj	_	Translit=sṟṟōṇ̕|LTranslit=sṟṟōṇ̕
-7	പോലുള്ള	പോലുള്ള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	23	nsubj	_	Translit=pōluḷḷa|LTranslit=pōluḷḷa
-8	അസുഖങ്ങളെ	അസുഖങ്ങളെ	ADV	_	_	23	advmod	_	Translit=asukhaṅṅaḷe|LTranslit=asukhaṅṅaḷe
+1	പഠനങ്ങൾ	പഠനങ്ങൾ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=paṭhanaṅṅaḷ̕|LTranslit=paṭhanaṅṅaḷ̕
+2	അനുസരിച്ച്	അനുസരിച്ച്	ADV	_	_	0	root	_	Translit=anusaricc|LTranslit=anusaricc
+3	ബിയർ	ബിയർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=biyaṟ̕|LTranslit=biyaṟ̕
+4	കഴിയ്ക്കുന്നത്	കഴിയ്ക്കുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	0	root	_	Translit=kaḻiykkunnat|LTranslit=kaḻiykkuka
+5	കിഡ്‌നി	കിഡ്‌നുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=kiḍni|LTranslit=kiḍnuka
+6	സ്റ്റോൺ	സ്റ്റോൺ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=sṟṟōṇ̕|LTranslit=sṟṟōṇ̕
+7	പോലുള്ള	പോലുള്ള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=pōluḷḷa|LTranslit=pōluḷḷa
+8	അസുഖങ്ങളെ	അസുഖങ്ങളെ	ADV	_	_	0	root	_	Translit=asukhaṅṅaḷe|LTranslit=asukhaṅṅaḷe
 9-10	ഇല്ലാതാക്കുന്നുവെന്നും	_	_	_	_	_	_	_	Translit=illātākkunnuvennuṁ
-9	ഇല്ലാതാക്കുന്നുവെന്ന	ഇല്ലാതാക്കുന്നുവെന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	23	nsubj	_	Translit=illātākkunnuvenna|LTranslit=illātākkunnuvenna
-10	ഉം	ഉം	PART	_	_	23	nsubj	_	Translit=uṁ|LTranslit=uṁ
-11	വൃക്കയുടെ	വൃക്കയുടെ	ADV	_	_	23	advmod	_	Translit=vr̥kkayuṭe|LTranslit=vr̥kkayuṭe
-12	ആരോഗ്യത്തെ	ആരോഗ്യത്തെ	ADV	_	_	23	advmod	_	Translit=ārōgyatte|LTranslit=ārōgyatte
+9	ഇല്ലാതാക്കുന്നുവെന്ന	ഇല്ലാതാക്കുന്നുവെന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=illātākkunnuvenna|LTranslit=illātākkunnuvenna
+10	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+11	വൃക്കയുടെ	വൃക്കയുടെ	ADV	_	_	0	root	_	Translit=vr̥kkayuṭe|LTranslit=vr̥kkayuṭe
+12	ആരോഗ്യത്തെ	ആരോഗ്യത്തെ	ADV	_	_	0	root	_	Translit=ārōgyatte|LTranslit=ārōgyatte
 13-14	സംരക്ഷിക്കുന്നുവെന്നും	_	_	_	_	_	_	_	Translit=saṁrakṣikkunnuvennuṁ
-13	സംരക്ഷിക്കുന്നുവെന്ന	സംരക്ഷിക്കുന്നുവെന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	23	nsubj	_	Translit=saṁrakṣikkunnuvenna|LTranslit=saṁrakṣikkunnuvenna
+13	സംരക്ഷിക്കുന്നുവെന്ന	സംരക്ഷിക്കുന്നുവെന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=saṁrakṣikkunnuvenna|LTranslit=saṁrakṣikkunnuvenna
 14	ഉം	ഉം	PART	_	_	15	nsubj	_	Translit=uṁ|LTranslit=uṁ
-15	പറയുന്നു	പറയുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	23	obj	_	SpaceAfter=No|Translit=paṟayunnu|LTranslit=paṟayuka
-16	.	.	PUNCT	_	_	23	nsubj	_	Translit=.|LTranslit=.
-17	ധാരാളം	ധാരാളം	NOUN	_	Case=Acc|Number=Sing	23	nsubj	_	Translit=dhārāḷaṁ|LTranslit=dhārāḷaṁ
-18	ബി	ബുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	23	nsubj	_	Translit=bi|LTranslit=buka
-19	വിറ്റാമിനുകളെ	വിറ്റാമിനുകളെ	ADV	_	_	23	advmod	_	Translit=viṟṟāminukaḷe|LTranslit=viṟṟāminukaḷe
-20	ശരീരത്തിന്	ശരീരത്ത്	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	23	nsubj	_	Translit=śarīrattin|LTranslit=śarīratt
-21	നൽകാൻ	നൽകാൻ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	23	nsubj	_	Translit=nal̕kān̕|LTranslit=nal̕kān̕
-22	ബിയറിന്	ബിയറിന്	ADV	_	_	23	advmod	_	Translit=biyaṟin|LTranslit=biyaṟin
-23	സാധിക്കുന്നു	സാധിക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=sādhikkunnu|LTranslit=sādhikkuka
-24	.	.	PUNCT	_	_	23	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
+15	പറയുന്നു	പറയുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=paṟayunnu|LTranslit=paṟayuka
+16	.	.	PUNCT	_	_	0	root	_	Translit=.|LTranslit=.
+
+# sent_id = indiccorp51-bis
+# text = ധാരാളം ബി വിറ്റാമിനുകളെ ശരീരത്തിന് നൽകാൻ ബിയറിന് സാധിക്കുന്നു.
+# translit = paṭhanaṅṅaḷ̕ anusaricc biyaṟ̕ kaḻiykkunnat kiḍni sṟṟōṇ̕ pōluḷḷa asukhaṅṅaḷe illātākkunnuvennuṁ vr̥kkayuṭe ārōgyatte saṁrakṣikkunnuvennuṁ paṟayunnu. dhārāḷaṁ bi viṟṟāminukaḷe śarīrattin nal̕kān̕ biyaṟin sādhikkunnu.
+# text_en = Studies have shown that drinking beer can prevent diseases like kidney stones and protect kidney health. Beer can provide the body with many B vitamins.
+1	ധാരാളം	ധാരാളം	NOUN	_	Case=Acc|Number=Sing	7	nsubj	_	Translit=dhārāḷaṁ|LTranslit=dhārāḷaṁ
+2	ബി	ബുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	7	nsubj	_	Translit=bi|LTranslit=buka
+3	വിറ്റാമിനുകളെ	വിറ്റാമിനുകളെ	ADV	_	_	7	advmod	_	Translit=viṟṟāminukaḷe|LTranslit=viṟṟāminukaḷe
+4	ശരീരത്തിന്	ശരീരത്ത്	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	7	nsubj	_	Translit=śarīrattin|LTranslit=śarīratt
+5	നൽകാൻ	നൽകാൻ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	7	nsubj	_	Translit=nal̕kān̕|LTranslit=nal̕kān̕
+6	ബിയറിന്	ബിയറിന്	ADV	_	_	7	advmod	_	Translit=biyaṟin|LTranslit=biyaṟin
+7	സാധിക്കുന്നു	സാധിക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=sādhikkunnu|LTranslit=sādhikkuka
+8	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp52
 # text = സഹകരണ ആസ്പത്രിയിലെ ജീവനക്കാരുടെ സേവനവ്യവസ്ഥ പരിഷ്‌കരിക്കാൻ സർക്കാർ 2004ൽ ഇ. നാരായണൻ കമ്മീഷനെ നിയോഗിച്ചിരുന്നു.
 # translit = sahakaraṇa āspatriyile jīvanakkāruṭe sēvanavyavastha pariṣkarikkān̕ saṟ̕kkāṟ̕ 2004l̕ i. nārāyaṇan̕ kammīṣane niyōgiccirunnu.
 # text_en = In 2004, the government decided to reform the service system of co-operative hospital employees. Narayanan appointed the commission.
-1	സഹകരണ	സഹകരണ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=sahakaraṇa|LTranslit=sahakaraṇa
-2	ആസ്പത്രിയിലെ	ആസ്പത്രിയിലെ	ADV	_	_	12	advmod	_	Translit=āspatriyile|LTranslit=āspatriyile
-3	ജീവനക്കാരുടെ	ജീവനക്കാരുടെ	ADV	_	_	12	advmod	_	Translit=jīvanakkāruṭe|LTranslit=jīvanakkāruṭe
-4	സേവനവ്യവസ്ഥ	സേവനവ്യവസ്ഥ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=sēvanavyavastha|LTranslit=sēvanavyavastha
-5	പരിഷ്‌കരിക്കാൻ	പരിഷ്‌കരിക്കാൻ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=pariṣkarikkān̕|LTranslit=pariṣkarikkān̕
-6	സർക്കാർ	സർക്കാർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=saṟ̕kkāṟ̕|LTranslit=saṟ̕kkāṟ̕
-7	2004ൽ	2004ൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	Translit=2004l̕|LTranslit=2004l̕
-8	ഇ	ഇ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nsubj	_	SpaceAfter=No|Translit=i|LTranslit=i
-9	.	.	PUNCT	_	_	12	nsubj	_	Translit=.|LTranslit=.
-10	നാരായണൻ	നാരായണൻ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	obj	_	Translit=nārāyaṇan̕|LTranslit=nārāyaṇan̕
-11	കമ്മീഷനെ	കമ്മീഷനെ	ADV	_	_	12	advmod	_	Translit=kammīṣane|LTranslit=kammīṣane
-12	നിയോഗിച്ചിരുന്നു	നിയോഗിച്ചിരുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=niyōgiccirunnu|LTranslit=niyōgicciruka
-13	.	.	PUNCT	_	_	12	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
+1	സഹകരണ	സഹകരണം	ADJ	_	_	2	amod	_	Translit=sahakaraṇa|LTranslit=sahakaraṇa
+2	ആസ്പത്രിയിലെ	ആസ്പത്രി	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	6	obl	_	Translit=āspatriyile|LTranslit=āspatriyile
+3	ജീവനക്കാരുടെ	ജീവനക്കാര്	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	4	nmod:poss	_	Translit=jīvanakkāruṭe|LTranslit=jīvanakkāruṭe
+4-5	സേവനവ്യവസ്ഥ	_	_	_	_	_	_	_	_
+4	സേവന	സേവനം	ADJ	_	_	5	amod	_	Translit=sēvanavyavastha|LTranslit=sēvanavyavastha
+5	വ്യവസ്ഥ	വ്യവസ്ഥ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	Translit=sēvanavyavastha|LTranslit=sēvanavyavastha
+6	പരിഷ്‌കരിക്കാൻ	പരിഷ്‌കരിക്കക	VERB	_	VerbForm=Inf	13	xcomp	_	Translit=pariṣkarikkān̕|LTranslit=pariṣkarikkān̕
+7	സർക്കാർ	സർക്കാർ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	13	nsubj	_	Translit=saṟ̕kkāṟ̕|LTranslit=saṟ̕kkāṟ̕
+8	2004ൽ	2004ൽ	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	13	obl	_	Translit=2004l̕|LTranslit=2004l̕
+9	ഇ	ഇ	PART	_	_	8	case	_	SpaceAfter=No|Translit=i|LTranslit=i
+10	.	.	PUNCT	_	_	13	punct	_	Translit=.|LTranslit=.
+11	നാരായണൻ	നാരായണൻ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nmod	_	Translit=nārāyaṇan̕|LTranslit=nārāyaṇan̕
+12	കമ്മീഷനെ	കമ്മീഷനെ	ADV	_	_	13	obj	_	Translit=kammīṣane|LTranslit=kammīṣane
+13	നിയോഗിച്ചിരുന്നു	നിയോഗിക്കുക	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=niyōgiccirunnu|LTranslit=niyōgicciruka
+14	.	.	PUNCT	_	_	13	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp53
 # text = ''റോമാ സാമ്രാജ്യത്തിലെ അഫ്‌യൂസ് പട്ടണത്തിലെ ഏതാനും ചെറുപ്പക്കാർ ക്രിസ്തുമതം സ്വീകരിച്ചു.
 # translit = ''ṟōmā sāmrājyattile aphyūs paṭṭaṇattile ētānuṁ ceṟuppakkāṟ̕ kristumataṁ svīkariccu.
 # text_en = "A few young men in the Roman city of Apheus converted to Christianity.
-1	'	'	PUNCT	_	_	10	nsubj	_	SpaceAfter=No|Translit='|LTranslit='
-2	'റോമാ	'റോമാ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	nsubj	_	Translit='ṟōmā|LTranslit='ṟōmā
-3	സാമ്രാജ്യത്തിലെ	സാമ്രാജ്യത്തിലെ	ADV	_	_	10	advmod	_	Translit=sāmrājyattile|LTranslit=sāmrājyattile
-4	അഫ്‌യൂസ്	അഫ്‌യൂസ്	ADV	_	_	10	nsubj	_	Translit=aphyūs|LTranslit=aphyūs
-5	പട്ടണത്തിലെ	പട്ടണത്തിലെ	ADV	_	_	10	advmod	_	Translit=paṭṭaṇattile|LTranslit=paṭṭaṇattile
-6-7	ഏതാനും	_	_	_	_	_	_	_	Translit=ētānuṁ
-6	ഏതാന	ഏതാന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	nsubj	_	Translit=ētāna|LTranslit=ētāna
-7	ഉം	ഉം	PART	_	_	6	cc	_	Translit=uṁ|LTranslit=uṁ
-8	ചെറുപ്പക്കാർ	ചെറുപ്പക്കാർ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	nsubj	_	Translit=ceṟuppakkāṟ̕|LTranslit=ceṟuppakkāṟ̕
-9	ക്രിസ്തുമതം	ക്രിസ്തുമതം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	Translit=kristumataṁ|LTranslit=kristumataṁ
-10	സ്വീകരിച്ചു	സ്വീകരിക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=svīkariccu|LTranslit=svīkarikkuka
-11	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
+1	''	''	PUNCT	_	_	9	punct	_	SpaceAfter=No|Translit='|LTranslit='
+2	റോമാ	രോം	ADJ	_	_	3	amod	_	Translit=ṟōmā|LTranslit='ṟōmā
+3	സാമ്രാജ്യത്തിലെ	സാമ്രാജ്യം	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	9	obl	_	Translit=sāmrājyattile|LTranslit=sāmrājyattile
+4	അഫ്‌യൂസ്	അഫ്‌യൂസ്	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	5	nmod	_	Translit=aphyūs|LTranslit=aphyūs
+5	പട്ടണത്തിലെ	പട്ടണം	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	9	obl	_	Translit=paṭṭaṇattile|LTranslit=paṭṭaṇattile
+6	ഏതാനും	ഏതാനും	DET	_	_	7	det	_	Translit=ētāna|LTranslit=ētāna
+7	ചെറുപ്പക്കാർ	ചെറുപ്പക്കാർ	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur	9	nsubj	_	Translit=ceṟuppakkāṟ̕|LTranslit=ceṟuppakkāṟ̕
+8	ക്രിസ്തുമതം	ക്രിസ്തുമതം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	9	obj	_	Translit=kristumataṁ|LTranslit=kristumataṁ
+9	സ്വീകരിച്ചു	സ്വീകരിക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=svīkariccu|LTranslit=svīkarikkuka
+10	.	.	PUNCT	_	_	9	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp54
 # text = സംപൂർണമല്ലാത്ത.
 # translit = saṁpūṟ̕ṇamallātta.
 # text_en = Incomplete.
-1	സംപൂർണമല്ലാത്ത	സംപൂർണമല്ലാത്യുക	VERB	_	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=saṁpūṟ̕ṇamallātta|LTranslit=saṁpūṟ̕ṇamallātyuka
+1	സംപൂർണമല്ലാത്ത	സംപൂർണം	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=saṁpūṟ̕ṇamallātta|LTranslit=saṁpūṟ̕ṇamallātyuka
 2	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp55
 # text = ബൽരാജ്, തൃക്കരിപ്പൂർ മണ്ഡലം പ്രസിഡന്റ് എം.
 # translit = bal̕rāj, tr̥kkarippūṟ̕ maṇḍalaṁ prasiḍanṟ eṁ.
 # text_en = Balraj, Thrikaripur Mandal President M.
-1	ബൽരാജ്	ബൽരാജ്	ADV	_	_	6	advmod	_	SpaceAfter=No|Translit=bal̕rāj|LTranslit=bal̕rāj
-2	,	,	PUNCT	_	_	6	det	_	Translit=,|LTranslit=,
-3	തൃക്കരിപ്പൂർ	തൃക്കരിപ്പൂർ	PRON	_	Animacy=Anim|Case=Nom|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	Translit=tr̥kkarippūṟ̕|LTranslit=tr̥kkarippūṟ̕
-4	മണ്ഡലം	മണ്ഡലം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	nsubj	_	Translit=maṇḍalaṁ|LTranslit=maṇḍalaṁ
-5	പ്രസിഡന്റ്	പ്രസിഡന്റ്	ADV	_	_	6	advmod	_	Translit=prasiḍanṟ|LTranslit=prasiḍanṟ
-6	എം	എം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=eṁ|LTranslit=eṁ
-7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
+1	ബൽരാജ്	ബൽരാജ്	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=bal̕rāj|LTranslit=bal̕rāj
+2	,	,	PUNCT	_	_	1	punct	_	Translit=,|LTranslit=,
+3	തൃക്കരിപ്പൂർ	തൃക്കരിപ്പൂർ	PROPN	_	Animacy=Anim|Case=Nom|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	4	nmod	_	Translit=tr̥kkarippūṟ̕|LTranslit=tr̥kkarippūṟ̕
+4	മണ്ഡലം	മണ്ഡലം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	5	compound	_	Translit=maṇḍalaṁ|LTranslit=maṇḍalaṁ
+5	പ്രസിഡന്റ്	പ്രസിഡന്റ്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	1	appos	_	Translit=prasiḍanṟ|LTranslit=prasiḍanṟ
+6	എം	എം	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	5	flat	_	SpaceAfter=No|Translit=eṁ|LTranslit=eṁ
+7	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp56
-# text = അധികാരം എപ്പോഴും ദുഷിപ്പിക്കുന്ന ഒന്നാണ്. ഒരേ പാർട്ടി തന്നെ തുടർച്ചയായി അധികാരം കൈയാളുമ്പോൾ അധികാര ദല്ലാളന്മാരും ഉദ്യോഗസ്ഥരും പ്രബലരാവുകയും ഭരണം ജീർണിക്കുകയും ചെയ്യുക സ്വാഭാവികമാണ്. അതുകൊണ്ട് അധികാരത്തിൽനിന്നും ഇടയ്ക്കിടെ മാറിനില്ക്കുന്നത് രാഷ്ട്രീയ പാർട്ടികളുടെ വിശുദ്ധീകരണത്തിനും ശക്തീകരണത്തിനും നല്ലതാണ്. അതിനാൽ, കോൺഗ്രസിന്റെയും സഖ്യകക്ഷികളുടെയും പരാജയവും ഇന്ത്യയുടെ ജനാധിപത്യത്തിനും അതതു പാർട്ടികളുടെ നല്ല ഭാവിക്കും അത്യാവശ്യമാണ്. മാത്രമല്ല, ഒറ്റയ്ക്ക് ഭരിക്കാൻ ഭൂരിപക്ഷമില്ലാത്തതിനാൽ സഖ്യകക്ഷികളുടെയെല്ലാം ഇംഗിതത്തിനു വഴങ്ങി ഭരിക്കുന്ന ദേശീയ പാർട്ടികൾക്ക് ശക്തമായ ഭരണം കാഴ്ചവയ്ക്കുക സാധ്യമല്ല. കഴിഞ്ഞ തിരഞ്ഞെടുപ്പുകളിൽ ദേശീയ പാർട്ടികൾ ദുർബലമാവുകയും പ്രാദേശിക പാർട്ടികൾ ശക്തരാവുകയും ചെയ്തതിനാൽ ഭരണത്തിൽ പങ്കാളിത്തമുള്ള പ്രാദേശിക പാർട്ടികളുടെ അഴിമതികളും സ്വാർത്ഥതയും രാജ്യത്തിന് വലിയ നഷ്ടങ്ങളുണ്ടാക്കിയിട്ടുണ്ട്. ഇപ്രാവശ്യം കേവല ഭൂരിപക്ഷം ഒറ്റയ്ക്കുള്ള ഒരു പാർട്ടി ഭരിക്കുന്നതിനാൽ കൂടുതൽ കാര്യക്ഷമതയും ഊർജസ്വലതയും ഭരണത്തിനുണ്ടാകാൻ സാധ്യതയേറെയാണ്. അതിനാൽ ഈ തിരഞ്ഞെടുപ്പുഫലം ദൈവകരങ്ങളിൽ നിന്നും സ്വീകരിച്ച് പുതിയ സർക്കാരിന് കൂടുതൽ ദൈവകൃപ ലഭിക്കുവാൻ നാം പ്രാർത്ഥിക്കണം. ''എല്ലാ ഭക്തിയിലും വിശുദ്ധിയിലും ശാന്തവും സമാധാനപൂർണവുമായ ജീവിതം നയിക്കാൻ നമുക്കിടയാകത്തക്കവിധം രാജാക്കന്മാർക്കും ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടി പ്രാർത്ഥിക്കണം. ഇത് ഉത്തമവും നമ്മുടെ രക്ഷകനായ ദൈവത്തിന്റെ മുന്നിൽ സ്വീകാര്യവും അത്രെ'' എന്ന സെന്റ് പോളിന്റെ വാക്കുകൾ ഇവിടെ സ്മരണീയമാണ് (1 തിമോത്തി 21:23).
+# text = അധികാരം എപ്പോഴും ദുഷിപ്പിക്കുന്ന ഒന്നാണ്.
 # translit = adhikāraṁ eppōḻuṁ duṣippikkunna onnāṇ. orē pāṟ̕ṭṭi tanne tuṭaṟ̕ccayāyi adhikāraṁ kaiyāḷumpōḷ̕ adhikāra dallāḷanmāruṁ udyōgastharuṁ prabalarāvukayuṁ bharaṇaṁ jīṟ̕ṇikkukayuṁ ceyyuka svābhāvikamāṇ. atukoṇṭ adhikārattil̕ninnuṁ iṭaykkiṭe māṟinilkkunnat rāṣṭrīya pāṟ̕ṭṭikaḷuṭe viśuddhīkaraṇattinuṁ śaktīkaraṇattinuṁ nallatāṇ. atināl̕, kōṇ̕grasinṟeyuṁ sakhyakakṣikaḷuṭeyuṁ parājayavuṁ intyayuṭe janādhipatyattinuṁ atatu pāṟ̕ṭṭikaḷuṭe nalla bhāvikkuṁ atyāvaśyamāṇ. mātramalla, oṟṟaykk bharikkān̕ bhūripakṣamillāttatināl̕ sakhyakakṣikaḷuṭeyellāṁ iṁgitattinu vaḻaṅṅi bharikkunna dēśīya pāṟ̕ṭṭikaḷ̕kk śaktamāya bharaṇaṁ kāḻcavaykkuka sādhyamalla. kaḻiñña tiraññeṭuppukaḷil̕ dēśīya pāṟ̕ṭṭikaḷ̕ duṟ̕balamāvukayuṁ prādēśika pāṟ̕ṭṭikaḷ̕ śaktarāvukayuṁ ceytatināl̕ bharaṇattil̕ paṅkāḷittamuḷḷa prādēśika pāṟ̕ṭṭikaḷuṭe aḻimatikaḷuṁ svāṟ̕tthatayuṁ rājyattin valiya naṣṭaṅṅaḷuṇṭākkiyiṭṭuṇṭ. iprāvaśyaṁ kēvala bhūripakṣaṁ oṟṟaykkuḷḷa oru pāṟ̕ṭṭi bharikkunnatināl̕ kūṭutal̕ kāryakṣamatayuṁ ūṟ̕jasvalatayuṁ bharaṇattinuṇṭākān̕ sādhyatayēṟeyāṇ. atināl̕ ī tiraññeṭuppuphalaṁ daivakaraṅṅaḷil̕ ninnuṁ svīkaricc putiya saṟ̕kkārin kūṭutal̕ daivakr̥pa labhikkuvān̕ nāṁ prāṟ̕tthikkaṇaṁ. ''ellā bhaktiyiluṁ viśuddhiyiluṁ śāntavuṁ samādhānapūṟ̕ṇavumāya jīvitaṁ nayikkān̕ namukkiṭayākattakkavidhaṁ rājākkanmāṟ̕kkuṁ unnatasthānīyaṟ̕kkuṁvēṇṭi prāṟ̕tthikkaṇaṁ. it uttamavuṁ nammuṭe rakṣakanāya daivattinṟe munnil̕ svīkāryavuṁ atre'' enna senṟ pōḷinṟe vākkukaḷ̕ iviṭe smaraṇīyamāṇ (1 timōtti 21:23).
 # text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
-1	അധികാരം	അധികാരം	ADV	_	_	67	advmod	_	Translit=adhikāraṁ|LTranslit=adhikāraṁ
+1	അധികാരം	അധികാരം	ADV	_	_	0	root	_	Translit=adhikāraṁ|LTranslit=adhikāraṁ
 2-3	എപ്പോഴും	_	_	_	_	_	_	_	Translit=eppōḻuṁ
-2	എപ്പോഴ	എപ്പോഴ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	67	nsubj	_	Translit=eppōḻa|LTranslit=eppōḻa
-3	ഉം	ഉം	PART	_	_	67	nsubj	_	Translit=uṁ|LTranslit=uṁ
-4	ദുഷിപ്പിക്കുന്ന	ദുഷിപ്പിക്കുന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	67	nsubj	_	Translit=duṣippikkunna|LTranslit=duṣippikkunna
+2	എപ്പോഴ	എപ്പോഴ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=eppōḻa|LTranslit=eppōḻa
+3	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+4	ദുഷിപ്പിക്കുന്ന	ദുഷിപ്പിക്കുന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=duṣippikkunna|LTranslit=duṣippikkunna
 5-6	ഒന്നാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=onnāṇ
-5	ഒന്ൻ	ഒന്ൻ	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	67	nsubj	_	Translit=onn̕|LTranslit=onn̕
-6	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	67	nsubj	_	Translit=āṇ|LTranslit=āk
-7	.	.	PUNCT	_	_	67	nsubj	_	Translit=.|LTranslit=.
-8	ഒരേ	ഒരേ	CCONJ	_	_	67	nsubj	_	Translit=orē|LTranslit=orē
-9	പാർട്ടി	പാർട്ടി	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	67	nsubj	_	Translit=pāṟ̕ṭṭi|LTranslit=pāṟ̕ṭṭi
-10	തന്നെ	തന്നെ	ADV	_	_	67	advmod	_	Translit=tanne|LTranslit=tanne
-11	തുടർച്ചയായി	തുടർച്ചയായുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	67	nsubj	_	Translit=tuṭaṟ̕ccayāyi|LTranslit=tuṭaṟ̕ccayāyuka
-12	അധികാരം	അധികാരം	ADV	_	_	67	advmod	_	Translit=adhikāraṁ|LTranslit=adhikāraṁ
-13	കൈയാളുമ്പോൾ	കൈയാളുമ്പോൾ	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	67	nsubj	_	Translit=kaiyāḷumpōḷ̕|LTranslit=kaiyāḷumpōḷ̕
-14	അധികാര	അധികാര	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	67	nsubj	_	Translit=adhikāra|LTranslit=adhikāra
-15-16	ദല്ലാളന്മാരും	_	_	_	_	_	_	_	Translit=dallāḷanmāruṁ
-15	ദല്ലാളന്മാര	ദല്ലാളന്മാര	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	67	nsubj	_	Translit=dallāḷanmāra|LTranslit=dallāḷanmāra
-16	ഉം	ഉം	PART	_	_	67	nsubj	_	Translit=uṁ|LTranslit=uṁ
-17-18	ഉദ്യോഗസ്ഥരും	_	_	_	_	_	_	_	Translit=udyōgastharuṁ
-17	ഉദ്യോഗസ്ഥര	ഉദ്യോഗസ്ഥര	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	67	nsubj	_	Translit=udyōgasthara|LTranslit=udyōgasthara
-18	ഉം	ഉം	PART	_	_	67	nsubj	_	Translit=uṁ|LTranslit=uṁ
-19-20	പ്രബലരാവുകയും	_	_	_	_	_	_	_	Translit=prabalarāvukayuṁ
-19	പ്രബലരാവുക	പ്രബലരാവുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	67	nsubj	_	Translit=prabalarāvuka|LTranslit=prabalarāvuka
-20	ഉം	ഉം	PART	_	_	67	nsubj	_	Translit=uṁ|LTranslit=uṁ
-21	ഭരണം	ഭരണം	ADV	_	_	67	advmod	_	Translit=bharaṇaṁ|LTranslit=bharaṇaṁ
-22-23	ജീർണിക്കുകയും	_	_	_	_	_	_	_	Translit=jīṟ̕ṇikkukayuṁ
-22	ജീർണിക്കുക	ജീർണിക്കുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	67	nsubj	_	Translit=jīṟ̕ṇikkuka|LTranslit=jīṟ̕ṇikkuka
-23	ഉം	ഉം	PART	_	_	67	nsubj	_	Translit=uṁ|LTranslit=uṁ
-24	ചെയ്യുക	ചെയ്യുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	67	nsubj	_	Translit=ceyyuka|LTranslit=ceyyuka
-25-26	സ്വാഭാവികമാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=svābhāvikamāṇ
-25	സ്വാഭാവികമ്	സ്വാഭാവികമ്	ADV	_	_	67	advmod	_	Translit=svābhāvikam|LTranslit=svābhāvikam
-26	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	67	nsubj	_	Translit=āṇ|LTranslit=āk
-27	.	.	PUNCT	_	_	67	nsubj	_	Translit=.|LTranslit=.
-28	അതുകൊണ്ട്	അതുകൊണ്ട്	ADV	_	_	67	advmod	_	Translit=atukoṇṭ|LTranslit=atukoṇṭ
-29-30	അധികാരത്തിൽനിന്നും	_	_	_	_	_	_	_	Translit=adhikārattil̕ninnuṁ
-29	അധികാരത്തിൽനിന്ന	അധികാരത്തിൽനിന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	67	nsubj	_	Translit=adhikārattil̕ninna|LTranslit=adhikārattil̕ninna
-30	ഉം	ഉം	PART	_	_	67	nsubj	_	Translit=uṁ|LTranslit=uṁ
-31	ഇടയ്ക്കിടെ	ഇടയ്ക്കിടെ	ADV	_	_	67	advmod	_	Translit=iṭaykkiṭe|LTranslit=iṭaykkiṭe
-32	മാറിനില്ക്കുന്നത്	മാറിനില്ക്കുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	67	nsubj	_	Translit=māṟinilkkunnat|LTranslit=māṟinilkkuka
-33	രാഷ്ട്രീയ	രാഷ്ട്രീയ	ADJ	_	_	67	nsubj	_	Translit=rāṣṭrīya|LTranslit=rāṣṭrīya
-34	പാർട്ടികളുടെ	പാർട്ടികൾ	PRON	_	Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	67	nsubj	_	Translit=pāṟ̕ṭṭikaḷuṭe|LTranslit=pāṟ̕ṭṭikaḷ̕
-35-36	വിശുദ്ധീകരണത്തിനും	_	_	_	_	_	_	_	Translit=viśuddhīkaraṇattinuṁ
-35	വിശുദ്ധീകരണത്തിന	വിശുദ്ധീകരണത്തിന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	67	nsubj	_	Translit=viśuddhīkaraṇattina|LTranslit=viśuddhīkaraṇattina
-36	ഉം	ഉം	PART	_	_	67	nsubj	_	Translit=uṁ|LTranslit=uṁ
-37-38	ശക്തീകരണത്തിനും	_	_	_	_	_	_	_	Translit=śaktīkaraṇattinuṁ
-37	ശക്തീകരണത്തിന	ശക്തീകരണത്തിന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	67	nsubj	_	Translit=śaktīkaraṇattina|LTranslit=śaktīkaraṇattina
-38	ഉം	ഉം	PART	_	_	67	nsubj	_	Translit=uṁ|LTranslit=uṁ
-39-40	നല്ലതാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=nallatāṇ
-39	നല്ലത്	നല്ല	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	67	obj	_	Translit=nallat|LTranslit=nalla
-40	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	67	nsubj	_	Translit=āṇ|LTranslit=āk
-41	.	.	PUNCT	_	_	67	nsubj	_	Translit=.|LTranslit=.
-42	അതിനാൽ	അതിനാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	67	nsubj	_	SpaceAfter=No|Translit=atināl̕|LTranslit=atināl̕
-43	,	,	PUNCT	_	_	67	nsubj	_	Translit=,|LTranslit=,
-44-45	കോൺഗ്രസിന്റെയും	_	_	_	_	_	_	_	Translit=kōṇ̕grasinṟeyuṁ
-44	കോൺഗ്രസിന്റെ	കോൺഗ്രസ്	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	67	nsubj	_	Translit=kōṇ̕grasinṟe|LTranslit=kōṇ̕gras
-45	ഉം	ഉം	PART	_	_	67	nsubj	_	Translit=uṁ|LTranslit=uṁ
-46-47	സഖ്യകക്ഷികളുടെയും	_	_	_	_	_	_	_	Translit=sakhyakakṣikaḷuṭeyuṁ
-46	സഖ്യകക്ഷികളുടെ	സഖ്യകക്ഷികൾ	PRON	_	Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	67	nsubj	_	Translit=sakhyakakṣikaḷuṭe|LTranslit=sakhyakakṣikaḷ̕
-47	ഉം	ഉം	PART	_	_	67	nsubj	_	Translit=uṁ|LTranslit=uṁ
-48-49	പരാജയവും	_	_	_	_	_	_	_	Translit=parājayavuṁ
-48	പരാജയം	പരാജയം	NOUN	_	Case=Acc|Number=Sing	67	nsubj	_	Translit=parājayaṁ|LTranslit=parājayaṁ
-49	ഉം	ഉം	PART	_	_	67	nsubj	_	Translit=uṁ|LTranslit=uṁ
-50	ഇന്ത്യയുടെ	ഇന്ത്യയുടെ	ADV	_	_	67	advmod	_	Translit=intyayuṭe|LTranslit=intyayuṭe
-51-52	ജനാധിപത്യത്തിനും	_	_	_	_	_	_	_	Translit=janādhipatyattinuṁ
-51	ജനാധിപത്യത്തിന	ജനാധിപത്യത്തിന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	67	nsubj	_	Translit=janādhipatyattina|LTranslit=janādhipatyattina
-52	ഉം	ഉം	PART	_	_	67	nsubj	_	Translit=uṁ|LTranslit=uṁ
-53	അതതു	അതതു	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	67	nsubj	_	Translit=atatu|LTranslit=atatu
-54	പാർട്ടികളുടെ	പാർട്ടികൾ	PRON	_	Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	67	nsubj	_	Translit=pāṟ̕ṭṭikaḷuṭe|LTranslit=pāṟ̕ṭṭikaḷ̕
-55	നല്ല	നല്ല	ADJ	_	_	67	nsubj	_	Translit=nalla|LTranslit=nalla
-56-57	ഭാവിക്കും	_	_	_	_	_	_	_	Translit=bhāvikkuṁ
-56	ഭാവിക്ക	ഭാവിക്ക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	67	nsubj	_	Translit=bhāvikka|LTranslit=bhāvikka
-57	ഉം	ഉം	PART	_	_	67	nsubj	_	Translit=uṁ|LTranslit=uṁ
-58-59	അത്യാവശ്യമാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=atyāvaśyamāṇ
-58	അത്യാവശ്യമ്	അത്യാവശ്യമ്	ADV	_	_	67	advmod	_	Translit=atyāvaśyam|LTranslit=atyāvaśyam
-59	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	67	nsubj	_	Translit=āṇ|LTranslit=āk
-60	.	.	PUNCT	_	_	67	nsubj	_	Translit=.|LTranslit=.
-61	മാത്രമല്ല	മാത്രമല്ല	ADJ	_	_	67	nsubj	_	SpaceAfter=No|Translit=mātramalla|LTranslit=mātramalla
-62	,	,	PUNCT	_	_	67	nsubj	_	Translit=,|LTranslit=,
-63	ഒറ്റയ്ക്ക്	ഒറ്റയ്ക്ക്	ADV	_	_	67	advmod	_	Translit=oṟṟaykk|LTranslit=oṟṟaykk
-64	ഭരിക്കാൻ	ഭരിക്കാൻ	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	67	nsubj	_	Translit=bharikkān̕|LTranslit=bharikkān̕
-65	ഭൂരിപക്ഷമില്ലാത്തതിനാൽ	ഭൂരിപക്ഷമില്ലാത്തതിനാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	67	nsubj	_	Translit=bhūripakṣamillāttatināl̕|LTranslit=bhūripakṣamillāttatināl̕
-66	സഖ്യകക്ഷികളുടെയെല്ലാം	സഖ്യകക്ഷികളുടെയെല്ലാം	ADV	_	_	67	advmod	_	Translit=sakhyakakṣikaḷuṭeyellāṁ|LTranslit=sakhyakakṣikaḷuṭeyellāṁ
-67	ഇംഗിതത്തിനു	ഇംഗിതത്തിനു	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=iṁgitattinu|LTranslit=iṁgitattinu
-68	വഴങ്ങി	വഴങ്ങി	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	81	nsubj	_	Translit=vaḻaṅṅi|LTranslit=vaḻaṅṅi
-69	ഭരിക്കുന്ന	ഭരിക്കുന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	81	det	_	Translit=bharikkunna|LTranslit=bharikkunna
-70	ദേശീയ	ദേശീയ	ADJ	_	_	81	amod	_	Translit=dēśīya|LTranslit=dēśīya
-71	പാർട്ടികൾക്ക്	പാർട്ടികൾക്ക്	ADV	_	_	81	advmod	_	Translit=pāṟ̕ṭṭikaḷ̕kk|LTranslit=pāṟ̕ṭṭikaḷ̕kk
-72	ശക്തമായ	ശക്തം	ADJ	_	_	81	amod	_	Translit=śaktamāya|LTranslit=śaktaṁ
-73	ഭരണം	ഭരണം	NOUN	_	Case=Acc|Number=Sing	81	nsubj	_	Translit=bharaṇaṁ|LTranslit=bharaṇaṁ
-74	കാഴ്ചവയ്ക്കുക	കാഴ്ചവയ്ക്കുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	81	det	_	Translit=kāḻcavaykkuka|LTranslit=kāḻcavaykkuka
-75	സാധ്യമല്ല	സാധ്യമല്ല	ADJ	_	_	81	amod	_	SpaceAfter=No|Translit=sādhyamalla|LTranslit=sādhyamalla
-76	.	.	PUNCT	_	_	81	nmod:poss	_	Translit=.|LTranslit=.
-77	കഴിഞ്ഞ	കഴിഞ്ഞ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	81	nsubj	_	Translit=kaḻiñña|LTranslit=kaḻiñña
-78	തിരഞ്ഞെടുപ്പുകളിൽ	തിരഞ്ഞെടുപ്പുകള്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	81	nmod:poss	_	Translit=tiraññeṭuppukaḷil̕|LTranslit=tiraññeṭuppukaḷ
-79	ദേശീയ	ദേശീയ	ADJ	_	_	81	amod	_	Translit=dēśīya|LTranslit=dēśīya
-80	പാർട്ടികൾ	പാർട്ടികൾ	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	81	nsubj	_	Translit=pāṟ̕ṭṭikaḷ̕|LTranslit=pāṟ̕ṭṭikaḷ̕
-81-82	ദുർബലമാവുകയും	_	_	_	_	_	_	_	Translit=duṟ̕balamāvukayuṁ
-81	ദുർബലമാവുക	ദുർബലമാവുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	67	punct	_	Translit=duṟ̕balamāvuka|LTranslit=duṟ̕balamāvuka
-82	ഉം	ഉം	PART	_	_	81	cc	_	Translit=uṁ|LTranslit=uṁ
-83	പ്രാദേശിക	പ്രാദേശിക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nmod:poss	_	Translit=prādēśika|LTranslit=prādēśika
-84	പാർട്ടികൾ	പാർട്ടികൾ	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	171	nsubj	_	Translit=pāṟ̕ṭṭikaḷ̕|LTranslit=pāṟ̕ṭṭikaḷ̕
-85-86	ശക്തരാവുകയും	_	_	_	_	_	_	_	Translit=śaktarāvukayuṁ
-85	ശക്തരാവുക	ശക്തരാവുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nmod:poss	_	Translit=śaktarāvuka|LTranslit=śaktarāvuka
-86	ഉം	ഉം	PART	_	_	171	det	_	Translit=uṁ|LTranslit=uṁ
-87	ചെയ്തതിനാൽ	ചെയ്തതിനാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nmod:poss	_	Translit=ceytatināl̕|LTranslit=ceytatināl̕
-88	ഭരണത്തിൽ	ഭരണത്ത്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	171	nmod:poss	_	Translit=bharaṇattil̕|LTranslit=bharaṇatt
-89	പങ്കാളിത്തമുള്ള	പങ്കാളിത്തമുള്ള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nmod:poss	_	Translit=paṅkāḷittamuḷḷa|LTranslit=paṅkāḷittamuḷḷa
-90	പ്രാദേശിക	പ്രാദേശിക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nmod:poss	_	Translit=prādēśika|LTranslit=prādēśika
-91	പാർട്ടികളുടെ	പാർട്ടികൾ	PRON	_	Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	171	nmod:poss	_	Translit=pāṟ̕ṭṭikaḷuṭe|LTranslit=pāṟ̕ṭṭikaḷ̕
-92-93	അഴിമതികളും	_	_	_	_	_	_	_	Translit=aḻimatikaḷuṁ
-92	അഴിമതികള	അഴിമതികള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nsubj	_	Translit=aḻimatikaḷa|LTranslit=aḻimatikaḷa
-93	ഉം	ഉം	PART	_	_	171	det	_	Translit=uṁ|LTranslit=uṁ
-94-95	സ്വാർത്ഥതയും	_	_	_	_	_	_	_	Translit=svāṟ̕tthatayuṁ
-94	സ്വാർത്ഥത	സ്വാർത്ഥയുക	VERB	_	Polarity=Pos|VerbForm=Part|Voice=Act	171	nmod:poss	_	Translit=svāṟ̕tthata|LTranslit=svāṟ̕tthayuka
-95	ഉം	ഉം	PART	_	_	171	nsubj	_	Translit=uṁ|LTranslit=uṁ
-96	രാജ്യത്തിന്	രാജ്യത്ത്	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	171	nmod:poss	_	Translit=rājyattin|LTranslit=rājyatt
-97	വലിയ	വലിയ	ADJ	_	_	171	amod	_	Translit=valiya|LTranslit=valiya
-98	നഷ്ടങ്ങളുണ്ടാക്കിയിട്ടുണ്ട്	നഷ്ടങ്ങളുണ്ടാക്കിയിട്ടുണ്ട്	ADV	_	_	171	advmod	_	SpaceAfter=No|Translit=naṣṭaṅṅaḷuṇṭākkiyiṭṭuṇṭ|LTranslit=naṣṭaṅṅaḷuṇṭākkiyiṭṭuṇṭ
-99	.	.	PUNCT	_	_	171	nmod:poss	_	Translit=.|LTranslit=.
-100	ഇപ്രാവശ്യം	ഇപ്രാവശ്യം	NOUN	_	Case=Acc|Number=Sing	171	nsubj	_	Translit=iprāvaśyaṁ|LTranslit=iprāvaśyaṁ
-101	കേവല	കേവല	ADJ	_	_	171	nmod:poss	_	Translit=kēvala|LTranslit=kēvala
-102	ഭൂരിപക്ഷം	ഭൂരിപക്ഷം	ADV	_	_	171	advmod	_	Translit=bhūripakṣaṁ|LTranslit=bhūripakṣaṁ
-103	ഒറ്റയ്ക്കുള്ള	ഒറ്റയ്ക്കുള്ള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nsubj	_	Translit=oṟṟaykkuḷḷa|LTranslit=oṟṟaykkuḷḷa
-104	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	171	det	_	Translit=oru|LTranslit=oru
-105	പാർട്ടി	പാർട്ടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	171	amod	_	Translit=pāṟ̕ṭṭi|LTranslit=pāṟ̕ṭṭuka
-106	ഭരിക്കുന്നതിനാൽ	ഭരിക്കുന്നതിനാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nmod:poss	_	Translit=bharikkunnatināl̕|LTranslit=bharikkunnatināl̕
-107	കൂടുതൽ	കൂടുതൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nmod:poss	_	Translit=kūṭutal̕|LTranslit=kūṭutal̕
-108-109	കാര്യക്ഷമതയും	_	_	_	_	_	_	_	Translit=kāryakṣamatayuṁ
-108	കാര്യക്ഷമത	കാര്യക്ഷമയുക	VERB	_	Polarity=Pos|VerbForm=Part|Voice=Act	171	nmod:poss	_	Translit=kāryakṣamata|LTranslit=kāryakṣamayuka
-109	ഉം	ഉം	PART	_	_	171	nsubj	_	Translit=uṁ|LTranslit=uṁ
-110-111	ഊർജസ്വലതയും	_	_	_	_	_	_	_	Translit=ūṟ̕jasvalatayuṁ
-110	ഊർജസ്വലത	ഊർജസ്വലയുക	VERB	_	Polarity=Pos|VerbForm=Part|Voice=Act	171	nmod:poss	_	Translit=ūṟ̕jasvalata|LTranslit=ūṟ̕jasvalayuka
-111	ഉം	ഉം	PART	_	_	171	det	_	Translit=uṁ|LTranslit=uṁ
-112	ഭരണത്തിനുണ്ടാകാൻ	ഭരണത്തിനുണ്ടാകാൻ	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	171	nsubj	_	Translit=bharaṇattinuṇṭākān̕|LTranslit=bharaṇattinuṇṭākān̕
-113-114	സാധ്യതയേറെയാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=sādhyatayēṟeyāṇ
-113	സാധ്യതയേറെയ്	സാധ്യതയേറെയ്	ADV	_	_	171	advmod	_	Translit=sādhyatayēṟey|LTranslit=sādhyatayēṟey
-114	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	171	det	_	Translit=āṇ|LTranslit=āk
-115	.	.	PUNCT	_	_	171	nmod:poss	_	Translit=.|LTranslit=.
-116	അതിനാൽ	അതിനാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nmod:poss	_	Translit=atināl̕|LTranslit=atināl̕
-117	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	171	nmod:poss	_	Translit=ī|LTranslit=ī
-118	തിരഞ്ഞെടുപ്പുഫലം	തിരഞ്ഞെടുപ്പുഫലം	ADV	_	_	171	advmod	_	Translit=tiraññeṭuppuphalaṁ|LTranslit=tiraññeṭuppuphalaṁ
-119	ദൈവകരങ്ങളിൽ	ദൈവകരങ്ങള്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	171	nmod:poss	_	Translit=daivakaraṅṅaḷil̕|LTranslit=daivakaraṅṅaḷ
-120-121	നിന്നും	_	_	_	_	_	_	_	Translit=ninnuṁ
-120	നിന്ന	നിന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nsubj	_	Translit=ninna|LTranslit=ninna
-121	ഉം	ഉം	PART	_	_	171	nsubj	_	Translit=uṁ|LTranslit=uṁ
-122	സ്വീകരിച്ച്	സ്വീകരിച്ച്	ADV	_	_	171	advmod	_	Translit=svīkaricc|LTranslit=svīkaricc
-123	പുതിയ	പുതിയ	ADJ	_	_	171	amod	_	Translit=putiya|LTranslit=putiya
-124	സർക്കാരിന്	സർക്കാര്	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	171	nmod:poss	_	Translit=saṟ̕kkārin|LTranslit=saṟ̕kkār
-125	കൂടുതൽ	കൂടുതൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nmod:poss	_	Translit=kūṭutal̕|LTranslit=kūṭutal̕
-126	ദൈവകൃപ	ദൈവകൃപ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nmod:poss	_	Translit=daivakr̥pa|LTranslit=daivakr̥pa
-127	ലഭിക്കുവാൻ	ലഭിക്കുവുക	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	171	nmod:poss	_	Translit=labhikkuvān̕|LTranslit=labhikkuvuka
-128	നാം	നാം	ADV	_	_	171	advmod	_	Translit=nāṁ|LTranslit=nāṁ
-129	പ്രാർത്ഥിക്കണം	പ്രാർത്ഥിക്കണം	NOUN	_	Case=Acc|Number=Sing	171	nsubj	_	SpaceAfter=No|Translit=prāṟ̕tthikkaṇaṁ|LTranslit=prāṟ̕tthikkaṇaṁ
-130	.	.	PUNCT	_	_	171	det	_	Translit=.|LTranslit=.
-131	'	'	PUNCT	_	_	171	nmod:poss	_	SpaceAfter=No|Translit='|LTranslit='
-132	'	'	PUNCT	_	_	171	nmod:poss	_	SpaceAfter=No|Translit='|LTranslit='
-133	എല്ലാ	എല്ലാ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nsubj	_	Translit=ellā|LTranslit=ellā
-134-135	ഭക്തിയിലും	_	_	_	_	_	_	_	Translit=bhaktiyiluṁ
-134	ഭക്തിയില	ഭക്തിയില	ADJ	_	_	171	amod	_	Translit=bhaktiyila|LTranslit=bhaktiyila
-135	ഉം	ഉം	PART	_	_	171	det	_	Translit=uṁ|LTranslit=uṁ
-136-137	വിശുദ്ധിയിലും	_	_	_	_	_	_	_	Translit=viśuddhiyiluṁ
-136	വിശുദ്ധിയില	വിശുദ്ധിയില	ADJ	_	_	171	amod	_	Translit=viśuddhiyila|LTranslit=viśuddhiyila
-137	ഉം	ഉം	PART	_	_	171	nsubj	_	Translit=uṁ|LTranslit=uṁ
-138-139	ശാന്തവും	_	_	_	_	_	_	_	Translit=śāntavuṁ
-138	ശാന്തം	ശാന്തം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nsubj	_	Translit=śāntaṁ|LTranslit=śāntaṁ
-139	ഉം	ഉം	PART	_	_	171	det	_	Translit=uṁ|LTranslit=uṁ
-140	സമാധാനപൂർണവുമായ	സമാധാനപൂർണവും	ADJ	_	_	171	amod	_	Translit=samādhānapūṟ̕ṇavumāya|LTranslit=samādhānapūṟ̕ṇavuṁ
-141	ജീവിതം	ജീവിതം	NOUN	_	Case=Acc|Number=Sing	171	nsubj	_	Translit=jīvitaṁ|LTranslit=jīvitaṁ
-142	നയിക്കാൻ	നയികുക	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	171	nmod:poss	_	Translit=nayikkān̕|LTranslit=nayikuka
-143	നമുക്കിടയാകത്തക്കവിധം	നമുക്കിടയാകത്തക്കവിധം	ADV	_	_	171	advmod	_	Translit=namukkiṭayākattakkavidhaṁ|LTranslit=namukkiṭayākattakkavidhaṁ
-144-145	രാജാക്കന്മാർക്കും	_	_	_	_	_	_	_	Translit=rājākkanmāṟ̕kkuṁ
-144	രാജാക്കന്മാർക്ക	രാജാക്കന്മാർക്ക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nsubj	_	Translit=rājākkanmāṟ̕kka|LTranslit=rājākkanmāṟ̕kka
-145	ഉം	ഉം	PART	_	_	171	det	_	Translit=uṁ|LTranslit=uṁ
-146	ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടി	ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	171	nmod:poss	_	Translit=unnatasthānīyaṟ̕kkuṁvēṇṭi|LTranslit=unnatasthānīyaṟ̕kkuṁvēṇṭuka
-147	പ്രാർത്ഥിക്കണം	പ്രാർത്ഥിക്കണം	NOUN	_	Case=Acc|Number=Sing	171	nsubj	_	SpaceAfter=No|Translit=prāṟ̕tthikkaṇaṁ|LTranslit=prāṟ̕tthikkaṇaṁ
-148	.	.	PUNCT	_	_	171	det	_	Translit=.|LTranslit=.
-149	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Gender=Neut|Number=Sing|Person=3|PronType=Prs	171	nsubj	_	Translit=it|LTranslit=it
-150-151	ഉത്തമവും	_	_	_	_	_	_	_	Translit=uttamavuṁ
-150	ഉത്തമം	ഉത്തമം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	obj	_	Translit=uttamaṁ|LTranslit=uttamaṁ
-151	ഉം	ഉം	PART	_	_	171	nsubj	_	Translit=uṁ|LTranslit=uṁ
-152	നമ്മുടെ	നമ്മുടെ	ADV	_	_	171	advmod	_	Translit=nammuṭe|LTranslit=nammuṭe
-153	രക്ഷകനായ	രക്ഷകനായ	ADJ	_	_	171	amod	_	Translit=rakṣakanāya|LTranslit=rakṣakanāya
-154	ദൈവത്തിന്റെ	ദൈവത്ത്	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	171	nmod:poss	_	Translit=daivattinṟe|LTranslit=daivatt
-155	മുന്നിൽ	മുന്ന്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	171	nmod:poss	_	Translit=munnil̕|LTranslit=munn
-156-157	സ്വീകാര്യവും	_	_	_	_	_	_	_	Translit=svīkāryavuṁ
-156	സ്വീകാര്യം	സ്വീകാര്യം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nsubj	_	Translit=svīkāryaṁ|LTranslit=svīkāryaṁ
-157	ഉം	ഉം	PART	_	_	171	det	_	Translit=uṁ|LTranslit=uṁ
-158	അത്രെ	അത്രെ	ADV	_	_	171	advmod	_	SpaceAfter=No|Translit=atre|LTranslit=atre
-159	'	'	PUNCT	_	_	171	nmod:poss	_	SpaceAfter=No|Translit='|LTranslit='
-160	'	'	PUNCT	_	_	171	nmod:poss	_	Translit='|LTranslit='
-161	എന്ന	എന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nsubj	_	Translit=enna|LTranslit=enna
-162	സെന്റ്	സെന്റ്	ADV	_	_	171	advmod	_	Translit=senṟ|LTranslit=senṟ
-163	പോളിന്റെ	പോളീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	171	nsubj	_	Translit=pōḷinṟe|LTranslit=pōḷī
-164	വാക്കുകൾ	വാക്കുകൾ	NOUN	_	Animacy=Anim|Case=Acc|Number=Plur	171	nsubj	_	Translit=vākkukaḷ̕|LTranslit=vākkukaḷ̕
-165	ഇവിടെ	ഇവിടെ	ADV	_	_	171	advmod	_	Translit=iviṭe|LTranslit=iviṭe
-166-167	സ്മരണീയമാണ്	_	_	_	_	_	_	_	Translit=smaraṇīyamāṇ
-166	സ്മരണീയമ്	സ്മരണീയമ്	ADV	_	_	171	advmod	_	Translit=smaraṇīyam|LTranslit=smaraṇīyam
-167	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	171	nsubj	_	Translit=āṇ|LTranslit=āk
-168	(1	(1	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	171	nmod:poss	_	Translit=(1|LTranslit=(1
-169	തിമോത്തി	തിമോത്തുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	171	det	_	Translit=timōtti|LTranslit=timōttuka
-170	21	21	NUM	_	_	171	nsubj	_	SpaceAfter=No|Translit=21|LTranslit=21
-171	:23)	:23)	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	81	conj	_	SpaceAfter=No|Translit=:23)|LTranslit=:23)
-172	.	.	PUNCT	_	_	171	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
+5	ഒന്ൻ	ഒന്ൻ	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	Translit=onn̕|LTranslit=onn̕
+6	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	Translit=āṇ|LTranslit=āk
+7	.	.	PUNCT	_	_	0	root	_	Translit=.|LTranslit=.
+
+# sent_id = indiccorp56-bis
+# text = ഒരേ പാർട്ടി തന്നെ തുടർച്ചയായി അധികാരം കൈയാളുമ്പോൾ അധികാര ദല്ലാളന്മാരും ഉദ്യോഗസ്ഥരും പ്രബലരാവുകയും ഭരണം ജീർണിക്കുകയും ചെയ്യുക സ്വാഭാവികമാണ്.
+# translit = adhikāraṁ eppōḻuṁ duṣippikkunna onnāṇ. orē pāṟ̕ṭṭi tanne tuṭaṟ̕ccayāyi adhikāraṁ kaiyāḷumpōḷ̕ adhikāra dallāḷanmāruṁ udyōgastharuṁ prabalarāvukayuṁ bharaṇaṁ jīṟ̕ṇikkukayuṁ ceyyuka svābhāvikamāṇ. atukoṇṭ adhikārattil̕ninnuṁ iṭaykkiṭe māṟinilkkunnat rāṣṭrīya pāṟ̕ṭṭikaḷuṭe viśuddhīkaraṇattinuṁ śaktīkaraṇattinuṁ nallatāṇ. atināl̕, kōṇ̕grasinṟeyuṁ sakhyakakṣikaḷuṭeyuṁ parājayavuṁ intyayuṭe janādhipatyattinuṁ atatu pāṟ̕ṭṭikaḷuṭe nalla bhāvikkuṁ atyāvaśyamāṇ. mātramalla, oṟṟaykk bharikkān̕ bhūripakṣamillāttatināl̕ sakhyakakṣikaḷuṭeyellāṁ iṁgitattinu vaḻaṅṅi bharikkunna dēśīya pāṟ̕ṭṭikaḷ̕kk śaktamāya bharaṇaṁ kāḻcavaykkuka sādhyamalla. kaḻiñña tiraññeṭuppukaḷil̕ dēśīya pāṟ̕ṭṭikaḷ̕ duṟ̕balamāvukayuṁ prādēśika pāṟ̕ṭṭikaḷ̕ śaktarāvukayuṁ ceytatināl̕ bharaṇattil̕ paṅkāḷittamuḷḷa prādēśika pāṟ̕ṭṭikaḷuṭe aḻimatikaḷuṁ svāṟ̕tthatayuṁ rājyattin valiya naṣṭaṅṅaḷuṇṭākkiyiṭṭuṇṭ. iprāvaśyaṁ kēvala bhūripakṣaṁ oṟṟaykkuḷḷa oru pāṟ̕ṭṭi bharikkunnatināl̕ kūṭutal̕ kāryakṣamatayuṁ ūṟ̕jasvalatayuṁ bharaṇattinuṇṭākān̕ sādhyatayēṟeyāṇ. atināl̕ ī tiraññeṭuppuphalaṁ daivakaraṅṅaḷil̕ ninnuṁ svīkaricc putiya saṟ̕kkārin kūṭutal̕ daivakr̥pa labhikkuvān̕ nāṁ prāṟ̕tthikkaṇaṁ. ''ellā bhaktiyiluṁ viśuddhiyiluṁ śāntavuṁ samādhānapūṟ̕ṇavumāya jīvitaṁ nayikkān̕ namukkiṭayākattakkavidhaṁ rājākkanmāṟ̕kkuṁ unnatasthānīyaṟ̕kkuṁvēṇṭi prāṟ̕tthikkaṇaṁ. it uttamavuṁ nammuṭe rakṣakanāya daivattinṟe munnil̕ svīkāryavuṁ atre'' enna senṟ pōḷinṟe vākkukaḷ̕ iviṭe smaraṇīyamāṇ (1 timōtti 21:23).
+# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
+1	ഒരേ	ഒരേ	CCONJ	_	_	0	root	_	Translit=orē|LTranslit=orē
+2	പാർട്ടി	പാർട്ടി	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	0	root	_	Translit=pāṟ̕ṭṭi|LTranslit=pāṟ̕ṭṭi
+3	തന്നെ	തന്നെ	ADV	_	_	0	root	_	Translit=tanne|LTranslit=tanne
+4	തുടർച്ചയായി	തുടർച്ചയായുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=tuṭaṟ̕ccayāyi|LTranslit=tuṭaṟ̕ccayāyuka
+5	അധികാരം	അധികാരം	ADV	_	_	0	root	_	Translit=adhikāraṁ|LTranslit=adhikāraṁ
+6	കൈയാളുമ്പോൾ	കൈയാളുമ്പോൾ	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	Translit=kaiyāḷumpōḷ̕|LTranslit=kaiyāḷumpōḷ̕
+7	അധികാര	അധികാര	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=adhikāra|LTranslit=adhikāra
+8-9	ദല്ലാളന്മാരും	_	_	_	_	_	_	_	Translit=dallāḷanmāruṁ
+8	ദല്ലാളന്മാര	ദല്ലാളന്മാര	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=dallāḷanmāra|LTranslit=dallāḷanmāra
+9	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+10-11	ഉദ്യോഗസ്ഥരും	_	_	_	_	_	_	_	Translit=udyōgastharuṁ
+10	ഉദ്യോഗസ്ഥര	ഉദ്യോഗസ്ഥര	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=udyōgasthara|LTranslit=udyōgasthara
+11	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+12-13	പ്രബലരാവുകയും	_	_	_	_	_	_	_	Translit=prabalarāvukayuṁ
+12	പ്രബലരാവുക	പ്രബലരാവുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=prabalarāvuka|LTranslit=prabalarāvuka
+13	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+14	ഭരണം	ഭരണം	ADV	_	_	0	root	_	Translit=bharaṇaṁ|LTranslit=bharaṇaṁ
+15-16	ജീർണിക്കുകയും	_	_	_	_	_	_	_	Translit=jīṟ̕ṇikkukayuṁ
+15	ജീർണിക്കുക	ജീർണിക്കുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=jīṟ̕ṇikkuka|LTranslit=jīṟ̕ṇikkuka
+16	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+17	ചെയ്യുക	ചെയ്യുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=ceyyuka|LTranslit=ceyyuka
+18-19	സ്വാഭാവികമാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=svābhāvikamāṇ
+18	സ്വാഭാവികമ്	സ്വാഭാവികമ്	ADV	_	_	0	root	_	Translit=svābhāvikam|LTranslit=svābhāvikam
+19	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	Translit=āṇ|LTranslit=āk
+20	.	.	PUNCT	_	_	0	root	_	Translit=.|LTranslit=.
+
+# sent_id = indiccorp56-bis-bis
+# text = അതുകൊണ്ട് അധികാരത്തിൽനിന്നും ഇടയ്ക്കിടെ മാറിനില്ക്കുന്നത് രാഷ്ട്രീയ പാർട്ടികളുടെ വിശുദ്ധീകരണത്തിനും ശക്തീകരണത്തിനും നല്ലതാണ്.
+# translit = adhikāraṁ eppōḻuṁ duṣippikkunna onnāṇ. orē pāṟ̕ṭṭi tanne tuṭaṟ̕ccayāyi adhikāraṁ kaiyāḷumpōḷ̕ adhikāra dallāḷanmāruṁ udyōgastharuṁ prabalarāvukayuṁ bharaṇaṁ jīṟ̕ṇikkukayuṁ ceyyuka svābhāvikamāṇ. atukoṇṭ adhikārattil̕ninnuṁ iṭaykkiṭe māṟinilkkunnat rāṣṭrīya pāṟ̕ṭṭikaḷuṭe viśuddhīkaraṇattinuṁ śaktīkaraṇattinuṁ nallatāṇ. atināl̕, kōṇ̕grasinṟeyuṁ sakhyakakṣikaḷuṭeyuṁ parājayavuṁ intyayuṭe janādhipatyattinuṁ atatu pāṟ̕ṭṭikaḷuṭe nalla bhāvikkuṁ atyāvaśyamāṇ. mātramalla, oṟṟaykk bharikkān̕ bhūripakṣamillāttatināl̕ sakhyakakṣikaḷuṭeyellāṁ iṁgitattinu vaḻaṅṅi bharikkunna dēśīya pāṟ̕ṭṭikaḷ̕kk śaktamāya bharaṇaṁ kāḻcavaykkuka sādhyamalla. kaḻiñña tiraññeṭuppukaḷil̕ dēśīya pāṟ̕ṭṭikaḷ̕ duṟ̕balamāvukayuṁ prādēśika pāṟ̕ṭṭikaḷ̕ śaktarāvukayuṁ ceytatināl̕ bharaṇattil̕ paṅkāḷittamuḷḷa prādēśika pāṟ̕ṭṭikaḷuṭe aḻimatikaḷuṁ svāṟ̕tthatayuṁ rājyattin valiya naṣṭaṅṅaḷuṇṭākkiyiṭṭuṇṭ. iprāvaśyaṁ kēvala bhūripakṣaṁ oṟṟaykkuḷḷa oru pāṟ̕ṭṭi bharikkunnatināl̕ kūṭutal̕ kāryakṣamatayuṁ ūṟ̕jasvalatayuṁ bharaṇattinuṇṭākān̕ sādhyatayēṟeyāṇ. atināl̕ ī tiraññeṭuppuphalaṁ daivakaraṅṅaḷil̕ ninnuṁ svīkaricc putiya saṟ̕kkārin kūṭutal̕ daivakr̥pa labhikkuvān̕ nāṁ prāṟ̕tthikkaṇaṁ. ''ellā bhaktiyiluṁ viśuddhiyiluṁ śāntavuṁ samādhānapūṟ̕ṇavumāya jīvitaṁ nayikkān̕ namukkiṭayākattakkavidhaṁ rājākkanmāṟ̕kkuṁ unnatasthānīyaṟ̕kkuṁvēṇṭi prāṟ̕tthikkaṇaṁ. it uttamavuṁ nammuṭe rakṣakanāya daivattinṟe munnil̕ svīkāryavuṁ atre'' enna senṟ pōḷinṟe vākkukaḷ̕ iviṭe smaraṇīyamāṇ (1 timōtti 21:23).
+# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
+1	അതുകൊണ്ട്	അതുകൊണ്ട്	ADV	_	_	0	root	_	Translit=atukoṇṭ|LTranslit=atukoṇṭ
+2-3	അധികാരത്തിൽനിന്നും	_	_	_	_	_	_	_	Translit=adhikārattil̕ninnuṁ
+2	അധികാരത്തിൽനിന്ന	അധികാരത്തിൽനിന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=adhikārattil̕ninna|LTranslit=adhikārattil̕ninna
+3	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+4	ഇടയ്ക്കിടെ	ഇടയ്ക്കിടെ	ADV	_	_	0	root	_	Translit=iṭaykkiṭe|LTranslit=iṭaykkiṭe
+5	മാറിനില്ക്കുന്നത്	മാറിനില്ക്കുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	0	root	_	Translit=māṟinilkkunnat|LTranslit=māṟinilkkuka
+6	രാഷ്ട്രീയ	രാഷ്ട്രീയ	ADJ	_	_	0	root	_	Translit=rāṣṭrīya|LTranslit=rāṣṭrīya
+7	പാർട്ടികളുടെ	പാർട്ടികൾ	PRON	_	Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	Translit=pāṟ̕ṭṭikaḷuṭe|LTranslit=pāṟ̕ṭṭikaḷ̕
+8-9	വിശുദ്ധീകരണത്തിനും	_	_	_	_	_	_	_	Translit=viśuddhīkaraṇattinuṁ
+8	വിശുദ്ധീകരണത്തിന	വിശുദ്ധീകരണത്തിന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=viśuddhīkaraṇattina|LTranslit=viśuddhīkaraṇattina
+9	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+10-11	ശക്തീകരണത്തിനും	_	_	_	_	_	_	_	Translit=śaktīkaraṇattinuṁ
+10	ശക്തീകരണത്തിന	ശക്തീകരണത്തിന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=śaktīkaraṇattina|LTranslit=śaktīkaraṇattina
+11	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+12-13	നല്ലതാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=nallatāṇ
+12	നല്ലത്	നല്ല	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	0	root	_	Translit=nallat|LTranslit=nalla
+13	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	Translit=āṇ|LTranslit=āk
+14	.	.	PUNCT	_	_	0	root	_	Translit=.|LTranslit=.
+
+# sent_id = indiccorp56-bis-bis-bis
+# text = അതിനാൽ, കോൺഗ്രസിന്റെയും സഖ്യകക്ഷികളുടെയും പരാജയവും ഇന്ത്യയുടെ ജനാധിപത്യത്തിനും അതതു പാർട്ടികളുടെ നല്ല ഭാവിക്കും അത്യാവശ്യമാണ്.
+# translit = adhikāraṁ eppōḻuṁ duṣippikkunna onnāṇ. orē pāṟ̕ṭṭi tanne tuṭaṟ̕ccayāyi adhikāraṁ kaiyāḷumpōḷ̕ adhikāra dallāḷanmāruṁ udyōgastharuṁ prabalarāvukayuṁ bharaṇaṁ jīṟ̕ṇikkukayuṁ ceyyuka svābhāvikamāṇ. atukoṇṭ adhikārattil̕ninnuṁ iṭaykkiṭe māṟinilkkunnat rāṣṭrīya pāṟ̕ṭṭikaḷuṭe viśuddhīkaraṇattinuṁ śaktīkaraṇattinuṁ nallatāṇ. atināl̕, kōṇ̕grasinṟeyuṁ sakhyakakṣikaḷuṭeyuṁ parājayavuṁ intyayuṭe janādhipatyattinuṁ atatu pāṟ̕ṭṭikaḷuṭe nalla bhāvikkuṁ atyāvaśyamāṇ. mātramalla, oṟṟaykk bharikkān̕ bhūripakṣamillāttatināl̕ sakhyakakṣikaḷuṭeyellāṁ iṁgitattinu vaḻaṅṅi bharikkunna dēśīya pāṟ̕ṭṭikaḷ̕kk śaktamāya bharaṇaṁ kāḻcavaykkuka sādhyamalla. kaḻiñña tiraññeṭuppukaḷil̕ dēśīya pāṟ̕ṭṭikaḷ̕ duṟ̕balamāvukayuṁ prādēśika pāṟ̕ṭṭikaḷ̕ śaktarāvukayuṁ ceytatināl̕ bharaṇattil̕ paṅkāḷittamuḷḷa prādēśika pāṟ̕ṭṭikaḷuṭe aḻimatikaḷuṁ svāṟ̕tthatayuṁ rājyattin valiya naṣṭaṅṅaḷuṇṭākkiyiṭṭuṇṭ. iprāvaśyaṁ kēvala bhūripakṣaṁ oṟṟaykkuḷḷa oru pāṟ̕ṭṭi bharikkunnatināl̕ kūṭutal̕ kāryakṣamatayuṁ ūṟ̕jasvalatayuṁ bharaṇattinuṇṭākān̕ sādhyatayēṟeyāṇ. atināl̕ ī tiraññeṭuppuphalaṁ daivakaraṅṅaḷil̕ ninnuṁ svīkaricc putiya saṟ̕kkārin kūṭutal̕ daivakr̥pa labhikkuvān̕ nāṁ prāṟ̕tthikkaṇaṁ. ''ellā bhaktiyiluṁ viśuddhiyiluṁ śāntavuṁ samādhānapūṟ̕ṇavumāya jīvitaṁ nayikkān̕ namukkiṭayākattakkavidhaṁ rājākkanmāṟ̕kkuṁ unnatasthānīyaṟ̕kkuṁvēṇṭi prāṟ̕tthikkaṇaṁ. it uttamavuṁ nammuṭe rakṣakanāya daivattinṟe munnil̕ svīkāryavuṁ atre'' enna senṟ pōḷinṟe vākkukaḷ̕ iviṭe smaraṇīyamāṇ (1 timōtti 21:23).
+# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
+1	അതിനാൽ	അതിനാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=atināl̕|LTranslit=atināl̕
+2	,	,	PUNCT	_	_	0	root	_	Translit=,|LTranslit=,
+3-4	കോൺഗ്രസിന്റെയും	_	_	_	_	_	_	_	Translit=kōṇ̕grasinṟeyuṁ
+3	കോൺഗ്രസിന്റെ	കോൺഗ്രസ്	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	0	root	_	Translit=kōṇ̕grasinṟe|LTranslit=kōṇ̕gras
+4	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+5-6	സഖ്യകക്ഷികളുടെയും	_	_	_	_	_	_	_	Translit=sakhyakakṣikaḷuṭeyuṁ
+5	സഖ്യകക്ഷികളുടെ	സഖ്യകക്ഷികൾ	PRON	_	Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	Translit=sakhyakakṣikaḷuṭe|LTranslit=sakhyakakṣikaḷ̕
+6	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+7-8	പരാജയവും	_	_	_	_	_	_	_	Translit=parājayavuṁ
+7	പരാജയം	പരാജയം	NOUN	_	Case=Acc|Number=Sing	0	root	_	Translit=parājayaṁ|LTranslit=parājayaṁ
+8	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+9	ഇന്ത്യയുടെ	ഇന്ത്യയുടെ	ADV	_	_	0	root	_	Translit=intyayuṭe|LTranslit=intyayuṭe
+10-11	ജനാധിപത്യത്തിനും	_	_	_	_	_	_	_	Translit=janādhipatyattinuṁ
+10	ജനാധിപത്യത്തിന	ജനാധിപത്യത്തിന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=janādhipatyattina|LTranslit=janādhipatyattina
+11	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+12	അതതു	അതതു	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=atatu|LTranslit=atatu
+13	പാർട്ടികളുടെ	പാർട്ടികൾ	PRON	_	Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	Translit=pāṟ̕ṭṭikaḷuṭe|LTranslit=pāṟ̕ṭṭikaḷ̕
+14	നല്ല	നല്ല	ADJ	_	_	0	root	_	Translit=nalla|LTranslit=nalla
+15-16	ഭാവിക്കും	_	_	_	_	_	_	_	Translit=bhāvikkuṁ
+15	ഭാവിക്ക	ഭാവിക്ക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=bhāvikka|LTranslit=bhāvikka
+16	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+17-18	അത്യാവശ്യമാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=atyāvaśyamāṇ
+17	അത്യാവശ്യമ്	അത്യാവശ്യമ്	ADV	_	_	0	root	_	Translit=atyāvaśyam|LTranslit=atyāvaśyam
+18	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	Translit=āṇ|LTranslit=āk
+19	.	.	PUNCT	_	_	0	root	_	Translit=.|LTranslit=.
+
+# sent_id = indiccorp56-bis-bis-bis-bis
+# text = മാത്രമല്ല, ഒറ്റയ്ക്ക് ഭരിക്കാൻ ഭൂരിപക്ഷമില്ലാത്തതിനാൽ സഖ്യകക്ഷികളുടെയെല്ലാം ഇംഗിതത്തിനു വഴങ്ങി ഭരിക്കുന്ന ദേശീയ പാർട്ടികൾക്ക് ശക്തമായ ഭരണം കാഴ്ചവയ്ക്കുക സാധ്യമല്ല.
+# translit = adhikāraṁ eppōḻuṁ duṣippikkunna onnāṇ. orē pāṟ̕ṭṭi tanne tuṭaṟ̕ccayāyi adhikāraṁ kaiyāḷumpōḷ̕ adhikāra dallāḷanmāruṁ udyōgastharuṁ prabalarāvukayuṁ bharaṇaṁ jīṟ̕ṇikkukayuṁ ceyyuka svābhāvikamāṇ. atukoṇṭ adhikārattil̕ninnuṁ iṭaykkiṭe māṟinilkkunnat rāṣṭrīya pāṟ̕ṭṭikaḷuṭe viśuddhīkaraṇattinuṁ śaktīkaraṇattinuṁ nallatāṇ. atināl̕, kōṇ̕grasinṟeyuṁ sakhyakakṣikaḷuṭeyuṁ parājayavuṁ intyayuṭe janādhipatyattinuṁ atatu pāṟ̕ṭṭikaḷuṭe nalla bhāvikkuṁ atyāvaśyamāṇ. mātramalla, oṟṟaykk bharikkān̕ bhūripakṣamillāttatināl̕ sakhyakakṣikaḷuṭeyellāṁ iṁgitattinu vaḻaṅṅi bharikkunna dēśīya pāṟ̕ṭṭikaḷ̕kk śaktamāya bharaṇaṁ kāḻcavaykkuka sādhyamalla. kaḻiñña tiraññeṭuppukaḷil̕ dēśīya pāṟ̕ṭṭikaḷ̕ duṟ̕balamāvukayuṁ prādēśika pāṟ̕ṭṭikaḷ̕ śaktarāvukayuṁ ceytatināl̕ bharaṇattil̕ paṅkāḷittamuḷḷa prādēśika pāṟ̕ṭṭikaḷuṭe aḻimatikaḷuṁ svāṟ̕tthatayuṁ rājyattin valiya naṣṭaṅṅaḷuṇṭākkiyiṭṭuṇṭ. iprāvaśyaṁ kēvala bhūripakṣaṁ oṟṟaykkuḷḷa oru pāṟ̕ṭṭi bharikkunnatināl̕ kūṭutal̕ kāryakṣamatayuṁ ūṟ̕jasvalatayuṁ bharaṇattinuṇṭākān̕ sādhyatayēṟeyāṇ. atināl̕ ī tiraññeṭuppuphalaṁ daivakaraṅṅaḷil̕ ninnuṁ svīkaricc putiya saṟ̕kkārin kūṭutal̕ daivakr̥pa labhikkuvān̕ nāṁ prāṟ̕tthikkaṇaṁ. ''ellā bhaktiyiluṁ viśuddhiyiluṁ śāntavuṁ samādhānapūṟ̕ṇavumāya jīvitaṁ nayikkān̕ namukkiṭayākattakkavidhaṁ rājākkanmāṟ̕kkuṁ unnatasthānīyaṟ̕kkuṁvēṇṭi prāṟ̕tthikkaṇaṁ. it uttamavuṁ nammuṭe rakṣakanāya daivattinṟe munnil̕ svīkāryavuṁ atre'' enna senṟ pōḷinṟe vākkukaḷ̕ iviṭe smaraṇīyamāṇ (1 timōtti 21:23).
+# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
+1	മാത്രമല്ല	മാത്രമല്ല	ADJ	_	_	7	nsubj	_	SpaceAfter=No|Translit=mātramalla|LTranslit=mātramalla
+2	,	,	PUNCT	_	_	7	nsubj	_	Translit=,|LTranslit=,
+3	ഒറ്റയ്ക്ക്	ഒറ്റയ്ക്ക്	ADV	_	_	7	advmod	_	Translit=oṟṟaykk|LTranslit=oṟṟaykk
+4	ഭരിക്കാൻ	ഭരിക്കാൻ	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Translit=bharikkān̕|LTranslit=bharikkān̕
+5	ഭൂരിപക്ഷമില്ലാത്തതിനാൽ	ഭൂരിപക്ഷമില്ലാത്തതിനാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	7	nsubj	_	Translit=bhūripakṣamillāttatināl̕|LTranslit=bhūripakṣamillāttatināl̕
+6	സഖ്യകക്ഷികളുടെയെല്ലാം	സഖ്യകക്ഷികളുടെയെല്ലാം	ADV	_	_	7	advmod	_	Translit=sakhyakakṣikaḷuṭeyellāṁ|LTranslit=sakhyakakṣikaḷuṭeyellāṁ
+7	ഇംഗിതത്തിനു	ഇംഗിതത്തിനു	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=iṁgitattinu|LTranslit=iṁgitattinu
+8	വഴങ്ങി	വഴങ്ങി	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	0	root	_	Translit=vaḻaṅṅi|LTranslit=vaḻaṅṅi
+9	ഭരിക്കുന്ന	ഭരിക്കുന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=bharikkunna|LTranslit=bharikkunna
+10	ദേശീയ	ദേശീയ	ADJ	_	_	0	root	_	Translit=dēśīya|LTranslit=dēśīya
+11	പാർട്ടികൾക്ക്	പാർട്ടികൾക്ക്	ADV	_	_	0	root	_	Translit=pāṟ̕ṭṭikaḷ̕kk|LTranslit=pāṟ̕ṭṭikaḷ̕kk
+12	ശക്തമായ	ശക്തം	ADJ	_	_	0	root	_	Translit=śaktamāya|LTranslit=śaktaṁ
+13	ഭരണം	ഭരണം	NOUN	_	Case=Acc|Number=Sing	0	root	_	Translit=bharaṇaṁ|LTranslit=bharaṇaṁ
+14	കാഴ്ചവയ്ക്കുക	കാഴ്ചവയ്ക്കുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=kāḻcavaykkuka|LTranslit=kāḻcavaykkuka
+15	സാധ്യമല്ല	സാധ്യമല്ല	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=sādhyamalla|LTranslit=sādhyamalla
+16	.	.	PUNCT	_	_	0	root	_	Translit=.|LTranslit=.
+
+# sent_id = indiccorp56-bis-bis-bis-bis-bis
+# text = കഴിഞ്ഞ തിരഞ്ഞെടുപ്പുകളിൽ ദേശീയ പാർട്ടികൾ ദുർബലമാവുകയും പ്രാദേശിക പാർട്ടികൾ ശക്തരാവുകയും ചെയ്തതിനാൽ ഭരണത്തിൽ പങ്കാളിത്തമുള്ള പ്രാദേശിക പാർട്ടികളുടെ അഴിമതികളും സ്വാർത്ഥതയും രാജ്യത്തിന് വലിയ നഷ്ടങ്ങളുണ്ടാക്കിയിട്ടുണ്ട്.
+# translit = adhikāraṁ eppōḻuṁ duṣippikkunna onnāṇ. orē pāṟ̕ṭṭi tanne tuṭaṟ̕ccayāyi adhikāraṁ kaiyāḷumpōḷ̕ adhikāra dallāḷanmāruṁ udyōgastharuṁ prabalarāvukayuṁ bharaṇaṁ jīṟ̕ṇikkukayuṁ ceyyuka svābhāvikamāṇ. atukoṇṭ adhikārattil̕ninnuṁ iṭaykkiṭe māṟinilkkunnat rāṣṭrīya pāṟ̕ṭṭikaḷuṭe viśuddhīkaraṇattinuṁ śaktīkaraṇattinuṁ nallatāṇ. atināl̕, kōṇ̕grasinṟeyuṁ sakhyakakṣikaḷuṭeyuṁ parājayavuṁ intyayuṭe janādhipatyattinuṁ atatu pāṟ̕ṭṭikaḷuṭe nalla bhāvikkuṁ atyāvaśyamāṇ. mātramalla, oṟṟaykk bharikkān̕ bhūripakṣamillāttatināl̕ sakhyakakṣikaḷuṭeyellāṁ iṁgitattinu vaḻaṅṅi bharikkunna dēśīya pāṟ̕ṭṭikaḷ̕kk śaktamāya bharaṇaṁ kāḻcavaykkuka sādhyamalla. kaḻiñña tiraññeṭuppukaḷil̕ dēśīya pāṟ̕ṭṭikaḷ̕ duṟ̕balamāvukayuṁ prādēśika pāṟ̕ṭṭikaḷ̕ śaktarāvukayuṁ ceytatināl̕ bharaṇattil̕ paṅkāḷittamuḷḷa prādēśika pāṟ̕ṭṭikaḷuṭe aḻimatikaḷuṁ svāṟ̕tthatayuṁ rājyattin valiya naṣṭaṅṅaḷuṇṭākkiyiṭṭuṇṭ. iprāvaśyaṁ kēvala bhūripakṣaṁ oṟṟaykkuḷḷa oru pāṟ̕ṭṭi bharikkunnatināl̕ kūṭutal̕ kāryakṣamatayuṁ ūṟ̕jasvalatayuṁ bharaṇattinuṇṭākān̕ sādhyatayēṟeyāṇ. atināl̕ ī tiraññeṭuppuphalaṁ daivakaraṅṅaḷil̕ ninnuṁ svīkaricc putiya saṟ̕kkārin kūṭutal̕ daivakr̥pa labhikkuvān̕ nāṁ prāṟ̕tthikkaṇaṁ. ''ellā bhaktiyiluṁ viśuddhiyiluṁ śāntavuṁ samādhānapūṟ̕ṇavumāya jīvitaṁ nayikkān̕ namukkiṭayākattakkavidhaṁ rājākkanmāṟ̕kkuṁ unnatasthānīyaṟ̕kkuṁvēṇṭi prāṟ̕tthikkaṇaṁ. it uttamavuṁ nammuṭe rakṣakanāya daivattinṟe munnil̕ svīkāryavuṁ atre'' enna senṟ pōḷinṟe vākkukaḷ̕ iviṭe smaraṇīyamāṇ (1 timōtti 21:23).
+# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
+1	കഴിഞ്ഞ	കഴിഞ്ഞ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	nsubj	_	Translit=kaḻiñña|LTranslit=kaḻiñña
+2	തിരഞ്ഞെടുപ്പുകളിൽ	തിരഞ്ഞെടുപ്പുകള്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	5	nmod:poss	_	Translit=tiraññeṭuppukaḷil̕|LTranslit=tiraññeṭuppukaḷ
+3	ദേശീയ	ദേശീയ	ADJ	_	_	5	amod	_	Translit=dēśīya|LTranslit=dēśīya
+4	പാർട്ടികൾ	പാർട്ടികൾ	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=pāṟ̕ṭṭikaḷ̕|LTranslit=pāṟ̕ṭṭikaḷ̕
+5-6	ദുർബലമാവുകയും	_	_	_	_	_	_	_	Translit=duṟ̕balamāvukayuṁ
+5	ദുർബലമാവുക	ദുർബലമാവുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=duṟ̕balamāvuka|LTranslit=duṟ̕balamāvuka
+6	ഉം	ഉം	PART	_	_	5	cc	_	Translit=uṁ|LTranslit=uṁ
+7	പ്രാദേശിക	പ്രാദേശിക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=prādēśika|LTranslit=prādēśika
+8	പാർട്ടികൾ	പാർട്ടികൾ	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	Translit=pāṟ̕ṭṭikaḷ̕|LTranslit=pāṟ̕ṭṭikaḷ̕
+9-10	ശക്തരാവുകയും	_	_	_	_	_	_	_	Translit=śaktarāvukayuṁ
+9	ശക്തരാവുക	ശക്തരാവുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=śaktarāvuka|LTranslit=śaktarāvuka
+10	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+11	ചെയ്തതിനാൽ	ചെയ്തതിനാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=ceytatināl̕|LTranslit=ceytatināl̕
+12	ഭരണത്തിൽ	ഭരണത്ത്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	0	root	_	Translit=bharaṇattil̕|LTranslit=bharaṇatt
+13	പങ്കാളിത്തമുള്ള	പങ്കാളിത്തമുള്ള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=paṅkāḷittamuḷḷa|LTranslit=paṅkāḷittamuḷḷa
+14	പ്രാദേശിക	പ്രാദേശിക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=prādēśika|LTranslit=prādēśika
+15	പാർട്ടികളുടെ	പാർട്ടികൾ	PRON	_	Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	Translit=pāṟ̕ṭṭikaḷuṭe|LTranslit=pāṟ̕ṭṭikaḷ̕
+16-17	അഴിമതികളും	_	_	_	_	_	_	_	Translit=aḻimatikaḷuṁ
+16	അഴിമതികള	അഴിമതികള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=aḻimatikaḷa|LTranslit=aḻimatikaḷa
+17	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+18-19	സ്വാർത്ഥതയും	_	_	_	_	_	_	_	Translit=svāṟ̕tthatayuṁ
+18	സ്വാർത്ഥത	സ്വാർത്ഥയുക	VERB	_	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	_	Translit=svāṟ̕tthata|LTranslit=svāṟ̕tthayuka
+19	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+20	രാജ്യത്തിന്	രാജ്യത്ത്	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	0	root	_	Translit=rājyattin|LTranslit=rājyatt
+21	വലിയ	വലിയ	ADJ	_	_	0	root	_	Translit=valiya|LTranslit=valiya
+22	നഷ്ടങ്ങളുണ്ടാക്കിയിട്ടുണ്ട്	നഷ്ടങ്ങളുണ്ടാക്കിയിട്ടുണ്ട്	ADV	_	_	0	root	_	SpaceAfter=No|Translit=naṣṭaṅṅaḷuṇṭākkiyiṭṭuṇṭ|LTranslit=naṣṭaṅṅaḷuṇṭākkiyiṭṭuṇṭ
+23	.	.	PUNCT	_	_	0	root	_	Translit=.|LTranslit=.
+
+# sent_id = indiccorp56-bis-bis-bis-bis-bis-bis
+# text = ഇപ്രാവശ്യം കേവല ഭൂരിപക്ഷം ഒറ്റയ്ക്കുള്ള ഒരു പാർട്ടി ഭരിക്കുന്നതിനാൽ കൂടുതൽ കാര്യക്ഷമതയും ഊർജസ്വലതയും ഭരണത്തിനുണ്ടാകാൻ സാധ്യതയേറെയാണ്.
+# translit = adhikāraṁ eppōḻuṁ duṣippikkunna onnāṇ. orē pāṟ̕ṭṭi tanne tuṭaṟ̕ccayāyi adhikāraṁ kaiyāḷumpōḷ̕ adhikāra dallāḷanmāruṁ udyōgastharuṁ prabalarāvukayuṁ bharaṇaṁ jīṟ̕ṇikkukayuṁ ceyyuka svābhāvikamāṇ. atukoṇṭ adhikārattil̕ninnuṁ iṭaykkiṭe māṟinilkkunnat rāṣṭrīya pāṟ̕ṭṭikaḷuṭe viśuddhīkaraṇattinuṁ śaktīkaraṇattinuṁ nallatāṇ. atināl̕, kōṇ̕grasinṟeyuṁ sakhyakakṣikaḷuṭeyuṁ parājayavuṁ intyayuṭe janādhipatyattinuṁ atatu pāṟ̕ṭṭikaḷuṭe nalla bhāvikkuṁ atyāvaśyamāṇ. mātramalla, oṟṟaykk bharikkān̕ bhūripakṣamillāttatināl̕ sakhyakakṣikaḷuṭeyellāṁ iṁgitattinu vaḻaṅṅi bharikkunna dēśīya pāṟ̕ṭṭikaḷ̕kk śaktamāya bharaṇaṁ kāḻcavaykkuka sādhyamalla. kaḻiñña tiraññeṭuppukaḷil̕ dēśīya pāṟ̕ṭṭikaḷ̕ duṟ̕balamāvukayuṁ prādēśika pāṟ̕ṭṭikaḷ̕ śaktarāvukayuṁ ceytatināl̕ bharaṇattil̕ paṅkāḷittamuḷḷa prādēśika pāṟ̕ṭṭikaḷuṭe aḻimatikaḷuṁ svāṟ̕tthatayuṁ rājyattin valiya naṣṭaṅṅaḷuṇṭākkiyiṭṭuṇṭ. iprāvaśyaṁ kēvala bhūripakṣaṁ oṟṟaykkuḷḷa oru pāṟ̕ṭṭi bharikkunnatināl̕ kūṭutal̕ kāryakṣamatayuṁ ūṟ̕jasvalatayuṁ bharaṇattinuṇṭākān̕ sādhyatayēṟeyāṇ. atināl̕ ī tiraññeṭuppuphalaṁ daivakaraṅṅaḷil̕ ninnuṁ svīkaricc putiya saṟ̕kkārin kūṭutal̕ daivakr̥pa labhikkuvān̕ nāṁ prāṟ̕tthikkaṇaṁ. ''ellā bhaktiyiluṁ viśuddhiyiluṁ śāntavuṁ samādhānapūṟ̕ṇavumāya jīvitaṁ nayikkān̕ namukkiṭayākattakkavidhaṁ rājākkanmāṟ̕kkuṁ unnatasthānīyaṟ̕kkuṁvēṇṭi prāṟ̕tthikkaṇaṁ. it uttamavuṁ nammuṭe rakṣakanāya daivattinṟe munnil̕ svīkāryavuṁ atre'' enna senṟ pōḷinṟe vākkukaḷ̕ iviṭe smaraṇīyamāṇ (1 timōtti 21:23).
+# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
+1	ഇപ്രാവശ്യം	ഇപ്രാവശ്യം	NOUN	_	Case=Acc|Number=Sing	0	root	_	Translit=iprāvaśyaṁ|LTranslit=iprāvaśyaṁ
+2	കേവല	കേവല	ADJ	_	_	0	root	_	Translit=kēvala|LTranslit=kēvala
+3	ഭൂരിപക്ഷം	ഭൂരിപക്ഷം	ADV	_	_	0	root	_	Translit=bhūripakṣaṁ|LTranslit=bhūripakṣaṁ
+4	ഒറ്റയ്ക്കുള്ള	ഒറ്റയ്ക്കുള്ള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=oṟṟaykkuḷḷa|LTranslit=oṟṟaykkuḷḷa
+5	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	0	root	_	Translit=oru|LTranslit=oru
+6	പാർട്ടി	പാർട്ടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=pāṟ̕ṭṭi|LTranslit=pāṟ̕ṭṭuka
+7	ഭരിക്കുന്നതിനാൽ	ഭരിക്കുന്നതിനാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=bharikkunnatināl̕|LTranslit=bharikkunnatināl̕
+8	കൂടുതൽ	കൂടുതൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=kūṭutal̕|LTranslit=kūṭutal̕
+9-10	കാര്യക്ഷമതയും	_	_	_	_	_	_	_	Translit=kāryakṣamatayuṁ
+9	കാര്യക്ഷമത	കാര്യക്ഷമയുക	VERB	_	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	_	Translit=kāryakṣamata|LTranslit=kāryakṣamayuka
+10	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+11-12	ഊർജസ്വലതയും	_	_	_	_	_	_	_	Translit=ūṟ̕jasvalatayuṁ
+11	ഊർജസ്വലത	ഊർജസ്വലയുക	VERB	_	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	_	Translit=ūṟ̕jasvalata|LTranslit=ūṟ̕jasvalayuka
+12	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+13	ഭരണത്തിനുണ്ടാകാൻ	ഭരണത്തിനുണ്ടാകാൻ	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	Translit=bharaṇattinuṇṭākān̕|LTranslit=bharaṇattinuṇṭākān̕
+14-15	സാധ്യതയേറെയാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=sādhyatayēṟeyāṇ
+14	സാധ്യതയേറെയ്	സാധ്യതയേറെയ്	ADV	_	_	0	root	_	Translit=sādhyatayēṟey|LTranslit=sādhyatayēṟey
+15	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	Translit=āṇ|LTranslit=āk
+16	.	.	PUNCT	_	_	0	root	_	Translit=.|LTranslit=.
+
+# sent_id = indiccorp56-bis-bis-bis-bis-bis-bis-bis
+# text = അതിനാൽ ഈ തിരഞ്ഞെടുപ്പുഫലം ദൈവകരങ്ങളിൽ നിന്നും സ്വീകരിച്ച് പുതിയ സർക്കാരിന് കൂടുതൽ ദൈവകൃപ ലഭിക്കുവാൻ നാം പ്രാർത്ഥിക്കണം.
+# translit = adhikāraṁ eppōḻuṁ duṣippikkunna onnāṇ. orē pāṟ̕ṭṭi tanne tuṭaṟ̕ccayāyi adhikāraṁ kaiyāḷumpōḷ̕ adhikāra dallāḷanmāruṁ udyōgastharuṁ prabalarāvukayuṁ bharaṇaṁ jīṟ̕ṇikkukayuṁ ceyyuka svābhāvikamāṇ. atukoṇṭ adhikārattil̕ninnuṁ iṭaykkiṭe māṟinilkkunnat rāṣṭrīya pāṟ̕ṭṭikaḷuṭe viśuddhīkaraṇattinuṁ śaktīkaraṇattinuṁ nallatāṇ. atināl̕, kōṇ̕grasinṟeyuṁ sakhyakakṣikaḷuṭeyuṁ parājayavuṁ intyayuṭe janādhipatyattinuṁ atatu pāṟ̕ṭṭikaḷuṭe nalla bhāvikkuṁ atyāvaśyamāṇ. mātramalla, oṟṟaykk bharikkān̕ bhūripakṣamillāttatināl̕ sakhyakakṣikaḷuṭeyellāṁ iṁgitattinu vaḻaṅṅi bharikkunna dēśīya pāṟ̕ṭṭikaḷ̕kk śaktamāya bharaṇaṁ kāḻcavaykkuka sādhyamalla. kaḻiñña tiraññeṭuppukaḷil̕ dēśīya pāṟ̕ṭṭikaḷ̕ duṟ̕balamāvukayuṁ prādēśika pāṟ̕ṭṭikaḷ̕ śaktarāvukayuṁ ceytatināl̕ bharaṇattil̕ paṅkāḷittamuḷḷa prādēśika pāṟ̕ṭṭikaḷuṭe aḻimatikaḷuṁ svāṟ̕tthatayuṁ rājyattin valiya naṣṭaṅṅaḷuṇṭākkiyiṭṭuṇṭ. iprāvaśyaṁ kēvala bhūripakṣaṁ oṟṟaykkuḷḷa oru pāṟ̕ṭṭi bharikkunnatināl̕ kūṭutal̕ kāryakṣamatayuṁ ūṟ̕jasvalatayuṁ bharaṇattinuṇṭākān̕ sādhyatayēṟeyāṇ. atināl̕ ī tiraññeṭuppuphalaṁ daivakaraṅṅaḷil̕ ninnuṁ svīkaricc putiya saṟ̕kkārin kūṭutal̕ daivakr̥pa labhikkuvān̕ nāṁ prāṟ̕tthikkaṇaṁ. ''ellā bhaktiyiluṁ viśuddhiyiluṁ śāntavuṁ samādhānapūṟ̕ṇavumāya jīvitaṁ nayikkān̕ namukkiṭayākattakkavidhaṁ rājākkanmāṟ̕kkuṁ unnatasthānīyaṟ̕kkuṁvēṇṭi prāṟ̕tthikkaṇaṁ. it uttamavuṁ nammuṭe rakṣakanāya daivattinṟe munnil̕ svīkāryavuṁ atre'' enna senṟ pōḷinṟe vākkukaḷ̕ iviṭe smaraṇīyamāṇ (1 timōtti 21:23).
+# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
+1	അതിനാൽ	അതിനാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=atināl̕|LTranslit=atināl̕
+2	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	0	root	_	Translit=ī|LTranslit=ī
+3	തിരഞ്ഞെടുപ്പുഫലം	തിരഞ്ഞെടുപ്പുഫലം	ADV	_	_	0	root	_	Translit=tiraññeṭuppuphalaṁ|LTranslit=tiraññeṭuppuphalaṁ
+4	ദൈവകരങ്ങളിൽ	ദൈവകരങ്ങള്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	0	root	_	Translit=daivakaraṅṅaḷil̕|LTranslit=daivakaraṅṅaḷ
+5-6	നിന്നും	_	_	_	_	_	_	_	Translit=ninnuṁ
+5	നിന്ന	നിന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=ninna|LTranslit=ninna
+6	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+7	സ്വീകരിച്ച്	സ്വീകരിച്ച്	ADV	_	_	0	root	_	Translit=svīkaricc|LTranslit=svīkaricc
+8	പുതിയ	പുതിയ	ADJ	_	_	0	root	_	Translit=putiya|LTranslit=putiya
+9	സർക്കാരിന്	സർക്കാര്	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	0	root	_	Translit=saṟ̕kkārin|LTranslit=saṟ̕kkār
+10	കൂടുതൽ	കൂടുതൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=kūṭutal̕|LTranslit=kūṭutal̕
+11	ദൈവകൃപ	ദൈവകൃപ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=daivakr̥pa|LTranslit=daivakr̥pa
+12	ലഭിക്കുവാൻ	ലഭിക്കുവുക	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	_	Translit=labhikkuvān̕|LTranslit=labhikkuvuka
+13	നാം	നാം	ADV	_	_	0	root	_	Translit=nāṁ|LTranslit=nāṁ
+14	പ്രാർത്ഥിക്കണം	പ്രാർത്ഥിക്കണം	NOUN	_	Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=prāṟ̕tthikkaṇaṁ|LTranslit=prāṟ̕tthikkaṇaṁ
+15	.	.	PUNCT	_	_	0	root	_	Translit=.|LTranslit=.
+
+# sent_id = indiccorp56-bis-bis-bis-bis-bis-bis-bis-bis
+# text = ''എല്ലാ ഭക്തിയിലും വിശുദ്ധിയിലും ശാന്തവും സമാധാനപൂർണവുമായ ജീവിതം നയിക്കാൻ നമുക്കിടയാകത്തക്കവിധം രാജാക്കന്മാർക്കും ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടി പ്രാർത്ഥിക്കണം. ഇത് ഉത്തമവും നമ്മുടെ രക്ഷകനായ ദൈവത്തിന്റെ മുന്നിൽ സ്വീകാര്യവും അത്രെ'' എന്ന സെന്റ് പോളിന്റെ വാക്കുകൾ ഇവിടെ സ്മരണീയമാണ് (1 തിമോത്തി 21:23).
+# translit = adhikāraṁ eppōḻuṁ duṣippikkunna onnāṇ. orē pāṟ̕ṭṭi tanne tuṭaṟ̕ccayāyi adhikāraṁ kaiyāḷumpōḷ̕ adhikāra dallāḷanmāruṁ udyōgastharuṁ prabalarāvukayuṁ bharaṇaṁ jīṟ̕ṇikkukayuṁ ceyyuka svābhāvikamāṇ. atukoṇṭ adhikārattil̕ninnuṁ iṭaykkiṭe māṟinilkkunnat rāṣṭrīya pāṟ̕ṭṭikaḷuṭe viśuddhīkaraṇattinuṁ śaktīkaraṇattinuṁ nallatāṇ. atināl̕, kōṇ̕grasinṟeyuṁ sakhyakakṣikaḷuṭeyuṁ parājayavuṁ intyayuṭe janādhipatyattinuṁ atatu pāṟ̕ṭṭikaḷuṭe nalla bhāvikkuṁ atyāvaśyamāṇ. mātramalla, oṟṟaykk bharikkān̕ bhūripakṣamillāttatināl̕ sakhyakakṣikaḷuṭeyellāṁ iṁgitattinu vaḻaṅṅi bharikkunna dēśīya pāṟ̕ṭṭikaḷ̕kk śaktamāya bharaṇaṁ kāḻcavaykkuka sādhyamalla. kaḻiñña tiraññeṭuppukaḷil̕ dēśīya pāṟ̕ṭṭikaḷ̕ duṟ̕balamāvukayuṁ prādēśika pāṟ̕ṭṭikaḷ̕ śaktarāvukayuṁ ceytatināl̕ bharaṇattil̕ paṅkāḷittamuḷḷa prādēśika pāṟ̕ṭṭikaḷuṭe aḻimatikaḷuṁ svāṟ̕tthatayuṁ rājyattin valiya naṣṭaṅṅaḷuṇṭākkiyiṭṭuṇṭ. iprāvaśyaṁ kēvala bhūripakṣaṁ oṟṟaykkuḷḷa oru pāṟ̕ṭṭi bharikkunnatināl̕ kūṭutal̕ kāryakṣamatayuṁ ūṟ̕jasvalatayuṁ bharaṇattinuṇṭākān̕ sādhyatayēṟeyāṇ. atināl̕ ī tiraññeṭuppuphalaṁ daivakaraṅṅaḷil̕ ninnuṁ svīkaricc putiya saṟ̕kkārin kūṭutal̕ daivakr̥pa labhikkuvān̕ nāṁ prāṟ̕tthikkaṇaṁ. ''ellā bhaktiyiluṁ viśuddhiyiluṁ śāntavuṁ samādhānapūṟ̕ṇavumāya jīvitaṁ nayikkān̕ namukkiṭayākattakkavidhaṁ rājākkanmāṟ̕kkuṁ unnatasthānīyaṟ̕kkuṁvēṇṭi prāṟ̕tthikkaṇaṁ. it uttamavuṁ nammuṭe rakṣakanāya daivattinṟe munnil̕ svīkāryavuṁ atre'' enna senṟ pōḷinṟe vākkukaḷ̕ iviṭe smaraṇīyamāṇ (1 timōtti 21:23).
+# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
+1	'	'	PUNCT	_	_	0	root	_	SpaceAfter=No|Translit='|LTranslit='
+2	'	'	PUNCT	_	_	0	root	_	SpaceAfter=No|Translit='|LTranslit='
+3	എല്ലാ	എല്ലാ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=ellā|LTranslit=ellā
+4-5	ഭക്തിയിലും	_	_	_	_	_	_	_	Translit=bhaktiyiluṁ
+4	ഭക്തിയില	ഭക്തിയില	ADJ	_	_	0	root	_	Translit=bhaktiyila|LTranslit=bhaktiyila
+5	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+6-7	വിശുദ്ധിയിലും	_	_	_	_	_	_	_	Translit=viśuddhiyiluṁ
+6	വിശുദ്ധിയില	വിശുദ്ധിയില	ADJ	_	_	0	root	_	Translit=viśuddhiyila|LTranslit=viśuddhiyila
+7	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+8-9	ശാന്തവും	_	_	_	_	_	_	_	Translit=śāntavuṁ
+8	ശാന്തം	ശാന്തം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=śāntaṁ|LTranslit=śāntaṁ
+9	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+10	സമാധാനപൂർണവുമായ	സമാധാനപൂർണവും	ADJ	_	_	0	root	_	Translit=samādhānapūṟ̕ṇavumāya|LTranslit=samādhānapūṟ̕ṇavuṁ
+11	ജീവിതം	ജീവിതം	NOUN	_	Case=Acc|Number=Sing	0	root	_	Translit=jīvitaṁ|LTranslit=jīvitaṁ
+12	നയിക്കാൻ	നയികുക	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	_	Translit=nayikkān̕|LTranslit=nayikuka
+13	നമുക്കിടയാകത്തക്കവിധം	നമുക്കിടയാകത്തക്കവിധം	ADV	_	_	0	root	_	Translit=namukkiṭayākattakkavidhaṁ|LTranslit=namukkiṭayākattakkavidhaṁ
+14-15	രാജാക്കന്മാർക്കും	_	_	_	_	_	_	_	Translit=rājākkanmāṟ̕kkuṁ
+14	രാജാക്കന്മാർക്ക	രാജാക്കന്മാർക്ക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=rājākkanmāṟ̕kka|LTranslit=rājākkanmāṟ̕kka
+15	ഉം	ഉം	PART	_	_	0	root	_	Translit=uṁ|LTranslit=uṁ
+16	ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടി	ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=unnatasthānīyaṟ̕kkuṁvēṇṭi|LTranslit=unnatasthānīyaṟ̕kkuṁvēṇṭuka
+17	പ്രാർത്ഥിക്കണം	പ്രാർത്ഥിക്കണം	NOUN	_	Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=prāṟ̕tthikkaṇaṁ|LTranslit=prāṟ̕tthikkaṇaṁ
+18	.	.	PUNCT	_	_	0	root	_	Translit=.|LTranslit=.
+19	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Gender=Neut|Number=Sing|Person=3|PronType=Prs	41	nsubj	_	Translit=it|LTranslit=it
+20-21	ഉത്തമവും	_	_	_	_	_	_	_	Translit=uttamavuṁ
+20	ഉത്തമം	ഉത്തമം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	41	obj	_	Translit=uttamaṁ|LTranslit=uttamaṁ
+21	ഉം	ഉം	PART	_	_	41	nsubj	_	Translit=uṁ|LTranslit=uṁ
+22	നമ്മുടെ	നമ്മുടെ	ADV	_	_	41	advmod	_	Translit=nammuṭe|LTranslit=nammuṭe
+23	രക്ഷകനായ	രക്ഷകനായ	ADJ	_	_	41	amod	_	Translit=rakṣakanāya|LTranslit=rakṣakanāya
+24	ദൈവത്തിന്റെ	ദൈവത്ത്	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	41	nmod:poss	_	Translit=daivattinṟe|LTranslit=daivatt
+25	മുന്നിൽ	മുന്ന്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	41	nmod:poss	_	Translit=munnil̕|LTranslit=munn
+26-27	സ്വീകാര്യവും	_	_	_	_	_	_	_	Translit=svīkāryavuṁ
+26	സ്വീകാര്യം	സ്വീകാര്യം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	41	nsubj	_	Translit=svīkāryaṁ|LTranslit=svīkāryaṁ
+27	ഉം	ഉം	PART	_	_	41	det	_	Translit=uṁ|LTranslit=uṁ
+28	അത്രെ	അത്രെ	ADV	_	_	41	advmod	_	SpaceAfter=No|Translit=atre|LTranslit=atre
+29	'	'	PUNCT	_	_	41	nmod:poss	_	SpaceAfter=No|Translit='|LTranslit='
+30	'	'	PUNCT	_	_	41	nmod:poss	_	Translit='|LTranslit='
+31	എന്ന	എന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	41	nsubj	_	Translit=enna|LTranslit=enna
+32	സെന്റ്	സെന്റ്	ADV	_	_	41	advmod	_	Translit=senṟ|LTranslit=senṟ
+33	പോളിന്റെ	പോളീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	41	nsubj	_	Translit=pōḷinṟe|LTranslit=pōḷī
+34	വാക്കുകൾ	വാക്കുകൾ	NOUN	_	Animacy=Anim|Case=Acc|Number=Plur	41	nsubj	_	Translit=vākkukaḷ̕|LTranslit=vākkukaḷ̕
+35	ഇവിടെ	ഇവിടെ	ADV	_	_	41	advmod	_	Translit=iviṭe|LTranslit=iviṭe
+36-37	സ്മരണീയമാണ്	_	_	_	_	_	_	_	Translit=smaraṇīyamāṇ
+36	സ്മരണീയമ്	സ്മരണീയമ്	ADV	_	_	41	advmod	_	Translit=smaraṇīyam|LTranslit=smaraṇīyam
+37	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	41	nsubj	_	Translit=āṇ|LTranslit=āk
+38	(1	(1	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	41	nmod:poss	_	Translit=(1|LTranslit=(1
+39	തിമോത്തി	തിമോത്തുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	41	det	_	Translit=timōtti|LTranslit=timōttuka
+40	21	21	NUM	_	_	41	nsubj	_	SpaceAfter=No|Translit=21|LTranslit=21
+41	:23)	:23)	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=:23)|LTranslit=:23)
+42	.	.	PUNCT	_	_	41	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
+
+# sent_id = indiccorp56-bis
+# text = . ഒരേ പാർട്ടി തന്നെ തുടർച്ചയായി അധികാരം കൈയാളുമ്പോൾ അധികാര ദല്ലാളന്മാരും ഉദ്യോഗസ്ഥരും പ്രബലരാവുകയും ഭരണം ജീർണിക്കുകയും ചെയ്യുക സ്വാഭാവികമാണ്. അതുകൊണ്ട് അധികാരത്തിൽനിന്നും ഇടയ്ക്കിടെ മാറിനില്ക്കുന്നത് രാഷ്ട്രീയ പാർട്ടികളുടെ വിശുദ്ധീകരണത്തിനും ശക്തീകരണത്തിനും നല്ലതാണ്. അതിനാൽ, കോൺഗ്രസിന്റെയും സഖ്യകക്ഷികളുടെയും പരാജയവും ഇന്ത്യയുടെ ജനാധിപത്യത്തിനും അതതു പാർട്ടികളുടെ നല്ല ഭാവിക്കും അത്യാവശ്യമാണ്. മാത്രമല്ല, ഒറ്റയ്ക്ക് ഭരിക്കാൻ ഭൂരിപക്ഷമില്ലാത്തതിനാൽ സഖ്യകക്ഷികളുടെയെല്ലാം ഇംഗിതത്തിനു വഴങ്ങി ഭരിക്കുന്ന ദേശീയ പാർട്ടികൾക്ക് ശക്തമായ ഭരണം കാഴ്ചവയ്ക്കുക സാധ്യമല്ല. കഴിഞ്ഞ തിരഞ്ഞെടുപ്പുകളിൽ ദേശീയ പാർട്ടികൾ ദുർബലമാവുകയും പ്രാദേശിക പാർട്ടികൾ ശക്തരാവുകയും ചെയ്തതിനാൽ ഭരണത്തിൽ പങ്കാളിത്തമുള്ള പ്രാദേശിക പാർട്ടികളുടെ അഴിമതികളും സ്വാർത്ഥതയും രാജ്യത്തിന് വലിയ നഷ്ടങ്ങളുണ്ടാക്കിയിട്ടുണ്ട്. ഇപ്രാവശ്യം കേവല ഭൂരിപക്ഷം ഒറ്റയ്ക്കുള്ള ഒരു പാർട്ടി ഭരിക്കുന്നതിനാൽ കൂടുതൽ കാര്യക്ഷമതയും ഊർജസ്വലതയും ഭരണത്തിനുണ്ടാകാൻ സാധ്യതയേറെയാണ്. അതിനാൽ ഈ തിരഞ്ഞെടുപ്പുഫലം ദൈവകരങ്ങളിൽ നിന്നും സ്വീകരിച്ച് പുതിയ സർക്കാരിന് കൂടുതൽ ദൈവകൃപ ലഭിക്കുവാൻ നാം പ്രാർത്ഥിക്കണം. ''എല്ലാ ഭക്തിയിലും വിശുദ്ധിയിലും ശാന്തവും സമാധാനപൂർണവുമായ ജീവിതം നയിക്കാൻ നമുക്കിടയാകത്തക്കവിധം രാജാക്കന്മാർക്കും ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടി പ്രാർത്ഥിക്കണം. ഇത് ഉത്തമവും നമ്മുടെ രക്ഷകനായ ദൈവത്തിന്റെ മുന്നിൽ സ്വീകാര്യവും അത്രെ'' എന്ന സെന്റ് പോളിന്റെ വാക്കുകൾ ഇവിടെ സ്മരണീയമാണ് (1 തിമോത്തി 21:23).
+# translit = adhikāraṁ eppōḻuṁ duṣippikkunna onnāṇ. orē pāṟ̕ṭṭi tanne tuṭaṟ̕ccayāyi adhikāraṁ kaiyāḷumpōḷ̕ adhikāra dallāḷanmāruṁ udyōgastharuṁ prabalarāvukayuṁ bharaṇaṁ jīṟ̕ṇikkukayuṁ ceyyuka svābhāvikamāṇ. atukoṇṭ adhikārattil̕ninnuṁ iṭaykkiṭe māṟinilkkunnat rāṣṭrīya pāṟ̕ṭṭikaḷuṭe viśuddhīkaraṇattinuṁ śaktīkaraṇattinuṁ nallatāṇ. atināl̕, kōṇ̕grasinṟeyuṁ sakhyakakṣikaḷuṭeyuṁ parājayavuṁ intyayuṭe janādhipatyattinuṁ atatu pāṟ̕ṭṭikaḷuṭe nalla bhāvikkuṁ atyāvaśyamāṇ. mātramalla, oṟṟaykk bharikkān̕ bhūripakṣamillāttatināl̕ sakhyakakṣikaḷuṭeyellāṁ iṁgitattinu vaḻaṅṅi bharikkunna dēśīya pāṟ̕ṭṭikaḷ̕kk śaktamāya bharaṇaṁ kāḻcavaykkuka sādhyamalla. kaḻiñña tiraññeṭuppukaḷil̕ dēśīya pāṟ̕ṭṭikaḷ̕ duṟ̕balamāvukayuṁ prādēśika pāṟ̕ṭṭikaḷ̕ śaktarāvukayuṁ ceytatināl̕ bharaṇattil̕ paṅkāḷittamuḷḷa prādēśika pāṟ̕ṭṭikaḷuṭe aḻimatikaḷuṁ svāṟ̕tthatayuṁ rājyattin valiya naṣṭaṅṅaḷuṇṭākkiyiṭṭuṇṭ. iprāvaśyaṁ kēvala bhūripakṣaṁ oṟṟaykkuḷḷa oru pāṟ̕ṭṭi bharikkunnatināl̕ kūṭutal̕ kāryakṣamatayuṁ ūṟ̕jasvalatayuṁ bharaṇattinuṇṭākān̕ sādhyatayēṟeyāṇ. atināl̕ ī tiraññeṭuppuphalaṁ daivakaraṅṅaḷil̕ ninnuṁ svīkaricc putiya saṟ̕kkārin kūṭutal̕ daivakr̥pa labhikkuvān̕ nāṁ prāṟ̕tthikkaṇaṁ. ''ellā bhaktiyiluṁ viśuddhiyiluṁ śāntavuṁ samādhānapūṟ̕ṇavumāya jīvitaṁ nayikkān̕ namukkiṭayākattakkavidhaṁ rājākkanmāṟ̕kkuṁ unnatasthānīyaṟ̕kkuṁvēṇṭi prāṟ̕tthikkaṇaṁ. it uttamavuṁ nammuṭe rakṣakanāya daivattinṟe munnil̕ svīkāryavuṁ atre'' enna senṟ pōḷinṟe vākkukaḷ̕ iviṭe smaraṇīyamāṇ (1 timōtti 21:23).
+# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
+1	.	.	PUNCT	_	_	61	nsubj	_	Translit=.|LTranslit=.
+2	ഒരേ	ഒരേ	CCONJ	_	_	61	nsubj	_	Translit=orē|LTranslit=orē
+3	പാർട്ടി	പാർട്ടി	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	61	nsubj	_	Translit=pāṟ̕ṭṭi|LTranslit=pāṟ̕ṭṭi
+4	തന്നെ	തന്നെ	ADV	_	_	61	advmod	_	Translit=tanne|LTranslit=tanne
+5	തുടർച്ചയായി	തുടർച്ചയായുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	61	nsubj	_	Translit=tuṭaṟ̕ccayāyi|LTranslit=tuṭaṟ̕ccayāyuka
+6	അധികാരം	അധികാരം	ADV	_	_	61	advmod	_	Translit=adhikāraṁ|LTranslit=adhikāraṁ
+7	കൈയാളുമ്പോൾ	കൈയാളുമ്പോൾ	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	61	nsubj	_	Translit=kaiyāḷumpōḷ̕|LTranslit=kaiyāḷumpōḷ̕
+8	അധികാര	അധികാര	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	61	nsubj	_	Translit=adhikāra|LTranslit=adhikāra
+9-10	ദല്ലാളന്മാരും	_	_	_	_	_	_	_	Translit=dallāḷanmāruṁ
+9	ദല്ലാളന്മാര	ദല്ലാളന്മാര	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	61	nsubj	_	Translit=dallāḷanmāra|LTranslit=dallāḷanmāra
+10	ഉം	ഉം	PART	_	_	61	nsubj	_	Translit=uṁ|LTranslit=uṁ
+11-12	ഉദ്യോഗസ്ഥരും	_	_	_	_	_	_	_	Translit=udyōgastharuṁ
+11	ഉദ്യോഗസ്ഥര	ഉദ്യോഗസ്ഥര	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	61	nsubj	_	Translit=udyōgasthara|LTranslit=udyōgasthara
+12	ഉം	ഉം	PART	_	_	61	nsubj	_	Translit=uṁ|LTranslit=uṁ
+13-14	പ്രബലരാവുകയും	_	_	_	_	_	_	_	Translit=prabalarāvukayuṁ
+13	പ്രബലരാവുക	പ്രബലരാവുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	61	nsubj	_	Translit=prabalarāvuka|LTranslit=prabalarāvuka
+14	ഉം	ഉം	PART	_	_	61	nsubj	_	Translit=uṁ|LTranslit=uṁ
+15	ഭരണം	ഭരണം	ADV	_	_	61	advmod	_	Translit=bharaṇaṁ|LTranslit=bharaṇaṁ
+16-17	ജീർണിക്കുകയും	_	_	_	_	_	_	_	Translit=jīṟ̕ṇikkukayuṁ
+16	ജീർണിക്കുക	ജീർണിക്കുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	61	nsubj	_	Translit=jīṟ̕ṇikkuka|LTranslit=jīṟ̕ṇikkuka
+17	ഉം	ഉം	PART	_	_	61	nsubj	_	Translit=uṁ|LTranslit=uṁ
+18	ചെയ്യുക	ചെയ്യുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	61	nsubj	_	Translit=ceyyuka|LTranslit=ceyyuka
+19-20	സ്വാഭാവികമാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=svābhāvikamāṇ
+19	സ്വാഭാവികമ്	സ്വാഭാവികമ്	ADV	_	_	61	advmod	_	Translit=svābhāvikam|LTranslit=svābhāvikam
+20	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	61	nsubj	_	Translit=āṇ|LTranslit=āk
+21	.	.	PUNCT	_	_	61	nsubj	_	Translit=.|LTranslit=.
+22	അതുകൊണ്ട്	അതുകൊണ്ട്	ADV	_	_	61	advmod	_	Translit=atukoṇṭ|LTranslit=atukoṇṭ
+23-24	അധികാരത്തിൽനിന്നും	_	_	_	_	_	_	_	Translit=adhikārattil̕ninnuṁ
+23	അധികാരത്തിൽനിന്ന	അധികാരത്തിൽനിന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	61	nsubj	_	Translit=adhikārattil̕ninna|LTranslit=adhikārattil̕ninna
+24	ഉം	ഉം	PART	_	_	61	nsubj	_	Translit=uṁ|LTranslit=uṁ
+25	ഇടയ്ക്കിടെ	ഇടയ്ക്കിടെ	ADV	_	_	61	advmod	_	Translit=iṭaykkiṭe|LTranslit=iṭaykkiṭe
+26	മാറിനില്ക്കുന്നത്	മാറിനില്ക്കുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	61	nsubj	_	Translit=māṟinilkkunnat|LTranslit=māṟinilkkuka
+27	രാഷ്ട്രീയ	രാഷ്ട്രീയ	ADJ	_	_	61	nsubj	_	Translit=rāṣṭrīya|LTranslit=rāṣṭrīya
+28	പാർട്ടികളുടെ	പാർട്ടികൾ	PRON	_	Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	61	nsubj	_	Translit=pāṟ̕ṭṭikaḷuṭe|LTranslit=pāṟ̕ṭṭikaḷ̕
+29-30	വിശുദ്ധീകരണത്തിനും	_	_	_	_	_	_	_	Translit=viśuddhīkaraṇattinuṁ
+29	വിശുദ്ധീകരണത്തിന	വിശുദ്ധീകരണത്തിന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	61	nsubj	_	Translit=viśuddhīkaraṇattina|LTranslit=viśuddhīkaraṇattina
+30	ഉം	ഉം	PART	_	_	61	nsubj	_	Translit=uṁ|LTranslit=uṁ
+31-32	ശക്തീകരണത്തിനും	_	_	_	_	_	_	_	Translit=śaktīkaraṇattinuṁ
+31	ശക്തീകരണത്തിന	ശക്തീകരണത്തിന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	61	nsubj	_	Translit=śaktīkaraṇattina|LTranslit=śaktīkaraṇattina
+32	ഉം	ഉം	PART	_	_	61	nsubj	_	Translit=uṁ|LTranslit=uṁ
+33-34	നല്ലതാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=nallatāṇ
+33	നല്ലത്	നല്ല	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	61	obj	_	Translit=nallat|LTranslit=nalla
+34	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	61	nsubj	_	Translit=āṇ|LTranslit=āk
+35	.	.	PUNCT	_	_	61	nsubj	_	Translit=.|LTranslit=.
+36	അതിനാൽ	അതിനാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	61	nsubj	_	SpaceAfter=No|Translit=atināl̕|LTranslit=atināl̕
+37	,	,	PUNCT	_	_	61	nsubj	_	Translit=,|LTranslit=,
+38-39	കോൺഗ്രസിന്റെയും	_	_	_	_	_	_	_	Translit=kōṇ̕grasinṟeyuṁ
+38	കോൺഗ്രസിന്റെ	കോൺഗ്രസ്	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	61	nsubj	_	Translit=kōṇ̕grasinṟe|LTranslit=kōṇ̕gras
+39	ഉം	ഉം	PART	_	_	61	nsubj	_	Translit=uṁ|LTranslit=uṁ
+40-41	സഖ്യകക്ഷികളുടെയും	_	_	_	_	_	_	_	Translit=sakhyakakṣikaḷuṭeyuṁ
+40	സഖ്യകക്ഷികളുടെ	സഖ്യകക്ഷികൾ	PRON	_	Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	61	nsubj	_	Translit=sakhyakakṣikaḷuṭe|LTranslit=sakhyakakṣikaḷ̕
+41	ഉം	ഉം	PART	_	_	61	nsubj	_	Translit=uṁ|LTranslit=uṁ
+42-43	പരാജയവും	_	_	_	_	_	_	_	Translit=parājayavuṁ
+42	പരാജയം	പരാജയം	NOUN	_	Case=Acc|Number=Sing	61	nsubj	_	Translit=parājayaṁ|LTranslit=parājayaṁ
+43	ഉം	ഉം	PART	_	_	61	nsubj	_	Translit=uṁ|LTranslit=uṁ
+44	ഇന്ത്യയുടെ	ഇന്ത്യയുടെ	ADV	_	_	61	advmod	_	Translit=intyayuṭe|LTranslit=intyayuṭe
+45-46	ജനാധിപത്യത്തിനും	_	_	_	_	_	_	_	Translit=janādhipatyattinuṁ
+45	ജനാധിപത്യത്തിന	ജനാധിപത്യത്തിന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	61	nsubj	_	Translit=janādhipatyattina|LTranslit=janādhipatyattina
+46	ഉം	ഉം	PART	_	_	61	nsubj	_	Translit=uṁ|LTranslit=uṁ
+47	അതതു	അതതു	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	61	nsubj	_	Translit=atatu|LTranslit=atatu
+48	പാർട്ടികളുടെ	പാർട്ടികൾ	PRON	_	Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	61	nsubj	_	Translit=pāṟ̕ṭṭikaḷuṭe|LTranslit=pāṟ̕ṭṭikaḷ̕
+49	നല്ല	നല്ല	ADJ	_	_	61	nsubj	_	Translit=nalla|LTranslit=nalla
+50-51	ഭാവിക്കും	_	_	_	_	_	_	_	Translit=bhāvikkuṁ
+50	ഭാവിക്ക	ഭാവിക്ക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	61	nsubj	_	Translit=bhāvikka|LTranslit=bhāvikka
+51	ഉം	ഉം	PART	_	_	61	nsubj	_	Translit=uṁ|LTranslit=uṁ
+52-53	അത്യാവശ്യമാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=atyāvaśyamāṇ
+52	അത്യാവശ്യമ്	അത്യാവശ്യമ്	ADV	_	_	61	advmod	_	Translit=atyāvaśyam|LTranslit=atyāvaśyam
+53	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	61	nsubj	_	Translit=āṇ|LTranslit=āk
+54	.	.	PUNCT	_	_	61	nsubj	_	Translit=.|LTranslit=.
+55	മാത്രമല്ല	മാത്രമല്ല	ADJ	_	_	61	nsubj	_	SpaceAfter=No|Translit=mātramalla|LTranslit=mātramalla
+56	,	,	PUNCT	_	_	61	nsubj	_	Translit=,|LTranslit=,
+57	ഒറ്റയ്ക്ക്	ഒറ്റയ്ക്ക്	ADV	_	_	61	advmod	_	Translit=oṟṟaykk|LTranslit=oṟṟaykk
+58	ഭരിക്കാൻ	ഭരിക്കാൻ	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	61	nsubj	_	Translit=bharikkān̕|LTranslit=bharikkān̕
+59	ഭൂരിപക്ഷമില്ലാത്തതിനാൽ	ഭൂരിപക്ഷമില്ലാത്തതിനാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	61	nsubj	_	Translit=bhūripakṣamillāttatināl̕|LTranslit=bhūripakṣamillāttatināl̕
+60	സഖ്യകക്ഷികളുടെയെല്ലാം	സഖ്യകക്ഷികളുടെയെല്ലാം	ADV	_	_	61	advmod	_	Translit=sakhyakakṣikaḷuṭeyellāṁ|LTranslit=sakhyakakṣikaḷuṭeyellāṁ
+61	ഇംഗിതത്തിനു	ഇംഗിതത്തിനു	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=iṁgitattinu|LTranslit=iṁgitattinu
+62	വഴങ്ങി	വഴങ്ങി	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	75	nsubj	_	Translit=vaḻaṅṅi|LTranslit=vaḻaṅṅi
+63	ഭരിക്കുന്ന	ഭരിക്കുന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	75	det	_	Translit=bharikkunna|LTranslit=bharikkunna
+64	ദേശീയ	ദേശീയ	ADJ	_	_	75	amod	_	Translit=dēśīya|LTranslit=dēśīya
+65	പാർട്ടികൾക്ക്	പാർട്ടികൾക്ക്	ADV	_	_	75	advmod	_	Translit=pāṟ̕ṭṭikaḷ̕kk|LTranslit=pāṟ̕ṭṭikaḷ̕kk
+66	ശക്തമായ	ശക്തം	ADJ	_	_	75	amod	_	Translit=śaktamāya|LTranslit=śaktaṁ
+67	ഭരണം	ഭരണം	NOUN	_	Case=Acc|Number=Sing	75	nsubj	_	Translit=bharaṇaṁ|LTranslit=bharaṇaṁ
+68	കാഴ്ചവയ്ക്കുക	കാഴ്ചവയ്ക്കുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	75	det	_	Translit=kāḻcavaykkuka|LTranslit=kāḻcavaykkuka
+69	സാധ്യമല്ല	സാധ്യമല്ല	ADJ	_	_	75	amod	_	SpaceAfter=No|Translit=sādhyamalla|LTranslit=sādhyamalla
+70	.	.	PUNCT	_	_	75	nmod:poss	_	Translit=.|LTranslit=.
+71	കഴിഞ്ഞ	കഴിഞ്ഞ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	75	nsubj	_	Translit=kaḻiñña|LTranslit=kaḻiñña
+72	തിരഞ്ഞെടുപ്പുകളിൽ	തിരഞ്ഞെടുപ്പുകള്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	75	nmod:poss	_	Translit=tiraññeṭuppukaḷil̕|LTranslit=tiraññeṭuppukaḷ
+73	ദേശീയ	ദേശീയ	ADJ	_	_	75	amod	_	Translit=dēśīya|LTranslit=dēśīya
+74	പാർട്ടികൾ	പാർട്ടികൾ	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	75	nsubj	_	Translit=pāṟ̕ṭṭikaḷ̕|LTranslit=pāṟ̕ṭṭikaḷ̕
+75-76	ദുർബലമാവുകയും	_	_	_	_	_	_	_	Translit=duṟ̕balamāvukayuṁ
+75	ദുർബലമാവുക	ദുർബലമാവുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	61	punct	_	Translit=duṟ̕balamāvuka|LTranslit=duṟ̕balamāvuka
+76	ഉം	ഉം	PART	_	_	75	cc	_	Translit=uṁ|LTranslit=uṁ
+77	പ്രാദേശിക	പ്രാദേശിക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	nmod:poss	_	Translit=prādēśika|LTranslit=prādēśika
+78	പാർട്ടികൾ	പാർട്ടികൾ	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	165	nsubj	_	Translit=pāṟ̕ṭṭikaḷ̕|LTranslit=pāṟ̕ṭṭikaḷ̕
+79-80	ശക്തരാവുകയും	_	_	_	_	_	_	_	Translit=śaktarāvukayuṁ
+79	ശക്തരാവുക	ശക്തരാവുക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	nmod:poss	_	Translit=śaktarāvuka|LTranslit=śaktarāvuka
+80	ഉം	ഉം	PART	_	_	165	det	_	Translit=uṁ|LTranslit=uṁ
+81	ചെയ്തതിനാൽ	ചെയ്തതിനാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	nmod:poss	_	Translit=ceytatināl̕|LTranslit=ceytatināl̕
+82	ഭരണത്തിൽ	ഭരണത്ത്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	165	nmod:poss	_	Translit=bharaṇattil̕|LTranslit=bharaṇatt
+83	പങ്കാളിത്തമുള്ള	പങ്കാളിത്തമുള്ള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	nmod:poss	_	Translit=paṅkāḷittamuḷḷa|LTranslit=paṅkāḷittamuḷḷa
+84	പ്രാദേശിക	പ്രാദേശിക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	nmod:poss	_	Translit=prādēśika|LTranslit=prādēśika
+85	പാർട്ടികളുടെ	പാർട്ടികൾ	PRON	_	Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	165	nmod:poss	_	Translit=pāṟ̕ṭṭikaḷuṭe|LTranslit=pāṟ̕ṭṭikaḷ̕
+86-87	അഴിമതികളും	_	_	_	_	_	_	_	Translit=aḻimatikaḷuṁ
+86	അഴിമതികള	അഴിമതികള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	nsubj	_	Translit=aḻimatikaḷa|LTranslit=aḻimatikaḷa
+87	ഉം	ഉം	PART	_	_	165	det	_	Translit=uṁ|LTranslit=uṁ
+88-89	സ്വാർത്ഥതയും	_	_	_	_	_	_	_	Translit=svāṟ̕tthatayuṁ
+88	സ്വാർത്ഥത	സ്വാർത്ഥയുക	VERB	_	Polarity=Pos|VerbForm=Part|Voice=Act	165	nmod:poss	_	Translit=svāṟ̕tthata|LTranslit=svāṟ̕tthayuka
+89	ഉം	ഉം	PART	_	_	165	nsubj	_	Translit=uṁ|LTranslit=uṁ
+90	രാജ്യത്തിന്	രാജ്യത്ത്	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	165	nmod:poss	_	Translit=rājyattin|LTranslit=rājyatt
+91	വലിയ	വലിയ	ADJ	_	_	165	amod	_	Translit=valiya|LTranslit=valiya
+92	നഷ്ടങ്ങളുണ്ടാക്കിയിട്ടുണ്ട്	നഷ്ടങ്ങളുണ്ടാക്കിയിട്ടുണ്ട്	ADV	_	_	165	advmod	_	SpaceAfter=No|Translit=naṣṭaṅṅaḷuṇṭākkiyiṭṭuṇṭ|LTranslit=naṣṭaṅṅaḷuṇṭākkiyiṭṭuṇṭ
+93	.	.	PUNCT	_	_	165	nmod:poss	_	Translit=.|LTranslit=.
+94	ഇപ്രാവശ്യം	ഇപ്രാവശ്യം	NOUN	_	Case=Acc|Number=Sing	165	nsubj	_	Translit=iprāvaśyaṁ|LTranslit=iprāvaśyaṁ
+95	കേവല	കേവല	ADJ	_	_	165	nmod:poss	_	Translit=kēvala|LTranslit=kēvala
+96	ഭൂരിപക്ഷം	ഭൂരിപക്ഷം	ADV	_	_	165	advmod	_	Translit=bhūripakṣaṁ|LTranslit=bhūripakṣaṁ
+97	ഒറ്റയ്ക്കുള്ള	ഒറ്റയ്ക്കുള്ള	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	nsubj	_	Translit=oṟṟaykkuḷḷa|LTranslit=oṟṟaykkuḷḷa
+98	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	165	det	_	Translit=oru|LTranslit=oru
+99	പാർട്ടി	പാർട്ടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	165	amod	_	Translit=pāṟ̕ṭṭi|LTranslit=pāṟ̕ṭṭuka
+100	ഭരിക്കുന്നതിനാൽ	ഭരിക്കുന്നതിനാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	nmod:poss	_	Translit=bharikkunnatināl̕|LTranslit=bharikkunnatināl̕
+101	കൂടുതൽ	കൂടുതൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	nmod:poss	_	Translit=kūṭutal̕|LTranslit=kūṭutal̕
+102-103	കാര്യക്ഷമതയും	_	_	_	_	_	_	_	Translit=kāryakṣamatayuṁ
+102	കാര്യക്ഷമത	കാര്യക്ഷമയുക	VERB	_	Polarity=Pos|VerbForm=Part|Voice=Act	165	nmod:poss	_	Translit=kāryakṣamata|LTranslit=kāryakṣamayuka
+103	ഉം	ഉം	PART	_	_	165	nsubj	_	Translit=uṁ|LTranslit=uṁ
+104-105	ഊർജസ്വലതയും	_	_	_	_	_	_	_	Translit=ūṟ̕jasvalatayuṁ
+104	ഊർജസ്വലത	ഊർജസ്വലയുക	VERB	_	Polarity=Pos|VerbForm=Part|Voice=Act	165	nmod:poss	_	Translit=ūṟ̕jasvalata|LTranslit=ūṟ̕jasvalayuka
+105	ഉം	ഉം	PART	_	_	165	det	_	Translit=uṁ|LTranslit=uṁ
+106	ഭരണത്തിനുണ്ടാകാൻ	ഭരണത്തിനുണ്ടാകാൻ	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	165	nsubj	_	Translit=bharaṇattinuṇṭākān̕|LTranslit=bharaṇattinuṇṭākān̕
+107-108	സാധ്യതയേറെയാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=sādhyatayēṟeyāṇ
+107	സാധ്യതയേറെയ്	സാധ്യതയേറെയ്	ADV	_	_	165	advmod	_	Translit=sādhyatayēṟey|LTranslit=sādhyatayēṟey
+108	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	165	det	_	Translit=āṇ|LTranslit=āk
+109	.	.	PUNCT	_	_	165	nmod:poss	_	Translit=.|LTranslit=.
+110	അതിനാൽ	അതിനാൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	nmod:poss	_	Translit=atināl̕|LTranslit=atināl̕
+111	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	165	nmod:poss	_	Translit=ī|LTranslit=ī
+112	തിരഞ്ഞെടുപ്പുഫലം	തിരഞ്ഞെടുപ്പുഫലം	ADV	_	_	165	advmod	_	Translit=tiraññeṭuppuphalaṁ|LTranslit=tiraññeṭuppuphalaṁ
+113	ദൈവകരങ്ങളിൽ	ദൈവകരങ്ങള്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	165	nmod:poss	_	Translit=daivakaraṅṅaḷil̕|LTranslit=daivakaraṅṅaḷ
+114-115	നിന്നും	_	_	_	_	_	_	_	Translit=ninnuṁ
+114	നിന്ന	നിന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	nsubj	_	Translit=ninna|LTranslit=ninna
+115	ഉം	ഉം	PART	_	_	165	nsubj	_	Translit=uṁ|LTranslit=uṁ
+116	സ്വീകരിച്ച്	സ്വീകരിച്ച്	ADV	_	_	165	advmod	_	Translit=svīkaricc|LTranslit=svīkaricc
+117	പുതിയ	പുതിയ	ADJ	_	_	165	amod	_	Translit=putiya|LTranslit=putiya
+118	സർക്കാരിന്	സർക്കാര്	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	165	nmod:poss	_	Translit=saṟ̕kkārin|LTranslit=saṟ̕kkār
+119	കൂടുതൽ	കൂടുതൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	nmod:poss	_	Translit=kūṭutal̕|LTranslit=kūṭutal̕
+120	ദൈവകൃപ	ദൈവകൃപ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	nmod:poss	_	Translit=daivakr̥pa|LTranslit=daivakr̥pa
+121	ലഭിക്കുവാൻ	ലഭിക്കുവുക	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	165	nmod:poss	_	Translit=labhikkuvān̕|LTranslit=labhikkuvuka
+122	നാം	നാം	ADV	_	_	165	advmod	_	Translit=nāṁ|LTranslit=nāṁ
+123	പ്രാർത്ഥിക്കണം	പ്രാർത്ഥിക്കണം	NOUN	_	Case=Acc|Number=Sing	165	nsubj	_	SpaceAfter=No|Translit=prāṟ̕tthikkaṇaṁ|LTranslit=prāṟ̕tthikkaṇaṁ
+124	.	.	PUNCT	_	_	165	det	_	Translit=.|LTranslit=.
+125	'	'	PUNCT	_	_	165	nmod:poss	_	SpaceAfter=No|Translit='|LTranslit='
+126	'	'	PUNCT	_	_	165	nmod:poss	_	SpaceAfter=No|Translit='|LTranslit='
+127	എല്ലാ	എല്ലാ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	nsubj	_	Translit=ellā|LTranslit=ellā
+128-129	ഭക്തിയിലും	_	_	_	_	_	_	_	Translit=bhaktiyiluṁ
+128	ഭക്തിയില	ഭക്തിയില	ADJ	_	_	165	amod	_	Translit=bhaktiyila|LTranslit=bhaktiyila
+129	ഉം	ഉം	PART	_	_	165	det	_	Translit=uṁ|LTranslit=uṁ
+130-131	വിശുദ്ധിയിലും	_	_	_	_	_	_	_	Translit=viśuddhiyiluṁ
+130	വിശുദ്ധിയില	വിശുദ്ധിയില	ADJ	_	_	165	amod	_	Translit=viśuddhiyila|LTranslit=viśuddhiyila
+131	ഉം	ഉം	PART	_	_	165	nsubj	_	Translit=uṁ|LTranslit=uṁ
+132-133	ശാന്തവും	_	_	_	_	_	_	_	Translit=śāntavuṁ
+132	ശാന്തം	ശാന്തം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	nsubj	_	Translit=śāntaṁ|LTranslit=śāntaṁ
+133	ഉം	ഉം	PART	_	_	165	det	_	Translit=uṁ|LTranslit=uṁ
+134	സമാധാനപൂർണവുമായ	സമാധാനപൂർണവും	ADJ	_	_	165	amod	_	Translit=samādhānapūṟ̕ṇavumāya|LTranslit=samādhānapūṟ̕ṇavuṁ
+135	ജീവിതം	ജീവിതം	NOUN	_	Case=Acc|Number=Sing	165	nsubj	_	Translit=jīvitaṁ|LTranslit=jīvitaṁ
+136	നയിക്കാൻ	നയികുക	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	165	nmod:poss	_	Translit=nayikkān̕|LTranslit=nayikuka
+137	നമുക്കിടയാകത്തക്കവിധം	നമുക്കിടയാകത്തക്കവിധം	ADV	_	_	165	advmod	_	Translit=namukkiṭayākattakkavidhaṁ|LTranslit=namukkiṭayākattakkavidhaṁ
+138-139	രാജാക്കന്മാർക്കും	_	_	_	_	_	_	_	Translit=rājākkanmāṟ̕kkuṁ
+138	രാജാക്കന്മാർക്ക	രാജാക്കന്മാർക്ക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	nsubj	_	Translit=rājākkanmāṟ̕kka|LTranslit=rājākkanmāṟ̕kka
+139	ഉം	ഉം	PART	_	_	165	det	_	Translit=uṁ|LTranslit=uṁ
+140	ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടി	ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	165	nmod:poss	_	Translit=unnatasthānīyaṟ̕kkuṁvēṇṭi|LTranslit=unnatasthānīyaṟ̕kkuṁvēṇṭuka
+141	പ്രാർത്ഥിക്കണം	പ്രാർത്ഥിക്കണം	NOUN	_	Case=Acc|Number=Sing	165	nsubj	_	SpaceAfter=No|Translit=prāṟ̕tthikkaṇaṁ|LTranslit=prāṟ̕tthikkaṇaṁ
+142	.	.	PUNCT	_	_	165	det	_	Translit=.|LTranslit=.
+143	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Gender=Neut|Number=Sing|Person=3|PronType=Prs	165	nsubj	_	Translit=it|LTranslit=it
+144-145	ഉത്തമവും	_	_	_	_	_	_	_	Translit=uttamavuṁ
+144	ഉത്തമം	ഉത്തമം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	obj	_	Translit=uttamaṁ|LTranslit=uttamaṁ
+145	ഉം	ഉം	PART	_	_	165	nsubj	_	Translit=uṁ|LTranslit=uṁ
+146	നമ്മുടെ	നമ്മുടെ	ADV	_	_	165	advmod	_	Translit=nammuṭe|LTranslit=nammuṭe
+147	രക്ഷകനായ	രക്ഷകനായ	ADJ	_	_	165	amod	_	Translit=rakṣakanāya|LTranslit=rakṣakanāya
+148	ദൈവത്തിന്റെ	ദൈവത്ത്	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	165	nmod:poss	_	Translit=daivattinṟe|LTranslit=daivatt
+149	മുന്നിൽ	മുന്ന്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	165	nmod:poss	_	Translit=munnil̕|LTranslit=munn
+150-151	സ്വീകാര്യവും	_	_	_	_	_	_	_	Translit=svīkāryavuṁ
+150	സ്വീകാര്യം	സ്വീകാര്യം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	nsubj	_	Translit=svīkāryaṁ|LTranslit=svīkāryaṁ
+151	ഉം	ഉം	PART	_	_	165	det	_	Translit=uṁ|LTranslit=uṁ
+152	അത്രെ	അത്രെ	ADV	_	_	165	advmod	_	SpaceAfter=No|Translit=atre|LTranslit=atre
+153	'	'	PUNCT	_	_	165	nmod:poss	_	SpaceAfter=No|Translit='|LTranslit='
+154	'	'	PUNCT	_	_	165	nmod:poss	_	Translit='|LTranslit='
+155	എന്ന	എന്ന	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	nsubj	_	Translit=enna|LTranslit=enna
+156	സെന്റ്	സെന്റ്	ADV	_	_	165	advmod	_	Translit=senṟ|LTranslit=senṟ
+157	പോളിന്റെ	പോളീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	165	nsubj	_	Translit=pōḷinṟe|LTranslit=pōḷī
+158	വാക്കുകൾ	വാക്കുകൾ	NOUN	_	Animacy=Anim|Case=Acc|Number=Plur	165	nsubj	_	Translit=vākkukaḷ̕|LTranslit=vākkukaḷ̕
+159	ഇവിടെ	ഇവിടെ	ADV	_	_	165	advmod	_	Translit=iviṭe|LTranslit=iviṭe
+160-161	സ്മരണീയമാണ്	_	_	_	_	_	_	_	Translit=smaraṇīyamāṇ
+160	സ്മരണീയമ്	സ്മരണീയമ്	ADV	_	_	165	advmod	_	Translit=smaraṇīyam|LTranslit=smaraṇīyam
+161	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	165	nsubj	_	Translit=āṇ|LTranslit=āk
+162	(1	(1	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	165	nmod:poss	_	Translit=(1|LTranslit=(1
+163	തിമോത്തി	തിമോത്തുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	165	det	_	Translit=timōtti|LTranslit=timōttuka
+164	21	21	NUM	_	_	165	nsubj	_	SpaceAfter=No|Translit=21|LTranslit=21
+165	:23)	:23)	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	75	conj	_	SpaceAfter=No|Translit=:23)|LTranslit=:23)
+166	.	.	PUNCT	_	_	165	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp57
 # text = ഈ ഭൂവൈവിധ്യവും ആൻഡ് ബൈക്ക് പാത ഒരു മനോഹരമായ വിനോദം പ്രദേശം സൃഷ്ടിച്ചു.
 # translit = ī bhūvaividhyavuṁ ān̕ḍ baikk pāta oru manōharamāya vinōdaṁ pradēśaṁ sr̥ṣṭiccu.
 # text_en = This diversity of terrain and bike path has created a beautiful recreation area.
-1	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	11	nsubj	_	Translit=ī|LTranslit=ī
+1	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	2	det	_	Translit=ī|LTranslit=ī
 2-3	ഭൂവൈവിധ്യവും	_	_	_	_	_	_	_	Translit=bhūvaividhyavuṁ
-2	ഭൂവൈവിധ്യം	ഭൂവൈവിധ്യം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	11	obj	_	Translit=bhūvaividhyaṁ|LTranslit=bhūvaividhyaṁ
+2	ഭൂവൈവിധ്യം	ഭൂവൈവിധ്യം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	11	nsubj	_	Translit=bhūvaividhyaṁ|LTranslit=bhūvaividhyaṁ
 3	ഉം	ഉം	PART	_	_	2	cc	_	Translit=uṁ|LTranslit=uṁ
-4	ആൻഡ്	ആൻഡ്	ADV	_	_	11	advmod	_	Translit=ān̕ḍ|LTranslit=ān̕ḍ
-5	ബൈക്ക്	ബൈക്ക്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	nsubj	_	Translit=baikk|LTranslit=baikk
-6	പാത	പായുക	VERB	_	Polarity=Pos|VerbForm=Part|Voice=Act	11	nsubj	_	Translit=pāta|LTranslit=pāyuka
-7	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	11	nsubj	_	Translit=oru|LTranslit=oru
-8	മനോഹരമായ	മനോഹരം	ADJ	_	_	11	obl	_	Translit=manōharamāya|LTranslit=manōharaṁ
-9	വിനോദം	വിനോദം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	11	nsubj	_	Translit=vinōdaṁ|LTranslit=vinōdaṁ
-10	പ്രദേശം	പ്രദേശം	ADV	_	_	11	advmod	_	Translit=pradēśaṁ|LTranslit=pradēśaṁ
-11	സൃഷ്ടിച്ചു	സൃഷ്ടിക്കുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=sr̥ṣṭiccu|LTranslit=sr̥ṣṭikkuka
+4	ആൻഡ്	ആൻഡ്	CCONJ	_	_	5	cc:foreign	_	Translit=ān̕ḍ|LTranslit=ān̕ḍ
+5	ബൈക്ക്	ബൈക്ക്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	6	nmod	_	Translit=baikk|LTranslit=baikk
+6	പാത	പായ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	2	conj	_	Translit=pāta|LTranslit=pāyuka
+7	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	11	det	_	Translit=oru|LTranslit=oru
+8	മനോഹരമായ	മനോഹരം	ADJ	_	_	9	compound	_	Translit=manōharamāya|LTranslit=manōharaṁ
+9	വിനോദം	വിനോദം	ADJ	_	Typo=Yes	10	amod	_	CorrectForm=vinōda|Translit=vinōdaṁ|LTranslit=vinōdaṁ
+10	പ്രദേശം	പ്രദേശം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	11	obj	_	Translit=pradēśaṁ|LTranslit=pradēśaṁ
+11	സൃഷ്ടിച്ചു	സൃഷ്ടിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=sr̥ṣṭiccu|LTranslit=sr̥ṣṭikkuka
 12	.	.	PUNCT	_	_	11	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
+# newdoc
+# newpar
 # sent_id = indiccorp58
 # text = പതിവുപോലെ ബ്ലാസ്റ്റഴ്‌സ് മുന്നേറ്റത്തോടെയാണ് കളി തുടങ്ങിയത്.
 # translit = pativupōle blāsṟṟaḻs munnēṟṟattōṭeyāṇ kaḷi tuṭaṅṅiyat.
 # text_en = As usual, the game started with Blasters progressing.
-1	പതിവുപോലെ	പതിവുപോലെ	ADV	_	_	2	amod	_	Translit=pativupōle|LTranslit=pativupōle
-2	ബ്ലാസ്റ്റഴ്‌സ്	ബ്ലാസ്റ്റഴ്‌സ്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	nsubj	_	Translit=blāsṟṟaḻs|LTranslit=blāsṟṟaḻs
+1	പതിവുപോലെ	പതിവുപോലെ	ADV	_	_	6	obl	_	Translit=pativupōle|LTranslit=pativupōle
+2	ബ്ലാസ്റ്റഴ്‌സ്	ബ്ലാസ്റ്റഴ്‌സ്	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	6	nsubj	_	Translit=blāsṟṟaḻs|LTranslit=blāsṟṟaḻs
 3-4	മുന്നേറ്റത്തോടെയാണ്	_	_	_	_	_	_	_	Translit=munnēṟṟattōṭeyāṇ
-3	മുന്നേറ്റത്തോടെയ്	മുന്നേറ്റത്തോടെയ്	ADV	_	_	6	advmod	_	Translit=munnēṟṟattōṭey|LTranslit=munnēṟṟattōṭey
-4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	nsubj	_	Translit=āṇ|LTranslit=āk
-5	കളി	കളി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	nsubj	_	Translit=kaḷi|LTranslit=kaḷi
+3	മുന്നേറ്റത്തോടെ	മുന്നേറ്റം	NOUN	_	Animacy=Inan|Case=Com|Number=Sing	6	obl	_	Translit=munnēṟṟattōṭey|LTranslit=munnēṟṟattōṭey
+4	ആണ്	ആക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	Translit=āṇ|LTranslit=āk
+5	കളി	കളി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	Translit=kaḷi|LTranslit=kaḷi
 6	തുടങ്ങിയത്	തുടങ്ങുക	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	0	root	_	SpaceAfter=No|Translit=tuṭaṅṅiyat|LTranslit=tuṭaṅṅuka
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp59
-# text = ബീഫിന്റെ പേരിൽ കുറ്റപ്പെടുത്തൽ
+# text = ബീഫിന്റെ പേരിൽ കുറ്റപ്പെടുത്തൽ .
 # translit = bīphinṟe pēril̕ kuṟṟappeṭuttal̕
 # text_en = Blame it on beef
-1	ബീഫിന്റെ	ബീഫീ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nmod:poss	_	Translit=bīphinṟe|LTranslit=bīphī
-2	പേരിൽ	പേര്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	0	root	_	Translit=pēril̕|LTranslit=pēr
-3	കുറ്റപ്പെടുത്തൽ	കുറ്റപ്പെടുത്തൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	2	punct	_	SpacesAfter=\n|Translit=kuṟṟappeṭuttal̕|LTranslit=kuṟṟappeṭuttal̕
+1	ബീഫിന്റെ	ബീഫ്	NOUN	_	Animacy=Inan|Case=Gen|Number=Sing	2	nmod:poss	_	Translit=bīphinṟe|LTranslit=bīphī
+2	പേരിൽ	പേര്	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	3	nmod	_	Translit=pēril̕|LTranslit=pēr
+3	കുറ്റപ്പെടുത്തൽ	കുറ്റപ്പെടുത്തുക	VERB	_	VerbForm=Vnoun	0	root	_	SpacesAfter=\n|Translit=kuṟṟappeṭuttal̕|LTranslit=kuṟṟappeṭuttal̕
+4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n|Translit=kuṟṟappeṭuttal̕|LTranslit=kuṟṟappeṭuttal̕
 
 # sent_id = indiccorp60
 # text = ഗതി, മഴ 20-30 സെ.
@@ -1892,14 +2150,14 @@
 # newpar
 # sent_id = indiccorp70
 # text = ജി - സീരീസ് ട്രക്കുകൾ " സ്ചനിഅ " - കൂടുതൽ ഖര ഓപ്ഷൻ ഉണ്ട്.
-# translit = ji - sīrīs ṭrakkukaḷ̕ " scania " - kūṭutal̕ khara ōpṣan̕ uṇṭ.
+# translit = ji-sīrīs ṭrakkukaḷ̕ "scania" - kūṭutal̕ khara ōpṣan̕ uṇṭ.
 # text_en = G-series trucks "Schania" - there is a more solid option.
-1	ജി	ജി	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	3	compound	_	Translit=ji|LTranslit=ji
-2	-	-	PUNCT	_	_	3	punct	_	TTranslit=-|Translit=-|LTranslit=-
-3	സീരീസ്	സീരീസ്	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	4	compound	_	Translit=sīrīs|LTranslit=sīrīs
-4	ട്രക്കുകൾ	ട്രക്ക്	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	0	root	_	Translit=ṭrakkukaḷ̕|LTranslit=ṭrakk
+1	ജി	ജി	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	3	compound	_	Translit=ji
+2	-	-	PUNCT	_	_	3	punct	_	TTranslit=-|LTranslit=-
+3	സീരീസ്	സീരീസ്	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	4	compound	_	Translit=sīrīs|LTranslit=ji-sīrīs
+4	ട്രക്കുകൾ	ട്രക്ക്	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	0	root	_	Translit=ṭrakkukaḷ̕|LTranslit=ṭrakkukaḷ̕
 5	"	"	PUNCT	_	_	6	punct	_	Translit="|LTranslit="
-6	സ്ചനിഅ	സ്ചനിഅ	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	4	appos	_	Translit=scania|LTranslit=scania
+6	സ്ചനിഅ	സ്ചനിഅ	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	4	appos	_	Translit=scania
 7	"	"	PUNCT	_	_	6	punct	_	Translit="|LTranslit="
 8	-	-	PUNCT	_	_	4	punct	_	Translit=-|LTranslit=-
 9	കൂടുതൽ	കൂടുതൽ	ADV	_	_	10	advmod	_	Translit=kūṭutal̕|LTranslit=kūṭutal̕
@@ -1913,24 +2171,24 @@
 # translit = gautamuṁ veṅkaṭṭ prabhuvuṁ nētr̥tvaṁ nal̕kunna oṇ̕ṭraṁga enṟaṟ̕ṭeyin̕menṟuṁ eskēp āṟ̕ṭṭisṟṟuṁ cēṟ̕nnāṇ sinima niṟ̕mikkunnat.
 # text_en = The film is jointly produced by Ontranga Entertainment and Escape Artist, headed by Gautham and Venkat Prabhu.
 1-2	ഗൗതമും	_	_	_	_	_	_	_	Translit=gautamuṁ
-1	ഗൗതം	ഗൗതം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	17	nsubj	_	Translit=gautaṁ|LTranslit=gautaṁ
+1	ഗൗതം	ഗൗതം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	17	nsubj	_	Translit=gautama|LTranslit=gautama
 2	ഉം	ഉം	PART	_	_	1	cc	_	Translit=uṁ|LTranslit=uṁ
 3	വെങ്കട്ട്	വെങ്കട്ട്	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	1	conj	_	Translit=veṅkaṭṭ|LTranslit=veṅkaṭṭ
 4-5	പ്രഭുവും	_	_	_	_	_	_	_	Translit=prabhuvuṁ
-4	പ്രഭു	പ്രഭു	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	3	flat	_	Translit=prabhu|LTranslit=prabhu
+4	പ്രഭു	പ്രഭു	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	3	flat	_	Translit=prabhuṁ|LTranslit=prabhuṁ
 5	ഉം	ഉം	PART	_	_	3	cc	_	Translit=uṁ|LTranslit=uṁ
 6	നേതൃത്വം	നേതൃത്വം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	7	compound	_	Translit=nētr̥tvaṁ|LTranslit=nētr̥tvaṁ
-7	നൽകുന്ന	നൽകുക	ADJ	_	_	8	amod	_	Translit=nal̕kunna|LTranslit=nal̕kuka
+7	നൽകുന്ന	നൽകുക	ADJ	_	_	8	amod	_	Translit=nal̕kunna|LTranslit=nal̕kunna
 8	ഒൺട്രംഗ	ഒൺട്രംഗ	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	1	acl	_	Translit=oṇ̕ṭraṁga|LTranslit=oṇ̕ṭraṁga
 9-10	എന്റർടെയിൻമെന്റും	_	_	_	_	_	_	_	Translit=enṟaṟ̕ṭeyin̕menṟuṁ
 9	എന്റർടെയിൻമെന്ർ	എന്റർടെയിൻമെന്ർ	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	8	flat	_	Translit=enṟaṟ̕ṭeyin̕menṟ̕|LTranslit=enṟaṟ̕ṭeyin̕menṟ̕
 10	ഉം	ഉം	PART	_	_	8	cc	_	Translit=uṁ|LTranslit=uṁ
 11	എസ്‌കേപ്	എസ്‌കേപ്	PROPN	_	_	8	conj	_	Translit=eskēp|LTranslit=eskēp
 12-13	ആർട്ടിസ്റ്റും	_	_	_	_	_	_	_	Translit=āṟ̕ṭṭisṟṟuṁ
-12	ആർട്ടിസ്റ്	ആർട്ടിസ്റ്	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	11	flat	_	Translit=āṟ̕ṭṭisṟ|LTranslit=āṟ̕ṭṭisṟ
+12	ആർട്ടിസ്റ്	ആർട്ടിസ്റ്	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	11	flat	_	Translit=āṟ̕ṭṭisṟṟ̕|LTranslit=āṟ̕ṭṭisṟṟ̕
 13	ഉം	ഉം	PART	_	_	11	cc	_	Translit=uṁ|LTranslit=uṁ
 14-15	ചേർന്നാണ്	_	_	_	_	_	_	_	Translit=cēṟ̕nnāṇ
-14	ചേർന്	ചേർന്	ADV	_	_	17	advmod	_	Translit=cēṟ̕n|LTranslit=cēṟ̕n
+14	ചേർന്	ചേർന്	ADV	_	_	17	advmod	_	Translit=cēṟ̕nn̕|LTranslit=cēṟ̕nn̕
 15	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	17	cop	_	Translit=āṇ|LTranslit=āk
 16	സിനിമ	സിനിമ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	17	obj	_	Translit=sinima|LTranslit=sinima
 17	നിർമിക്കുന്നത്	നിർമിക്കുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	0	root	_	SpaceAfter=No|Translit=niṟ̕mikkunnat|LTranslit=niṟ̕mikkuka
@@ -1938,23 +2196,23 @@
 
 # sent_id = indiccorp72
 # text = വീഡിഓ കണ്ടശേഷംകണ്ടശേഷം ഇതിനെതിരെഇതിനെതിരെ ആരെങ്കിലും പ്രതികരിക്കും എന്നാണ് ആളുകളുടെ പ്രതീക്ഷ .
-# translit = vīḍiō kaṇṭaśēṣaṁkaṇṭaśēṣaṁ itinetireitinetire āreṅkiluṁ pratikarikkuṁ ennāṇ āḷukaḷuṭe pratīkṣa .
+# translit = vīḍiyō kaṇṭaśēṣaṁ itinetire āreṅkiluṁ pratikarikkuṁ ennāṇ āḷukaḷuṭe pratīkṣa.
 # text_en = People hope that after watching the video, someone will react against it.
-1	വീഡിഓ	വീഡിഓ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	7	nsubj	_	Translit=vīḍiō|LTranslit=vīḍiō
-2-3	കണ്ടശേഷംകണ്ടശേഷം	_	_	_	_	_	_	_	Translit=kaṇṭaśēṣaṁkaṇṭaśēṣaṁ
-2	കണ്ട	കാണുക	VERB	_	VerbForm=Part	7	advmod	_	Translit=kaṇṭa|LTranslit=kāṇuka
+1	വീഡിഓ	വീഡിഓ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	7	nsubj	_	Translit=vīḍi'ō|LTranslit=vīḍi'ō
+2-3	കണ്ടശേഷംകണ്ടശേഷം	_	_	_	_	_	_	_	_
+2	കണ്ട	കാണുക	VERB	_	VerbForm=Part	7	advmod	_	Translit=kaṇṭa|LTranslit=kaṇṭa
 3	ശേഷം	ശേഷം	ADP	_	_	2	case	_	Translit=śēṣaṁ|LTranslit=śēṣaṁ
-4-5	ഇതിനെതിരെഇതിനെതിരെ	_	_	_	_	_	_	_	Translit=itinetireitinetire
-4	ഇതിന്	ഇത്	PRON	_	Case=Dat|Deixis=Prox|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obl	_	Translit=itin|LTranslit=it
+4-5	ഇതിനെതിരെഇതിനെതിരെ	_	_	_	_	_	_	_	_
+4	ഇതിന്	ഇത്	PRON	_	Case=Dat|Deixis=Prox|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obl	_	Translit=itin|LTranslit=itin
 5	എതിരെ	എതിരെ	ADP	_	_	4	case	_	Translit=etire|LTranslit=etire
-6	ആരെങ്കിലും	ആരെങ്കിലും	PRON	_	Case=Nom|Person=3|PronType=Prs	7	nsubj	_	Translit=āreṅkiluṁ|LTranslit=āreṅkiluṁ
-7	പ്രതികരിക്കും	പ്രതികരിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Fin	11	ccomp	_	Translit=pratikarikkuṁ|LTranslit=pratikarikkuka
+6	ആരെങ്കിലും	ആരെങ്കിലും	PRON	_	Case=Nom|Person=3|PronType=Prs	7	nsubj	_	Translit=āreṅkila|LTranslit=āreṅkila
+7	പ്രതികരിക്കും	പ്രതികരിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Fin	11	ccomp	_	Translit=pratikarikka|LTranslit=pratikarikka
 8-9	എന്നാണ്	_	_	_	_	_	_	_	Translit=ennāṇ
-8	എന്ന്	എന്ന്	PART	_	_	7	mark	_	Translit=enn|LTranslit=enn
+8	എന്ന്	എന്ന്	PART	_	_	7	mark	_	Translit=enn̕|LTranslit=enn̕
 9	ആണ്	ആക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	cop	_	Translit=āṇ|LTranslit=āk
 10	ആളുകളുടെ	ആളുകൾ	NOUN	_	Animacy=Anim|Case=Gen|Number=Plur	11	nmod:poss	_	Translit=āḷukaḷuṭe|LTranslit=āḷukaḷ̕
-11	പ്രതീക്ഷ	പ്രതീക്ഷ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=pratīkṣa|LTranslit=pratīkṣa
-12	.	.	PUNCT	_	_	11	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
+11	പ്രതീക്ഷ	പ്രതീക്ഷ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=pratīkṣa.|LTranslit=pratīkṣa
+12	.	.	PUNCT	_	_	11	punct	_	SpacesAfter=\n|Translit=pratīkṣa.|LTranslit=pratīkṣa.
 
 # sent_id = indiccorp73
 # text = ഇതിനകം സൂചിപ്പിച്ചതുപോലെ, ധാന്യം - പ്ലാന്റ് പിന്നീട്.
@@ -1973,21 +2231,21 @@
 # newpar
 # sent_id = indiccorp74
 # text = അതിനാൽ ജനുവരിക്കു മുൻപുള്ള മാസങ്ങളിലെ കണക്കുമായി കഴിഞ്ഞ മാസത്തേതു താരതമ്യം ചെയ്തു പണിയെ‌‌ടുക്കാത്തവരെ കണ്ടെത്താനാണുകണ്ടെത്താനാണു ശ്രമം .
-# translit = atināl̕ januvarikku mun̕puḷḷa māsaṅṅaḷile kaṇakkumāyi kaḻiñña māsattētu tāratamyaṁ ceytu paṇiyeṭukkāttavare kaṇṭettānāṇukaṇṭettānāṇu śramaṁ .
+# translit = atināl̕ januvarikku mun̕puḷḷa māsaṅṅaḷile kaṇakkumāyi kaḻiñña māsattētu tāratamyaṁ ceytu paṇiyeṭukkāttavare kaṇṭettānāṇu śramaṁ.
 # text_en = Therefore, an attempt is made to find those who are not working by comparing the figures of the previous month with the figures of the months before January.
 1	അതിനാൽ	അതിനാൽ	ADV	_	_	11	advmod	_	Translit=atināl̕|LTranslit=atināl̕
-2	ജനുവരിക്കു	ജനുവരി	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	3	compound	_	Translit=januvarikku|LTranslit=januvari
-3	മുൻപുള്ള	മുൻപു	ADJ	_	_	4	amod	_	Translit=mun̕puḷḷa|LTranslit=mun̕pu
-4	മാസങ്ങളിലെ	മാസങ്ങൾ	NOUN	_	Animacy=Inan|Case=Loc|Number=Plur	11	obl	_	Translit=māsaṅṅaḷile|LTranslit=māsaṅṅaḷ̕
-5	കണക്കുമായി	കണക്ക്	NOUN	_	Animacy=Inan|Case=Com|Number=Sing	11	obl	_	Translit=kaṇakkumāyi|LTranslit=kaṇakk
+2	ജനുവരിക്കു	ജനുവരി	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	3	compound	_	Translit=januvarikku|LTranslit=januvarikku
+3	മുൻപുള്ള	മുൻപു	ADJ	_	_	4	amod	_	Translit=mun̕puḷḷa|LTranslit=mun̕puḷḷa
+4	മാസങ്ങളിലെ	മാസങ്ങൾ	NOUN	_	Animacy=Inan|Case=Loc|Number=Plur	11	obl	_	Translit=māsaṅṅaḷile|LTranslit=māsaṅṅaḷile
+5	കണക്കുമായി	കണക്ക്	NOUN	_	Animacy=Inan|Case=Com|Number=Sing	11	obl	_	Translit=kaṇakkumāyi|LTranslit=kaṇakkumāyuka
 6	കഴിഞ്ഞ	കഴിഞ്ഞ	ADJ	_	_	7	amod	_	Translit=kaḻiñña|LTranslit=kaḻiñña
-7	മാസത്തേതു	മാസം	NOUN	_	Animacy=Inan|Case=Gen|Number=Sing	11	obl	_	Translit=māsattētu|LTranslit=māsaṁ
+7	മാസത്തേതു	മാസം	NOUN	_	Animacy=Inan|Case=Gen|Number=Sing	11	obl	_	Translit=māsattētu|LTranslit=māsattētu
 8	താരതമ്യം	താരതമ്യം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	9	compound	_	Translit=tāratamyaṁ|LTranslit=tāratamyaṁ
-9	ചെയ്തു	ചെയ്യുക	VERB	_	VerbForm=Part	11	compound	_	Translit=ceytu|LTranslit=ceyyuka
-10	പണിയെ‌‌ടുക്കാത്തവരെ	പണിയെ‌‌ടുക്കാത്തവർ	NOUN	_	Animacy=Anim|Case=Acc|Number=Plur	11	obj	_	Translit=paṇiyeṭukkāttavare|LTranslit=paṇiyeṭukkāttavaṟ̕
-11-12	കണ്ടെത്താനാണുകണ്ടെത്താനാണു	_	_	_	_	_	_	_	Translit=kaṇṭettānāṇukaṇṭettānāṇu
-11	കണ്ടെത്താൻ	കണ്ടെത്തുക	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	13	xcomp	_	Translit=kaṇṭettān̕|LTranslit=kaṇṭettuka
-12	ആണ്	ആക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	13	cop	_	Translit=āṇ|LTranslit=āk
+9	ചെയ്തു	ചെയ്യുക	VERB	_	VerbForm=Part	11	compound	_	Translit=ceytu|LTranslit=ceytu
+10	പണിയെ‌‌ടുക്കാത്തവരെ	പണിയെ‌‌ടുക്കാത്തവർ	NOUN	_	Animacy=Anim|Case=Acc|Number=Plur	11	obj	_	Translit=paṇiyeṭukkāttavare|LTranslit=paṇiyeṭukkāttavare
+11-12	കണ്ടെത്താനാണുകണ്ടെത്താനാണു	_	_	_	_	_	_	_	_
+11	കണ്ടെത്താൻ	കണ്ടെത്തുക	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	13	xcomp	_	Translit=kaṇṭettānāṇu|LTranslit=kaṇṭettānāṇu
+12	ആണ്	ആക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	13	cop	_	Translit=āṇ|LTranslit=āṇ
 13	ശ്രമം	ശ്രമം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=śramaṁ|LTranslit=śramaṁ
 14	.	.	PUNCT	_	_	13	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
@@ -1995,37 +2253,37 @@
 # newpar
 # sent_id = indiccorp75
 # text = ഇനിയും ഈ പ്രഹസനം അവസാനിപ്പിക്കാനുള്ള കാലം ആയിട്ടില്ല എന്ന് തോന്നുന്നെങ്കിൽ ദയവ് ചെയ്ത് പ്രബുദ്ധരായ മലയാളികൾ എന്ന് ഊറ്റം കൊള്ളരുത് .
-# translit = iniyuṁ ī prahasanaṁ avasānippikkānuḷḷa kālaṁ āyiṭṭilla enn tōnnunneṅkil̕ dayav ceyt prabuddharāya malayāḷikaḷ̕ enn ūṟṟaṁ koḷḷarut .
+# translit = iniyuṁ ī prahasanaṁ avasānippikkān̕ uḷḷa kālaṁ āyiṭṭilla enn tōnnunneṅkil̕ dayav ceyt prabuddharāya malayāḷikaḷ̕ enn ūṟṟaṁ koḷḷarut.
 # text_en = If you feel that it is not time to end this farce, please don't pretend to be enlightened Malayalis.
-1	ഇനിയും	ഇനിയും	ADV	_	_	6	advmod	_	Translit=iniyuṁ|LTranslit=iniyuṁ
+1	ഇനിയും	ഇനിയും	ADV	_	_	6	advmod	_	Translit=iniyum|LTranslit=iniyum
 2	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	3	det	_	Translit=ī|LTranslit=ī
 3	പ്രഹസനം	പ്രഹസനം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	compound	_	Translit=prahasanaṁ|LTranslit=prahasanaṁ
-4	അവസാനിപ്പിക്കാനുള്ള	അവസാനിപ്പിക്കുക	ADJ	_	_	5	amod	_	Translit=avasānippikkānuḷḷa|LTranslit=avasānippikkuka
+4	അവസാനിപ്പിക്കാനുള്ള	അവസാനിപ്പിക്കുക	ADJ	_	_	5	amod	_	Translit=avasānippikkān̕|LTranslit=avasānippikkān̕
 5	കാലം	കാലം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj	_	Translit=kālaṁ|LTranslit=kālaṁ
-6	ആയിട്ടില്ല	ആക്	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	ccomp	_	Translit=āyiṭṭilla|LTranslit=āk
-7	എന്ന്	എന്ന്	PART	_	_	6	mark	_	Translit=enn|LTranslit=enn
+6	ആയിട്ടില്ല	ആക്	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	ccomp	_	Translit=āyiṭṭilla|LTranslit=āyiṭṭilla
+7	എന്ന്	എന്ന്	PART	_	_	6	mark	_	Translit=enn|LTranslit=ennu
 8	തോന്നുന്നെങ്കിൽ	തോന്നുന്നെങ്കിൽ	VERB	_	Mood=Cnd|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	advcl	_	Translit=tōnnunneṅkil̕|LTranslit=tōnnunneṅkil̕
 9	ദയവ്	ദയവ്	ADV	_	_	10	compound	_	Translit=dayav|LTranslit=dayav
-10	ചെയ്ത്	ചെയ്യുക	VERB	_	VerbForm=Part	15	advmod	_	Translit=ceyt|LTranslit=ceyyuka
+10	ചെയ്ത്	ചെയ്യുക	VERB	_	VerbForm=Part	15	advmod	_	Translit=ceyt|LTranslit=ceyt
 11	പ്രബുദ്ധരായ	പ്രബുദ്ധരായ	ADJ	_	_	12	amod	_	Translit=prabuddharāya|LTranslit=prabuddharāya
-12	മലയാളികൾ	മലയാളി	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur	15	nsubj	_	Translit=malayāḷikaḷ̕|LTranslit=malayāḷi
+12	മലയാളികൾ	മലയാളി	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur	15	nsubj	_	Translit=malayāḷikaḷ̕|LTranslit=malayāḷikaḷ̕
 13	എന്ന്	എന്ന്	PART	_	_	12	mark	_	Translit=enn|LTranslit=enn
 14	ഊറ്റം	ഊറ്റം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	15	compound	_	Translit=ūṟṟaṁ|LTranslit=ūṟṟaṁ
-15	കൊള്ളരുത്	കൊള്ളുക	VERB	_	Mood=Imp|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	Translit=koḷḷarut|LTranslit=koḷḷuka
+15	കൊള്ളരുത്	കൊള്ളുക	VERB	_	Mood=Imp|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	Translit=koḷḷarut|LTranslit=koḷḷarut
 16	.	.	PUNCT	_	_	15	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp76
 # text = രാഹുൽഗാന്ധിയുടെ വിവാഹം : ജനങ്ങളുടെ ചോദ്യത്തിന് റോബർട്ട് വാദ്രയുടെ മറുപടി .
-# translit = rāhul̕gāndhiyuṭe vivāhaṁ : janaṅṅaḷuṭe cōdyattin ṟōbaṟ̕ṭṭ vādrayuṭe maṟupaṭi .
+# translit = rāhul̕gāndhiyuṭe vivāhaṁ: janaṅṅaḷuṭe cōdyattin ṟōbaṟ̕ṭṭ vādrayuṭe maṟupaṭi
 # text_en = Rahul Gandhi's Marriage: Robert Vadra's Answer to People's Question
-1	രാഹുൽഗാന്ധിയുടെ	രാഹുൽഗാന്ധി	PROPN	_	Animacy=Anim|Case=Gen|Number=Sing	2	nmod:poss	_	Translit=rāhul̕gāndhiyuṭe|LTranslit=rāhul̕gāndhi
+1	രാഹുൽഗാന്ധിയുടെ	രാഹുൽഗാന്ധി	PROPN	_	Animacy=Anim|Case=Gen|Number=Sing	2	nmod:poss	_	Translit=rāhul̕gāndhiyuṭe|LTranslit=rāhul̕gāndhiyuṭe
 2	വിവാഹം	വിവാഹം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	8	parataxis	_	Translit=vivāhaṁ|LTranslit=vivāhaṁ
 3	:	:	PUNCT	_	_	8	punct	_	Translit=:|LTranslit=:
 4	ജനങ്ങളുടെ	ജനങ്ങൾ	NOUN	_	Animacy=Anim|Case=Gen|Number=Plur	5	nmod:poss	_	Translit=janaṅṅaḷuṭe|LTranslit=janaṅṅaḷ̕
-5	ചോദ്യത്തിന്	ചോദ്യം	PROPN	_	Animacy=Inan|Case=Dat|Number=Sing	8	obl	_	Translit=cōdyattin|LTranslit=cōdyaṁ
+5	ചോദ്യത്തിന്	ചോദ്യം	PROPN	_	Animacy=Inan|Case=Dat|Number=Sing	8	obl	_	Translit=cōdyattin|LTranslit=cōdyatt
 6	റോബർട്ട്	റോബർട്ട്	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	8	nsubj	_	Translit=ṟōbaṟ̕ṭṭ|LTranslit=ṟōbaṟ̕ṭṭ
-7	വാദ്രയുടെ	വാദ്ര	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	6	flat	_	Translit=vādrayuṭe|LTranslit=vādra
-8	മറുപടി	മറുപടി	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpacesAfter=\n|Translit=maṟupaṭi|LTranslit=maṟupaṭi
+7	വാദ്രയുടെ	വാദ്ര	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	6	flat	_	Translit=vādrayuṭe|LTranslit=vādrayuṭe
+8	മറുപടി	മറുപടി	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpacesAfter=\n|Translit=maṟupaṭi|LTranslit=maṟupaṭuka
 9	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp77
@@ -2034,11 +2292,11 @@
 # text_en = Police said that people should not gather to watch the rescue operation.
 1	രക്ഷാപ്രവർത്തനം	രക്ഷാപ്രവർത്തനം	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	2	obj	_	Translit=rakṣāpravaṟ̕ttanaṁ|LTranslit=rakṣāpravaṟ̕ttanaṁ
 2-3	കാണാനും	_	_	_	_	_	_	_	Translit=kāṇānuṁ
-2	കാണാന	കാനൻ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	xcomp	_	Translit=kāṇāna|LTranslit=kānan̕
+2	കാണാന	കാനൻ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	xcomp	_	Translit=kāṇān|LTranslit=kāṇāna
 3	ഉം	ഉം	PART	_	_	2	cc	_	Translit=uṁ|LTranslit=uṁ
-4	ആളുകൾ	ആള്	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur	2	nsubj	_	Translit=āḷukaḷ̕|LTranslit=āḷ
+4	ആളുകൾ	ആള്	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur	2	nsubj	_	Translit=āḷukaḷ̕|LTranslit=āḷukaḷ̕
 5-6	തടിച്ചുകൂടരുതെന്ന്	_	_	_	_	_	_	_	Translit=taṭiccukūṭarutenn
-5	തടിച്ചുകൂടരുത്	തടിച്ചുകൂടുക്ക	VERB	_	Mood=Imp|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	Translit=taṭiccukūṭarut|LTranslit=taṭiccukūṭukka
+5	തടിച്ചുകൂടരുത്	തടിച്ചുകൂടുക്ക	VERB	_	Mood=Imp|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	Translit=taṭiccukūṭarut|LTranslit=taṭiccukūṭaru
 6	എന്ന്	എന്ന്	PART	_	_	5	mark	_	Translit=enn|LTranslit=enn
 7	പോലിസ്	പോലിസ്	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	8	nsubj	_	Translit=pōlis|LTranslit=pōlis
 8	അറിയിച്ചു	അറിയിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=aṟiyiccu|LTranslit=aṟiyikkuka
@@ -2046,27 +2304,27 @@
 
 # sent_id = indiccorp78
 # text = കോട്ടയം : സുവിശേഷ വത്‌ക്കരം ദൗത്യം ഓരോ വിശ്വാസിയുടെയും അവകാശവും ഉത്തരവാദിത്വവുമാണെന്ന്‌ഉത്തരവാദിത്വവുമാണെന്ന്‌ഉത്തരവാദിത്വവുമാണെന്ന്‌ഉത്തരവാദിത്വവുമാണെന്ന്‌ പപ്പുവാ ന്യൂ ഗിനിയ അപ്പസ്‌തോലിക്‌ ന്യൂൺഷ്യോ ആർച്ചുബിഷപ്പ്‌ മാർ കുര്യൻ വയലുങ്കൽ.
-# translit = kōṭṭayaṁ : suviśēṣa vatkkaraṁ dautyaṁ ōrō viśvāsiyuṭeyuṁ avakāśavuṁ uttaravāditvavumāṇennuttaravāditvavumāṇennuttaravāditvavumāṇennuttaravāditvavumāṇenn pappuvā nyū giniya appastōlik nyūṇ̕ṣyō āṟ̕ccubiṣapp māṟ̕ kuryan̕ vayaluṅkal̕.
+# translit = kōṭṭayaṁ : suviśēṣa vatkkaraṁ dautyaṁ ōrō viśvāsiyuṭeyuṁ avakāśavuṁ uttaravāditvavumāṇenn pappuvā nyū giniya appastōlik nyūṇ̕ṣyō āṟ̕ccubiṣapp māṟ̕ kuryan̕ vayaluṅkal̕.
 # text_en = Kottayam: Papua New Guinea Apostolic Nuncio Archbishop Mar Kurian Wayalungal said that the mission of evangelism is the right and responsibility of every believer.
 1	കോട്ടയം	കോട്ടയം	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	20	parataxis	_	Translit=kōṭṭayaṁ|LTranslit=kōṭṭayaṁ
 2	:	:	PUNCT	_	_	20	punct	_	Translit=:|LTranslit=:
-3	സുവിശേഷ	സുവിശേഷം	ADJ	_	_	4	amod	_	Translit=suviśēṣa|LTranslit=suviśēṣaṁ
+3	സുവിശേഷ	സുവിശേഷം	ADJ	_	_	4	amod	_	Translit=suviśēṣa|LTranslit=suviśēṣa
 4	വത്‌ക്കരം	വത്‌ക്കരം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	5	compound	_	Translit=vatkkaraṁ|LTranslit=vatkkaraṁ
 5	ദൗത്യം	ദൗത്യം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	13	nsubj	_	Translit=dautyaṁ|LTranslit=dautyaṁ
 6	ഓരോ	ഓരോ	ADJ	_	_	7	amod	_	Translit=ōrō|LTranslit=ōrō
 7-8	വിശ്വാസിയുടെയും	_	_	_	_	_	_	_	Translit=viśvāsiyuṭeyuṁ
-7	വിശ്വാസിയുടെ	വിശ്വാസി	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	13	nmod:poss	_	Translit=viśvāsiyuṭe|LTranslit=viśvāsi
+7	വിശ്വാസിയുടെ	വിശ്വാസി	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	13	nmod:poss	_	Translit=viśvāsiyuṭe|LTranslit=viśvāsiyuṭe
 8	ഉം	ഉം	PART	_	_	7	cc	_	Translit=uṁ|LTranslit=uṁ
 9-10	അവകാശവും	_	_	_	_	_	_	_	Translit=avakāśavuṁ
 9	അവകാശം	അവകാശം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	7	conj	_	Translit=avakāśaṁ|LTranslit=avakāśaṁ
 10	ഉം	ഉം	PART	_	_	9	cc	_	Translit=uṁ|LTranslit=uṁ
-11-14	ഉത്തരവാദിത്വവുമാണെന്ന്‌ഉത്തരവാദിത്വവുമാണെന്ന്‌ഉത്തരവാദിത്വവുമാണെന്ന്‌ഉത്തരവാദിത്വവുമാണെന്ന്‌	_	_	_	_	_	_	_	Translit=uttaravāditvavumāṇennuttaravāditvavumāṇennuttaravāditvavumāṇennuttaravāditvavumāṇenn
-11	ഉത്തരവാദിത്തം	ഉത്തരവാദിത്തം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	9	conj	_	Translit=uttaravādittaṁ|LTranslit=uttaravādittaṁ
+11-14	ഉത്തരവാദിത്വവുമാണെന്ന്‌ഉത്തരവാദിത്വവുമാണെന്ന്‌ഉത്തരവാദിത്വവുമാണെന്ന്‌ഉത്തരവാദിത്വവുമാണെന്ന്‌	_	_	_	_	_	_	_	_
+11	ഉത്തരവാദിത്തം	ഉത്തരവാദിത്തം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	9	conj	_	Translit=uttaravādittaṁ
 12	ഉം	ഉം	PART	_	_	11	cc	_	Translit=uṁ|LTranslit=uṁ
-13	ആണ്	ആക്	NOUN	_	Mood=Ind|Polarity=Pos|Polite=Form|VerbForm=Fin|Voice=Act	20	ccomp	_	Translit=āṇ|LTranslit=āk
+13	ആണ്	ആക്	NOUN	_	Mood=Ind|Polarity=Pos|Polite=Form|VerbForm=Fin|Voice=Act	20	ccomp	_	Translit=āṇ|LTranslit=āṇ
 14	എന്ന്	എന്ന്	PART	_	_	13	mark	_	Translit=enn|LTranslit=enn
 15	പപ്പുവാ	പപ്പുവാ	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	20	obl	_	Translit=pappuvā|LTranslit=pappuvā
-16	ന്യൂ	ന്യു	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	15	flat	_	Translit=nyū|LTranslit=nyu
+16	ന്യൂ	ന്യു	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	15	flat	_	Translit=nyū|LTranslit=nyuka
 17	ഗിനിയ	ഗിനിയ	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	15	flat	_	Translit=giniya|LTranslit=giniya
 18	അപ്പസ്‌തോലിക്‌	അപ്പസ്‌തോലിക്‌	ADJ	_	_	19	amod	_	Translit=appastōlik|LTranslit=appastōlik
 19	ന്യൂൺഷ്യോ	ന്യൂൺഷ്യോ	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	20	compound	_	Translit=nyūṇ̕ṣyō|LTranslit=nyūṇ̕ṣyō
@@ -2078,27 +2336,27 @@
 
 # sent_id = indiccorp79
 # text = സ്വാഭാവിക സ്മാരകങ്ങൾ കൂടാതെ, സ്പാസ്ക്-റയാസൻസ്കിസ്പാസ്ക്-റയാസൻസ്കിസ്പാസ്ക്-റയാസൻസ്കി പട്ടണത്തിൽ ജി. കെ. വാഗ്നറുടെ രസകരമായ ഒരു മ്യൂസിയവുമുണ്ട്മ്യൂസിയവുമുണ്ട്മ്യൂസിയവുമുണ്ട്.
-# translit = svābhāvika smārakaṅṅaḷ̕ kūṭāte, spāsk-ṟayāsan̕skispāsk-ṟayāsan̕skispāsk-ṟayāsan̕ski paṭṭaṇattil̕ ji. ke. vāgnaṟuṭe rasakaramāya oru myūsiyavumuṇṭmyūsiyavumuṇṭmyūsiyavumuṇṭ.
+# translit = svābhāvika smārakaṅṅaḷ̕ kūṭāte, spāsk-ṟayāsan̕ski paṭṭaṇattil̕ ji. ke. vāgnaṟuṭe rasakaramāya oru myūsiyavumuṇṭ.
 # text_en = In addition to natural monuments, in the town of Spask-Ryazansky G. K. There is also an interesting museum of Wagner.
 1	സ്വാഭാവിക	സ്വാഭാവിക	ADJ	_	_	2	amod	_	Translit=svābhāvika|LTranslit=svābhāvika
-2	സ്മാരകങ്ങൾ	സ്മാരകം	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	16	nsubj	_	Translit=smārakaṅṅaḷ̕|LTranslit=smārakaṁ
+2	സ്മാരകങ്ങൾ	സ്മാരകം	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	16	nsubj	_	Translit=smārakaṅṅaḷ̕|LTranslit=smārakaṅṅaḷ̕
 3	കൂടാതെ	കൂടാതെ	ADV	_	_	16	advmod	_	SpaceAfter=No|Translit=kūṭāte|LTranslit=kūṭāte
 4	,	,	PUNCT	_	_	16	punct	_	Translit=,|LTranslit=,
-5-7	സ്പാസ്ക്-റയാസൻസ്കിസ്പാസ്ക്-റയാസൻസ്കിസ്പാസ്ക്-റയാസൻസ്കി	_	_	_	_	_	_	_	Translit=spāsk-ṟayāsan̕skispāsk-ṟayāsan̕skispāsk-ṟayāsan̕ski
+5-7	സ്പാസ്ക്-റയാസൻസ്കിസ്പാസ്ക്-റയാസൻസ്കിസ്പാസ്ക്-റയാസൻസ്കി	_	_	_	_	_	_	_	_
 5	സ്പാസ്ക്	സ്പാസ്ക്	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	8	flat	_	Translit=spāsk|LTranslit=spāsk
 6	-	-	PUNCT	_	Animacy=Anim|Case=Nom|Number=Sing	7	punct	_	Translit=-|LTranslit=-
-7	റയാസൻസ്കി	റയാസൻസ്കി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	8	flat	_	Translit=ṟayāsan̕ski|LTranslit=ṟayāsan̕ski
-8	പട്ടണത്തിൽ	പട്ടണം	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	16	obl	_	Translit=paṭṭaṇattil̕|LTranslit=paṭṭaṇaṁ
-9	ജി	ജി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	13	flat	_	SpaceAfter=No|Translit=ji|LTranslit=ji
+7	റയാസൻസ്കി	റയാസൻസ്കി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	8	flat	_	Translit=ṟayāsan̕ski
+8	പട്ടണത്തിൽ	പട്ടണം	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	16	obl	_	Translit=paṭṭaṇattil̕|LTranslit=paṭṭaṇattil̕
+9	ജി	ജി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	13	flat	_	SpaceAfter=No|Translit=ji|LTranslit=juka
 10	.	.	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
 11	കെ	കെ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	13	flat	_	SpaceAfter=No|Translit=ke|LTranslit=ke
 12	.	.	PUNCT	_	_	11	punct	_	Translit=.|LTranslit=.
-13	വാഗ്നറുടെ	വാഗ്നറ്	PROPN	_	Animacy=Anim|Case=Gen|Number=Sing	16	nmod:poss	_	Translit=vāgnaṟuṭe|LTranslit=vāgnaṟ
+13	വാഗ്നറുടെ	വാഗ്നറ്	PROPN	_	Animacy=Anim|Case=Gen|Number=Sing	16	nmod:poss	_	Translit=vāgnaṟuṭe|LTranslit=vāgnaṟuṭe
 14	രസകരമായ	രസകരം	ADJ	_	_	16	amod	_	Translit=rasakaramāya|LTranslit=rasakaraṁ
 15	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	16	det	_	Translit=oru|LTranslit=oru
-16-18	മ്യൂസിയവുമുണ്ട്മ്യൂസിയവുമുണ്ട്മ്യൂസിയവുമുണ്ട്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=myūsiyavumuṇṭmyūsiyavumuṇṭmyūsiyavumuṇṭ
-16	മ്യൂസിയം	മ്യൂസിയം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=myūsiyaṁ|LTranslit=myūsiyaṁ
-17	ഉം	ഉം	PART	_	_	16	cc	_	Translit=uṁ|LTranslit=uṁ
+16-18	മ്യൂസിയവുമുണ്ട്മ്യൂസിയവുമുണ്ട്മ്യൂസിയവുമുണ്ട്	_	_	_	_	_	_	_	SpaceAfter=No
+16	മ്യൂസിയം	മ്യൂസിയം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=myūsiyam|LTranslit=myūsiyam
+17	ഉം	ഉം	PART	_	_	16	cc	_	Translit=myūsiyavumuṇṭ|LTranslit=myūsiyavumuṇṭ
 18	ഉണ്ട്	ഉണ്ട്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	Translit=uṇṭ|LTranslit=uṇṭ
 19	.	.	PUNCT	_	_	16	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
@@ -2126,7 +2384,7 @@
 1	ഇതിന്	ഇത്	DET	_	Case=Dat|Deixis=Prox|PronType=Dem	2	det	_	Translit=itin|LTranslit=it
 2	പുറമേ	പുറമേ	ADP	_	_	16	advmod	_	Translit=puṟamē|LTranslit=puṟamē
 3	ധനമന്ത്രാലയത്തിന്	ധനമന്ത്രാലയം	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	6	nmod	_	Translit=dhanamantrālayattin|LTranslit=dhanamantrālayaṁ
-4	കീഴിലുളള	കീലേ	ADJ	_	_	5	amod	_	Translit=kīḻiluḷaḷa|LTranslit=kīlē
+4	കീഴിലുളള	കീലേ	ADJ	_	_	5	amod	_	Translit=kīḻiluḷaḷa|LTranslit=kīḷe
 5	സാമ്പത്തികകാര്യ	സാമ്പത്തികകാര്യം	ADJ	_	_	6	compound	_	Translit=sāmpattikakārya|LTranslit=sāmpattikakāryaṁ
 6	വകുപ്പ്	വകുപ്പ്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	16	obl	_	Translit=vakupp|LTranslit=vakupp
 7	അധികമായി	അധികമായി	ADV	_	_	8	advmod	_	Translit=adhikamāyi|LTranslit=adhikamāyi
@@ -2136,7 +2394,7 @@
 11	അനുമതി	അനുമതി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	obj	_	Translit=anumati|LTranslit=anumati
 12	നേടിയെടുക്കുന്നതിൽ	നേടിയെടുക്കുക	VERB	_	_	13	advcl	_	Translit=nēṭiyeṭukkunnatil̕|LTranslit=nēṭiyeṭukkuka
 13-14	പരാജയപ്പെട്ടതായും	_	_	_	_	_	_	_	Translit=parājayappeṭṭatāyuṁ
-13	പരാജയപ്പേട്ടതായി	പരാജയപ്പെടുക	ADV	_	_	16	ccomp	_	Translit=parājayappēṭṭatāyi|LTranslit=parājayappeṭuka
+13	പരാജയപ്പേട്ടതായി	പരാജയപ്പെടുക	ADV	_	_	16	ccomp	_	Translit=parājayappeṭṭatāyi|LTranslit=parājayappeṭuka
 14	ഉം	ഉം	PART	_	_	13	cc	_	Translit=uṁ|LTranslit=uṁ
 15	റിപ്പോർട്ട്	റിപ്പോർട്ട്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	16	nsubj	_	Translit=ṟippōṟ̕ṭṭ|LTranslit=ṟippōṟ̕ṭṭ
 16	കുറ്റപ്പെടുത്തുന്നു	കുറ്റപ്പെടുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Cau	0	root	_	SpaceAfter=No|Translit=kuṟṟappeṭuttunnu|LTranslit=kuṟṟappeṭuka
@@ -2148,7 +2406,7 @@
 # text_en = Maybe even better than chocolate.
 1	ഒരുപക്ഷേ	ഒരുപക്ഷേ	ADV	_	_	4	advmod	_	SpaceAfter=No|Translit=orupakṣē|LTranslit=orupakṣē
 2	,	,	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,
-3	ചോക്ലേറ്റിനേക്കാൾ	ചോക്കലേറ്റ്	NOUN	_	Animacy=Anim|Case=Cmp|Number=Sing	4	nsubj	_	Translit=cōklēṟṟinēkkāḷ̕|LTranslit=cōkkalēṟṟ
+3	ചോക്ലേറ്റിനേക്കാൾ	ചോക്കലേറ്റ്	NOUN	_	Animacy=Anim|Case=Cmp|Number=Sing	4	nsubj	_	Translit=cōklēṟṟinēkkāḷ̕|LTranslit=cōklēṟṟin̕
 4-5	നല്ലതാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=nallatāṇ
 4	നല്ലത്	നല്ലത്	NOUN	_	Animacy=Inam|Case=Nom|Number=Sing	0	root	_	Translit=nallat|LTranslit=nallat
 5	ആണ്	ആക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=āṇ|LTranslit=āk
@@ -2185,7 +2443,7 @@
 7	പോളിസിയുടെ	പോളിസി	NOUN	_	Animacy=Inan|Case=Gen|Number=Sing	8	nmod:poss	_	Translit=pōḷisiyuṭe|LTranslit=pōḷisi
 8	ബിസിനസ്സ്	ബിസിനസ്സ്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	9	compound	_	Translit=bisinass|LTranslit=bisinass
 9	ഉപകരണങ്ങളെ	ഉപകാരണം	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	12	obj	_	Translit=upakaraṇaṅṅaḷe|LTranslit=upakāraṇaṁ
-10	മാത്രമേ	മാത്രം	ADV	_	_	12	advmod	_	Translit=mātramē|LTranslit=mātraṁ
+10	മാത്രമേ	മാത്രം	ADV	_	_	12	advmod	_	Translit=mātramē|LTranslit=mātram
 11	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=it|LTranslit=it
 12	ബാധിക്കുകയുള്ളൂ	ബാധിക്കുകയുള്ളുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Polite=Form|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=bādhikkukayuḷḷū|LTranslit=bādhikkukayuḷḷuka
 13	.	.	PUNCT	_	_	12	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
@@ -2209,7 +2467,7 @@
 2	അറ്റ്	അറ്റ്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	3	compound	_	Translit=aṟṟ|LTranslit=aṟṟ
 3	ഫസ്റ്റസൈറ്റ്	ഫസ്റ്റസൈറ്റ്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	6	acl	_	Translit=phasṟṟasaiṟṟ|LTranslit=phasṟṟasaiṟṟ
 4	എന്ന	എന്ന	PART	_	_	3	mark	_	Translit=enna|LTranslit=enna
-5	കൺസെപ്ടിൽ	കോൺസെപ്റ്	NOUN	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	nsubj	_	Translit=kaṇ̕sepṭil̕|LTranslit=kōṇ̕sepṟ
+5	കൺസെപ്ടിൽ	കോൺസെപ്റ്	NOUN	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	nsubj	_	Translit=kaṇ̕sepṭil̕|LTranslit=kaṇ̕sepṭ
 6	വിശ്വസിക്കുന്നുണ്ടോ	വിശ്വസിക്കുക	VERB	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=viśvasikkunnuṇṭō|LTranslit=viśvasikkuka
 7	?	?	PUNCT	_	_	6	punct	_	SpacesAfter=\n|Translit=?|LTranslit=?
 
@@ -2220,7 +2478,7 @@
 1	കശ്മീർ	കശ്മീർ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	2	compound	_	Translit=kaśmīṟ̕|LTranslit=kaśmīṟ̕
 2	പണ്ഡിറ്റുകളുടെ	പണ്ഡിറ്റ്	NOUN	_	Animacy=Inan|Case=Gen|Number=Plur	3	nmod:poss	_	Translit=paṇḍiṟṟukaḷuṭe|LTranslit=paṇḍiṟṟ
 3-4	പുനരധിവാസമാണ്	_	_	_	_	_	_	_	Translit=punaradhivāsamāṇ
-3	പുനരധിവാസം	പുനരധിവാസം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	5	nsubj	_	Translit=punaradhivāsaṁ|LTranslit=punaradhivāsaṁ
+3	പുനരധിവാസം	പുനരധിവാസം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	5	nsubj	_	Translit=punaradhivāsam|LTranslit=punaradhivāsam
 4	ആണ്	ആക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	Translit=āṇ|LTranslit=āk
 5-6	പ്രധാനപ്രശ്‌നമെന്ന്	_	_	_	_	_	_	_	Translit=pradhānapraśnamenn
 5	പ്രധാനപ്രശ്‌നം	പ്രധാനപ്രശ്‌നം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	9	ccomp	_	Translit=pradhānapraśnaṁ|LTranslit=pradhānapraśnaṁ
@@ -2251,7 +2509,7 @@
 
 # sent_id = indiccorp90
 # text = താഴേക്ക് ഒരു ബൈക്ക് എങ്ങനെ തിരഞ്ഞെടുക്കാൻNO.
-# translit = tāḻēkk oru baikk eṅṅane tiraññeṭukkān̕NO.
+# translit = tāḻēkk oru baikk eṅṅane tiraññeṭukkān̕
 # text_en = How to choose a bike down
 1	താഴേക്ക്	താഴേ	ADV	_	_	5	advmod	_	Translit=tāḻēkk|LTranslit=tāḻē
 2	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	3	det	_	Translit=oru|LTranslit=oru
@@ -2266,8 +2524,8 @@
 # text_en = The Scorpio that Ghulam Nabi traveled with
 1	ഗുലാം	ഗുലാം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	3	nsubj	_	Translit=gulāṁ|LTranslit=gulāṁ
 2	നബി	നബി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	1	flat	_	Translit=nabi|LTranslit=nabi
-3	സഞ്ചരിച്ചിരുന്ന	സഞ്ചരിക്കുക	VERB	_	VerbForm=Part	4	acl	_	Translit=sañcariccirunna|LTranslit=sañcarikkuka
-4	സ്‌കോർപിയോ	സ്‌കോർപിയോ	NOUN	_	_	0	root	_	Translit=skōṟ̕piyō|LTranslit=skōṟ̕piyō
+3	സഞ്ചരിച്ചിരുന്ന	സഞ്ചരിക്കുക	VERB	_	VerbForm=Part	4	acl	_	Translit=sañcariccirunna|LTranslit=sañcariccirikkuka
+4	സ്‌കോർപിയോ	സ്‌കോർപിയോ	NOUN	_	_	0	root	_	Translit=skōṟ̕pi|LTranslit=skōṟ̕puka
 
 # sent_id = indiccorp92
 # text = ധിരുബായി അമ്പാനി മരിച്ചപ്പോൾ ഉണ്ടായ കുടുംബ വഴക്കിനെ തുടർന്ന് മുകേഷ് അമ്പാനിക്ക് സഹോദരന് നൽകണ്ട വന്ന കമ്പനിയാണ് റിലയൻസ് കമ്യൂണിക്കേഷൻസ്.
@@ -2277,7 +2535,7 @@
 2	അമ്പാനി	അമ്പാനി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	1	flat	_	Translit=ampāni|LTranslit=ampāni
 3	മരിച്ചപ്പോൾ	മരിക്കുക	ADV	_	_	6	advcl	_	Translit=mariccappōḷ̕|LTranslit=marikkuka
 4	ഉണ്ടായ	ഉണ്ടായ	ADJ	_	_	6	amod	_	Translit=uṇṭāya|LTranslit=uṇṭāya
-5	കുടുംബ	കുടുംബം	ADJ	_	_	6	compound	_	Translit=kuṭuṁba|LTranslit=kuṭuṁbaṁ
+5	കുടുംബ	കുടുംബം	ADJ	_	_	6	compound	_	Translit=kuṭuṁba|LTranslit=kuṭumbaṁ
 6	വഴക്കിനെ	വഴക്ക്	NOUN	_	Animacy=Anim|Case=Acc|Number=Sing	7	obj	_	Translit=vaḻakkine|LTranslit=vaḻakk
 7	തുടർന്ന്	തുടർന്ന്	ADV	_	_	13	advcl	_	Translit=tuṭaṟ̕nn|LTranslit=tuṭaṟ̕nn
 8	മുകേഷ്	മുകേഷ്	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	12	iobj	_	Translit=mukēṣ|LTranslit=mukēṣ
@@ -2296,10 +2554,10 @@
 # newpar
 # sent_id = indiccorp93
 # text = ഉരുളിയോട് ചേർന്ന് താലത്തിൽ അലക്കിയ കസവു മുണ്ട്, ഗ്രന്ഥം, വെറ്റിലയിൽ നാണയം, പഴുക്കടയ്ക്ക എന്നിവ വയ്ക്കും .
-# translit = uruḷiyōṭ cēṟ̕nn tālattil̕ alakkiya kasavu muṇṭ, granthaṁ, veṟṟilayil̕ nāṇayaṁ, paḻukkaṭaykka enniva vaykkuṁ .
+# translit = uruḷiyōṭ cēṟ̕nn tālattil̕ alakkiya kasavu muṇṭ, granthaṁ, veṟṟilayil̕ nāṇayaṁ, paḻukkaṭaykka enniva vaykkuṁ.
 # text_en = Washed kasavu mund, grantham, coin in betel leaf and parukadakka will be placed on the plate next to the rice.
 1	ഉരുളിയോട്	ഉരുളി	NOUN	_	Animacy=Inan|Case=Com|Number=Sing	15	obl	_	Translit=uruḷiyōṭ|LTranslit=uruḷi
-2	ചേർന്ന്	ചേർക്കുക	VERB	_	VerbForm=Part	15	compound	_	Translit=cēṟ̕nn|LTranslit=cēṟ̕kkuka
+2	ചേർന്ന്	ചേർക്കുക	VERB	_	VerbForm=Part	15	compound	_	Translit=cēṟ̕nn|LTranslit=cēṟ̕kuka
 3	താലത്തിൽ	താലം	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	4	obl	_	Translit=tālattil̕|LTranslit=tālaṁ
 4	അലക്കിയ	അലക്കുക	ADJ	_	_	6	acl	_	Translit=alakkiya|LTranslit=alakkuka
 5	കസവു	കസവു	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	6	compound	_	Translit=kasavu|LTranslit=kasavu
@@ -2312,7 +2570,7 @@
 12	,	,	PUNCT	_	_	13	punct	_	Translit=,|LTranslit=,
 13	പഴുക്കടയ്ക്ക	പഴുക്കടയ്ക്ക	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	conj	_	Translit=paḻukkaṭaykka|LTranslit=paḻukkaṭaykka
 14	എന്നിവ	എന്നിവ	ADV	_	_	6	conj	_	Translit=enniva|LTranslit=enniva
-15	വയ്ക്കും	വയികുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Fin	0	root	_	Translit=vaykkuṁ|LTranslit=vayikuka
+15	വയ്ക്കും	വയികുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Fin	0	root	_	Translit=vayikkum|LTranslit=vayikkuka
 16	.	.	PUNCT	_	_	15	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp94
@@ -2323,20 +2581,20 @@
 2	/22	/22	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	3	nmod:poss	_	SpaceAfter=No|Translit=/22|LTranslit=/22
 3	/2019	/2019	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	nsubj	_	Translit=/2019|LTranslit=/2019
 4	-	-	PUNCT	_	_	6	advmod	_	Translit=-|LTranslit=-
-5	05	05	NUM	_	_	6	advmod	_	SpaceAfter=No|Translit=05|LTranslit=05
+5	05	05	NUM	_	_	6	advmod	_	SpaceAfter=No|Translit=5|LTranslit=5
 6	:45	:45	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpacesAfter=\n|Translit=:45|LTranslit=:45
 
 # sent_id = indiccorp95
 # text = ഭരണപക്ഷ നേതാക്കൾക്ക് തുടർച്ചയായി ക്ലീൻ ചിറ്റ് നൽകുന്നത് സംബന്ധിച്ച വിവാദങ്ങൾക്ക് ഇടയായതാണ് നിതി ആയോഗിന് നൽകിയ ക്ളീൻ ചിറ്റ് പുനഃപരിശോധിക്കാനുള്ള തെരഞ്ഞെടുപ്പ് കമ്മീഷൻ തീരുമാനം.
 # translit = bharaṇapakṣa nētākkaḷ̕kk tuṭaṟ̕ccayāyi klīn̕ ciṟṟ nal̕kunnat saṁbandhicca vivādaṅṅaḷ̕kk iṭayāyatāṇ niti āyōgin nal̕kiya kḷīn̕ ciṟṟ punaḥpariśōdhikkānuḷḷa teraññeṭupp kammīṣan̕ tīrumānaṁ.
 # text_en = The Election Commission's decision to re-examine the clean chit given to the NITI Aayog has been the subject of controversies regarding the continuous giving of clean chits to ruling party leaders.
-1	ഭരണപക്ഷ	ഭരണപക്ഷം	ADJ	_	_	2	amod	_	Translit=bharaṇapakṣa|LTranslit=bharaṇapakṣaṁ
+1	ഭരണപക്ഷ	ഭരണപക്ഷം	ADJ	_	_	2	amod	_	Translit=bharaṇapakṣa|LTranslit=bharaṇapakṣam
 2	നേതാക്കൾക്ക്	നേതാ	NOUN	_	Animacy=Anim|Case=Dat|Number=Plur	6	nsubj	_	Translit=nētākkaḷ̕kk|LTranslit=nētā
 3	തുടർച്ചയായി	തുടർച്ച	ADV	_	_	6	advmod	_	Translit=tuṭaṟ̕ccayāyi|LTranslit=tuṭaṟ̕cca
 4	ക്ലീൻ	ക്ലീൻ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	5	compound	_	Translit=klīn̕|LTranslit=klīn̕
 5	ചിറ്റ്	ചിറ്റ്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	Translit=ciṟṟ|LTranslit=ciṟṟ
 6	നൽകുന്നത്	നൽകുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	9	advcl	_	Translit=nal̕kunnat|LTranslit=nal̕kuka
-7	സംബന്ധിച്ച	സംബന്ധികുക	ADJ	_	_	8	amod	_	Translit=saṁbandhicca|LTranslit=saṁbandhikuka
+7	സംബന്ധിച്ച	സംബന്ധികുക	ADJ	_	_	8	amod	_	Translit=saṁbandhicca|LTranslit=saṁbandhikkuka
 8	വിവാദങ്ങൾക്ക്	വിവാദം	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	9	obl	_	Translit=vivādaṅṅaḷ̕kk|LTranslit=vivādaṁ
 9-10	ഇടയായതാണ്	_	_	_	_	_	_	_	Translit=iṭayāyatāṇ
 9	ഇടയായത്	ഇടയാകുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	19	advcl	_	Translit=iṭayāyat|LTranslit=iṭayākuka
@@ -2346,7 +2604,7 @@
 13	നൽകിയ	നൽകുക	VERB	_	VerbForm=Part	15	acl	_	Translit=nal̕kiya|LTranslit=nal̕kuka
 14	ക്ളീൻ	ക്ളീൻ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	15	compound	_	Translit=kḷīn̕|LTranslit=kḷīn̕
 15	ചിറ്റ്	ചിറ്റ്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	19	obj	_	Translit=ciṟṟ|LTranslit=ciṟṟ
-16	പുനഃപരിശോധിക്കാനുള്ള	പുനഃപരിഷോധിക്കുക	ADJ	_	_	18	amod	_	Translit=punaḥpariśōdhikkānuḷḷa|LTranslit=punaḥpariṣōdhikkuka
+16	പുനഃപരിശോധിക്കാനുള്ള	പുനഃപരിഷോധിക്കുക	ADJ	_	_	18	amod	_	Translit=punaḥpariśōdhikkānuḷḷa|LTranslit=punaḥpariśōdhikkuka
 17	തെരഞ്ഞെടുപ്പ്	തെരഞ്ഞെടുപ്പ്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	18	compound	_	Translit=teraññeṭupp|LTranslit=teraññeṭupp
 18	കമ്മീഷൻ	കമ്മീഷൻ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	19	nsubj	_	Translit=kammīṣan̕|LTranslit=kammīṣan̕
 19	തീരുമാനം	തീരുമാനം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=tīrumānaṁ|LTranslit=tīrumānaṁ
@@ -2394,7 +2652,7 @@
 6-7	സന്ദർശിക്കുന്നതിനിടെയാണ്	_	_	_	_	_	_	_	Translit=sandaṟ̕śikkunnatiniṭeyāṇ
 6	സന്ദർശിക്കുന്നതിനിടെയ്	സന്ദർശിക്കുക	VERB	_	VerbForm=Part	14	advcl	_	Translit=sandaṟ̕śikkunnatiniṭey|LTranslit=sandaṟ̕śikkuka
 7	ആണ്	ആക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=āṇ|LTranslit=āk
-8	രാജ്യത്തിന്	രാജ്യം	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	14	obl	_	Translit=rājyattin|LTranslit=rājyaṁ
+8	രാജ്യത്തിന്	രാജ്യം	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	14	obl	_	Translit=rājyattin|LTranslit=rājyam
 9-10	ഇത്രയും	_	_	_	_	_	_	_	Translit=itrayuṁ
 9	ഇത്ര	ഇത്ര	ADV	_	_	14	advmod	_	Translit=itra|LTranslit=itra
 10	ഉം	ഉം	PART	_	_	9	cc	_	Translit=uṁ|LTranslit=uṁ
@@ -2406,17 +2664,17 @@
 
 # sent_id = indiccorp99
 # text = സമൂഹത്തിൽ മാന്യത നിലനിർത്തി പ്രൊഫഷണൽ വൈദഗ്ധ്യത്തോടെ മനസ്സാന്നിധ്യം കൈവിടാതെയാണ്‌കൈവിടാതെയാണ്‌ ഓരോ കൊലപാതകവും നടത്തിയത്.
-# translit = samūhattil̕ mānyata nilaniṟ̕tti prophaṣaṇal̕ vaidagdhyattōṭe manassānnidhyaṁ kaiviṭāteyāṇkaiviṭāteyāṇ ōrō kolapātakavuṁ naṭattiyat.
+# translit = samūhattil̕ mānyata nilaniṟ̕tti prophaṣaṇal̕ vaidagdhyattōṭe manassānnidhyaṁ kaiviṭāteyāṇ ōrō kolapātakavuṁ naṭattiyat.
 # text_en = Each murder was carried out with professional skill and sanity while maintaining dignity in society.
-1	സമൂഹത്തിൽ	സമൂഹം	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	7	obl	_	Translit=samūhattil̕|LTranslit=samūhaṁ
-2	മാന്യത	മാന്യത	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	7	nsubj	_	Translit=mānyata|LTranslit=mānyata
+1	സമൂഹത്തിൽ	സമൂഹം	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	7	obl	_	Translit=samūhattil̕|LTranslit=samūham
+2	മാന്യത	മാന്യത	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	7	nsubj	_	Translit=mānyata|LTranslit=mānyayuka
 3	നിലനിർത്തി	നിലനിർത്തുക	VERB	_	VerbForm=Part	7	compound	_	Translit=nilaniṟ̕tti|LTranslit=nilaniṟ̕ttuka
 4	പ്രൊഫഷണൽ	പ്രൊഫഷണൽ	ADJ	_	_	5	amod	_	Translit=prophaṣaṇal̕|LTranslit=prophaṣaṇal̕
-5	വൈദഗ്ധ്യത്തോടെ	വൈദഗ്ധ്യം	NOUN	_	Animacy=Inan|Case=Com|Number=Sing	7	obl	_	Translit=vaidagdhyattōṭe|LTranslit=vaidagdhyaṁ
+5	വൈദഗ്ധ്യത്തോടെ	വൈദഗ്ധ്യം	NOUN	_	Animacy=Inan|Case=Com|Number=Sing	7	obl	_	Translit=vaidagdhyattōṭe|LTranslit=vaidagdhyam
 6	മനസ്സാന്നിധ്യം	മനസ്സാന്നിധ്യം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	7	obj	_	Translit=manassānnidhyaṁ|LTranslit=manassānnidhyaṁ
-7-8	കൈവിടാതെയാണ്‌കൈവിടാതെയാണ്‌	_	_	_	_	_	_	_	Translit=kaiviṭāteyāṇkaiviṭāteyāṇ
+7-8	കൈവിടാതെയാണ്‌കൈവിടാതെയാണ്‌	_	_	_	_	_	_	_	_
 7	കൈവിടാതെ	കൈവിടുക	VERB	_	VerbForm=Part	12	advcl	_	Translit=kaiviṭāte|LTranslit=kaiviṭuka
-8	ആണ്	ആക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ranslit=āṇ|Translit=āṇ|LTranslit=āk
+8	ആണ്	ആക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ranslit=āṇ|LTranslit=āk
 9	ഓരോ	ഓരോ	DET	_	_	10	det	_	Translit=ōrō|LTranslit=ōrō
 10-11	കൊലപാതകവും	_	_	_	_	_	_	_	Translit=kolapātakavuṁ
 10	കൊലപാതകം	കൊലപാതകം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	obj	_	Translit=kolapātakaṁ|LTranslit=kolapātakaṁ
@@ -2426,17 +2684,17 @@
 
 # sent_id = indiccorp100
 # text = ഇന്ത്യയിലും കഞ്ചാവ് നിയമവിധേയമാക്കണമെന്നനിയമവിധേയമാക്കണമെന്ന വാദങ്ങൾ ഉയർന്നു വരുന്നുണ്ട് .
-# translit = intyayiluṁ kañcāv niyamavidhēyamākkaṇamennaniyamavidhēyamākkaṇamenna vādaṅṅaḷ̕ uyaṟ̕nnu varunnuṇṭ .
+# translit = intyayiluṁ kañcāv niyamavidhēyamākkaṇamenna vādaṅṅaḷ̕ uyaṟ̕nnu varunnuṇṭ.
 # text_en = Arguments to legalize cannabis are also emerging in India.
 1-2	ഇന്ത്യയിലും	_	_	_	_	_	_	_	Translit=intyayiluṁ
-1	ഇന്ത്യയിൽ	ഇന്ത്യ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	obl	_	Translit=intyayil̕|LTranslit=intya
+1	ഇന്ത്യയിൽ	ഇന്ത്യ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	obl	_	Translit=intyayila|LTranslit=intyayila
 2	ഉം	ഉം	PART	_	_	1	cc	_	Translit=uṁ|LTranslit=uṁ
 3	കഞ്ചാവ്	കഞ്ചാവ്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	nsubj	_	Translit=kañcāv|LTranslit=kañcāv
-4-5	നിയമവിധേയമാക്കണമെന്നനിയമവിധേയമാക്കണമെന്ന	_	_	_	_	_	_	_	Translit=niyamavidhēyamākkaṇamennaniyamavidhēyamākkaṇamenna
-4	നിയമവിധേയമാക്കണം	നിയമവിധേയമാക്കുക	VERB	_	Mood=Nec|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	Translit=niyamavidhēyamākkaṇaṁ|LTranslit=niyamavidhēyamākkuka
-5	എന്ന	എന്ന	PART	_	_	4	mark	_	Translit=enna|LTranslit=enna
-6	വാദങ്ങൾ	വദനം	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	8	nsubj	_	Translit=vādaṅṅaḷ̕|LTranslit=vadanaṁ
+4-5	നിയമവിധേയമാക്കണമെന്നനിയമവിധേയമാക്കണമെന്ന	_	_	_	_	_	_	_	_
+4	നിയമവിധേയമാക്കണം	നിയമവിധേയമാക്കുക	VERB	_	Mood=Nec|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	Translit=niyamavidhēyamākkaṇamenna|LTranslit=niyamavidhēyamākkaṇam
+5	എന്ന	എന്ന	PART	_	_	4	mark	_	Translit=enna
+6	വാദങ്ങൾ	വദനം	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	8	nsubj	_	Translit=vādaṅṅaḷ̕|LTranslit=vādaṅṅaḷ̕
 7	ഉയർന്നു	ഉയർക	VERB	_	VerbForm=Part	8	compound	_	Translit=uyaṟ̕nnu|LTranslit=uyaṟ̕ka
-8	വരുന്നുണ്ട്	വരുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=varunnuṇṭ|LTranslit=varuka
+8	വരുന്നുണ്ട്	വരുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=varunnuṇṭ
 9	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
