@@ -5,122 +5,125 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>130</sentences><tokens>1382</tokens><words>1563</words><fused>171</fused></total>
+    <total><sentences>140</sentences><tokens>1522</tokens><words>1736</words><fused>202</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>130</sentences><tokens>1382</tokens><words>1563</words><fused>171</fused></test>
+    <test><sentences>140</sentences><tokens>1522</tokens><words>1736</words><fused>202</fused></test>
   </size>
-  <lemmas unique="976" /><!-- ., ഉം, ആക്, ,, എന്ന്, ഒരു, ', -, ?, ഇത്, ചെയ്യുക, :, അവൾ, എന്ന, നൽകുക -->
-  <forms unique="1028" /><!-- ., ഉം, ആണ്, ,, എന്ന്, ഒരു, ', -, ?, :, ഇത്, എന്ന, അവൾ, ഈ, വളരെ -->
-  <fusions unique="165" /><!-- ട്രെയിനറും, നല്ലതാണ്, രാജ്യമാണോ, വിദ്യാർത്ഥിയും, 12ന്, അതാൺ, അത്യാവശ്യമാണ്, അധികാരത്തിൽനിന്നും, അനുവദിച്ചതാണ്, അന്നനാളവും, അപലപനീയമാണ്, അഫ്‌സൽക്കയുമൊക്കെയാണ്, അറസ്റ്റിലായി, അറിവും, അഴിമതികളും -->
+  <lemmas unique="979" /><!-- ., ഉം, ആക്, ,, എന്ന്, ഒരു, ', ഇത്, ചെയ്യുക, പാർട്ടികൾ, -, ?, :, എന്ന, അവൾ -->
+  <forms unique="1035" /><!-- ., ഉം, ആണ്, ,, എന്ന്, ഒരു, ', -, ?, :, ഇത്, എന്ന, ഈ, അവൾ, കൂടുതൽ -->
+  <fusions unique="166" /><!-- നല്ലതാണ്, ട്രെയിനറും, അത്യാവശ്യമാണ്, അധികാരത്തിൽനിന്നും, അഴിമതികളും, ഉത്തമവും, ഉദ്യോഗസ്ഥരും, ഊർജസ്വലതയും, കാര്യക്ഷമതയും, കോൺഗ്രസിന്റെയും, ജനാധിപത്യത്തിനും, ജീർണിക്കുകയും, ദല്ലാളന്മാരും, ദുർബലമാവുകയും, നിന്നും -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="14">
-    <tag name="ADJ">94</tag><!-- പുതിയ, വലിയ, കഴിഞ്ഞ, ചെറിയ, ദേശീയ, ഭാര്യ, മാത്രമല്ല, രസകരം, അംഗം, അപ്പസ്‌തോലിക്‌ -->
-    <tag name="ADP">12</tag><!-- ന്, ശേഷം, ഉൾപ്പെടെ, എതിരെ, കൂടി, കൊണ്ട്, തൊട്ടുപിന്നാലെ, പിന്നാലെ, പുറമേ, വേണ്ടി -->
-    <tag name="ADV">178</tag><!-- വളരെ, ഇന്ന്, പരസ്പരം, അധികാരം, എങ്ങനെ, തന്നെ, പിന്നീട്, പിന്നെ, മാത്രം, മിനിറ്റ് -->
-    <tag name="AUX">43</tag><!-- ആക്, കഴിയുക, കഴിയുകാ, ചെയ്തു, ചെയ്യുക -->
-    <tag name="CCONJ">4</tag><!-- പക്ഷേ, എന്നാൽ, ഒരേ -->
-    <tag name="DET">26</tag><!-- ഒരു, ഈ, ഇത്, ഇരു, എല്ലാ, ഒക്കെ, ഓരോ, കുറേ, മറ്റൊരു -->
-    <tag name="NOUN">458</tag><!-- ബൈക്ക്, എന്ന, കൂടുതൽ, ട്രെയിനർ, നേതൃത്വം, രാജ്യം, വിദ്യാർത്ഥി, അച്ഛൻ, അതിനാൽ, കത്ത് -->
-    <tag name="NUM">17</tag><!-- 12, 05, 18, 1950, 20, 21, 210, 24, 400, 72 -->
-    <tag name="PART">110</tag><!-- ഉം, എന്ന്, എന്ന, ഓ, സന്ദേശം -->
-    <tag name="PRON">100</tag><!-- ഇത്, അവൾ, ഞാൻ, നിങ്ങൾ, പാർട്ടികൾ, അവൻ, അവർ, നീ, അത്, എന്ത് -->
-    <tag name="PROPN">110</tag><!-- പീറ്റർ, മേരി, അമ്പാനി, ജി, വിമാനത്ത്, സൗമ്യയുടെ, അടുപ്പ്, അതതു, അനുജന്, അറസ്റ്റു -->
-    <tag name="PUNCT">217</tag><!-- ., ,, ', -, ?, :, ", !, ;, … -->
-    <tag name="SCONJ">4</tag><!-- എന്ന് -->
-    <tag name="VERB">190</tag><!-- ആക്, ചെയ്യുക, നൽകുക, വരുക, തുടങ്ങുക, മാറ്റുക, ഉണ്ട്, എഴുതുക, ഓടുക, കണ്ടെത്തുക -->
+    <tag name="ADJ">116</tag><!-- ദേശീയ, പുതിയ, വലിയ, മാത്രമല്ല, കഴിഞ്ഞ, കേവല, ചെറിയ, നല്ല, ഭക്തിയില, ഭാര്യ -->
+    <tag name="ADP">17</tag><!-- ന്, ശേഷം, ആകെ, ഉൾപ്പെടെ, എതിരെ, കൂടി, കൊണ്ട, കൊണ്ട്, തൊട്ടുപിന്നാലെ, പിന്നാലെ -->
+    <tag name="ADV">178</tag><!-- വളരെ, അധികാരം, ഇന്ന്, തന്നെ, പരസ്പരം, അതുകൊണ്ട്, അത്യാവശ്യമ്, അത്രെ, ഇടയ്ക്കിടെ, ഇന്ത്യയുടെ -->
+    <tag name="AUX">45</tag><!-- ആക്, കഴിയുക, കഴിയുകാ, ചെയ്തു, ചെയ്യുക -->
+    <tag name="CCONJ">6</tag><!-- ഒരേ, പക്ഷേ, ആൻഡ്, എന്നാൽ -->
+    <tag name="DET">30</tag><!-- ഒരു, ഈ, ഇത്, ഇരു, എല്ലാ, ഏതാനും, ഒക്കെ, ഓരോ, കുറേ, മറ്റൊരു -->
+    <tag name="NOUN">511</tag><!-- കൂടുതൽ, അതിനാൽ, പ്രാദേശിക, പ്രാർത്ഥിക്കണം, ബൈക്ക്, എന്ന, ട്രെയിനർ, നേതൃത്വം, പാർട്ടി, രാജ്യം -->
+    <tag name="NUM">21</tag><!-- 12, 21, മൂന്ന്, 05, 18, 1950, 20, 210, 24, 400 -->
+    <tag name="PART">133</tag><!-- ഉം, എന്ന്, എന്ന, ഓ, ഇ, സന്ദേശം -->
+    <tag name="PRON">109</tag><!-- ഇത്, പാർട്ടികൾ, അവൾ, ഞാൻ, നിങ്ങൾ, അവൻ, അവർ, നീ, അത്, എന്ത് -->
+    <tag name="PROPN">119</tag><!-- പീറ്റർ, മേരി, അതതു, അമ്പാനി, കോൺഗ്രസ്, ജി, തിരഞ്ഞെടുപ്പുകള്, ദൈവകരങ്ങള്, ദൈവത്ത്, ഭരണത്ത് -->
+    <tag name="PUNCT">236</tag><!-- ., ,, ', -, ?, :, ", !, ;, '' -->
+    <tag name="SCONJ">5</tag><!-- എന്ന്, എന്ന -->
+    <tag name="VERB">210</tag><!-- ആക്, ചെയ്യുക, നൽകുക, വരുക, തുടങ്ങുക, മാറ്റുക, ഇംഗിതത്തിനു, ഉണ്ട്, ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടുക, ഊർജസ്വലയുക -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="53">
-    <feat name="Animacy" value="Anim" upos="NOUN,PRON,PROPN,PUNCT">118</feat><!-- പീറ്റർ, മേരി, വിദ്യാർത്ഥി, അവർ, സൗമ്യയുടെ, -, അച്ഛനേക്കാൾ, അച്ഛൻ, അധികൃതരുടെ, അനുജന് -->
+  <feats unique="55">
+    <feat name="Animacy" value="Anim" upos="NOUN,PRON,PROPN,PUNCT">132</feat><!-- പീറ്റർ, മേരി, വിദ്യാർത്ഥി, അവർ, നല്ലത്, പാർട്ടി, രാജ്യത്തിന്, വഴങ്ങി, വാക്കുകൾ, സൗമ്യയുടെ -->
     <feat name="Animacy" value="Inam" upos="NOUN">2</feat><!-- കബാലിക്ക്, നല്ലത് -->
-    <feat name="Animacy" value="Inan" upos="NOUN,PRON,PROPN,VERB">447</feat><!-- ഇത്, അത്, എന്ത്, എന്ന, കൂടുതൽ, ബൈക്ക്, അതിനാൽ, അല്ലെങ്കിൽ, കത്ത്, കാർ -->
-    <feat name="Aspect" value="Imp" upos="VERB">66</feat><!-- കരുതുന്നു, തുടങ്ങി, ബി, വാങ്ങി, ഷഷ്ഠി, അടിച്ചു, അറിയാമോ, അറിയില്ല, അസിസ്റ്റന്റുമായി, ആകുന്നു -->
-    <feat name="Aspect" value="Perf" upos="VERB">5</feat><!-- ആയിട്ടില്ല, ആയിരിക്കുമ്പോൾ, നൽകിയായിരുന്നു, പ്പെട്ടിട്ട, വച്ചിരിക്കുന്നത് -->
+    <feat name="Animacy" value="Inan" upos="NOUN,PRON,PROPN,SCONJ,VERB">491</feat><!-- ഇത്, കൂടുതൽ, അതിനാൽ, എന്ന, പ്രാദേശിക, അത്, എന്ത്, ബൈക്ക്, (1, :23) -->
+    <feat name="Aspect" value="Imp" upos="VERB">66</feat><!-- ഇംഗിതത്തിനു, ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടി, കരുതുന്നു, തിമോത്തി, തുടർച്ചയായി, പാർട്ടി, ബി, വാങ്ങി, ഷഷ്ഠി, അടിച്ചു -->
+    <feat name="Aspect" value="Perf" upos="VERB">6</feat><!-- ആയിട്ടില്ല, ആയിരിക്കുമ്പോൾ, നിയോഗിച്ചിരുന്നു, നൽകിയായിരുന്നു, പ്പെട്ടിട്ട, വച്ചിരിക്കുന്നത് -->
     <feat name="Aspect" value="Prog" upos="VERB">3</feat><!-- കളിക്കുകയാൺ, ചീകിക്കൊണ്ടിരിക്കണം, പെയ്യുകയാണ് -->
-    <feat name="Case" value="Acc" upos="NOUN,PROPN,VERB">285</feat><!-- എന്ന, കൂടുതൽ, നേതൃത്വം, വിദ്യാർത്ഥി, അതിനാൽ, കാർ, ചിറ്റ്, ട്രെയിനർ, തവണ, പദ്ധതികൾ -->
+    <feat name="Case" value="Acc" upos="NOUN,PRON,PROPN,SCONJ,VERB">298</feat><!-- കൂടുതൽ, അതിനാൽ, എന്ന, പ്രാദേശിക, പ്രാർത്ഥിക്കണം, നേതൃത്വം, വിദ്യാർത്ഥി, (1, :23), അധികാര -->
     <feat name="Case" value="All" upos="NOUN">2</feat><!-- തിയേറ്ററുകളിലേക്ക്, മാധ്യമരംഗത്തേക്ക് -->
     <feat name="Case" value="Ben" upos="NOUN">2</feat><!-- അറിയിപ്പുകൾക്കായി, ആഗ്രഹത്തിന് -->
     <feat name="Case" value="Cmp" upos="NOUN">2</feat><!-- അച്ഛനേക്കാൾ, ചോക്ലേറ്റിനേക്കാൾ -->
-    <feat name="Case" value="Com" upos="NOUN,PROPN">9</feat><!-- ഉരുളിയോട്, കണക്കുമായി, ജനങ്ങളുമായി, ധോണിക്കൊപ്പം, പ്രതികരണവുമായി, പ്രമോഷനുമായി, മുഖഭാവത്തോടെയ്, വേദോപദേശത്തിനൊപ്പം, വൈദഗ്ധ്യത്തോടെ -->
-    <feat name="Case" value="Dat" upos="DET,NOUN,PRON,PROPN">30</feat><!-- ഇതിന്, നിങ്ങൾക്ക്, നിനക്ക്, രാജ്യത്തിന്, അമ്പാനിക്ക്, അവർക്ക്, ആയോഗിന്, ഉച്ചയ്ക്ക്, കബാലിക്ക്, ചോദ്യത്തിന് -->
-    <feat name="Case" value="Gen" upos="NOUN,PRON,PROPN">51</feat><!-- പാർട്ടികളുടെ, ഇതിന്റെ, എൻറെ, നിങ്ങളുടെ, സൗമ്യയുടെ, അധികൃതരുടെ, അവന്റെ, അവളുടെ, ആളുകളുടെ, എന്റെ -->
+    <feat name="Case" value="Com" upos="NOUN,PRON,PROPN">11</feat><!-- ഇതോടെ, ഉരുളിയോട്, കണക്കുമായി, ജനങ്ങളുമായി, ധോണിക്കൊപ്പം, പ്രതികരണവുമായി, പ്രമോഷനുമായി, മുഖഭാവത്തോടെയ്, മുന്നേറ്റത്തോടെ, വേദോപദേശത്തിനൊപ്പം -->
+    <feat name="Case" value="Dat" upos="DET,NOUN,PRON,PROPN">35</feat><!-- രാജ്യത്തിന്, ഇതിന്, നിങ്ങൾക്ക്, നിനക്ക്, സർക്കാരിന്, അമ്പാനിക്ക്, അവർക്ക്, ആയോഗിന്, ഉച്ചയ്ക്ക്, കബാലിക്ക് -->
+    <feat name="Case" value="Gen" upos="NOUN,PRON,PROPN">58</feat><!-- പാർട്ടികളുടെ, ഇതിന്റെ, എൻറെ, കോൺഗ്രസിന്റെ, ദൈവത്തിന്റെ, നല്ലത്, നിങ്ങളുടെ, പോളിന്റെ, സഖ്യകക്ഷികളുടെ, സൗമ്യയുടെ -->
     <feat name="Case" value="Ins" upos="NOUN">2</feat><!-- കാരണങ്ങളാൽ, ഭർത്താവിനെ -->
-    <feat name="Case" value="Loc" upos="NOUN,PROPN">35</feat><!-- വിമാനത്തിൽ, 2014-ൽ, അടുപ്പിൽ, അല്ലെങ്കിൽ, ആക്രമണത്തിൽ, ഈഞ്ചയ്ക്കലിൽ, കാലഘട്ടത്തിൽ, ജമ്മുകശ്മിരിൽ, താലത്തിൽ, തിരഞ്ഞെടുപ്പുകളിൽ -->
-    <feat name="Case" value="Nom" upos="NOUN,PRON,PROPN,PUNCT,VERB">244</feat><!-- ഇത്, അവൾ, അത്, അവൻ, അവർ, എന്ത്, പാർട്ടികൾ, പീറ്റർ, മേരി, അമേരിക്കൻ -->
-    <feat name="Definite" value="Ind" upos="DET">14</feat><!-- ഒരു -->
-    <feat name="Deixis" value="Prox" upos="DET,PRON">15</feat><!-- ഇത്, ഈ, ഇതിന്, ഇവർ -->
-    <feat name="Deixis" value="Remt" upos="PRON">51</feat><!-- അവൾ, അത്, അവൻ, പാർട്ടികളുടെ, അമേരിക്കൻ, അവർ, നിങ്ങളുടെ, പാർട്ടികൾ, അവ, അവന്റെ -->
-    <feat name="Gender" value="Fem" upos="PRON">24</feat><!-- അവൾ, പാർട്ടികളുടെ, പാർട്ടികൾ, അവളുടെ, അവൻ, അസ്ഥികൾ, കാൾ, കുട്ടികളുടെ, കൈയാളുമ്പോൾ, ഗൂഗിൾ -->
-    <feat name="Gender" value="Masc" upos="PRON">13</feat><!-- അമേരിക്കൻ, അവൻ, അവന്റെ, ഈജിപ്ഷ്യൻ, ഉണ്ടെന്ൻ, ഒന്ൻ, പാകിസ്ഥാൻ, ഭരണത്തിനുണ്ടാകാൻ, ഭരിക്കാൻ, മനുഷ്യൻ -->
-    <feat name="Gender" value="Neut" upos="PRON">12</feat><!-- ഇത്, അത്, ഇതിന്, വിമർശിച്ചത് -->
+    <feat name="Case" value="Loc" upos="NOUN,PROPN">45</feat><!-- തിരഞ്ഞെടുപ്പുകളിൽ, ദൈവകരങ്ങളിൽ, ഭരണത്തിൽ, മുന്നിൽ, വിമാനത്തിൽ, 2004ൽ, 2014-ൽ, അടുപ്പിൽ, അല്ലെങ്കിൽ, ആക്രമണത്തിൽ -->
+    <feat name="Case" value="Nom" upos="NOUN,PRON,PROPN,PUNCT,VERB">278</feat><!-- ഇത്, അവൾ, പാർട്ടികൾ, അത്, അവൻ, അവർ, എന്ത്, പീറ്റർ, മേരി, അതതു -->
+    <feat name="Definite" value="Ind" upos="DET">15</feat><!-- ഒരു -->
+    <feat name="Deixis" value="Prox" upos="DET,PRON">18</feat><!-- ഇത്, ഈ, ഇതിന്, ഇവർ -->
+    <feat name="Deixis" value="Remt" upos="PRON,PROPN">60</feat><!-- അവൾ, പാർട്ടികളുടെ, പാർട്ടികൾ, അത്, അവൻ, അമേരിക്കൻ, അവർ, കൈയാളുമ്പോൾ, നിങ്ങളുടെ, ഭരണത്തിനുണ്ടാകാൻ -->
+    <feat name="Gender" value="Fem" upos="PRON">31</feat><!-- അവൾ, പാർട്ടികളുടെ, പാർട്ടികൾ, കൈയാളുമ്പോൾ, സഖ്യകക്ഷികളുടെ, അവളുടെ, അവൻ, അസ്ഥികൾ, കാൾ, കുട്ടികളുടെ -->
+    <feat name="Gender" value="Masc" upos="PRON">14</feat><!-- അമേരിക്കൻ, അവൻ, ഭരണത്തിനുണ്ടാകാൻ, ഭരിക്കാൻ, അവന്റെ, ഈജിപ്ഷ്യൻ, ഉണ്ടെന്ൻ, ഒന്ൻ, പാകിസ്ഥാൻ, മനുഷ്യൻ -->
+    <feat name="Gender" value="Neut" upos="PRON">13</feat><!-- ഇത്, അത്, ഇതിന്, വിമർശിച്ചത് -->
     <feat name="Mood" value="Cnd" upos="VERB">1</feat><!-- തോന്നുന്നെങ്കിൽ -->
-    <feat name="Mood" value="Imp" upos="VERB">4</feat><!-- കൊള്ളരുത്, തടിച്ചുകൂടരുത്, തുറക്കൂ, ഭക്ഷിക്കരുത് -->
-    <feat name="Mood" value="Ind" upos="AUX,NOUN,VERB">146</feat><!-- ആണ്, ആണോ, ആയി, ആയിരുന്നു, ഉണ്ട്, കരുതുന്നു, ചെയ്തു, തുടങ്ങി, ബി, വാങ്ങി -->
-    <feat name="Mood" value="Nec" upos="VERB">5</feat><!-- എത്തിക്കണം, ചീകിക്കൊണ്ടിരിക്കണം, നിയമവിധേയമാക്കണം, പരിശോധിക്കണം, പോകണമോ -->
-    <feat name="Number" value="Plur" upos="NOUN,PRON,VERB">45</feat><!-- അവർ, അധികൃതരുടെ, അറിയിപ്പുകൾക്കായി, അവ, അവർക്ക്, ആളുകളുടെ, ആളുകൾ, ഉപകരണങ്ങളെ, എന്നിവ, കാരണങ്ങളാൽ -->
+    <feat name="Mood" value="Imp" upos="VERB">5</feat><!-- കൊള്ളരുത്, തടിച്ചുകൂടരുത്, തുറക്കൂ, ഭക്ഷിക്കരുത്, വയ്ക്കുക -->
+    <feat name="Mood" value="Ind" upos="AUX,NOUN,VERB">156</feat><!-- ആണ്, ആണോ, ആയി, ആയിരുന്നു, ഇംഗിതത്തിനു, ഉണ്ട്, ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടി, കരുതുന്നു, ചെയ്തു, തിമോത്തി -->
+    <feat name="Mood" value="Nec" upos="VERB">6</feat><!-- എത്തിക്കണം, കൊണ്ടുവരണം, ചീകിക്കൊണ്ടിരിക്കണം, നിയമവിധേയമാക്കണം, പരിശോധിക്കണം, പോകണമോ -->
+    <feat name="Mood" value="Pot" upos="VERB">1</feat><!-- കളയാം -->
+    <feat name="Number" value="Plur" upos="NOUN,PRON,PROPN,VERB">52</feat><!-- അവർ, വാക്കുകൾ, അധികൃതരുടെ, അറിയിപ്പുകൾക്കായി, അവ, അവരെ, അവർക്ക്, ആളുകളുടെ, ആളുകൾ, ഉദ്യോഗസ്ഥർ -->
     <feat name="Number" value="Plural" upos="PRON">1</feat><!-- ഇവർ -->
-    <feat name="Number" value="Sing" upos="NOUN,PRON,PROPN,PUNCT,VERB">612</feat><!-- ഇത്, അവൾ, അത്, അവൻ, എന്ന, കൂടുതൽ, ട്രെയിനർ, നല്ലത്, നേതൃത്വം, പാർട്ടികളുടെ -->
-    <feat name="NumForm" value="Digit" upos="NUM">4</feat><!-- 12, 1950, 24, 72 -->
-    <feat name="NumForm" value="Word" upos="NUM">6</feat><!-- തൊണ്ണൂറു, നാലു, നാല്, മൂന്നു, മൂന്ന്, രണ്ടാമത്തെ -->
-    <feat name="NumType" value="Card" upos="NUM">9</feat><!-- 12, 1950, 24, 72, തൊണ്ണൂറു, നാലു, നാല്, മൂന്നു, മൂന്ന് -->
+    <feat name="Number" value="Sing" upos="NOUN,PRON,PROPN,PUNCT,SCONJ,VERB">676</feat><!-- ഇത്, അവൾ, പാർട്ടികളുടെ, കൂടുതൽ, അതിനാൽ, എന്ന, നല്ലത്, പാർട്ടികൾ, പ്രാദേശിക, പ്രാർത്ഥിക്കണം -->
+    <feat name="NumForm" value="Digit" upos="NUM">5</feat><!-- 12, 1950, 210, 24, 72 -->
+    <feat name="NumForm" value="Word" upos="NUM">9</feat><!-- മൂന്ന്, തൊണ്ണൂറു, നാലു, നാല്, നാൽപ്പതു, മുപ്പതു, മൂന്നു, രണ്ടാമത്തെ -->
+    <feat name="NumType" value="Card" upos="NUM">13</feat><!-- മൂന്ന്, 12, 1950, 210, 24, 72, തൊണ്ണൂറു, നാലു, നാല്, നാൽപ്പതു -->
     <feat name="NumType" value="Ord" upos="NUM">1</feat><!-- രണ്ടാമത്തെ -->
     <feat name="Person" value="1" upos="PRON">6</feat><!-- എൻറെ, ഞാൻ, എനിക്ക്, എന്റെ -->
-    <feat name="Person" value="2" upos="PRON">28</feat><!-- ഇതിന്റെ, നിങ്ങളുടെ, നിങ്ങൾ, നിങ്ങൾക്ക്, നിനക്ക്, ഒന്നിന്റെ, കാര്യങ്ങൾ, കുടുംബശ്രീ, ജനങ്ങൾ, ദാരിദ്ര്യത്തിന്റെ -->
-    <feat name="Person" value="3" upos="PRON">61</feat><!-- ഇത്, അവൾ, അത്, അവൻ, അവർ, പാർട്ടികളുടെ, അമേരിക്കൻ, പാർട്ടികൾ, അവ, അവന്റെ -->
+    <feat name="Person" value="2" upos="PRON">26</feat><!-- ഇതിന്റെ, നിങ്ങളുടെ, നിങ്ങൾ, നിങ്ങൾക്ക്, നിനക്ക്, പോളിന്റെ, ഒന്നിന്റെ, കാര്യങ്ങൾ, കുടുംബശ്രീ, ദാരിദ്ര്യത്തിന്റെ -->
+    <feat name="Person" value="3" upos="PRON,PROPN">72</feat><!-- ഇത്, അവൾ, പാർട്ടികളുടെ, പാർട്ടികൾ, അത്, അവൻ, അവർ, അമേരിക്കൻ, കൈയാളുമ്പോൾ, ഭരണത്തിനുണ്ടാകാൻ -->
     <feat name="Polarity" value="Neg" upos="AUX,VERB">11</feat><!-- അറിയില്ല, ആണോ, ആയിട്ടില്ല, ആയില്ല, കഴിഞ്ഞില്ല, കൊള്ളരുത്, ചെയ്തില്ല, തടിച്ചുകൂടരുത്, തയ്യാറാകുന്നില്ല, പോകാതെ -->
-    <feat name="Polarity" value="Pos" upos="AUX,NOUN,VERB">195</feat><!-- ആണ്, ആണോ, ആയി, ചെയ്യുന്നത്, നൽകുന്നത്, ആയിരുന്നു, ഉണ്ട്, കരുതുന്നു, ചെയ്തു, തിരഞ്ഞെടുക്കാൻ -->
+    <feat name="Polarity" value="Pos" upos="AUX,NOUN,VERB">213</feat><!-- ആണ്, ആണോ, ആയി, ചെയ്യുന്നത്, നൽകുന്നത്, ആയിരുന്നു, ഇംഗിതത്തിനു, ഉണ്ട്, ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടി, ഊർജസ്വലത -->
     <feat name="Polite" value="Form" upos="NOUN,VERB">4</feat><!-- ആണ്, ആയിരിക്കുമ്പോൾ, തുറക്കൂ, ബാധിക്കുകയുള്ളൂ -->
-    <feat name="PronType" value="Art" upos="DET">14</feat><!-- ഒരു -->
-    <feat name="PronType" value="Dem" upos="DET">6</feat><!-- ഈ, ഇതിന് -->
-    <feat name="PronType" value="Int" upos="PRON">5</feat><!-- എന്ത്, ആര്, ജനിച്ചത് -->
-    <feat name="PronType" value="Prs" upos="PRON">95</feat><!-- ഇത്, അവൾ, അത്, അവൻ, അവർ, പാർട്ടികളുടെ, അമേരിക്കൻ, ഇതിന്റെ, എൻറെ, ഞാൻ -->
-    <feat name="Tense" value="Fut" upos="AUX,VERB">4</feat><!-- കഴിയും, പാകും, പ്രതികരിക്കും, വയ്ക്കും -->
-    <feat name="Tense" value="Past" upos="AUX,VERB">64</feat><!-- ആയി, ആയിരുന്നു, ചെയ്തു, തുടങ്ങി, ബി, വാങ്ങി, ഷഷ്ഠി, അടിച്ചു, അനുവദിച്ചത്, അറിയിച്ചു -->
-    <feat name="Tense" value="Pres" upos="AUX,NOUN,VERB">109</feat><!-- ആണ്, ആണോ, ചെയ്യുന്നത്, നൽകുന്നത്, ഉണ്ട്, കരുതുന്നു, അറിയാമോ, അല്ല, ആകുന്നു, ആഗ്രഹിക്കുന്നു -->
-    <feat name="VerbForm" value="Fin" upos="AUX,NOUN,VERB">156</feat><!-- ആണ്, ആണോ, ആയി, ആയിരുന്നു, ഉണ്ട്, കരുതുന്നു, ചെയ്തു, തുടങ്ങി, ബി, വാങ്ങി -->
-    <feat name="VerbForm" value="Inf" upos="VERB">20</feat><!-- കളിക്കാൻ, തിരഞ്ഞെടുക്കാൻ, കണ്ടെത്താൻ, നയിക്കാൻ, നശിപ്പിക്കുക, നിർത്താൻ, നീക്കാൻ, പഠിക്കാൻ, പായാൻ, പാൻ -->
-    <feat name="VerbForm" value="Part" upos="VERB">28</feat><!-- ഉയർന്നു, ഊർജസ്വലത, കടുത്ത, കണ്ട, കണ്ട്, കാര്യക്ഷമത, കൈവിടാതെ, ചെയ്ത, ചെയ്തു, ചെയ്ത് -->
-    <feat name="VerbForm" value="Vnoun" upos="VERB">26</feat><!-- ചെയ്യുന്നത്, നൽകുന്നത്, അനുവദിച്ചത്, ഇടയായത്, ഉണ്ടാകുന്നത്, എഴുതിയത്, ഓടിയതിനാൽ, കഴിയ്ക്കുന്നത്, കുരുതുന്നത്, തുടങ്ങിയത് -->
-    <feat name="Voice" value="Act" upos="AUX,NOUN,VERB">139</feat><!-- ആയി, ചെയ്യുന്നത്, നൽകുന്നത്, ആണ്, കരുതുന്നു, ചെയ്തു, തിരഞ്ഞെടുക്കാൻ, തുടങ്ങി, ബി, വാങ്ങി -->
+    <feat name="PronType" value="Art" upos="DET">15</feat><!-- ഒരു -->
+    <feat name="PronType" value="Dem" upos="DET">8</feat><!-- ഈ, ഇതിന് -->
+    <feat name="PronType" value="Int" upos="PRON">6</feat><!-- എന്ത്, ആരായാലഉം, ആര്, ജനിച്ചത് -->
+    <feat name="PronType" value="Prs" upos="PRON,PROPN">104</feat><!-- ഇത്, അവൾ, പാർട്ടികളുടെ, പാർട്ടികൾ, അത്, അവൻ, അവർ, അമേരിക്കൻ, ഇതിന്റെ, എൻറെ -->
+    <feat name="Tense" value="Fut" upos="AUX,VERB">5</feat><!-- കഴിയും, പാകും, പ്രതികരിക്കും, വയ്ക്കും, വരും -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">69</feat><!-- ആയി, ആയിരുന്നു, ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടി, ചെയ്തു, തിമോത്തി, തുടങ്ങി, തുടർച്ചയായി, പാർട്ടി, ബി, വാങ്ങി -->
+    <feat name="Tense" value="Pres" upos="AUX,NOUN,VERB">118</feat><!-- ആണ്, ആണോ, ചെയ്യുന്നത്, നൽകുന്നത്, ഇംഗിതത്തിനു, ഉണ്ട്, കരുതുന്നു, മാറിനില്ക്കുന്നത്, അറിയാമോ, അല്ല -->
+    <feat name="Typo" value="Yes" upos="ADJ,NOUN">3</feat><!-- നാരാങ്ങാ, നീരു, വിനോദം -->
+    <feat name="VerbForm" value="Fin" upos="AUX,NOUN,VERB">169</feat><!-- ആണ്, ആണോ, ആയി, ആയിരുന്നു, ഇംഗിതത്തിനു, ഉണ്ട്, ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടി, കരുതുന്നു, ചെയ്തു, തിമോത്തി -->
+    <feat name="VerbForm" value="Inf" upos="VERB">23</feat><!-- കളിക്കാൻ, തിരഞ്ഞെടുക്കാൻ, നയിക്കാൻ, ലഭിക്കുവാൻ, കണ്ടെത്താൻ, നശിപ്പിക്കുക, നിർത്താൻ, നീക്കാൻ, പഠിക്കാൻ, പരിഷ്‌കരിക്കാൻ -->
+    <feat name="VerbForm" value="Part" upos="VERB">30</feat><!-- ഊർജസ്വലത, കാര്യക്ഷമത, സ്വാർത്ഥത, ഉയർന്നു, കടുത്ത, കണ്ട, കണ്ട്, കൈവിടാതെ, ചുമത്തി, ചെയ്ത -->
+    <feat name="VerbForm" value="Vnoun" upos="VERB">30</feat><!-- ചെയ്യുന്നത്, നൽകുന്നത്, മാറിനില്ക്കുന്നത്, അനുവദിച്ചത്, ഇടയായത്, ഉണ്ടാകുന്നത്, എണ്ണൽ, എഴുതിയത്, ഓടിയതിനാൽ, കഴിയ്ക്കുന്നത് -->
+    <feat name="Voice" value="Act" upos="AUX,NOUN,VERB">151</feat><!-- ആയി, ചെയ്യുന്നത്, നൽകുന്നത്, ആണ്, ഇംഗിതത്തിനു, ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടി, ഊർജസ്വലത, കരുതുന്നു, കാര്യക്ഷമത, ചെയ്തു -->
     <feat name="Voice" value="Cau" upos="VERB">2</feat><!-- കഴികിച്ചു, കുറ്റപ്പെടുത്തുന്നു -->
     <feat name="Voice" value="Pass" upos="VERB">1</feat><!-- കൊല്ലപ്പെട്ടു -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="34">
+  <deps unique="35">
     <dep name="acl">8</dep>
     <dep name="acl:recl">1</dep>
-    <dep name="acl:relcl">2</dep>
-    <dep name="advcl">23</dep>
-    <dep name="advmod">165</dep>
+    <dep name="acl:relcl">3</dep>
+    <dep name="advcl">25</dep>
+    <dep name="advmod">148</dep>
     <dep name="advmod:emph">1</dep>
-    <dep name="amod">63</dep>
-    <dep name="appos">1</dep>
+    <dep name="amod">71</dep>
+    <dep name="appos">2</dep>
     <dep name="aux">12</dep>
-    <dep name="case">11</dep>
-    <dep name="cc">40</dep>
-    <dep name="ccomp">14</dep>
-    <dep name="compound">39</dep>
+    <dep name="case">17</dep>
+    <dep name="cc">39</dep>
+    <dep name="cc:foreign">1</dep>
+    <dep name="ccomp">15</dep>
+    <dep name="compound">47</dep>
     <dep name="compound:svc">5</dep>
-    <dep name="conj">19</dep>
-    <dep name="cop">35</dep>
+    <dep name="conj">21</dep>
+    <dep name="cop">38</dep>
     <dep name="csubj">2</dep>
-    <dep name="det">43</dep>
-    <dep name="flat">27</dep>
+    <dep name="det">48</dep>
+    <dep name="flat">29</dep>
     <dep name="iobj">4</dep>
-    <dep name="mark">17</dep>
-    <dep name="nmod">17</dep>
-    <dep name="nmod:poss">89</dep>
-    <dep name="nsubj">446</dep>
+    <dep name="mark">18</dep>
+    <dep name="nmod">24</dep>
+    <dep name="nmod:poss">93</dep>
+    <dep name="nsubj">407</dep>
     <dep name="nsubj:pass">3</dep>
-    <dep name="nummod">10</dep>
-    <dep name="obj">94</dep>
-    <dep name="obl">57</dep>
+    <dep name="nummod">14</dep>
+    <dep name="obj">93</dep>
+    <dep name="obl">72</dep>
     <dep name="orphan">2</dep>
     <dep name="parataxis">8</dep>
-    <dep name="punct">169</dep>
-    <dep name="root">130</dep>
+    <dep name="punct">174</dep>
+    <dep name="root">283</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">5</dep>
+    <dep name="xcomp">7</dep>
   </deps>
 </treebank>
