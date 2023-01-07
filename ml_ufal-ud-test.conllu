@@ -811,7 +811,7 @@
 15	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	cop	_	Translit=āṇ|LTranslit=āk
 16	ഷറഫുദ്ദീൻ	ഷറഫുദ്ദീൻ	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	18	nsubj	_	Translit=ṣaṟaphuddīn̕|LTranslit=ṣaṟaphuddīn̕
 17	നടന്ന്	നടക്കുക	VERB	_	VerbForm=Part	18	compound:svc	_	Translit=naṭann|LTranslit=naṭakkuka
-18	പോയത്	പോകുക	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	0	root	_	Translit=pōyat|LTranslit=pōkuka
+18	പോയത്	പോകുക	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	0	root	_	Translit=pōyat|LTranslit=pōkuka|SpaceAfter=No
 19	.	.	PUNCT	_	_	18	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp29
@@ -838,7 +838,7 @@
 3	ബൈക്കുകൾ	ബൈക്ക്	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	2	obj	_	Translit=baikkukaḷ̕|LTranslit=baikk
 4	നിർമിച്ചു	നിർമിക്കുക	VERB	_	VerbForm=Part	5	compound:svc	_	Translit=niṟ̕miccu|LTranslit=niṟ̕mikkuka
 5	നൽകിയായിരുന്നു	നൽകുക	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	acl	_	Translit=nal̕kiyāyirunnu|LTranslit=nal̕kuka
-6	തുടക്കം	തുടക്കം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=tuṭakkaṁ|LTranslit=tuṭakkaṁ
+6	തുടക്കം	തുടക്കം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=tuṭakkaṁ|LTranslit=tuṭakkaṁ|SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp31
@@ -965,7 +965,7 @@
 # text = “എന്ത് തരം ഹിന്ദുവാണ് മോദി”; ഹിന്ദുയിസത്തിന്റെ അടിസ്ഥാന തത്വങ്ങളെ കുറിച്ച് ചോദിച്ച് രാഹുൽ ഗാന്ധി.
 # translit = “ent taraṁ hinduvāṇ mōdi”; hinduyisattinṟe aṭisthāna tatvaṅṅaḷe kuṟicc cōdicc rāhul̕ gāndhi.
 # text_en = “What kind of Hindu is Modi”; Rahul Gandhi asked about the basic principles of Hinduism.
-1	“	“	PUNCT	_	_	3	punct	_	Translit=“|LTranslit=“
+1	“	“	PUNCT	_	_	3	punct	_	Translit=“|LTranslit=“|SpaceAfter=No
 2	എന്ത്	എന്ത്	PRON	_	PronType=Int	3	det	_	Translit=ent|LTranslit=ent
 3	തരം	തരം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	13	parataxis	_	Translit=taraṁ|LTranslit=taraṁ
 4-5	ഹിന്ദുവാണ്	_	_	_	_	_	_	_	Translit=hinduvāṇ
@@ -980,7 +980,7 @@
 12	കുറിച്ച്	കുറിച്ച്	ADP	_	_	11	case	_	Translit=kuṟicc|LTranslit=kuṟicc
 13	ചോദിച്ച്	ചോദിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=cōdiccu|Translit=cōdicc|LTranslit=cōdikkuka
 14	രാഹുൽ	രാഹുൽ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	13	nsubj	_	Translit=rāhul̕|LTranslit=rāhul̕
-15	ഗാന്ധി	ഗാന്ധുക	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	14	flat	_	Translit=gāndhi|LTranslit=gāndhuka
+15	ഗാന്ധി	ഗാന്ധുക	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	14	flat	_	Translit=gāndhi|LTranslit=gāndhuka|SpaceAfter=No
 16	.	.	PUNCT	_	_	13	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp38
@@ -994,7 +994,7 @@
 5	സൈറ്റിൽ	സൈറ്റ്	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	6	obl	_	Translit=saiṟṟil̕|LTranslit=saiṟṟ
 6	കുടുങ്ങിയ	കുടുങ്ങുക	VERB	_	VerbForm=Part	7	amod	_	Translit=kuṭuṅṅiya|LTranslit=kuṭuṅṅuka
 7	വിനോദസഞ്ചാരികളെ	വിനോദസഞ്ചാരി	NOUN	_	Animacy=Anim|Case=Acc|Number=Plur	8	obj	_	Translit=vinōdasañcārikaḷe|LTranslit=vinōdasañcāri
-8	രക്ഷപ്പെടുത്തി	രക്ഷിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	Translit=rakṣappeṭutti|LTranslit=rakṣikkuka
+8	രക്ഷപ്പെടുത്തി	രക്ഷിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	Translit=rakṣappeṭutti|LTranslit=rakṣikkuka|SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp40
@@ -1107,7 +1107,7 @@
 3-4	വോട്ടെണ്ണൽ	_	_	_	_	_	_	_	Translit=vōṭṭeṇṇal̕
 3	വോട്ട്	വോട്ട്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	compound	_	Translit=vōṭṭ|LTranslit=vōṭṭ
 4	എണ്ണൽ	എണ്ണുക	VERB	_	VerbForm=Vnoun	5	nsubj	_	Translit=eṇṇal̕|LTranslit=eṇṇuka
-5	ആരംഭിച്ചു	ആരംഭിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=āraṁbhiccu|LTranslit=āraṁbhikkuka
+5	ആരംഭിച്ചു	ആരംഭിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=āraṁbhiccu|LTranslit=āraṁbhikkuka|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp48
@@ -1124,7 +1124,7 @@
 7	നിന്നുമുള്ള	നിന്ന്	ADJ	_	_	8	amod	_	Translit=ninnumuḷḷa|LTranslit=ninn
 8	ഉദ്യോഗസ്ഥർ	ഉദ്യോഗസ്ഥർ	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur	10	nsubj	_	Translit=udyōgasthaṟ̕|LTranslit=udyōgasthaṟ̕
 9	ചർച്ച	ചർച്ച	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	Translit=caṟ̕cca|LTranslit=caṟ̕cca
-10	നടത്തുന്നത്	നടത്തുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	0	root	_	Translit=naṭattunnat|LTranslit=naṭattuka
+10	നടത്തുന്നത്	നടത്തുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	0	root	_	Translit=naṭattunnat|LTranslit=naṭattuka|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp49
@@ -1157,7 +1157,7 @@
 # sent_id = indiccorp51A
 # text = പഠനങ്ങൾ അനുസരിച്ച് ബിയർ കഴിയ്ക്കുന്നത് കിഡ്‌നി സ്റ്റോൺ പോലുള്ള അസുഖങ്ങളെ ഇല്ലാതാക്കുന്നുവെന്നും വൃക്കയുടെ ആരോഗ്യത്തെ സംരക്ഷിക്കുന്നുവെന്നും പറയുന്നു.
 # translit = paṭhanaṅṅaḷ̕ anusaricc biyaṟ̕ kaḻiykkunnat kiḍni sṟṟōṇ̕ pōluḷḷa asukhaṅṅaḷe illātākkunnuvennuṁ vr̥kkayuṭe ārōgyatte saṁrakṣikkunnuvennuṁ paṟayunnu.
-# text_en = Studies have shown that drinking beer can prevent diseases like kidney stones and protect kidney health. Beer can provide the body with many B vitamins.
+# text_en = Studies have shown that drinking beer can prevent diseases like kidney stones and protect kidney health.
 1	പഠനങ്ങൾ	പഠനം	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	17	nsubj	_	Translit=paṭhanaṅṅaḷ̕|LTranslit=paṭhanaṁ
 2	അനുസരിച്ച്	അനുസരിക്കുക	VERB	_	VerbForm=Part	17	compound:svc	_	Translit=anusaricc|LTranslit=anusarikkuka
 3	ബിയർ	ബിയർ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	obj	_	Translit=biyaṟ̕|LTranslit=biyaṟ̕
@@ -1182,7 +1182,7 @@
 # sent_id = indiccorp51B
 # text = ധാരാളം ബി വിറ്റാമിനുകളെ ശരീരത്തിന് നൽകാൻ ബിയറിന് സാധിക്കുന്നു.
 # translit = dhārāḷaṁ bi viṟṟāminukaḷe śarīrattin nal̕kān̕ biyaṟin sādhikkunnu.
-# text_en = Studies have shown that drinking beer can prevent diseases like kidney stones and protect kidney health. Beer can provide the body with many B vitamins.
+# text_en = Beer can provide the body with many B vitamins.
 1	ധാരാളം	ധാരാളം	DET	_	_	3	det	_	Translit=dhārāḷaṁ|LTranslit=dhārāḷaṁ
 2	ബി	ബി	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	3	nmod	_	Translit=bi|LTranslit=bi
 3	വിറ്റാമിനുകളെ	വിറ്റാമിൻ	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	5	obj	_	Translit=viṟṟāminukaḷe|LTranslit=viṟṟāmin̕
@@ -1249,7 +1249,7 @@
 # sent_id = indiccorp56A
 # text = അധികാരം എപ്പോഴും ദുഷിപ്പിക്കുന്ന ഒന്നാണ്.
 # translit = adhikāraṁ eppōḻuṁ duṣippikkunna onnāṇ.
-# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
+# text_en = Power always corrupts.
 1	അധികാരം	അധികാരം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=adhikāraṁ|LTranslit=adhikāraṁ
 2	എപ്പോഴും	എപ്പോഴും	ADV	_	_	3	advmod	_	Translit=eppōḻuṁ|LTranslit=eppōḻuṁ
 3	ദുഷിപ്പിക്കുന്ന	ദുഷിപ്പിക്കുക	VERB	_	VerbForm=Part	4	amod	_	Translit=duṣippikkunna|LTranslit=duṣippikkuka
@@ -1261,7 +1261,7 @@
 # sent_id = indiccorp56B
 # text = ഒരേ പാർട്ടി തന്നെ തുടർച്ചയായി അധികാരം കൈയാളുമ്പോൾ അധികാര ദല്ലാളന്മാരും ഉദ്യോഗസ്ഥരും പ്രബലരാവുകയും ഭരണം ജീർണിക്കുകയും ചെയ്യുക സ്വാഭാവികമാണ്.
 # translit = orē pāṟ̕ṭṭi tanne tuṭaṟ̕ccayāyi adhikāraṁ kaiyāḷumpōḷ̕ adhikāra dallāḷanmāruṁ udyōgastharuṁ prabalarāvukayuṁ bharaṇaṁ jīṟ̕ṇikkukayuṁ ceyyuka svābhāvikamāṇ.
-# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
+# text_en = When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays.
 1	ഒരേ	ഒരേ	DET	_	_	2	det	_	Translit=orē|LTranslit=orē
 2	പാർട്ടി	പാർട്ടി	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj	_	Translit=pāṟ̕ṭṭi|LTranslit=pāṟ̕ṭṭi
 3	തന്നെ	തന്നെ	ADV	_	_	2	advmod:emph	_	Translit=tanne|LTranslit=tanne
@@ -1292,7 +1292,7 @@
 # sent_id = indiccorp56C
 # text = അതുകൊണ്ട് അധികാരത്തിൽനിന്നും ഇടയ്ക്കിടെ മാറിനില്ക്കുന്നത് രാഷ്ട്രീയ പാർട്ടികളുടെ വിശുദ്ധീകരണത്തിനും ശക്തീകരണത്തിനും നല്ലതാണ്.
 # translit = atukoṇṭ adhikārattil̕ninnuṁ iṭaykkiṭe māṟinilkkunnat rāṣṭrīya pāṟ̕ṭṭikaḷuṭe viśuddhīkaraṇattinuṁ śaktīkaraṇattinuṁ nallatāṇ.
-# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
+# text_en = Therefore, occasional stints from power are good for the sanctification and strengthening of political parties.
 1	അതുകൊണ്ട്	അതുകൊണ്ട്	ADV	_	_	12	advmod	_	Translit=atukoṇṭ|LTranslit=atukoṇṭ
 2-3	അധികാരത്തിൽനിന്നും	_	_	_	_	_	_	_	Translit=adhikārattil̕ninnuṁ
 2	അധികാരത്തിൽനിന്ന	അധികാരം	NOUN	_	Animacy=Inan|Case=All|Number=Sing	5	obl	_	Translit=adhikārattil̕ninna|LTranslit=adhikāraṁ
@@ -1315,7 +1315,7 @@
 # sent_id = indiccorp56D
 # text = അതിനാൽ, കോൺഗ്രസിന്റെയും സഖ്യകക്ഷികളുടെയും പരാജയവും ഇന്ത്യയുടെ ജനാധിപത്യത്തിനും അതതു പാർട്ടികളുടെ നല്ല ഭാവിക്കും അത്യാവശ്യമാണ്.
 # translit = atināl̕, kōṇ̕grasinṟeyuṁ sakhyakakṣikaḷuṭeyuṁ parājayavuṁ intyayuṭe janādhipatyattinuṁ atatu pāṟ̕ṭṭikaḷuṭe nalla bhāvikkuṁ atyāvaśyamāṇ.
-# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
+# text_en = Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties.
 1	അതിനാൽ	അതിനാൽ	ADV	_	_	17	advmod	_	SpaceAfter=No|Translit=atināl̕|LTranslit=atināl̕
 2	,	,	PUNCT	_	_	17	punct	_	Translit=,|LTranslit=,
 3-4	കോൺഗ്രസിന്റെയും	_	_	_	_	_	_	_	Translit=kōṇ̕grasinṟeyuṁ
@@ -1345,7 +1345,7 @@
 # sent_id = indiccorp56E
 # text = മാത്രമല്ല, ഒറ്റയ്ക്ക് ഭരിക്കാൻ ഭൂരിപക്ഷമില്ലാത്തതിനാൽ സഖ്യകക്ഷികളുടെയെല്ലാം ഇംഗിതത്തിനു വഴങ്ങി ഭരിക്കുന്ന ദേശീയ പാർട്ടികൾക്ക് ശക്തമായ ഭരണം കാഴ്ചവയ്ക്കുക സാധ്യമല്ല.
 # translit = mātramalla, oṟṟaykk bharikkān̕ bhūripakṣamillāttatināl̕ sakhyakakṣikaḷuṭeyellāṁ iṁgitattinu vaḻaṅṅi bharikkunna dēśīya pāṟ̕ṭṭikaḷ̕kk śaktamāya bharaṇaṁ kāḻcavaykkuka sādhyamalla.
-# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
+# text_en = Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone.
 1	മാത്രമല്ല	മാത്രമല്ല	ADJ	_	_	16	advmod	_	SpaceAfter=No|Translit=mātramalla|LTranslit=mātramalla
 2	,	,	PUNCT	_	_	16	punct	_	Translit=,|LTranslit=,
 3	ഒറ്റയ്ക്ക്	ഒറ്റയ്ക്ക്	ADV	_	_	4	advmod	_	Translit=oṟṟaykk|LTranslit=oṟṟaykk
@@ -1370,7 +1370,7 @@
 # sent_id = indiccorp56F
 # text = കഴിഞ്ഞ തിരഞ്ഞെടുപ്പുകളിൽ ദേശീയ പാർട്ടികൾ ദുർബലമാവുകയും പ്രാദേശിക പാർട്ടികൾ ശക്തരാവുകയും ചെയ്തതിനാൽ ഭരണത്തിൽ പങ്കാളിത്തമുള്ള പ്രാദേശിക പാർട്ടികളുടെ അഴിമതികളും സ്വാർത്ഥതയും രാജ്യത്തിന് വലിയ നഷ്ടങ്ങളുണ്ടാക്കിയിട്ടുണ്ട്.
 # translit = kaḻiñña tiraññeṭuppukaḷil̕ dēśīya pāṟ̕ṭṭikaḷ̕ duṟ̕balamāvukayuṁ prādēśika pāṟ̕ṭṭikaḷ̕ śaktarāvukayuṁ ceytatināl̕ bharaṇattil̕ paṅkāḷittamuḷḷa prādēśika pāṟ̕ṭṭikaḷuṭe aḻimatikaḷuṁ svāṟ̕tthatayuṁ rājyattin valiya naṣṭaṅṅaḷuṇṭākkiyiṭṭuṇṭ.
-# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
+# text_en = Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections.
 1	കഴിഞ്ഞ	കഴിഞ്ഞ	ADJ	_	_	2	amod	_	Translit=kaḻiñña|LTranslit=kaḻiñña
 2	തിരഞ്ഞെടുപ്പുകളിൽ	തിരഞ്ഞെടുപ്പ്	NOUN	_	Animacy=Inan|Case=Loc|Number=Plur	5	obl	_	Translit=tiraññeṭuppukaḷil̕|LTranslit=tiraññeṭupp
 3	ദേശീയ	ദേശം	ADJ	_	_	4	amod	_	Translit=dēśīya|LTranslit=dēśaṁ
@@ -1404,7 +1404,7 @@
 # sent_id = indiccorp56G
 # text = ഇപ്രാവശ്യം കേവല ഭൂരിപക്ഷം ഒറ്റയ്ക്കുള്ള ഒരു പാർട്ടി ഭരിക്കുന്നതിനാൽ കൂടുതൽ കാര്യക്ഷമതയും ഊർജസ്വലതയും ഭരണത്തിനുണ്ടാകാൻ സാധ്യതയേറെയാണ് .
 # translit = iprāvaśyaṁ kēvala bhūripakṣaṁ oṟṟaykkuḷḷa oru pāṟ̕ṭṭi bharikkunnatināl̕ kūṭutal̕ kāryakṣamatayuṁ ūṟ̕jasvalatayuṁ bharaṇattinuṇṭākān̕ sādhyatayēṟeyāṇ .
-# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
+# text_en = This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance.
 1	ഇപ്രാവശ്യം	ഇപ്രാവശ്യം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	7	obl	_	Translit=iprāvaśyaṁ|LTranslit=iprāvaśyaṁ
 2	കേവല	കേവലം	ADJ	_	_	3	amod	_	Translit=kēvala|LTranslit=kēvalaṁ
 3	ഭൂരിപക്ഷം	ഭൂരിപക്ഷം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	7	nsubj	_	Translit=bhūripakṣaṁ|LTranslit=bhūripakṣaṁ
@@ -1431,7 +1431,7 @@
 # sent_id = indiccorp56H
 # text = അതിനാൽ ഈ തിരഞ്ഞെടുപ്പുഫലം ദൈവകരങ്ങളിൽ നിന്നും സ്വീകരിച്ച് പുതിയ സർക്കാരിന് കൂടുതൽ ദൈവകൃപ ലഭിക്കുവാൻ നാം പ്രാർത്ഥിക്കണം.
 # translit = atināl̕ ī tiraññeṭuppuphalaṁ daivakaraṅṅaḷil̕ ninnuṁ svīkaricc putiya saṟ̕kkārin kūṭutal̕ daivakr̥pa labhikkuvān̕ nāṁ prāṟ̕tthikkaṇaṁ.
-# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
+# text_en = Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace.
 1	അതിനാൽ	അതിനാൽ	ADV	_	_	15	advmod	_	Translit=atināl̕|LTranslit=atināl̕
 2	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	3	det	_	Translit=ī|LTranslit=ī
 3	തിരഞ്ഞെടുപ്പുഫലം	തിരഞ്ഞെടുപ്പുഫലം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	8	obj	_	Translit=tiraññeṭuppuphalaṁ|LTranslit=tiraññeṭuppuphalaṁ
@@ -1454,7 +1454,7 @@
 # sent_id = indiccorp56I
 # text = ''എല്ലാ ഭക്തിയിലും വിശുദ്ധിയിലും ശാന്തവും സമാധാനപൂർണവുമായ ജീവിതം നയിക്കാൻ നമുക്കിടയാകത്തക്കവിധം രാജാക്കന്മാർക്കും ഉന്നതസ്ഥാനീയർക്കുംവേണ്ടി പ്രാർത്ഥിക്കണം.
 # translit = ''ellā bhaktiyiluṁ viśuddhiyiluṁ śāntavuṁ samādhānapūṟ̕ṇavumāya jīvitaṁ nayikkān̕ namukkiṭayākattakkavidhaṁ rājākkanmāṟ̕kkuṁ unnatasthānīyaṟ̕kkuṁvēṇṭi prāṟ̕tthikkaṇaṁ.
-# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
+# text_en = "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness.
 1	''	''	PUNCT	_	_	19	punct	_	SpaceAfter=No|Translit=''|LTranslit=''
 2	എല്ലാ	എല്ലാ	DET	_	_	3	det	_	Translit=ellā|LTranslit=ellā
 3-4	ഭക്തിയിലും	_	_	_	_	_	_	_	Translit=bhaktiyiluṁ
@@ -1485,7 +1485,7 @@
 # sent_id = indiccorp56J
 # text = ഇത് ഉത്തമവും നമ്മുടെ രക്ഷകനായ ദൈവത്തിന്റെ മുന്നിൽ സ്വീകാര്യവും അത്രെ''എന്ന സെന്റ് പോളിന്റെ വാക്കുകൾ ഇവിടെ സ്മരണീയമാണ് (1 തിമോത്തി 21:23).
 # translit = it uttamavuṁ nammuṭe rakṣakanāya daivattinṟe munnil̕ svīkāryavuṁ atre''enna senṟ pōḷinṟe vākkukaḷ̕ iviṭe smaraṇīyamāṇ (1 timōtti 21:23).
-# text_en = Power always corrupts. When the same party is continuously in power, it is natural that power brokers and bureaucrats become dominant and governance decays. Therefore, occasional stints from power are good for the sanctification and strengthening of political parties. Therefore, the defeat of Congress and its allies is essential for India's democracy and the future of the respective parties. Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone. Corruption and selfishness of regional parties involved in governance have caused huge losses to the country as national parties have weakened and regional parties have become stronger in past elections. This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance. Therefore, we should accept this election result from God's hands and pray for the new government to receive more God's grace. "Let us pray for kings and dignitaries that we may live a quiet and peaceful life in all piety and holiness. "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
+# text_en = "This is good and acceptable in the sight of God our Saviour" (1 Timothy 21:23).
 1	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Remt|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Translit=it|LTranslit=it
 2-3	ഉത്തമവും	_	_	_	_	_	_	_	Translit=uttamavuṁ
 2	ഉത്തമം	ഉത്തമം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	1	nmod	_	Translit=uttamaṁ|LTranslit=uttamaṁ
@@ -2090,7 +2090,7 @@
 2	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	3	det	_	Translit=oru|LTranslit=oru
 3	ബൈക്ക്	ബൈക്ക്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	5	nsubj	_	Translit=baikk|LTranslit=baikk
 4	എങ്ങനെ	എങ്ങനെ	ADV	_	_	5	advmod	_	Translit=eṅṅane|LTranslit=eṅṅane
-5	തിരഞ്ഞെടുക്കാൻ	തിരഞ്ഞെടുകുക	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	_	Translit=tiraññeṭukkān̕|LTranslit=tiraññeṭukuka
+5	തിരഞ്ഞെടുക്കാൻ	തിരഞ്ഞെടുകുക	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	_	Translit=tiraññeṭukkān̕|LTranslit=tiraññeṭukuka|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp91
