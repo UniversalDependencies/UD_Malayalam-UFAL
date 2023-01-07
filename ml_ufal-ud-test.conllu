@@ -834,7 +834,7 @@
 # translit = anujan kaḷikkān̕  baikkukaḷ̕ niṟ̕miccu nal̕kiyāyirunnu tuṭakkaṁ.
 # text_en = It started with making bikes for Anujan to play with.
 1	അനുജന്	അനുജന്	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	5	nsubj	_	Translit=anujan|LTranslit=anujan
-2	കളിക്കാൻ	കളിക്കുക	VERB	_	VerbForm=Inf	5	xcomp	_	SpacesAfter= \s|Translit=kaḷikkān̕|LTranslit=kaḷikkuka
+2	കളിക്കാൻ	കളിക്കുക	VERB	_	VerbForm=Inf	5	xcomp	_	SpacesAfter=\s|Translit=kaḷikkān̕|LTranslit=kaḷikkuka
 3	ബൈക്കുകൾ	ബൈക്ക്	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	2	obj	_	Translit=baikkukaḷ̕|LTranslit=baikk
 4	നിർമിച്ചു	നിർമിക്കുക	VERB	_	VerbForm=Part	5	compound:svc	_	Translit=niṟ̕miccu|LTranslit=niṟ̕mikkuka
 5	നൽകിയായിരുന്നു	നൽകുക	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	acl	_	Translit=nal̕kiyāyirunnu|LTranslit=nal̕kuka
@@ -1553,7 +1553,7 @@
 # sent_id = indiccorp62A
 # text = റൺമഴയ്ക്കാണ് ഒരു അനൗദ്യോഗിക ടി20 മൽസരം.
 # translit = ṟaṇ̕maḻaykkāṇ oru anaudyōgika ṭi20 mal̕saraṁ.
-# text_en = An unofficial T20 match is for run rain. . . Former Scottish vice-captain de Lange has passed away after succumbing to cancer
+# text_en = An unofficial T20 match is for run rain.
 1-3	റൺമഴയ്ക്കാണ്	_	_	_	_	_	_	_	Translit=ṟaṇ̕maḻaykkāṇ
 1	റൺ	റൺ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	2	nmod	_	Translit=ṟaṇ̕|LTranslit=ṟaṇ̕
 2	മഴയ്ക്ക്	മഴ	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	7	obl	_	Translit=maḻaykk|LTranslit=maḻa
@@ -1565,9 +1565,9 @@
 8	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp62B
-# text = അർബുദത്തോട് കീഴടങ്ങി, മുൻ സ്‌കോട്ടിഷ് വൈസ് ക്യാപ്റ്റൻ ഡി ലാൻജ് വിടവാങ്ങിNo.
-# translit = aṟ̕budattōṭ kīḻaṭaṅṅi, mun̕ skōṭṭiṣ vais kyāpṟṟan̕ ḍi lān̕j viṭavāṅṅiNo.
-# text_en = An unofficial T20 match is for run rain. . . Former Scottish vice-captain de Lange has passed away after succumbing to cancer
+# text = അർബുദത്തോട് കീഴടങ്ങി, മുൻ സ്‌കോട്ടിഷ് വൈസ് ക്യാപ്റ്റൻ ഡി ലാൻജ് വിടവാങ്ങി.
+# translit = aṟ̕budattōṭ kīḻaṭaṅṅi, mun̕ skōṭṭiṣ vais kyāpṟṟan̕ ḍi lān̕j viṭavāṅṅi.
+# text_en = Former Scottish vice-captain de Lange has passed away after succumbing to cancer.
 1	അർബുദത്തോട്	അർബുദം	NOUN	_	Animacy=Inan|Case=Com|Number=Sing	2	obl	_	Translit=aṟ̕budattōṭ|LTranslit=aṟ̕budaṁ
 2	കീഴടങ്ങി	കീഴടങ്ങുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	11	compound:svc	_	SpaceAfter=No|Translit=kīḻaṭaṅṅi|LTranslit=kīḻaṭaṅṅuka
 3	,	,	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,
@@ -1577,7 +1577,7 @@
 7	ക്യാപ്റ്റൻ	ക്യാപ്റ്റൻ	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	11	nsubj	_	Translit=kyāpṟṟan̕|LTranslit=kyāpṟṟan̕
 8	ഡി	ഡി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	7	flat	_	Translit=ḍi|LTranslit=ḍi
 9	ലാൻജ്	ലാൻജ്	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	7	flat	_	Translit=lān̕j|LTranslit=lān̕j
-10-11	വിടവാങ്ങി	_	_	_	_	_	_	_	SpacesAfter=No|Translit=viṭavāṅṅi
+10-11	വിടവാങ്ങി	_	_	_	_	_	_	_	SpaceAfter=No|Translit=viṭavāṅṅi
 10	വിട	വിട	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	11	compound	_	Translit=viṭa|LTranslit=viṭa
 11	വാങ്ങി	വാങ്ങുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=vāṅṅi|LTranslit=vāṅṅuka
 12	.	.	PUNCT	_	_	11	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
