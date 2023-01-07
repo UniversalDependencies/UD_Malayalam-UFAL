@@ -789,8 +789,8 @@
 14	.	.	PUNCT	_	_	13	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp28
-# text = എന്നാൽ, ഇത് കണ്ട് മടങ്ങി പോകാതെ ഇടികൂടുന്ന വിദ്യാർഥികൾക്ക് ഇടയിലൂടെ ഇതൊക്കെ എന്ത് എന്ന മുഖഭാവത്തോടെയാണ് ഷറഫുദ്ദീൻ നടന്ന് പോയത് .
-# translit = ennāl̕, it kaṇṭ maṭaṅṅi pōkāte iṭikūṭunna vidyāṟ̕thikaḷ̕kk iṭayilūṭe itokke ent enna mukhabhāvattōṭeyāṇ ṣaṟaphuddīn̕ naṭann pōyatNO.
+# text = എന്നാൽ, ഇത് കണ്ട് മടങ്ങി പോകാതെ ഇടികൂടുന്ന വിദ്യാർഥികൾക്ക് ഇടയിലൂടെ ഇതൊക്കെ എന്ത് എന്ന മുഖഭാവത്തോടെയാണ് ഷറഫുദ്ദീൻ നടന്ന് പോയത്.
+# translit = ennāl̕, it kaṇṭ maṭaṅṅi pōkāte iṭikūṭunna vidyāṟ̕thikaḷ̕kk iṭayilūṭe itokke ent enna mukhabhāvattōṭeyāṇ ṣaṟaphuddīn̕ naṭann pōyat.
 # text_en = However, seeing this, Sharafuddin walked through the crowd of students with the expression of "What is this?"
 1	എന്നാൽ	എന്നാൽ	ADV	_	_	18	advmod	_	SpaceAfter=No|Translit=ennāl̕|LTranslit=ennāl̕
 2	,	,	PUNCT	_	_	18	punct	_	Translit=,|LTranslit=,
@@ -830,7 +830,7 @@
 8	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp30
-# text = അനുജന് കളിക്കാൻ  ബൈക്കുകൾ നിർമിച്ചു നൽകിയായിരുന്നു തുടക്കം .
+# text = അനുജന് കളിക്കാൻ  ബൈക്കുകൾ നിർമിച്ചു നൽകിയായിരുന്നു തുടക്കം.
 # translit = anujan kaḷikkān̕  baikkukaḷ̕ niṟ̕miccu nal̕kiyāyirunnu tuṭakkaṁ.
 # text_en = It started with making bikes for Anujan to play with.
 1	അനുജന്	അനുജന്	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	5	nsubj	_	Translit=anujan|LTranslit=anujan
@@ -949,7 +949,7 @@
 # sent_id = indiccorp37A
 # text = വനിതാ മതിൽ' നിർമ്മാണത്തിന് സംസ്ഥാന ഗവൺമെന്റ് നേതൃത്വം നൽകുന്നത് ഭരണഘടനയുടെ...
 # translit = vanitā matil̕' niṟ̕mmāṇattin saṁsthāna gavaṇ̕menṟ nētr̥tvaṁ nal̕kunnat bharaṇaghaṭanayuṭe...
-# text_en = The State Government is leading the construction of 'Women's Wall' under the Constitution. . . “What kind of Hindu is Modi”; Rahul Gandhi asked about the basic principles of Hinduism
+# text_en = The State Government is leading the construction of 'Women's Wall' under the Constitution. . .
 1	വനിതാ	വനിതാ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	2	nmod	_	Translit=vanitā|LTranslit=vanitā
 2	മതിൽ	മതിൽ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	nmod	_	SpaceAfter=No|Translit=matil̕|LTranslit=matil̕
 3	'	'	PUNCT	_	_	2	punct	_	Translit='|LTranslit='
@@ -962,9 +962,9 @@
 10	...	...	PUNCT	_	_	8	punct	_	Translit=...|LTranslit=...
 
 # sent_id = indiccorp37B
-# text = “ എന്ത് തരം ഹിന്ദുവാണ് മോദി”; ഹിന്ദുയിസത്തിന്റെ അടിസ്ഥാന തത്വങ്ങളെ കുറിച്ച് ചോദിച്ച് രാഹുൽ ഗാന്ധി .
-# translit = “ent taraṁ hinduvāṇ mōdi”; hinduyisattinṟe aṭisthāna tatvaṅṅaḷe kuṟicc cōdicc rāhul̕ gāndhi
-# text_en = The State Government is leading the construction of 'Women's Wall' under the Constitution. . . “What kind of Hindu is Modi”; Rahul Gandhi asked about the basic principles of Hinduism
+# text = “എന്ത് തരം ഹിന്ദുവാണ് മോദി”; ഹിന്ദുയിസത്തിന്റെ അടിസ്ഥാന തത്വങ്ങളെ കുറിച്ച് ചോദിച്ച് രാഹുൽ ഗാന്ധി.
+# translit = “ent taraṁ hinduvāṇ mōdi”; hinduyisattinṟe aṭisthāna tatvaṅṅaḷe kuṟicc cōdicc rāhul̕ gāndhi.
+# text_en = “What kind of Hindu is Modi”; Rahul Gandhi asked about the basic principles of Hinduism.
 1	“	“	PUNCT	_	_	3	punct	_	Translit=“|LTranslit=“
 2	എന്ത്	എന്ത്	PRON	_	PronType=Int	3	det	_	Translit=“ent|LTranslit=“ent
 3	തരം	തരം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	13	parataxis	_	Translit=taraṁ|LTranslit=taraṁ
@@ -984,9 +984,9 @@
 16	.	.	PUNCT	_	_	13	punct	_	SpacesAfter=\n|Translit=gāndhi|LTranslit=gāndhuka
 
 # sent_id = indiccorp38
-# text = പ്രളയം: ഹംപി ഹെറിറ്റേജ് സൈറ്റിൽ കുടുങ്ങിയ വിനോദസഞ്ചാരികളെ രക്ഷപ്പെടുത്തി .
-# translit = praḷayaṁ: haṁpi heṟiṟṟēj saiṟṟil̕ kuṭuṅṅiya vinōdasañcārikaḷe rakṣappeṭuttiNo.
-# text_en = Flood: Tourists rescued from Hampi heritage site
+# text = പ്രളയം: ഹംപി ഹെറിറ്റേജ് സൈറ്റിൽ കുടുങ്ങിയ വിനോദസഞ്ചാരികളെ രക്ഷപ്പെടുത്തി.
+# translit = praḷayaṁ: haṁpi heṟiṟṟēj saiṟṟil̕ kuṭuṅṅiya vinōdasañcārikaḷe rakṣappeṭutti.
+# text_en = Flood: Tourists rescued from Hampi heritage site.
 1	പ്രളയം	പ്രളയം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=praḷayaṁ|LTranslit=praḷayaṁ
 2	:	:	PUNCT	_	_	1	punct	_	Translit=:|LTranslit=:
 3	ഹംപി	ഹംപി	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	4	nmod	_	Translit=haṁpi|LTranslit=haṁpi
@@ -1099,8 +1099,8 @@
 11	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp46
-# text = മൂന്ന് സംസ്ഥാനങ്ങളിലേക്കുള്ള വോട്ടെണ്ണൽ ആരംഭിച്ചു .
-# translit = mūnn saṁsthānaṅṅaḷilēkkuḷḷa vōṭṭeṇṇal̕ āraṁbhiccuNo.
+# text = മൂന്ന് സംസ്ഥാനങ്ങളിലേക്കുള്ള വോട്ടെണ്ണൽ ആരംഭിച്ചു.
+# translit = mūnn saṁsthānaṅṅaḷilēkkuḷḷa vōṭṭeṇṇal̕ āraṁbhiccu.
 # text_en = Counting of votes for three states has started
 1	മൂന്ന്	മൂന്ന്	NUM	_	NumForm=Word|NumType=Card	2	nummod	_	Translit=mūnn|LTranslit=mūnn
 2	സംസ്ഥാനങ്ങളിലേക്കുള്ള	സംസ്ഥാനം	ADJ	_	_	4	amod	_	Translit=saṁsthānaṅṅaḷilēkkuḷḷa|LTranslit=saṁsthānaṁ
@@ -1111,9 +1111,9 @@
 6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp48
-# text = ഇതിന്റെ ഭാഗമായാണ് വരാന്ത്യത്തിൽ ഇരു രാജ്യങ്ങളിൽ നിന്നുമുള്ള ഉദ്യോഗസ്ഥർ ചർച്ച നടത്തുന്നത് .
-# translit = itinṟe bhāgamāyāṇ varāntyattil̕ iru rājyaṅṅaḷil̕ ninnumuḷḷa udyōgasthaṟ̕ caṟ̕cca naṭattunnatNo.
-# text_en = As part of this, the officials from both the countries are holding talks on the weekend
+# text = ഇതിന്റെ ഭാഗമായാണ് വരാന്ത്യത്തിൽ ഇരു രാജ്യങ്ങളിൽ നിന്നുമുള്ള ഉദ്യോഗസ്ഥർ ചർച്ച നടത്തുന്നത്.
+# translit = itinṟe bhāgamāyāṇ varāntyattil̕ iru rājyaṅṅaḷil̕ ninnumuḷḷa udyōgasthaṟ̕ caṟ̕cca naṭattunnat.
+# text_en = As part of this, the officials from both the countries are holding talks on the weekend.
 1	ഇതിന്റെ	ഇത്	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nmod:poss	_	Translit=itinṟe|LTranslit=it
 2-3	ഭാഗമായാണ്	_	_	_	_	_	_	_	Translit=bhāgamāyāṇ
 2	ഭാഗമായി	ഭാഗം	ADV	_	_	10	advmod	_	Translit=bhāgamāyi|LTranslit=bhāgaṁ
@@ -2083,9 +2083,9 @@
 14	.	.	PUNCT	_	_	13	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp90
-# text = താഴേക്ക് ഒരു ബൈക്ക് എങ്ങനെ തിരഞ്ഞെടുക്കാൻ .
-# translit = tāḻēkk oru baikk eṅṅane tiraññeṭukkān̕NO.
-# text_en = How to choose a bike down
+# text = താഴേക്ക് ഒരു ബൈക്ക് എങ്ങനെ തിരഞ്ഞെടുക്കാൻ.
+# translit = tāḻēkk oru baikk eṅṅane tiraññeṭukkān̕.
+# text_en = How to choose a bike down.
 1	താഴേക്ക്	താഴേ	ADV	_	_	5	advmod	_	Translit=tāḻēkk|LTranslit=tāḻē
 2	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	3	det	_	Translit=oru|LTranslit=oru
 3	ബൈക്ക്	ബൈക്ക്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	5	nsubj	_	Translit=baikk|LTranslit=baikk
