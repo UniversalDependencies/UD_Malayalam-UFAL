@@ -640,7 +640,7 @@
 
 # sent_id = indiccorp16
 # text = " ആഗ്രഹിക്കുന്നു "
-# translit = " āgrahikkunnuNo"
+# translit = " āgrahikkunnu "
 # text_en = "Wish
 1	"	"	PUNCT	_	_	2	punct	_	Translit="|LTranslit="
 2	ആഗ്രഹിക്കുന്നു	ആഗ്രഹിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=āgrahikkunnu|LTranslit=āgrahikkuka
@@ -750,7 +750,7 @@
 # text_en = High Court criticizes Jacob Thomas.
 1	ജേക്കബ്	ജേക്കബ്	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	5	nmod	_	Translit=jēkkab|LTranslit=jēkkab
 2	തോമസിന്	തോമസ്	PROPN	_	Animacy=Anim|Case=Gen|Number=Sing	1	flat	_	Translit=tōmasin|LTranslit=tōmas
-3	ഹൈക്കോടതിയുടെ	ഹൈക്കോടതി	NOUN	_	Animacy=Inan|Case=Gen|Number=Sing	5	nmod:poss	_	Translit=haikkōṭatiyuṭe|LTranslit=haikkēാṭati
+3	ഹൈക്കോടതിയുടെ	ഹൈക്കോടതി	NOUN	_	Animacy=Inan|Case=Gen|Number=Sing	5	nmod:poss	_	Translit=haikkōṭatiyuṭe|LTranslit=haikkōṭati
 4	രൂക്ഷ	രൂക്ഷം	ADJ	_	_	5	amod	_	Translit=rūkṣa|LTranslit=rūkṣaṁ
 5	വിമർശനം	വിമർശനം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=vimaṟ̕śanaṁ|LTranslit=vimaṟ̕śanaṁ
 6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
@@ -953,7 +953,7 @@
 1	വനിതാ	വനിതാ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	2	nmod	_	Translit=vanitā|LTranslit=vanitā
 2	മതിൽ	മതിൽ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	nmod	_	SpaceAfter=No|Translit=matil̕|LTranslit=matil̕
 3	'	'	PUNCT	_	_	2	punct	_	Translit='|LTranslit='
-4	നിർമ്മാണത്തിന്	നിർമ്മാണം	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	8	obl	_	Translit=niṟ̕mmāṇattin|LTranslit=nirm'māṇaṁ
+4	നിർമ്മാണത്തിന്	നിർമ്മാണം	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	8	obl	_	Translit=niṟ̕mmāṇattin|LTranslit=niṟ̕mmāṇaṁ
 5	സംസ്ഥാന	സംസ്ഥാന	ADJ	_	_	6	amod	_	Translit=saṁsthāna|LTranslit=saṁsthāna
 6	ഗവൺമെന്റ്	ഗവൺമെന്റ്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	8	nsubj	_	Translit=gavaṇ̕menṟ|LTranslit=gavaṇ̕menṟ
 7	നേതൃത്വം	നേതൃത്വം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	8	obj	_	Translit=nētr̥tvaṁ|LTranslit=nētr̥tvaṁ
@@ -966,7 +966,7 @@
 # translit = “ent taraṁ hinduvāṇ mōdi”; hinduyisattinṟe aṭisthāna tatvaṅṅaḷe kuṟicc cōdicc rāhul̕ gāndhi.
 # text_en = “What kind of Hindu is Modi”; Rahul Gandhi asked about the basic principles of Hinduism.
 1	“	“	PUNCT	_	_	3	punct	_	Translit=“|LTranslit=“
-2	എന്ത്	എന്ത്	PRON	_	PronType=Int	3	det	_	Translit=“ent|LTranslit=“ent
+2	എന്ത്	എന്ത്	PRON	_	PronType=Int	3	det	_	Translit=ent|LTranslit=ent
 3	തരം	തരം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	13	parataxis	_	Translit=taraṁ|LTranslit=taraṁ
 4-5	ഹിന്ദുവാണ്	_	_	_	_	_	_	_	Translit=hinduvāṇ
 4	ഹിന്ദു	ഹിന്ദു	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	3	nmod	_	Translit=hindu|LTranslit=hindu
@@ -978,10 +978,10 @@
 10	അടിസ്ഥാന	അടിസ്ഥാന	ADJ	_	_	13	amod	_	Translit=aṭisthāna|LTranslit=aṭisthāna
 11	തത്വങ്ങളെ	തത്വം	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	13	obj	_	Translit=tatvaṅṅaḷe|LTranslit=tatvaṁ
 12	കുറിച്ച്	കുറിച്ച്	ADP	_	_	11	case	_	Translit=kuṟicc|LTranslit=kuṟicc
-13	ചോദിച്ച്	ചോദിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=cōdiccu|Translit=cōdicc|LTranslit=cōdicc
+13	ചോദിച്ച്	ചോദിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=cōdiccu|Translit=cōdicc|LTranslit=cōdikkuka
 14	രാഹുൽ	രാഹുൽ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	13	nsubj	_	Translit=rāhul̕|LTranslit=rāhul̕
 15	ഗാന്ധി	ഗാന്ധുക	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	14	flat	_	Translit=gāndhi|LTranslit=gāndhuka
-16	.	.	PUNCT	_	_	13	punct	_	SpacesAfter=\n|Translit=gāndhi|LTranslit=gāndhuka
+16	.	.	PUNCT	_	_	13	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp38
 # text = പ്രളയം: ഹംപി ഹെറിറ്റേജ് സൈറ്റിൽ കുടുങ്ങിയ വിനോദസഞ്ചാരികളെ രക്ഷപ്പെടുത്തി.
@@ -1594,7 +1594,7 @@
 
 # sent_id = indiccorp64
 # text = 'സൗഹൃദം പൂക്കുന്ന സമൂഹം'': കെ. ഐ. ജി കുവൈത്ത് പൊതു സമ്മേളനം മാർച്ച് എട്ടിന് .
-# translit = 'sauhr̥daṁ pūkkunna samūhaṁ'': ke. ai. ji kuvaitt potu sammēḷanaṁ māṟ̕cc eṭṭinNo.
+# translit = 'sauhr̥daṁ pūkkunna samūhaṁ'': ke. ai. ji kuvaitt potu sammēḷanaṁ māṟ̕cc eṭṭin .
 # text_en = 'Society where friendship blossoms': K. I. G Kuwait General Conference on March 8
 1	'	''	PUNCT	_	Typo=Yes	4	punct	_	CorrectForm=''|SpaceAfter=No|Translit='|LTranslit=''
 2	സൗഹൃദം	സൗഹൃദം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	3	nmod	_	Translit=sauhr̥daṁ|LTranslit=sauhr̥daṁ
