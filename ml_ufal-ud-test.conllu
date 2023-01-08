@@ -1593,9 +1593,9 @@
 5	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp64
-# text = 'സൗഹൃദം പൂക്കുന്ന സമൂഹം'': കെ. ഐ. ജി കുവൈത്ത് പൊതു സമ്മേളനം മാർച്ച് എട്ടിന് .
-# translit = 'sauhr̥daṁ pūkkunna samūhaṁ'': ke. ai. ji kuvaitt potu sammēḷanaṁ māṟ̕cc eṭṭin .
-# text_en = 'Society where friendship blossoms': K. I. G Kuwait General Conference on March 8
+# text = 'സൗഹൃദം പൂക്കുന്ന സമൂഹം'': കെ. ഐ. ജി കുവൈത്ത് പൊതു സമ്മേളനം മാർച്ച് എട്ടിന്.
+# translit = 'sauhr̥daṁ pūkkunna samūhaṁ'': ke. ai. ji kuvaitt potu sammēḷanaṁ māṟ̕cc eṭṭin.
+# text_en = 'Society where friendship blossoms': K. I. G. Kuwait General Conference on March 8.
 1	'	''	PUNCT	_	Typo=Yes	4	punct	_	CorrectForm=''|SpaceAfter=No|Translit='|LTranslit=''
 2	സൗഹൃദം	സൗഹൃദം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	3	nmod	_	Translit=sauhr̥daṁ|LTranslit=sauhr̥daṁ
 3	പൂക്കുന്ന	പൂക്കുക	ADJ	_	_	4	amod	_	Translit=pūkkunna|LTranslit=pūkkuka
@@ -1611,7 +1611,7 @@
 13	പൊതു	പൊതു	ADJ	_	_	14	compound	_	Translit=potu|LTranslit=potu
 14	സമ്മേളനം	സമ്മേളനം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=sammēḷanaṁ|LTranslit=sammēḷanaṁ
 15	മാർച്ച്	മാർച്ച്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	14	obl	_	Translit=māṟ̕cc|LTranslit=māṟ̕cc
-16	എട്ടിന്	എട്ട്	NUM	_	Case=Dat|NumForm=Word|NumType=Card	15	flat	_	Translit=eṭṭin|LTranslit=eṭṭ
+16	എട്ടിന്	എട്ട്	NUM	_	Case=Dat|NumForm=Word|NumType=Card	15	flat	_	Translit=eṭṭin|LTranslit=eṭṭ|SpaceAfter=No
 17	.	.	PUNCT	_	_	14	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp65
