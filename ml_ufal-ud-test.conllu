@@ -47,7 +47,7 @@
 # translit = ninakk pōkaṇamō?
 # text_en = Do you want to go?
 1	നിനക്ക്	നീ	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Translit=ninakk|LTranslit=nī
-2	പോകണമോ	പോകുക	VERB	_	Aspect=Imp|Mood=Nec|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=pōkaṇamō|LTranslit=pōkuka
+2	പോകണമോ	പോകുക	VERB	_	Aspect=Imp|Mood=Nec|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=pōkaṇamō|LTranslit=pōkuka
 3	?	?	PUNCT	_	_	2	punct	_	Translit=?|LTranslit=?
 
 # newpar id = cairo05
@@ -245,7 +245,7 @@
 2	അവളുടെ	അവൾ	PRON	_	Case=Gen|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod	_	Translit=avaḷuṭe|LTranslit=avaḷ̕
 3	മുടി	മുടി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit=muṭi|LTranslit=muṭi
 4-5	ചീകിക്കൊണ്ടിരിക്കണമായിരുന്നു	_	_	_	_	_	_	_	SpaceAfter=No|Translit=cīkikkoṇṭirikkaṇamāyirunnu
-4	ചീകിക്കൊണ്ടിരിക്കണം	ചീകുക	VERB	_	Aspect=Prog|Mood=Nec|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	Translit=cīkikkoṇṭirikkaṇaṁ|LTranslit=cīkuka
+4	ചീകിക്കൊണ്ടിരിക്കണം	ചീകുക	VERB	_	Aspect=Prog|Mood=Nec|Polarity=Pos|VerbForm=Fin|Voice=Act	12	advcl	_	Translit=cīkikkoṇṭirikkaṇaṁ|LTranslit=cīkuka
 5	ആയിരുന്നു	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin	4	aux	_	Translit=āyirunnu|LTranslit=āk
 6	,	,	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,
 7	പക്ഷേ	പക്ഷേ	CCONJ	_	_	12	cc	_	Translit=pakṣē|LTranslit=pakṣē
@@ -431,7 +431,7 @@
 2	വിദ്യാർഥികൾ	വിദ്യാർഥി	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur	5	nsubj	_	Translit=vidyāṟ̕thikaḷ̕|LTranslit=vidyāṟ̕thi
 3	വെബ്സൈറ്റ്	വെബ്സൈറ്റ്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=vebsaiṟṟ|LTranslit=vebsaiṟṟ
 4	സ്ഥിരമായി	സ്ഥിരം	ADV	_	_	5	advmod	_	Translit=sthiramāyi|LTranslit=sthiraṁ
-5	പരിശോധിക്കണം	പരിശോധിക്കക	VERB	_	Mood=Nec|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=pariśōdhikkaṇaṁ|LTranslit=pariśōdhikkaka
+5	പരിശോധിക്കണം	പരിശോധിക്കക	VERB	_	Mood=Nec|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=pariśōdhikkaṇaṁ|LTranslit=pariśōdhikkaka
 6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # newdoc
@@ -531,7 +531,7 @@
 5	തിയേറ്ററുകളിലേക്ക്	തിയേറ്റർ	NOUN	_	Animacy=Inan|Case=All|Number=Plur	7	obl	_	Translit=tiyēṟṟaṟukaḷilēkk|LTranslit=tiyēṟṟaṟ̕
 6	ചിത്രം	ചിത്രം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	7	obj	_	Translit=citraṁ|LTranslit=citraṁ
 7-8	എത്തിക്കണമെന്ന	_	_	_	_	_	_	_	Translit=ettikkaṇamenna
-7	എത്തിക്കണം	എത്തിക്കക	VERB	_	Mood=Nec|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl	_	Translit=ettikkaṇaṁ|LTranslit=ettikkaka
+7	എത്തിക്കണം	എത്തിക്കക	VERB	_	Mood=Nec|Polarity=Pos|VerbForm=Fin|Voice=Act	10	acl	_	Translit=ettikkaṇaṁ|LTranslit=ettikkaka
 8	എന്ന	എന്ന	PART	_	_	7	mark	_	Translit=enna|LTranslit=enna
 9	മെഗാസ്റ്റാറിന്റെ	മെഗാസ്റ്റാർ	NOUN	_	Animacy=Anim|Case=Gen|Number=Sing	10	nmod:poss	_	Translit=megāsṟṟāṟinṟe|LTranslit=megāsṟṟāṟ̕
 10	ആഗ്രഹത്തിന്	അഗ്രഹം	NOUN	_	Animacy=Anim|Case=Ben|Number=Sing	14	obl	_	Translit=āgrahattin|LTranslit=agrahaṁ
@@ -1030,7 +1030,7 @@
 4	അവരെ	അവര്	PRON	_	Animacy=Anim|Case=Acc|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	7	obj	_	Translit=avare|LTranslit=avar
 5	നിയമത്തിന്റെ	നിയമം	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	7	obl	_	Translit=niyamattinṟe|LTranslit=niyamaṁ
 6	മുന്നിൽ	മുന്നിൽ	ADP	_	_	5	case	_	Translit=munnil̕|LTranslit=munnil̕
-7	കൊണ്ടുവരണം	കൊണ്ടുവരുക	VERB	_	Mood=Nec|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	ccomp	_	Translit=koṇṭuvaraṇaṁ|LTranslit=koṇṭuvaruka
+7	കൊണ്ടുവരണം	കൊണ്ടുവരുക	VERB	_	Mood=Nec|Polarity=Pos|VerbForm=Fin|Voice=Act	11	ccomp	_	Translit=koṇṭuvaraṇaṁ|LTranslit=koṇṭuvaruka
 8-9	എന്നും	_	_	_	_	_	_	_	Translit=ennuṁ
 8	എന്ന്	എന്ന്	SCONJ	_	_	7	mark	_	Translit=enn|LTranslit=enn
 9	ഉം	ഉം	PART	_	_	8	advmod:emph	_	Translit=uṁ|LTranslit=uṁ
@@ -2240,7 +2240,7 @@
 2	ഉം	ഉം	PART	_	_	1	advmod:emph	_	Translit=uṁ|LTranslit=uṁ
 3	കഞ്ചാവ്	കഞ്ചാവ്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	nsubj	_	Translit=kañcāv|LTranslit=kañcāv
 4-5	നിയമവിധേയമാക്കണമെന്ന	_	_	_	_	_	_	_	Translit=niyamavidhēyamākkaṇamenna
-4	നിയമവിധേയമാക്കണം	നിയമവിധേയമാക്കുക	VERB	_	Mood=Nec|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	Translit=niyamavidhēyamākkaṇaṁ|LTranslit=niyamavidhēyamākkuka
+4	നിയമവിധേയമാക്കണം	നിയമവിധേയമാക്കുക	VERB	_	Mood=Nec|Polarity=Pos|VerbForm=Fin|Voice=Act	6	acl:relcl	_	Translit=niyamavidhēyamākkaṇaṁ|LTranslit=niyamavidhēyamākkuka
 5	എന്ന	എന്ന	PART	_	_	4	mark	_	Translit=enna|LTranslit=enna
 6	വാദങ്ങൾ	വദനം	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	8	nsubj	_	Translit=vādaṅṅaḷ̕|LTranslit=vadanaṁ
 7	ഉയർന്നു	ഉയർക	VERB	_	Tense=Past|VerbForm=Part	8	compound:svc	_	Translit=uyaṟ̕nnu|LTranslit=uyaṟ̕ka
