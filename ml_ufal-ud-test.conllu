@@ -1354,7 +1354,7 @@
 4	ഭരിക്കാൻ	ഭരിക്കുക	VERB	_	Polarity=Pos|VerbForm=Inf	5	xcomp	_	Translit=bharikkān̕|LTranslit=bharikkuka
 5-6	ഭൂരിപക്ഷമില്ലാത്തതിനാൽ	_	_	_	_	_	_	_	Translit=bhūripakṣamillāttatināl̕
 5	ഭൂരിപക്ഷം	ഭൂരിപക്ഷം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	6	compound	_	Translit=bhūripakṣaṁ|LTranslit=bhūripakṣaṁ
-6	ഇല്ലാത്തതിനാൽ	ആക്	AUX	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Vnoun	16	advcl	_	Translit=illāttatināl̕|LTranslit=āk
+6	ഇല്ലാത്തതിനാൽ	ആക്	AUX	_	Polarity=Neg|Tense=Pres|VerbForm=Vnoun	16	advcl	_	Translit=illāttatināl̕|LTranslit=āk
 7-8	സഖ്യകക്ഷികളുടെയെല്ലാം	_	_	_	_	_	_	_	Translit=sakhyakakṣikaḷuṭeyellāṁ
 7	സഖ്യകക്ഷികളുടെ	സഖ്യകക്ഷി	NOUN	_	Animacy=Inan|Case=Gen|Number=Plur	9	nmod:poss	_	Translit=sakhyakakṣikaḷuṭe|LTranslit=sakhyakakṣi
 8	എല്ലാം	എല്ലാം	DET	_	PronType=Tot	7	det	_	Translit=ellāṁ|LTranslit=ellāṁ
@@ -1387,7 +1387,7 @@
 9-10	ശക്തരാവുകയും	_	_	_	_	_	_	_	Translit=śaktarāvukayuṁ
 9	ശക്തരാവുക	ശക്തരാവുക	VERB	_	VerbForm=Inf	5	conj	_	Translit=śaktarāvuka|LTranslit=śaktarāvuka
 10	ഉം	ഉം	CCONJ	_	_	9	cc	_	Translit=uṁ|LTranslit=uṁ
-11	ചെയ്തതിനാൽ	ചെയ്യുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	23	advcl	_	Translit=ceytatināl̕|LTranslit=ceyyuka
+11	ചെയ്തതിനാൽ	ചെയ്യുക	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	23	advcl	_	Translit=ceytatināl̕|LTranslit=ceyyuka
 12	ഭരണത്തിൽ	ഭരണം	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	15	nmod	_	Translit=bharaṇattil̕|LTranslit=bharaṇaṁ
 13	പങ്കാളിത്തമുള്ള	പാങ്ക്	ADJ	_	_	14	amod	_	Translit=paṅkāḷittamuḷḷa|LTranslit=pāṅk
 14	പ്രാദേശിക	പ്രാദേശം	ADJ	_	_	15	amod	_	Translit=prādēśika|LTranslit=prādēśaṁ
@@ -1415,7 +1415,7 @@
 4	ഒറ്റയ്ക്കുള്ള	ഒറ്റയ്ക്ക്	ADV	_	_	7	advmod	_	Translit=oṟṟaykkuḷḷa|LTranslit=oṟṟaykk
 5	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	6	det	_	Translit=oru|LTranslit=oru
 6	പാർട്ടി	പാർട്ടി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	7	obj	_	Translit=pāṟ̕ṭṭi|LTranslit=pāṟ̕ṭṭi
-7	ഭരിക്കുന്നതിനാൽ	ഭരിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	16	advcl	_	Translit=bharikkunnatināl̕|LTranslit=bharikkuka
+7	ഭരിക്കുന്നതിനാൽ	ഭരിക്കുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	16	advcl	_	Translit=bharikkunnatināl̕|LTranslit=bharikkuka
 8	കൂടുതൽ	കൂടുതൽ	ADJ	_	_	9	amod	_	Translit=kūṭutal̕|LTranslit=kūṭutal̕
 9-10	കാര്യക്ഷമതയും	_	_	_	_	_	_	_	Translit=kāryakṣamatayuṁ
 9	കാര്യക്ഷമത	കാര്യക്ഷമത	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	13	obj	_	Translit=kāryakṣamata|LTranslit=kāryakṣamata
@@ -1661,7 +1661,7 @@
 25	പ്രദേശങ്ങളിലെ	പ്രദേശം	NOUN	_	Animacy=Inan|Case=Loc|Number=Plur	28	obl	_	Translit=pradēśaṅṅaḷile|LTranslit=pradēśaṁ
 26	ദാരിദ്ര്യത്തിന്റെ	ദാരിദ്ര്യം	NOUN	_	Animacy=Inan|Case=Gen|Number=Sing	27	nmod:poss	_	Translit=dāridryattinṟe|LTranslit=dāridryaṁ
 27	തോത്	തോത്	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	28	obj	_	Translit=tōt|LTranslit=tōt
-28	കുറക്കുന്നതിൽ	കുറക്കുക	VERB	_	Case=Loc|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	30	acl	_	Translit=kuṟakkunnatil̕|LTranslit=kuṟakkuka
+28	കുറക്കുന്നതിൽ	കുറക്കുക	VERB	_	Case=Loc|Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	30	acl	_	Translit=kuṟakkunnatil̕|LTranslit=kuṟakkuka
 29	ഫലപ്രദമായ	ഫലപ്രദം	ADJ	_	_	30	amod	_	Translit=phalapradamāya|LTranslit=phalapradaṁ
 30	പങ്ക്	പങ്ക്	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	31	obj	_	Translit=paṅk|LTranslit=paṅk
 31	വഹിച്ചിട്ടുണ്ട്	വഹിക്കുക	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=vahicciṭṭuṇṭ|LTranslit=vahikkuka
