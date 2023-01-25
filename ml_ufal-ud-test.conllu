@@ -890,14 +890,14 @@
 38	.	.	PUNCT	_	_	37	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp32
-# text = പ്രഭാതമായെന്ന് ബോധ്യമായാൽബോധ്യമായാൽ പിന്നെ ഭക്ഷിക്കരുത്.
+# text = പ്രഭാതമായെന്ന് ബോധ്യമായാൽ പിന്നെ ഭക്ഷിക്കരുത്.
 # translit = prabhātamāyenn bōdhyamāyāl̕ pinne bhakṣikkarut.
 # text_en = Do not eat again when you are sure that it is morning.
 1-3	പ്രഭാതമായെന്ന്	_	_	_	_	_	_	_	Translit=prabhātamāyenn
 1	പ്രഭാതം	പ്രഭാതം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	ccomp	_	Translit=prabhātaṁ|LTranslit=prabhātaṁ
 2	ആയി	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Translit=āyi|LTranslit=āk
 3	എന്ന്	എന്ന്	SCONJ	_	_	1	mark	_	Translit=enn|LTranslit=enn
-4-5	ബോധ്യമായാൽബോധ്യമായാൽ	_	_	_	_	_	_	_	_
+4-5	ബോധ്യമായാൽ	_	_	_	_	_	_	_	_
 4	ബോധ്യം	ബോധ്യം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	5	compound	_	Translit=bōdhyaṁ|LTranslit=bōdhyaṁ
 5	ആയാൽ	ആക്	AUX	_	Mood=Ind|Polarity=Pos|VerbForm=Fin|Voice=Act	7	advcl	_	Translit=āyāl̕|LTranslit=āk
 6	പിന്നെ	പിന്നെ	ADV	_	_	7	advmod	_	Translit=pinne|LTranslit=pinne
@@ -1345,14 +1345,14 @@
 19	.	.	PUNCT	_	_	17	punct	_	Translit=.|LTranslit=.
 
 # sent_id = indiccorp56E
-# text = മാത്രമല്ല, ഒറ്റയ്ക്ക് ഭരിക്കാൻ ഭൂരിപക്ഷമില്ലാത്തതിനാൽഭൂരിപക്ഷമില്ലാത്തതിനാൽ സഖ്യകക്ഷികളുടെയെല്ലാം ഇംഗിതത്തിനു വഴങ്ങി ഭരിക്കുന്ന ദേശീയ പാർട്ടികൾക്ക് ശക്തമായ ഭരണം കാഴ്ചവയ്ക്കുക സാധ്യമല്ല.
+# text = മാത്രമല്ല, ഒറ്റയ്ക്ക് ഭരിക്കാൻ ഭൂരിപക്ഷമില്ലാത്തതിനാൽ സഖ്യകക്ഷികളുടെയെല്ലാം ഇംഗിതത്തിനു വഴങ്ങി ഭരിക്കുന്ന ദേശീയ പാർട്ടികൾക്ക് ശക്തമായ ഭരണം കാഴ്ചവയ്ക്കുക സാധ്യമല്ല.
 # translit = mātramalla, oṟṟaykk bharikkān̕ bhūripakṣamillāttatināl̕ sakhyakakṣikaḷuṭeyellāṁ iṁgitattinu vaḻaṅṅi bharikkunna dēśīya pāṟ̕ṭṭikaḷ̕kk śaktamāya bharaṇaṁ kāḻcavaykkuka sādhyamalla.
 # text_en = Moreover, it is not possible for the national parties to rule at the will of all the allies because they do not have the majority to rule alone.
 1	മാത്രമല്ല	മാത്രമല്ല	ADJ	_	_	17	advmod	_	SpaceAfter=No|Translit=mātramalla|LTranslit=mātramalla
 2	,	,	PUNCT	_	_	17	punct	_	Translit=,|LTranslit=,
 3	ഒറ്റയ്ക്ക്	ഒറ്റയ്ക്ക്	ADV	_	_	4	advmod	_	Translit=oṟṟaykk|LTranslit=oṟṟaykk
 4	ഭരിക്കാൻ	ഭരിക്കുക	VERB	_	Polarity=Pos|VerbForm=Inf	5	xcomp	_	Translit=bharikkān̕|LTranslit=bharikkuka
-5-6	ഭൂരിപക്ഷമില്ലാത്തതിനാൽഭൂരിപക്ഷമില്ലാത്തതിനാൽ	_	_	_	_	_	_	_	_
+5-6	ഭൂരിപക്ഷമില്ലാത്തതിനാൽ	_	_	_	_	_	_	_	_
 5	ഭൂരിപക്ഷം	ഭൂരിപക്ഷം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	6	compound	_	Translit=bhūripakṣaṁ|LTranslit=bhūripakṣaṁ
 6	ഇല്ലാത്തതിനാൽ	ആക്	AUX	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Vnoun	16	advcl	_	Translit=illāttatināl̕|LTranslit=āk
 7-8	സഖ്യകക്ഷികളുടെയെല്ലാം	_	_	_	_	_	_	_	Translit=sakhyakakṣikaḷuṭeyellāṁ
