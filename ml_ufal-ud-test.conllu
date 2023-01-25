@@ -897,7 +897,7 @@
 1	പ്രഭാതം	പ്രഭാതം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	4	ccomp	_	Translit=prabhātaṁ|LTranslit=prabhātaṁ
 2	ആയി	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Translit=āyi|LTranslit=āk
 3	എന്ന്	എന്ന്	SCONJ	_	_	1	mark	_	Translit=enn|LTranslit=enn
-4-5	ബോധ്യമായാൽ	_	_	_	_	_	_	_	_
+4-5	ബോധ്യമായാൽ	_	_	_	_	_	_	_	Translit=bōdhyamāyāl̕
 4	ബോധ്യം	ബോധ്യം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	5	compound	_	Translit=bōdhyaṁ|LTranslit=bōdhyaṁ
 5	ആയാൽ	ആക്	AUX	_	Mood=Ind|Polarity=Pos|VerbForm=Fin|Voice=Act	7	advcl	_	Translit=āyāl̕|LTranslit=āk
 6	പിന്നെ	പിന്നെ	ADV	_	_	7	advmod	_	Translit=pinne|LTranslit=pinne
@@ -1352,7 +1352,7 @@
 2	,	,	PUNCT	_	_	17	punct	_	Translit=,|LTranslit=,
 3	ഒറ്റയ്ക്ക്	ഒറ്റയ്ക്ക്	ADV	_	_	4	advmod	_	Translit=oṟṟaykk|LTranslit=oṟṟaykk
 4	ഭരിക്കാൻ	ഭരിക്കുക	VERB	_	Polarity=Pos|VerbForm=Inf	5	xcomp	_	Translit=bharikkān̕|LTranslit=bharikkuka
-5-6	ഭൂരിപക്ഷമില്ലാത്തതിനാൽ	_	_	_	_	_	_	_	_
+5-6	ഭൂരിപക്ഷമില്ലാത്തതിനാൽ	_	_	_	_	_	_	_	Translit=bhūripakṣamillāttatināl̕
 5	ഭൂരിപക്ഷം	ഭൂരിപക്ഷം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	6	compound	_	Translit=bhūripakṣaṁ|LTranslit=bhūripakṣaṁ
 6	ഇല്ലാത്തതിനാൽ	ആക്	AUX	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Vnoun	16	advcl	_	Translit=illāttatināl̕|LTranslit=āk
 7-8	സഖ്യകക്ഷികളുടെയെല്ലാം	_	_	_	_	_	_	_	Translit=sakhyakakṣikaḷuṭeyellāṁ
