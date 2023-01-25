@@ -2114,7 +2114,7 @@
 # text_en = Reliance Communications is the company that Mukesh Ambani had to give to his brother after the family quarrel that arose when Dhirubhai Ambani died.
 1	ധിരുബായി	ധിരുബായി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	3	nsubj	_	Translit=dhirubāyi|LTranslit=dhirubāyi
 2	അമ്പാനി	അമ്പാനി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	1	flat	_	Translit=ampāni|LTranslit=ampāni
-3	മരിച്ചപ്പോൾ	മരിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	acl	_	Translit=mariccappōḷ̕|LTranslit=marikkuka
+3	മരിച്ചപ്പോൾ	മരിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	Translit=mariccappōḷ̕|LTranslit=marikkuka
 4	ഉണ്ടായ	ഉണ്ടായ	ADJ	_	_	6	amod	_	Translit=uṇṭāya|LTranslit=uṇṭāya
 5	കുടുംബ	കുടുംബം	ADJ	_	_	6	compound	_	Translit=kuṭuṁba|LTranslit=kuṭuṁbaṁ
 6	വഴക്കിനെ	വഴക്ക്	NOUN	_	Animacy=Anim|Case=Acc|Number=Sing	7	obj	_	Translit=vaḻakkine|LTranslit=vaḻakk
