@@ -58,7 +58,7 @@
 1	സാം	സാം	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	4	vocative	_	SpaceAfter=No|Translit=sāṁ|LTranslit=sāṁ
 2	,	,	PUNCT	_	_	1	punct	_	Translit=,|LTranslit=,
 3	ജനൽ	ജനൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	obj	_	Translit=janal̕|LTranslit=janal̕
-4	തുറക്കൂ	തുറക്കുക	VERB	_	Mood=Imp|Polarity=Pos|Polite=Form|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=tuṟakkū|LTranslit=tuṟakkuka
+4	തുറക്കൂ	തുറക്കുക	VERB	_	Mood=Imp|Polarity=Pos|Polite=Form|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=tuṟakkū|LTranslit=tuṟakkuka
 5	!	!	PUNCT	_	_	4	punct	_	Translit=!|LTranslit=!
 
 # newpar id = cairo06
@@ -901,7 +901,7 @@
 4	ബോധ്യം	ബോധ്യം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	5	compound	_	Translit=bōdhyaṁ|LTranslit=bōdhyaṁ
 5	ആയാൽ	ആക്	AUX	_	Mood=Ind|Polarity=Pos|VerbForm=Fin|Voice=Act	7	advcl	_	Translit=āyāl̕|LTranslit=āk
 6	പിന്നെ	പിന്നെ	ADV	_	_	7	advmod	_	Translit=pinne|LTranslit=pinne
-7	ഭക്ഷിക്കരുത്	ഭക്ഷിക്കുക	VERB	_	Mood=Imp|Polarity=Neg|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=bhakṣikkarut|LTranslit=bhakṣikkuka
+7	ഭക്ഷിക്കരുത്	ഭക്ഷിക്കുക	VERB	_	Mood=Imp|Polarity=Neg|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=bhakṣikkarut|LTranslit=bhakṣikkuka
 8	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp33
@@ -1859,7 +1859,7 @@
 12	മലയാളികൾ	മലയാളി	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur	15	nsubj	_	Translit=malayāḷikaḷ̕|LTranslit=malayāḷi
 13	എന്ന്	എന്ന്	PART	_	_	12	mark	_	Translit=enn|LTranslit=enn
 14	ഊറ്റം	ഊറ്റം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	15	compound	_	Translit=ūṟṟaṁ|LTranslit=ūṟṟaṁ
-15	കൊള്ളരുത്	കൊള്ളുക	VERB	_	Mood=Imp|Polarity=Neg|Polite=Form|VerbForm=Fin|Voice=Act	0	root	_	Translit=koḷḷarut|LTranslit=koḷḷuka
+15	കൊള്ളരുത്	കൊള്ളുക	VERB	_	Mood=Imp|Polarity=Neg|Polite=Form|VerbForm=Fin	0	root	_	Translit=koḷḷarut|LTranslit=koḷḷuka
 16	.	.	PUNCT	_	_	15	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp76
@@ -1886,7 +1886,7 @@
 3	ഉം	ഉം	PART	_	_	2	advmod:emph	_	Translit=uṁ|LTranslit=uṁ
 4	ആളുകൾ	ആള്	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur	5	nsubj	_	Translit=āḷukaḷ̕|LTranslit=āḷ
 5-6	തടിച്ചുകൂടരുതെന്ന്	_	_	_	_	_	_	_	Translit=taṭiccukūṭarutenn
-5	തടിച്ചുകൂടരുത്	തടിച്ചുകൂടുക്ക	VERB	_	Mood=Imp|Polarity=Neg|Polite=Form|VerbForm=Fin|Voice=Act	8	ccomp	_	Translit=taṭiccukūṭarut|LTranslit=taṭiccukūṭukka
+5	തടിച്ചുകൂടരുത്	തടിച്ചുകൂടുക്ക	VERB	_	Mood=Imp|Polarity=Neg|Polite=Form|VerbForm=Fin	8	ccomp	_	Translit=taṭiccukūṭarut|LTranslit=taṭiccukūṭukka
 6	എന്ന്	എന്ന്	PART	_	_	5	mark	_	Translit=enn|LTranslit=enn
 7	പോലിസ്	പോലിസ്	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	8	nsubj	_	Translit=pōlis|LTranslit=pōlis
 8	അറിയിച്ചു	അറിയിക്കുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=aṟiyiccu|LTranslit=aṟiyikkuka
