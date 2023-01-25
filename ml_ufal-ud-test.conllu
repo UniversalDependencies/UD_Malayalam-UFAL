@@ -162,7 +162,7 @@
 # translit = ārāṇ eḻutiyatenn avaṟ̕kk aṟiyilla.
 # text_en = They have no idea who wrote it.
 1-2	ആരാണ്	_	_	_	_	_	_	_	Translit=ārāṇ
-1	ആര്	ആര്	PRON	_	Animacy=Anim|Case=Nom|PronType=Int	3	nsubj	_	Translit=ār|LTranslit=ār
+1	ആര്	ആര്	PRON	_	Case=Nom|PronType=Int	3	nsubj	_	Translit=ār|LTranslit=ār
 2	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop:emph	_	Translit=āṇ|LTranslit=āk
 3-4	എഴുതിയതെന്ന്	_	_	_	_	_	_	_	Translit=eḻutiyatenn
 3	എഴുതിയത്	എഴുതുക	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	6	ccomp	_	Translit=eḻutiyat|LTranslit=eḻutuka
@@ -178,7 +178,7 @@
 # text_en = What are you looking at?
 1	നിങ്ങള്	നിങ്ങള്	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Translit=niṅṅaḷ|LTranslit=niṅṅaḷ
 2-3	എന്താണ്	_	_	_	_	_	_	_	Translit=entāṇ
-2	എന്ത്	എന്ത്	PRON	_	Animacy=Inan|Case=Nom|PronType=Int	4	obj	_	Translit=ent|LTranslit=ent
+2	എന്ത്	എന്ത്	PRON	_	Case=Nom|PronType=Int	4	obj	_	Translit=ent|LTranslit=ent
 3	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	Translit=āṇ|LTranslit=āk
 4	നോക്കുന്നത്	നോക്കുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	0	root	_	SpaceAfter=No|Translit=nōkkunnat|LTranslit=nōkkuka
 5	?	?	PUNCT	_	_	4	punct	_	Translit=?|LTranslit=?
@@ -405,7 +405,7 @@
 1	ഇന്ന്	ഇന്ന്	ADV	_	_	5	advmod	_	Gloss=today|Translit=inn|LTranslit=inn
 2	നീ	നീ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Gloss=you|Translit=nī|LTranslit=nī
 3-4	എന്താൺ	_	_	_	_	_	_	_	Translit=entāṇ̕
-3	എന്ത്	എന്ത്	PRON	_	Animacy=Inan|Case=Nom|PronType=Int	5	obj	_	Gloss=what|Translit=ent|LTranslit=ent
+3	എന്ത്	എന്ത്	PRON	_	Case=Nom|PronType=Int	5	obj	_	Gloss=what|Translit=ent|LTranslit=ent
 4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	Gloss=is|Translit=āṇ|LTranslit=āk
 5	ചെയ്യുന്നത്	ചെയ്യുക	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Act	0	root	_	SpaceAfter=No|Gloss=doing|Translit=ceyyunnat|LTranslit=ceyyuka
 6	?	?	PUNCT	_	_	5	punct	_	Gloss=?|Translit=?|LTranslit=?
@@ -804,7 +804,7 @@
 10-11	ഇതൊക്കെ	_	_	_	_	_	_	_	Translit=itokke
 10	ഇത്	ഇത്	PRON	_	Animacy=Inan|Case=Nom|Deixis=Prox|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=it|LTranslit=it
 11	ഒക്കെ	ഒക്കെ	DET	_	PronType=Tot	10	det	_	Translit=okke|LTranslit=okke
-12	എന്ത്	എന്ത്	PRON	_	Animacy=Inan|Case=Nom|PronType=Int	14	acl:relcl	_	Translit=ent|LTranslit=ent
+12	എന്ത്	എന്ത്	PRON	_	Case=Nom|PronType=Int	14	acl:relcl	_	Translit=ent|LTranslit=ent
 13	എന്ന	എന്ന	PART	_	_	12	mark	_	Translit=enna|LTranslit=enna
 14-15	മുഖഭാവത്തോടെയാണ്	_	_	_	_	_	_	_	Translit=mukhabhāvattōṭeyāṇ
 14	മുഖഭാവത്തോടെയ്	മുഖഭാവം	NOUN	_	Animacy=Inan|Case=Com|Number=Sing	18	advcl	_	Translit=mukhabhāvattōṭey|LTranslit=mukhabhāvaṁ
