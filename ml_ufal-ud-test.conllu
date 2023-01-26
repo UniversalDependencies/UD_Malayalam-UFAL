@@ -1852,7 +1852,7 @@
 5	കാലം	കാലം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj	_	Translit=kālaṁ|LTranslit=kālaṁ
 6	ആയിട്ടില്ല	ആക്	AUX	_	Aspect=Perf|Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	ccomp	_	Translit=āyiṭṭilla|LTranslit=āk
 7	എന്ന്	എന്ന്	PART	_	_	6	mark	_	Translit=enn|LTranslit=enn
-8	തോന്നുന്നെങ്കിൽ	തോന്നുക	VERB	_	Mood=Cnd|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	Translit=tōnnunneṅkil̕|LTranslit=tōnuka
+8	തോന്നുന്നെങ്കിൽ	തോന്നുക	VERB	_	Mood=Cnd|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	Translit=tōnnunneṅkil̕|LTranslit=tōnnuka
 9	ദയവ്	ദയവ്	ADV	_	_	10	compound	_	Translit=dayav|LTranslit=dayav
 10	ചെയ്ത്	ചെയ്യുക	VERB	_	Tense=Past|VerbForm=Part	15	compound:svc	_	Translit=ceyt|LTranslit=ceyyuka
 11	പ്രബുദ്ധരായ	പ്രബുദ്ധരായ	ADJ	_	_	12	amod	_	Translit=prabuddharāya|LTranslit=prabuddharāya
