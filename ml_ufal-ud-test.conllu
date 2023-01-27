@@ -566,23 +566,26 @@
 # text = 2014-ൽ ബി. ജെ. പി. പ്രകടന പത്രികയിലെ പ്രധാന വാഗ്‌ദാനമായിരുന്നു പൗരത്വ ഭേദഗതി ബിൽ.
 # translit = 2014-l̕ bi. je. pi. prakaṭana patrikayile pradhāna vāgdānamāyirunnu pauratva bhēdagati bil̕.
 # text_en = In 2014, B. J. P. The main promise in the manifesto was the Citizenship Amendment Bill.
-1	2014-ൽ	2014-ൽ	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	11	obl	_	Translit=2014-l̕|LTranslit=2014-l̕
-2	ബി	ബി	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	8	nmod	_	SpaceAfter=No|Translit=bi|LTranslit=bi
-3	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
-4	ജെ	ജെ	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	2	flat	_	SpaceAfter=No|Translit=je|LTranslit=je
+1-3	2014-ൽ	_	_	_	_	_	_	_	_
+1	2014	2014	NUM	_	NumForm=Digit|NumType=Card	13	obl	_	Translit=2014|LTranslit=2014
+2	-	-	PUNCT	_	_	3	punct	_	Translit=-|LTranslit=-
+3	ൽ	ൽ	ADP	_	Case=Loc	1	case	_	Translit=l̕|LTranslit=l̕
+4	ബി	ബി	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	10	nmod	_	SpaceAfter=No|Translit=bi|LTranslit=bi
 5	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
-6	പി	പി	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	2	flat	_	SpaceAfter=No|Translit=pi|LTranslit=pi
+6	ജെ	ജെ	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	4	flat	_	SpaceAfter=No|Translit=je|LTranslit=je
 7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
-8	പ്രകടന	പ്രകടന	ADJ	_	_	9	compound	_	Translit=prakaṭana|LTranslit=prakaṭana
-9	പത്രികയിലെ	പത്രികയിലെ	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	11	obl	_	Translit=patrikayile|LTranslit=patrikayile
-10	പ്രധാന	പ്രധാനം	ADJ	_	_	11	amod	_	Translit=pradhāna|LTranslit=pradhānaṁ
-11-12	വാഗ്‌ദാനമായിരുന്നു	_	_	_	_	_	_	_	Translit=vāgdānamāyirunnu
-11	വാഗ്‌ദാനം	വാഗ്‌ദാനം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	15	acl	_	Translit=vāgdānaṁ|LTranslit=vāgdānaṁ
-12	ആയിരുന്നു	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin	11	cop	_	Translit=āyirunnu|LTranslit=āk
-13	പൗരത്വ	പൗരത്വം	ADJ	_	_	14	amod	_	Translit=pauratva|LTranslit=pauratvaṁ
-14	ഭേദഗതി	ഭേദഗതി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	15	compound	_	Translit=bhēdagati|LTranslit=bhēdagati
-15	ബിൽ	ബിൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=bil̕|LTranslit=bil̕
-16	.	.	PUNCT	_	_	15	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
+8	പി	പി	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	4	flat	_	SpaceAfter=No|Translit=pi|LTranslit=pi
+9	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
+10	പ്രകടന	പ്രകടന	ADJ	_	_	11	compound	_	Translit=prakaṭana|LTranslit=prakaṭana
+11	പത്രികയിലെ	പത്രികയിലെ	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	13	obl	_	Translit=patrikayile|LTranslit=patrikayile
+12	പ്രധാന	പ്രധാനം	ADJ	_	_	13	amod	_	Translit=pradhāna|LTranslit=pradhānaṁ
+13-14	വാഗ്‌ദാനമായിരുന്നു	_	_	_	_	_	_	_	Translit=vāgdānamāyirunnu
+13	വാഗ്‌ദാനം	വാഗ്‌ദാനം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	17	acl	_	Translit=vāgdānaṁ|LTranslit=vāgdānaṁ
+14	ആയിരുന്നു	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin	13	cop	_	Translit=āyirunnu|LTranslit=āk
+15	പൗരത്വ	പൗരത്വം	ADJ	_	_	16	amod	_	Translit=pauratva|LTranslit=pauratvaṁ
+16	ഭേദഗതി	ഭേദഗതി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	17	compound	_	Translit=bhēdagati|LTranslit=bhēdagati
+17	ബിൽ	ബിൽ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=bil̕|LTranslit=bil̕
+18	.	.	PUNCT	_	_	17	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp13
 # text = തന്മൂലം മറ്റ്‌ ജനങ്ങളുമായി സഹവർത്തിത്വം ഇല്ലാതെവരുന്നു.
@@ -1204,15 +1207,17 @@
 4-5	സേവനവ്യവസ്ഥ	_	_	_	_	_	_	_	Translit=sēvanavyavastha
 4	സേവന	സേവനം	ADJ	_	_	5	amod	_	Translit=sēvana|LTranslit=sēvanaṁ
 5	വ്യവസ്ഥ	വ്യവസ്ഥ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	Translit=vyavastha|LTranslit=vyavastha
-6	പരിഷ്‌കരിക്കാൻ	പരിഷ്‌കരിക്കക	VERB	_	Polarity=Pos|VerbForm=Inf	13	xcomp	_	Translit=pariṣkarikkān̕|LTranslit=pariṣkarikkaka
-7	സർക്കാർ	സർക്കാർ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	13	nsubj	_	Translit=saṟ̕kkāṟ̕|LTranslit=saṟ̕kkāṟ̕
-8	2004ൽ	2004ൽ	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	13	obl	_	Translit=2004l̕|LTranslit=2004l̕
-9	ഇ	ഇ	PART	_	_	11	reparandum	_	SpaceAfter=No|Translit=i|LTranslit=i
-10	.	.	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
-11	നാരായണൻ	നാരായണൻ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	12	nmod	_	Translit=nārāyaṇan̕|LTranslit=nārāyaṇan̕
-12	കമ്മീഷനെ	കമ്മീഷനെ	ADV	_	_	13	obj	_	Translit=kammīṣane|LTranslit=kammīṣane
-13	നിയോഗിച്ചിരുന്നു	നിയോഗിക്കുക	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=niyōgiccirunnu|LTranslit=niyōgikkuka
-14	.	.	PUNCT	_	_	13	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
+6	പരിഷ്‌കരിക്കാൻ	പരിഷ്‌കരിക്കക	VERB	_	Polarity=Pos|VerbForm=Inf	14	xcomp	_	Translit=pariṣkarikkān̕|LTranslit=pariṣkarikkaka
+7	സർക്കാർ	സർക്കാർ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	14	nsubj	_	Translit=saṟ̕kkāṟ̕|LTranslit=saṟ̕kkāṟ̕
+8-9	2004ൽ	_	_	_	_	_	_	_	_
+8	2004	2004	NUM	_	NumForm=Digit|NumType=Card	14	obl	_	Translit=2004|LTranslit=2004
+9	ൽ	ൽ	ADP	_	Case=Loc	8	case	_	Translit=l̕|LTranslit=l̕
+10	ഇ	ഇ	PART	_	_	12	reparandum	_	SpaceAfter=No|Translit=i|LTranslit=i
+11	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
+12	നാരായണൻ	നാരായണൻ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	13	nmod	_	Translit=nārāyaṇan̕|LTranslit=nārāyaṇan̕
+13	കമ്മീഷനെ	കമ്മീഷനെ	ADV	_	_	14	obj	_	Translit=kammīṣane|LTranslit=kammīṣane
+14	നിയോഗിച്ചിരുന്നു	നിയോഗിക്കുക	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=niyōgiccirunnu|LTranslit=niyōgikkuka
+15	.	.	PUNCT	_	_	14	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp53
 # text = ''റോമാ സാമ്രാജ്യത്തിലെ അഫ്‌യൂസ് പട്ടണത്തിലെ ഏതാനും ചെറുപ്പക്കാർ ക്രിസ്തുമതം സ്വീകരിച്ചു.
