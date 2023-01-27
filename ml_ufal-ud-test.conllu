@@ -566,7 +566,7 @@
 # text = 2014-ൽ ബി. ജെ. പി. പ്രകടന പത്രികയിലെ പ്രധാന വാഗ്‌ദാനമായിരുന്നു പൗരത്വ ഭേദഗതി ബിൽ.
 # translit = 2014-l̕ bi. je. pi. prakaṭana patrikayile pradhāna vāgdānamāyirunnu pauratva bhēdagati bil̕.
 # text_en = In 2014, B. J. P. The main promise in the manifesto was the Citizenship Amendment Bill.
-1-3	2014-ൽ	_	_	_	_	_	_	_	_
+1-3	2014-ൽ	_	_	_	_	_	_	_	Translit=2014-l̕
 1	2014	2014	NUM	_	NumForm=Digit|NumType=Card	13	obl	_	Translit=2014|LTranslit=2014
 2	-	-	PUNCT	_	_	3	punct	_	Translit=-|LTranslit=-
 3	ൽ	ൽ	ADP	_	Case=Loc	1	case	_	Translit=l̕|LTranslit=l̕
@@ -1209,7 +1209,7 @@
 5	വ്യവസ്ഥ	വ്യവസ്ഥ	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	6	obj	_	Translit=vyavastha|LTranslit=vyavastha
 6	പരിഷ്‌കരിക്കാൻ	പരിഷ്‌കരിക്കക	VERB	_	Polarity=Pos|VerbForm=Inf	14	xcomp	_	Translit=pariṣkarikkān̕|LTranslit=pariṣkarikkaka
 7	സർക്കാർ	സർക്കാർ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	14	nsubj	_	Translit=saṟ̕kkāṟ̕|LTranslit=saṟ̕kkāṟ̕
-8-9	2004ൽ	_	_	_	_	_	_	_	_
+8-9	2004ൽ	_	_	_	_	_	_	_	Translit=2004l̕
 8	2004	2004	NUM	_	NumForm=Digit|NumType=Card	14	obl	_	Translit=2004|LTranslit=2004
 9	ൽ	ൽ	ADP	_	Case=Loc	8	case	_	Translit=l̕|LTranslit=l̕
 10	ഇ	ഇ	PART	_	_	12	reparandum	_	SpaceAfter=No|Translit=i|LTranslit=i
