@@ -1411,8 +1411,8 @@
 24	.	.	PUNCT	_	_	23	punct	_	Translit=.|LTranslit=.
 
 # sent_id = indiccorp56G
-# text = ഇപ്രാവശ്യം കേവല ഭൂരിപക്ഷം ഒറ്റയ്ക്കുള്ള ഒരു പാർട്ടി ഭരിക്കുന്നതിനാൽ കൂടുതൽ കാര്യക്ഷമതയും ഊർജസ്വലതയും ഭരണത്തിനുണ്ടാകാൻ സാധ്യതയേറെയാണ് .
-# translit = iprāvaśyaṁ kēvala bhūripakṣaṁ oṟṟaykkuḷḷa oru pāṟ̕ṭṭi bharikkunnatināl̕ kūṭutal̕ kāryakṣamatayuṁ ūṟ̕jasvalatayuṁ bharaṇattinuṇṭākān̕ sādhyatayēṟeyāṇ .
+# text = ഇപ്രാവശ്യം കേവല ഭൂരിപക്ഷം ഒറ്റയ്ക്കുള്ള ഒരു പാർട്ടി ഭരിക്കുന്നതിനാൽ കൂടുതൽ കാര്യക്ഷമതയും ഊർജസ്വലതയും ഭരണത്തിനുണ്ടാകാൻ സാധ്യതയേറെയാണ്.
+# translit = iprāvaśyaṁ kēvala bhūripakṣaṁ oṟṟaykkuḷḷa oru pāṟ̕ṭṭi bharikkunnatināl̕ kūṭutal̕ kāryakṣamatayuṁ ūṟ̕jasvalatayuṁ bharaṇattinuṇṭākān̕ sādhyatayēṟeyāṇ.
 # text_en = This time a single party with an absolute majority is likely to lead to more efficient and vigorous governance.
 1	ഇപ്രാവശ്യം	ഇപ്രാവശ്യം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	7	obl	_	Translit=iprāvaśyaṁ|LTranslit=iprāvaśyaṁ
 2	കേവല	കേവലം	ADJ	_	_	3	amod	_	Translit=kēvala|LTranslit=kēvalaṁ
@@ -1431,7 +1431,7 @@
 13-14	ഭരണത്തിനുണ്ടാകാൻ	_	_	_	_	_	_	_	Translit=bharaṇattinuṇṭākān̕
 13	ഭരണത്തിന്	ഭരണം	NOUN	_	Animacy=Inan|Case=Dat|Number=Sing	14	obl	_	Translit=bharaṇattin|LTranslit=bharaṇaṁ
 14	ഉണ്ടാകാൻ	ഉണ്ടാക്കുക	VERB	_	VerbForm=Inf	16	xcomp	_	Translit=uṇṭākān̕|LTranslit=uṇṭākkuka
-15-17	സാധ്യതയേറെയാണ്	_	_	_	_	_	_	_	SpaceAfter=No#Translit=sādhyatayēṟeyāṇ|Translit=sādhyatayēṟeyāṇ
+15-17	സാധ്യതയേറെയാണ്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=sādhyatayēṟeyāṇ
 15	സാധ്യത	സാധ്യത	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	16	nsubj	_	Translit=sādhyata|LTranslit=sādhyata
 16	ഏറെ	ഏറെ	ADJ	_	_	0	root	_	Translit=ēṟe|LTranslit=ēṟe
 17	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	16	cop	_	Translit=āṇ|LTranslit=āk
@@ -1930,8 +1930,8 @@
 24	.	.	PUNCT	_	_	20	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = indiccorp79
-# text = സ്വാഭാവിക സ്മാരകങ്ങൾ കൂടാതെ, സ്പാസ്ക്-റയാസൻസ്കി പട്ടണത്തിൽ ജി. കെ. വാഗ്നറുടെ രസകരമായ ഒരു മ്യൂസിയവുമുണ്ട് .
-# translit = svābhāvika smārakaṅṅaḷ̕ kūṭāte, spāsk-ṟayāsan̕ski paṭṭaṇattil̕ ji. ke. vāgnaṟuṭe rasakaramāya oru myūsiyavumuṇṭ .
+# text = സ്വാഭാവിക സ്മാരകങ്ങൾ കൂടാതെ, സ്പാസ്ക്-റയാസൻസ്കി പട്ടണത്തിൽ ജി. കെ. വാഗ്നറുടെ രസകരമായ ഒരു മ്യൂസിയവുമുണ്ട്.
+# translit = svābhāvika smārakaṅṅaḷ̕ kūṭāte, spāsk-ṟayāsan̕ski paṭṭaṇattil̕ ji. ke. vāgnaṟuṭe rasakaramāya oru myūsiyavumuṇṭ.
 # text_en = In addition to natural monuments, in the town of Spask-Ryazansky G. K. There is also an interesting museum of Wagner.
 1	സ്വാഭാവിക	സ്വാഭാവിക	ADJ	_	_	2	amod	_	Translit=svābhāvika|LTranslit=svābhāvika
 2	സ്മാരകങ്ങൾ	സ്മാരകം	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	16	nsubj	_	Translit=smārakaṅṅaḷ̕|LTranslit=smārakaṁ
@@ -1949,7 +1949,7 @@
 13	വാഗ്നറുടെ	വാഗ്നറ്	PROPN	_	Animacy=Anim|Case=Gen|Number=Sing	9	flat	_	Translit=vāgnaṟuṭe|LTranslit=vāgnaṟ
 14	രസകരമായ	രസകരം	ADJ	_	_	16	amod	_	Translit=rasakaramāya|LTranslit=rasakaraṁ
 15	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	16	det	_	Translit=oru|LTranslit=oru
-16-18	മ്യൂസിയവുമുണ്ട്	_	_	_	_	_	_	_	SpaceAfter=No#Translit=myūsiyavumuṇṭmyūsiyavumuṇṭmyūsiyavumuṇṭ|Translit=myūsiyavumuṇṭ
+16-18	മ്യൂസിയവുമുണ്ട്	_	_	_	_	_	_	_	SpaceAfter=No|Translit=myūsiyavumuṇṭ
 16	മ്യൂസിയം	മ്യൂസിയം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=myūsiyaṁ|LTranslit=myūsiyaṁ
 17	ഉം	ഉം	PART	_	_	16	advmod:emph	_	Translit=uṁ|LTranslit=uṁ
 18	ഉണ്ട്	ഉണ്ട്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	16	cop	_	Translit=uṇṭ|LTranslit=uṇṭ
