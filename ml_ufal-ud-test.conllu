@@ -3289,7 +3289,7 @@
 12	,	,	PUNCT	_	_	17	punct	_	Translit=,|LTranslit=,
 13	ചര്ബൊംയ്ല്	ചര്ബൊംയ്ല്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	16	compound	_	Translit=carboṁyl|LTranslit=carboṁyl
 14	ആൻഡ്	ആൻഡ്	ADJ	_	_	15	amod	_	Translit=ān̕ḍ|LTranslit=ān̕ḍ
-15	ഹ്യ്ദ്രൊക്സയ്ല്	ഹ്യ്ദ്രൊക്സയ്ല്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	14	conj	_	Translit=hydroksayl|LTranslit=hydroksayl
+15	ഹ്യ്ദ്രൊക്സയ്ല്	ഹ്യ്ദ്രൊക്സയ്ല്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	13	conj	_	Translit=hydroksayl|LTranslit=hydroksayl
 16	ഗ്രൂപ്പുകൾ	ഗ്രൂപ്പ്	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	17	obj	_	Translit=grūppukaḷ̕|LTranslit=grūpp
 17-18	കൂടിച്ചേർന്നുണ്ടായ	_	_	_	_	_	_	_	SpaceAfter=No|Translit=kūṭiccēṟ̕nnuṇṭāya
 17	കൂടിച്ചേർന്നു	കൂടിച്ചേർക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=kūṭiccēṟ̕nnu|LTranslit=kūṭiccēṟ̕ka
