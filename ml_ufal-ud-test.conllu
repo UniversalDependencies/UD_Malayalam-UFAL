@@ -2399,8 +2399,8 @@
 14	വളരെ	വളരെ	ADV	_	_	17	advmod	_	Translit=vaḷare|LTranslit=vaḷare
 15	നന്നായി	നന്ന്	ADV	_	_	17	advmod	_	Translit=nannāyi|LTranslit=nann
 16	ഓർമ്മിപ്പിച്ച	ഓർമ്മിപ്പിക്കുക	ADJ	_	_	17	amod	_	Translit=ōṟ̕mmippicca|LTranslit=ōṟ̕mmippikkuka
-17	ഒരാളുടെ	ഒരാൾ	NOUN	_	Animacy=Anim|Case=Gen|Number=Plur	5	punct	_	Translit=orāḷuṭe|LTranslit=orāḷ̕
-18	കടയിൽ	കട	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	17	flat	_	SpaceAfter=No|Translit=kaṭayil̕|LTranslit=kaṭa
+17	ഒരാളുടെ	ഒരാൾ	NOUN	_	Animacy=Anim|Case=Gen|Number=Plur	18	nmod	_	Translit=orāḷuṭe|LTranslit=orāḷ̕
+18	കടയിൽ	കട	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	5	obl	_	SpaceAfter=No|Translit=kaṭayil̕|LTranslit=kaṭa
 19	.	.	PUNCT	_	_	17	punct	_	Translit=.|LTranslit=.
 
 # sent_id = indiccorp109
