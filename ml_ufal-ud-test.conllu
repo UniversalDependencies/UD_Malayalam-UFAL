@@ -3035,7 +3035,7 @@
 8	വിരോധം	വിരോധം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	9	nmod	_	Translit=virōdhaṁ|LTranslit=virōdhaṁ
 9	സൃഷ്ടിക്കുവാനും	സൃഷ്ടിക്കുവാനും	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	10	compound	_	Translit=sr̥ṣṭikkuvānuṁ|LTranslit=sr̥ṣṭikkuvānuṁ
 10	അവരെ	അവര്	PRON	_	Animacy=Anim|Case=Acc|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	Translit=avare|LTranslit=avar
-11	ഉപയോഗിച്ച്	ഉപയോഗിക്കുക	VERB	_	Tense=Past|VerbForm=Part	14	advmod	_	Translit=upayōgicc|LTranslit=upayōgikkuka
+11	ഉപയോഗിച്ച്	ഉപയോഗിക്കുക	VERB	_	Tense=Past|VerbForm=Part	14	advcl	_	Translit=upayōgicc|LTranslit=upayōgikkuka
 12	സിപിഎം	സിപിഎം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	14	nsubj	_	Translit=sipieṁ|LTranslit=sipieṁ
 13	പ്രവർത്തകരെ	പ്രവർത്തകർ	NOUN	_	Animacy=Anim|Case=Acc|Number=Plur	14	obj	_	Translit=pravaṟ̕ttakare|LTranslit=pravaṟ̕ttakaṟ̕
 14-15	ആക്രമിക്കാനുമാണ്	_	_	_	_	_	_	_	Translit=ākramikkānumāṇ
