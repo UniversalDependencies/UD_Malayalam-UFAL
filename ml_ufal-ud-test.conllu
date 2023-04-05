@@ -2315,25 +2315,6 @@
 10	ശ്രീലങ്ക	ശ്രീലങ്ക	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=śrīlaṅka|LTranslit=śrīlaṅka
 11	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
 
-# sent_id = indiccorp103C
-# text = . എന്തായാലും ഈ വർഷം ചിത്രം മാറുമെന്ന ഉറച്ച വിശ്വാസത്തിലാണ് ശ്രീലങ്ക.
-# translit = bāṟṟiṅ śarāśari 66.16. entāyāluṁ ī vaṟ̕ṣaṁ citraṁ māṟumenna uṟacca viśvāsattilāṇ śrīlaṅka.
-# text_en = Batting average 66.16. However, Sri Lanka is firmly confident that the picture will change this year.
-1	.	.	PUNCT	_	_	0	root	_	Translit=.|LTranslit=.
-2	എന്തായാലും	എന്തായാലും	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	5	nmod	_	Translit=entāyāluṁ|LTranslit=entāyāluṁ
-3	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	4	amod	_	Translit=ī|LTranslit=ī
-4	വർഷം	വർഷം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	5	compound	_	Translit=vaṟ̕ṣaṁ|LTranslit=vaṟ̕ṣaṁ
-5	ചിത്രം	ചിത്രം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj	_	Translit=citraṁ|LTranslit=citraṁ
-6-7	മാറുമെന്ന	_	_	_	_	_	_	_	Translit=māṟumenna
-6	മാറും	മാറും	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	8	acl:relcl	_	Translit=māṟuṁ|LTranslit=māṟuṁ
-7	എന്ന	എന്ന	PART	_	_	6	mark	_	Translit=enna|LTranslit=enna
-8	ഉറച്ച	ഉറക്കുക	ADJ	_	_	9	amod	_	Translit=uṟacca|LTranslit=uṟakkuka
-9-10	വിശ്വാസത്തിലാണ്	_	_	_	_	_	_	_	Translit=viśvāsattilāṇ
-9	വിശ്വാസത്തിൽ	വിശ്വാസം	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	11	obl	_	Translit=viśvāsattil̕|LTranslit=viśvāsaṁ
-10	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop:emph	_	Translit=āṇ|LTranslit=āk
-11	ശ്രീലങ്ക	ശ്രീലങ്ക	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No|Translit=śrīlaṅka|LTranslit=śrīlaṅka
-12	.	.	PUNCT	_	_	11	punct	_	Translit=.|LTranslit=.
-
 # sent_id = indiccorp104
 # text = 16 വയസുള്ളപ്പോൾ അപ്പച്ചനോടൊപ്പം ഈ മദ്രാസ് പട്ടണത്തിൽ ഞാൻ ആദ്യമായി വരുന്നത് ആകാശവാണിയുടെ സംഗീത മൽസരത്തിൽ പങ്കെടുക്കനാണ്.
 # translit = 16 vayasuḷḷappōḷ̕ appaccanōṭoppaṁ ī madrās paṭṭaṇattil̕ ñān̕ ādyamāyi varunnat ākāśavāṇiyuṭe saṁgīta mal̕sarattil̕ paṅkeṭukkanāṇ.
@@ -4070,19 +4051,6 @@
 3	;	;	PUNCT	_	_	2	punct	_	Translit=;|LTranslit=;
 4	ഇന്ത്യക്ക്	ഇന്ത്യ	PROPN	_	Animacy=Inan|Case=Dat|Number=Sing	5	nmod	_	Translit=intyakk|LTranslit=intyakk
 5	തിരിച്ചടി	തിരിച്ചടി	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	2	parataxis	_	Translit=tiriccaṭi|LTranslit=tiriccaṭuka
-
-# sent_id = indiccorp183C
-# text = . . . ശ്രീജേഷിന് പരുക്ക്; ഇന്ത്യക്ക് തിരിച്ചടി
-# translit = 156 ṟaṇ̕s vijayalakṣyaṁ pintuṭaṟ̕nna pūne 19.2 ōvaṟil̕ āṟ vikkaṟṟ naṣṭattil̕. . . śrījēṣin parukk; intyakk tiriccaṭi
-# text_en = Chasing a target of 156 runs, Pune lost six wickets in 19.2 overs. . . Sreejesh injured; A setback for India
-1	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
-2	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
-3	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
-4	ശ്രീജേഷിന്	ശ്രീജേഷ്	NUM	_	Case=Dat|NumForm=Word|NumType=Card	8	obl	_	Translit=śrījēṣin|LTranslit=śrījēṣ
-5	പരുക്ക്	പര്മൾ	PRON	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	SpaceAfter=No|Translit=parukk|LTranslit=parmaḷ̕
-6	;	;	PUNCT	_	_	5	punct	_	Translit=;|LTranslit=;
-7	ഇന്ത്യക്ക്	ഇന്ത്യക്ക്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	8	obj	_	Translit=intyakk|LTranslit=intyakk
-8	തിരിച്ചടി	തിരിച്ചടുക	VERB	_	Tense=Past|VerbForm=Part	0	root	_	Translit=tiriccaṭi|LTranslit=tiriccaṭuka
 
 # sent_id = indiccorp184
 # text = സഊദി അറേബ്യയുടെ നേതൃത്വത്തിൽ യുഎഇ ഉൾപെടെയുള്ള സഖ്യസേന നടത്തുന്ന ഓപ്പറേഷൻ റെസ്റ്റോറിംഗ് ഹോപ്പ് ലക്ഷ്യമിടുന്നത് സുരക്ഷിതവും സമാധാനവും നിലനിൽക്കുന്നതുമായ യമനാണ്.
