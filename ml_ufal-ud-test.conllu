@@ -3973,9 +3973,9 @@
 1	ടവർ	ടവർ	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	2	nmod	_	Translit=ṭavaṟ̕|LTranslit=ṭavaṟ̕
 2	പെഎഫൊലെസ്	പെഎഫൊലെസ്	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	26	nsubj	_	SpaceAfter=No|Translit=peepholes|LTranslit=peepholes
 3	,	,	PUNCT	_	_	26	punct	_	Translit=,|LTranslit=,
-4	പുറത്തായി	പുറത്ത്	ADV	_	_	26	advmod	_	Translit=puṟattāyi|LTranslit=puṟatt
-5	താഴ്ന്ന	താഴ്ന്ന	PART	_	_	26	punct	_	Translit=tāḻnna|LTranslit=tāḻnna
-6	താപനിലയിൽ	താപനില	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	26	obl	_	Translit=tāpanilayil̕|LTranslit=tāpanila
+4	പുറത്തായി	പുറത്ത്	ADV	_	_	5	advmod	_	Translit=puṟattāyi|LTranslit=puṟatt
+5	താഴ്ന്ന	താഴ്ന്ന	ADJ	_	_	6	amod	_	Translit=tāḻnna|LTranslit=tāḻnna
+6	താപനിലയിൽ	താപനില	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	7	nmod	_	Translit=tāpanilayil̕|LTranslit=tāpanila
 7	എഞ്ചിൻ	എഞ്ചിൻ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	26	nsubj	_	SpaceAfter=No|Translit=eñcin̕|LTranslit=eñcin̕
 8	,	,	PUNCT	_	_	26	punct	_	Translit=,|LTranslit=,
 9	സിവിക്	സിവിക്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	nmod	_	Translit=sivik|LTranslit=sivik
