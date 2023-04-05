@@ -2288,7 +2288,7 @@
 11	കൂട്ടിച്ചേർത്തു	കൂട്ടിച്ചേർത്യുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	SpaceAfter=No|Translit=kūṭṭiccēṟ̕ttu|LTranslit=kūṭṭiccēṟ̕tyuka
 12	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
-# sent_id = indiccorp103
+# sent_id = indiccorp103A
 # text = ബാറ്റിങ് ശരാശരി 66.16.
 # translit = bāṟṟiṅ śarāśari 66.16. entāyāluṁ ī vaṟ̕ṣaṁ citraṁ māṟumenna uṟacca viśvāsattilāṇ śrīlaṅka.
 # text_en = Batting average 66.16. However, Sri Lanka is firmly confident that the picture will change this year.
@@ -2297,7 +2297,7 @@
 3	66.16	66.16	NUM	_	NumForm=Digit|NumType=Card	0	root	_	SpaceAfter=No|Translit=66.16|LTranslit=66.16
 4	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = indiccorp103-bis
+# sent_id = indiccorp103B
 # text = എന്തായാലും ഈ വർഷം ചിത്രം മാറുമെന്ന ഉറച്ച വിശ്വാസത്തിലാണ് ശ്രീലങ്ക.
 # translit = bāṟṟiṅ śarāśari 66.16. entāyāluṁ ī vaṟ̕ṣaṁ citraṁ māṟumenna uṟacca viśvāsattilāṇ śrīlaṅka.
 # text_en = Batting average 66.16. However, Sri Lanka is firmly confident that the picture will change this year.
@@ -2315,7 +2315,7 @@
 10	ശ്രീലങ്ക	ശ്രീലങ്ക	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=śrīlaṅka|LTranslit=śrīlaṅka
 11	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
 
-# sent_id = indiccorp103-bis
+# sent_id = indiccorp103C
 # text = . എന്തായാലും ഈ വർഷം ചിത്രം മാറുമെന്ന ഉറച്ച വിശ്വാസത്തിലാണ് ശ്രീലങ്ക.
 # translit = bāṟṟiṅ śarāśari 66.16. entāyāluṁ ī vaṟ̕ṣaṁ citraṁ māṟumenna uṟacca viśvāsattilāṇ śrīlaṅka.
 # text_en = Batting average 66.16. However, Sri Lanka is firmly confident that the picture will change this year.
