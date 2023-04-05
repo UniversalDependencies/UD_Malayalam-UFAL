@@ -4086,12 +4086,12 @@
 # translit = imēj © aḷ̕ṭrāksaṟ̕ ḍijiṟṟal̕ ōḍiyō solyūṣan̕s jibiāṟ̕
 # text_en = Image © Ultraxer Digital Audio Solutions GBR
 1	ഇമേജ്	ഇമേജ്	PROPN	_	Animacy=Inan|Case=Nom|Foreign=Yes|Number=Sing	0	root	_	Translit=imēj|LTranslit=imēj
-2	©	©	SYM	_	_	1	punct	_	Translit=©|LTranslit=©
-3	അൾട്രാക്സർ	അൾട്രാക്സർ	PROPN	_	Animacy=Inan|Case=Nom|Foreign=Yes|Number=Sing	1	flat	_	Translit=aḷ̕ṭrāksaṟ̕|LTranslit=aḷ̕ṭrāksaṟ̕
-4	ഡിജിറ്റൽ	ഡിജിറ്റൽ	PROPN	_	Animacy=Inan|Case=Nom|Foreign=Yes|Number=Sing	1	flat	_	Translit=ḍijiṟṟal̕|LTranslit=ḍijiṟṟal̕
-5	ഓഡിയോ	ഓഡിയോ	PROPN	_	Animacy=Inan|Case=Nom|Foreign=Yes|Number=Sing	1	flat	_	Translit=ōḍiyō|LTranslit=ōḍiyō
-6	സൊല്യൂഷൻസ്	സൊല്യൂഷൻസ്	PROPN	_	Animacy=Inan|Case=Nom|Foreign=Yes|Number=Sing	1	flat	_	Translit=solyūṣan̕s|LTranslit=solyūṣan̕s
-7	ജിബിആർ	ജിബിആർ	PROPN	_	Abbr=Yes|Animacy=Inan|Case=Nom|Foreign=Yes|Number=Sing	1	flat	_	Translit=jibiāṟ̕|LTranslit=jibiāṟ̕
+2	©	©	SYM	_	_	1	nmod	_	Translit=©|LTranslit=©
+3	അൾട്രാക്സർ	അൾട്രാക്സർ	PROPN	_	Animacy=Inan|Case=Nom|Foreign=Yes|Number=Sing	2	flat	_	Translit=aḷ̕ṭrāksaṟ̕|LTranslit=aḷ̕ṭrāksaṟ̕
+4	ഡിജിറ്റൽ	ഡിജിറ്റൽ	PROPN	_	Animacy=Inan|Case=Nom|Foreign=Yes|Number=Sing	3	flat	_	Translit=ḍijiṟṟal̕|LTranslit=ḍijiṟṟal̕
+5	ഓഡിയോ	ഓഡിയോ	PROPN	_	Animacy=Inan|Case=Nom|Foreign=Yes|Number=Sing	3	flat	_	Translit=ōḍiyō|LTranslit=ōḍiyō
+6	സൊല്യൂഷൻസ്	സൊല്യൂഷൻസ്	PROPN	_	Animacy=Inan|Case=Nom|Foreign=Yes|Number=Sing	3	flat	_	Translit=solyūṣan̕s|LTranslit=solyūṣan̕s
+7	ജിബിആർ	ജിബിആർ	PROPN	_	Abbr=Yes|Animacy=Inan|Case=Nom|Foreign=Yes|Number=Sing	3	flat	_	Translit=jibiāṟ̕|LTranslit=jibiāṟ̕
 
 # sent_id = indiccorp186
 # text = 1 ജിബി റാം 8 ജിബി ആന്തരിക സംഭരണ ശേഷി എന്നവയാണ് സൈ്വപ്പ് എലൈറ്റ് സ്റ്റാർ ഫോണിന്റെ സവിശേഷത.
