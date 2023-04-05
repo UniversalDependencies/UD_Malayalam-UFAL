@@ -2401,7 +2401,7 @@
 16	ഓർമ്മിപ്പിച്ച	ഓർമ്മിപ്പിക്കുക	ADJ	_	_	17	amod	_	Translit=ōṟ̕mmippicca|LTranslit=ōṟ̕mmippikkuka
 17	ഒരാളുടെ	ഒരാൾ	NOUN	_	Animacy=Anim|Case=Gen|Number=Plur	18	nmod	_	Translit=orāḷuṭe|LTranslit=orāḷ̕
 18	കടയിൽ	കട	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	5	obl	_	SpaceAfter=No|Translit=kaṭayil̕|LTranslit=kaṭa
-19	.	.	PUNCT	_	_	17	punct	_	Translit=.|LTranslit=.
+19	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
 # sent_id = indiccorp109
 # text = അവരുടെ കൂട്ടത്തിൽ സെല്ലുകളും, അവയവമാണ് ബഹുഭുജങ്ങളുടെ അല്ലെങ്കിൽ ബോർഡ് ചുറ്റും കോശങ്ങൾ സൈനികവുമായ നിലങ്ങളും, ആയിരുന്നു.
