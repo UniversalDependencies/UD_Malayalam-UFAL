@@ -2957,7 +2957,7 @@
 33	കുണ്ണ	കുണ്ണം	ADJ	_	_	34	amod	_	Translit=kuṇṇa|LTranslit=kuṇṇaṁ
 34-35	വായിനിന്നും	_	_	_	_	_	_	_	Translit=vāyininnuṁ
 34	വായിനിന്ന	വായിനിരുക	VERB	_	Tense=Past|VerbForm=Part	256	compound:svc	_	Translit=vāyininna|LTranslit=vāyiniruka
-35	ഉം	ഉം	CCONJ	_	_	256	punct	_	Translit=uṁ|LTranslit=uṁ
+35	ഉം	ഉം	CCONJ	_	_	256	cc	_	Translit=uṁ|LTranslit=uṁ
 36	പുറത്തെടുത്തു	പുറത്തെടുത്തു	ADJ	_	_	37	amod	_	Translit=puṟatteṭuttu|LTranslit=puṟatteṭuttu
 37	കുണ്ണയുടെ	കുണ്ണ	NOUN	_	Animacy=Inan|Case=Gen|Number=Sing	256	nmod:poss	_	Translit=kuṇṇayuṭe|LTranslit=kuṇṇa
 38	പുറത്തുകൂടെ	പുറത്തുകൂടെ	ADV	_	_	256	advmod	_	Translit=puṟattukūṭe|LTranslit=puṟattukūṭe
@@ -2978,7 +2978,7 @@
 53	ഉള്ളിൽ	ഉള്ള്	NOUN	_	Animacy=Inan|Case=Loc|Number=Plur	54	nmod	_	Translit=uḷḷil̕|LTranslit=uḷḷ
 54-55	നിന്നും	_	_	_	_	_	_	_	Translit=ninnuṁ
 54	നിന്ന	നിരുക	VERB	_	Tense=Past|VerbForm=Part	256	compound:svc	_	Translit=ninna|LTranslit=niruka
-55	ഉം	ഉം	CCONJ	_	_	256	punct	_	Translit=uṁ|LTranslit=uṁ
+55	ഉം	ഉം	CCONJ	_	_	256	cc	_	Translit=uṁ|LTranslit=uṁ
 56	വന്നുകൊണ്ടിരിക്കുന്ന	വന്നുകൊണ്ടിരിക്കുക	ADJ	_	_	57	amod	_	Translit=vannukoṇṭirikkunna|LTranslit=vannukoṇṭirikkuka
 57	പൂർതേൻ	പൂർതേൻ	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	256	nsubj	_	Translit=pūṟ̕tēn̕|LTranslit=pūṟ̕tēn̕
 58	ന്നാക്കികുടിച്ചു	ന്നാക്കികുടിക്കുക	VERB	_	Tense=Past|VerbForm=Part	256	compound:svc	_	Translit=nnākkikuṭiccu|LTranslit=nnākkikuṭikkuka
@@ -2999,7 +2999,7 @@
 73	പിന്നെ	പിന്നെ	ADV	_	_	256	advmod	_	Translit=pinne|LTranslit=pinne
 74-75	ഒന്നും	_	_	_	_	_	_	_	Translit=onnuṁ
 74	ഒന്ന	ഒരുക	VERB	_	Tense=Past|VerbForm=Part	256	compound:svc	_	Translit=onna|LTranslit=oruka
-75	ഉം	ഉം	CCONJ	_	_	256	punct	_	Translit=uṁ|LTranslit=uṁ
+75	ഉം	ഉം	CCONJ	_	_	256	cc	_	Translit=uṁ|LTranslit=uṁ
 76	ചിന്തിച്ചില്ല	ചിന്തിച്ചില്ല	ADJ	_	_	77	amod	_	Translit=cinticcilla|LTranslit=cinticcilla
 77	വെട്ടിവിറക്കുന്ന	വെട്ടിവിറക്കുരുക	VERB	_	Tense=Past|VerbForm=Part	256	compound:svc	_	Translit=veṭṭiviṟakkunna|LTranslit=veṭṭiviṟakkuruka
 78	കുണ്ണ	കുണ്ണം	ADJ	_	_	79	amod	_	Translit=kuṇṇa|LTranslit=kuṇṇaṁ
