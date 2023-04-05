@@ -2841,7 +2841,7 @@
 # text = തന്റ കൂതിപൊന്നിൽ തഴുകി വന്ന വളി കേണൽ സാറിന്റ മുഖത്തേക്കായിപോയതോർത്ത്‌ രേഖയ്ക്ക് ആകെ ചമ്മലായി.
 # translit = tanṟa kūtiponnil̕ taḻuki vanna vaḷi kēṇal̕ sāṟinṟa mukhattēkkāyipōyatōṟ̕tt rēkhaykk āke cammalāyi.
 # text_en = Rekha was completely shocked when the ring that caressed her golden hair went to the face of the colonel sir.
-1	തന്റ	തൻ	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflexive=Yes	2	nmod:poss	_	Translit=tanṟa|LTranslit=tanṟa
+1	തന്റ	തൻ	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	nmod:poss	_	Translit=tanṟa|LTranslit=tanṟa
 2	കൂതിപൊന്നിൽ	കൂതിപൊന്	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	4	obl	_	Translit=kūtiponnil̕|LTranslit=kūtiponnil̕
 3	തഴുകി	തഴുകി	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	4	compound:svc	_	Translit=taḻuki|LTranslit=taḻuki
 4	വന്ന	വരുക	VERB	_	Tense=Past|VerbForm=Part	5	acl	_	Translit=vanna|LTranslit=varuka
