@@ -4045,7 +4045,7 @@
 9	പ്രതിഷേധം	പ്രതിഷേധം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=pratiṣēdhaṁ|LTranslit=pratiṣēdhaka
 10	.	.	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
 
-# sent_id = indiccorp183
+# sent_id = indiccorp183A
 # text = 156 റൺസ് വിജയലക്ഷ്യം പിന്തുടർന്ന പൂനെ 19.2 ഓവറിൽ ആറ് വിക്കറ്റ് നഷ്ടത്തിൽ.
 # translit = 156 ṟaṇ̕s vijayalakṣyaṁ pintuṭaṟ̕nna pūne 19.2 ōvaṟil̕ āṟ vikkaṟṟ naṣṭattil̕. . . śrījēṣin parukk; intyakk tiriccaṭi
 # text_en = Chasing a target of 156 runs, Pune lost six wickets in 19.2 overs. . . Sreejesh injured; A setback for India
@@ -4061,7 +4061,7 @@
 10	നഷ്ടത്തിൽ	നഷ്ടം	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	5	obl	_	SpaceAfter=No|Translit=naṣṭattil̕|LTranslit=naṣṭaṁ
 11	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
-# sent_id = indiccorp183-bis
+# sent_id = indiccorp183B
 # text = ശ്രീജേഷിന് പരുക്ക്; ഇന്ത്യക്ക് തിരിച്ചടി
 # translit = 156 ṟaṇ̕s vijayalakṣyaṁ pintuṭaṟ̕nna pūne 19.2 ōvaṟil̕ āṟ vikkaṟṟ naṣṭattil̕. . . śrījēṣin parukk; intyakk tiriccaṭi
 # text_en = Chasing a target of 156 runs, Pune lost six wickets in 19.2 overs. . . Sreejesh injured; A setback for India
@@ -4071,7 +4071,7 @@
 4	ഇന്ത്യക്ക്	ഇന്ത്യ	PROPN	_	Animacy=Inan|Case=Dat|Number=Sing	5	nmod	_	Translit=intyakk|LTranslit=intyakk
 5	തിരിച്ചടി	തിരിച്ചടി	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	2	parataxis	_	Translit=tiriccaṭi|LTranslit=tiriccaṭuka
 
-# sent_id = indiccorp183-bis
+# sent_id = indiccorp183C
 # text = . . . ശ്രീജേഷിന് പരുക്ക്; ഇന്ത്യക്ക് തിരിച്ചടി
 # translit = 156 ṟaṇ̕s vijayalakṣyaṁ pintuṭaṟ̕nna pūne 19.2 ōvaṟil̕ āṟ vikkaṟṟ naṣṭattil̕. . . śrījēṣin parukk; intyakk tiriccaṭi
 # text_en = Chasing a target of 156 runs, Pune lost six wickets in 19.2 overs. . . Sreejesh injured; A setback for India
