@@ -2629,12 +2629,12 @@
 5-6	സ്വാധീനിച്ചുവെന്ന	_	_	_	_	_	_	_	Translit=svādhīniccuvenna
 5	സ്വാധീനിച്ചുവ	സ്വാധീനിച്ചുവം	ADJ	_	_	7	acl:relcl	_	Translit=svādhīniccuva|LTranslit=svādhīniccuvaṁ
 6	എന്ന	എന്ന	PART	_	_	5	mark	_	Translit=enna|LTranslit=enna
-7	രീതിയിൽ	രീതി	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	11	obl	_	Translit=rītiyil̕|LTranslit=rīti
+7	രീതിയിൽ	രീതി	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	10	obl	_	Translit=rītiyil̕|LTranslit=rīti
 8	നികൃഷ്ടമായ	നികൃഷ്ടം	ADJ	_	_	9	amod	_	Translit=nikr̥ṣṭamāya|LTranslit=nikr̥ṣṭaṁ
-9	കാര്യങ്ങളൊക്കെ	കാര്യങ്ങളൊക്കെ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	11	nsubj	_	Translit=kāryaṅṅaḷokke|LTranslit=kāryaṅṅaḷokke
-10	ഉദ്ദേശിച്ചായിരുന്നു	ഉദ്ദേശിച്ചാക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin	11	advmod	_	Translit=uddēśiccāyirunnu|LTranslit=uddēśiccāk
-11	സംസാരം	സംസാരം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=saṁsāraṁ|LTranslit=saṁsāraṁ
-12	.	.	PUNCT	_	_	11	punct	_	Translit=.|LTranslit=.
+9	കാര്യങ്ങളൊക്കെ	കാര്യങ്ങളൊക്കെ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	10	xcomp	_	Translit=kāryaṅṅaḷokke|LTranslit=kāryaṅṅaḷokke
+10	ഉദ്ദേശിച്ചായിരുന്നു	ഉദ്ദേശിച്ചാക്	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	Translit=uddēśiccāyirunnu|LTranslit=uddēśiccāk
+11	സംസാരം	സംസാരം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	nsubj	_	SpaceAfter=No|Translit=saṁsāraṁ|LTranslit=saṁsāraṁ
+12	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
 
 # sent_id = indiccorp121
 # text = അതുകൊണ്ട്, മനുഷ്യവിഭവശേഷിയാണ് ഏറ്റവും പ്രധാനപ്പെട്ട മൂലധനമായി പരിഗണിക്കുന്നത്.
