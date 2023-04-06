@@ -2945,7 +2945,7 @@
 2	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
 # sent_id = indiccorp154
-# text = ചാറ്റൽ മഴയും  തുടങ്ങിയിട്ടുണ്ട്.
+# text = ചാറ്റൽ മഴയും തുടങ്ങിയിട്ടുണ്ട്.
 # translit = cāṟṟal̕ maḻayuṁ tuṭaṅṅiyiṭṭuṇṭ.
 # text_en = It has started drizzling.
 1	ചാറ്റൽ	ചാറ്റൽ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	2	compound	_	Translit=cāṟṟal̕|LTranslit=cāṟṟal̕
@@ -3243,7 +3243,7 @@
 9	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
 # sent_id = indiccorp170
-# text = മൂന്നിന് 25 എന്ന നിലയിൽ തകർന്ന ഇന്ത്യയെ യുവരാജുംയുവരാജും ധോണിയും ചേർന്നുള്ള നാലാം വിക്കറ്റ് കൂട്ടുകെട്ടാണ് കരകയറ്റിയത്.
+# text = മൂന്നിന് 25 എന്ന നിലയിൽ തകർന്ന ഇന്ത്യയെ യുവരാജും ധോണിയും ചേർന്നുള്ള നാലാം വിക്കറ്റ് കൂട്ടുകെട്ടാണ് കരകയറ്റിയത്.
 # translit = mūnnin 25 enna nilayil̕ takaṟ̕nna intyaye yuvarājuṁ dhōṇiyuṁ cēṟ̕nnuḷḷa nālāṁ vikkaṟṟ kūṭṭukeṭṭāṇ karakayaṟṟiyat.
 # text_en = Yuvraj and Dhoni's fourth wicket partnership brought India down to 25 for three.
 1	മൂന്നിന്	മൂന്ന്	NUM	_	Case=Dat|NumForm=Word|NumType=Card	2	nummod	_	Translit=mūnnin|LTranslit=mūnn
@@ -3252,7 +3252,7 @@
 4	നിലയിൽ	നില	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	6	nmod	_	Translit=nilayil̕|LTranslit=nila
 5	തകർന്ന	തകര്ക്കുക	ADJ	_	VerbForm=Part	6	amod	_	Translit=takaṟ̕nna|LTranslit=takaṟ̕ruka
 6	ഇന്ത്യയെ	ഇന്ത്യ	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	16	obj	_	Translit=intyaye|LTranslit=intyaye
-7-8	യുവരാജുംയുവരാജും	_	_	_	_	_	_	_	_
+7-8	യുവരാജും	_	_	_	_	_	_	_	_
 7	യുവരാജ്	യുവരാജ്	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	11	nmod	_	Translit=yuvarājuṁ|LTranslit=yuvarājuṁ
 8	ഉം	ഉം	CCONJ	_	_	7	cc	_	Translit=yuvarājuṁ|LTranslit=yuvarājuṁ
 9-10	ധോണിയും	_	_	_	_	_	_	_	Translit=dhōṇiyuṁ
@@ -3287,7 +3287,7 @@
 12	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
 
 # sent_id = indiccorp172
-# text = ശബരിമലയിൽ സ്‌ത്രീപ്രവേശനം അനുവദിച്ച സുപ്രീംകോടതി വിധിയുടെ മറവിൽ രാഷ്‌ട്രീയ നേട്ടമുണ്ടാക്കാനാണ്‌ ആണ് ബിജെപിയും ആർഎസ്‌എസും ശ്രമിക്കുന്നതെന്ന സർക്കാർ നിലപാട്‌ ശരിവെയ്‌ക്കുന്നതായിരുന്നു ശ്രീധരൻപിളളയുടെ തുറന്നു പറച്ചിൽ .
+# text = ശബരിമലയിൽ സ്‌ത്രീപ്രവേശനം അനുവദിച്ച സുപ്രീംകോടതി വിധിയുടെ മറവിൽ രാഷ്‌ട്രീയ നേട്ടമുണ്ടാക്കാനാണ്‌ ബിജെപിയും ആർഎസ്‌എസും ശ്രമിക്കുന്നതെന്ന സർക്കാർ നിലപാട്‌ ശരിവെയ്‌ക്കുന്നതായിരുന്നു ശ്രീധരൻപിളളയുടെ തുറന്നു പറച്ചിൽ .
 # translit = śabarimalayil̕ strīpravēśanaṁ anuvadicca suprīṁkōṭati vidhiyuṭe maṟavil̕ rāṣṭrīya nēṭṭamuṇṭākkānāṇ bijepiyuṁ āṟ̕esesuṁ śramikkunnatenna saṟ̕kkāṟ̕ nilapāṭ śariveykkunnatāyirunnu śrīdharan̕piḷaḷayuṭe tuṟannu paṟaccil̕ .
 # text_en = Sreedharan Pillai's frank statement was correcting the government's position that the BJP and RSS are trying to gain political advantage under the cover of the Supreme Court's verdict allowing women to enter Sabarimala.
 1	ശബരിമലയിൽ	ശബരിമല	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	5	nmod	_	Translit=śabarimalayil̕|LTranslit=śabarimala
@@ -3297,7 +3297,7 @@
 5	വിധിയുടെ	വിധി	NOUN	_	Animacy=Inan|Case=Gen|Number=Sing	6	nmod:poss	_	Translit=vidhiyuṭe|LTranslit=vidhi
 6	മറവിൽ	മറവ്	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	8	obl	_	Translit=maṟavil̕|LTranslit=maṟav
 7	രാഷ്‌ട്രീയ	രാഷ്‌ട്രീയം	ADJ	_	_	8	amod	_	Translit=rāṣṭrīya|LTranslit=rāṣṭrīyaṁ
-8-9	നേട്ടമുണ്ടാക്കാനാണ്‌	_	_	_	_	_	_	_	_
+8-10	നേട്ടമുണ്ടാക്കാനാണ്‌	_	_	_	_	_	_	_	_
 8	നേട്ടം	നേട്ടം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	9	obj	_	Translit=nēṭṭamuṇṭākkānāṇ|LTranslit=nēṭṭamuṇṭākkānāṇ
 9	ഉണ്ടാക്കാൻ	ഉണ്ടാക്കുക	VERB	_	Polarity=Pos|VerbForm=Inf	19	xcomp	_	Translit=nēṭṭamuṇṭākkānāṇ|LTranslit=nēṭṭamuṇṭākkānāṇ
 10	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop:emph	_	Translit=nēṭṭamuṇṭākkānāṇ|LTranslit=nēṭṭamuṇṭākkānāṇ
@@ -3360,7 +3360,7 @@
 32	.	.	PUNCT	_	_	31	punct	_	Translit=.|LTranslit=.
 
 # sent_id = indiccorp174
-# text = വിമാനത്തിൽ കുട്ടികളോടൊപ്പം പ്രശസ്ത മജീഷ്യൻ ഗോപിനാഥ് മുതുകാട് യാത്രചെയ്യുകയും മാജിക് പരിപാടികൾ അവതരിപ്പിക്കുകയും ചെയ്യും .
+# text = വിമാനത്തിൽ കുട്ടികളോടൊപ്പം പ്രശസ്ത മജീഷ്യൻ ഗോപിനാഥ് മുതുകാട് യാത്രചെയ്യുകയും മാജിക് പരിപാടികൾ അവതരിപ്പിക്കുകയും ചെയ്യും.
 # translit = vimānattil̕ kuṭṭikaḷōṭoppaṁ praśasta majīṣyan̕ gōpināth mutukāṭ yātraceyyukayuṁ mājik paripāṭikaḷ̕ avatarippikkukayuṁ ceyyuṁ.
 # text_en = Renowned magician Gopinath Mutukad will travel with the children on the plane and perform magic shows.
 1	വിമാനത്തിൽ	വാിമാനം	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	8	obl	_	Translit=vimānattil̕|LTranslit=vāിmānaṁ
@@ -3378,7 +3378,7 @@
 12-13	അവതരിപ്പിക്കുകയും	_	_	_	_	_	_	_	Translit=avatarippikkukayuṁ
 12	അവതരിപ്പിക്കുക	അവതരിപ്പിക്കുക	VERB	_	VerbForm=Inf	8	conj	_	Translit=avatarippikkuka|LTranslit=avatarippikkuka
 13	ഉം	ഉം	CCONJ	_	_	12	cc	_	Translit=uṁ|LTranslit=uṁ
-14	ചെയ്യും	ചെയ്യുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	8	compound:lvc	_	Translit=cey|LTranslit=cey
+14	ചെയ്യും	ചെയ്യുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	8	compound:lvc	_	SpaceAfter=No|Translit=cey|LTranslit=cey
 15	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = indiccorp175
@@ -3392,7 +3392,7 @@
 5	വെടിക്കെട്ട്	വെടിക്കെട്ട്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=veṭikkeṭṭ|LTranslit=veṭikkeṭṭ
 
 # sent_id = indiccorp176
-# text = പന്നിയിറച്ചിയുടെ (ടെൻഡറോലിൻ) പൾപ്പ് - 0,7-0,8കിലോ;
+# text = പന്നിയിറച്ചിയുടെ (ടെൻഡറോലിൻ) പൾപ്പ് - 0,7-0,8 കിലോ;
 # translit = panniyiṟacciyuṭe (ṭen̕ḍaṟōlin̕) paḷ̕pp - 0,7-0,8 kilō;
 # text_en = pork (tenderolin) pulp - 0,7-0,8 kg;
 1	പന്നിയിറച്ചിയുടെ	പന്നിയിറച്ചി	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	5	nmod:poss	_	Translit=panniyiṟacciyuṭe|LTranslit=panniyiṟacci
@@ -3402,7 +3402,7 @@
 4	)	)	PUNCT	_	_	3	punct	_	Translit=)|LTranslit=)
 5	പൾപ്പ്	പൾപ്പ്	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=paḷ̕pp|LTranslit=paḷ̕pp
 6	-	-	PUNCT	_	_	5	punct	_	Translit=-|LTranslit=-
-7	0,7-0,8	0,7-0,8	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	SpaceAfter=No|Translit=,7-0|LTranslit=,7-0
+7	0,7-0,8	0,7-0,8	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	Translit=,7-0|LTranslit=,7-0
 8	കിലോ	കിലോ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	5	appos	_	SpaceAfter=No|Translit=kilō|LTranslit=kilō
 9	;	;	PUNCT	_	_	5	punct	_	Translit=;|LTranslit=;
 
@@ -3619,7 +3619,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 # sent_id = indiccorp191
-# text = തിരുവനന്തപുരം: സ്വമ്മിംഗ് പൂൾ ഉദ്ഘാടനത്തിനെത്തിയഉദ്ഘാടനത്തിനെത്തിയ മുഖ്യമന്ത്രിക്കുനേരെമുഖ്യമന്ത്രിക്കുനേരെ ഉണ്ടായ ആക്രമണം ഇന്റലിജൻസ് വിഭാഗത്തിന്റെ വീഴ്ചയെന്ന് ആരോപണം ഉയർന്നതോടെ പോലീസിൽ വിഴുപ്പലക്കൽ തുടങ്ങി.
+# text = തിരുവനന്തപുരം: സ്വമ്മിംഗ് പൂൾ ഉദ്ഘാടനത്തിനെത്തിയഉദ്ഘാടനത്തിനെത്തിയ മുഖ്യമന്ത്രിക്കുനേരെ ഉണ്ടായ ആക്രമണം ഇന്റലിജൻസ് വിഭാഗത്തിന്റെ വീഴ്ചയെന്ന് ആരോപണം ഉയർന്നതോടെ പോലീസിൽ വിഴുപ്പലക്കൽ തുടങ്ങി.
 # translit = tiruvanantapuraṁ: svammiṁg pūḷ̕ udghāṭanattinettiya mukhyamantrikkunēre uṇṭāya ākramaṇaṁ inṟalijan̕s vibhāgattinṟe vīḻcayenn ārōpaṇaṁ uyaṟ̕nnatōṭe pōlīsil̕ viḻuppalakkal̕ tuṭaṅṅi.
 # text_en = Thiruvananthapuram: After the attack on the chief minister who came to inaugurate the swimming pool was alleged to be the fault of the intelligence department, the police began to crack down.
 1	തിരുവനന്തപുരം	തിരുവനന്തപുരം	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=tiruvanantapuraṁ|LTranslit=tiruvanantapuraṁ
@@ -3629,7 +3629,7 @@
 5-6	ഉദ്ഘാടനത്തിനെത്തിയഉദ്ഘാടനത്തിനെത്തിയ	_	_	_	_	_	_	_	_
 5	ഉദ്ഘാടനത്തിന്	ഉദ്ഘാടനം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	7	nmod	_	Translit=udghāṭanattinettiya|LTranslit=udghāṭanattinettuka
 6	എത്തിയ	എത്തുക	ADJ	_	_	7	amod	_	Translit=udghāṭanattinettiya|LTranslit=udghāṭanattinettuka
-7-8	മുഖ്യമന്ത്രിക്കുനേരെമുഖ്യമന്ത്രിക്കുനേരെ	_	_	_	_	_	_	_	_
+7-8	മുഖ്യമന്ത്രിക്കുനേരെ	_	_	_	_	_	_	_	_
 7	മുഖ്യമന്ത്രിക്കു	മുഖ്യമന്ത്രി	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	10	nmod	_	Translit=mukhyamantrikkunēre|LTranslit=mukhyamantrikkunēṟ̕
 8	നേരെ	നേർ	ADP	_	_	7	case	_	Translit=mukhyamantrikkunēre|LTranslit=mukhyamantrikkunēṟ̕
 9	ഉണ്ടായ	ഉണ്ടാക്കുക	ADJ	_	_	10	amod	_	Translit=uṇṭāya|LTranslit=uṇṭākkuka
