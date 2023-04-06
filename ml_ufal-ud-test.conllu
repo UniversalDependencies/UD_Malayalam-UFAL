@@ -2367,7 +2367,7 @@
 # translit = tuṭaṟ̕ccayāya pattāṁ vaṟ̕ṣamāṇ sūppaṟ̕ tāraṁ ī nēṭṭaṁ svantamākkunnat.
 # text_en = This is the 10th year in a row that the superstar has achieved this feat.
 1	തുടർച്ചയായ	തുടർച്ച	ADJ	_	_	3	amod	_	Translit=tuṭaṟ̕ccayāya|LTranslit=tuṭaṟ̕ccayāya
-2	പത്താം	പത്ത്	NUM	_	NumForm=Word|NumType=Ord	3	nummod	_	Translit=pattāṁ|LTranslit=pattāṁ
+2	പത്താം	പത്ത്	ADJ	_	NumType=Ord	3	amod	_	Translit=pattāṁ|LTranslit=pattāṁ
 3-4	വർഷമാണ്	_	_	_	_	_	_	_	Translit=vaṟ̕ṣamāṇ
 3	വർഷം	വർഷം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	9	obl	_	Translit=vaṟ̕ṣaṁ|LTranslit=vaṟ̕ṣaṁ
 4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop:emph	_	Translit=āṇ|LTranslit=āk
