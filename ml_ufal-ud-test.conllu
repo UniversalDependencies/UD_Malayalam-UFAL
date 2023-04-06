@@ -2883,10 +2883,10 @@
 4	എന്ന	എന്ന	PART	_	_	3	mark	_	Translit=enna|LTranslit=enna
 5	കഥാപാത്രം	കഥാപാത്രം	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	10	obj	_	Translit=kathāpātraṁ|LTranslit=kathāpātraka
 6	അവരിൽ	അവര്	PRON	_	Animacy=Inan|Case=Loc|Number=Sing	7	obl	_	Translit=avaril̕|LTranslit=avar
-7	സുരക്ഷിതമാകുമോ	സുരക്ഷിതമാകുമോ	VERB	_	Animacy=Inan|Case=Nom|Number=Sing	9	acl:relcl	_	Translit=surakṣitamākumō|LTranslit=surakṣitamākumō
+7	സുരക്ഷിതമാകുമോ	സുരക്ഷിതമാകുമോ	VERB	_	Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	9	acl:relcl	_	Translit=surakṣitamākumō|LTranslit=surakṣitamākumō
 8	എന്ന	എന്ന	PART	_	_	7	mark	_	Translit=enna|LTranslit=enna
 9	ആശങ്ക	ആശങ്ക	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	10	nsubj	_	Translit=āśaṅka|LTranslit=āśaṅkaṁ
-10	ഉണ്ടായിരുന്നോ	ഉണ്ടായിരുന്നോ	VERB	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	SpaceAfter=No|Translit=uṇṭāyirunnō|LTranslit=uṇṭāyirunnō
+10	ഉണ്ടായിരുന്നോ	ഉണ്ടായിരുന്നോ	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=uṇṭāyirunnō|LTranslit=uṇṭāyirunnō
 11	?	?	PUNCT	_	_	10	punct	_	Translit=?|LTranslit=?
 
 # sent_id = indiccorp149
@@ -2962,7 +2962,7 @@
 1	മലപ്പുറം	മലപ്പുറം	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=malappuṟaṁ|LTranslit=malappuṟaṁ
 2	:	:	PUNCT	_	_	1	punct	_	Translit=:|LTranslit=:
 3	പ്രസവാവധിക്ക്	പ്രസവാവധി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	nmod	_	Translit=prasavāvadhikk|LTranslit=prasavāvadhikk
-4	പോയ	പോകുക	ADJ	_	Tense=Past|VerbForm=Part	5	amod	_	Translit=pōya|LTranslit=pōya
+4	പോയ	പോകുക	ADJ	_	VerbForm=Part	5	amod	_	Translit=pōya|LTranslit=pōya|ToDo=TensePastNowDisallowedWithADJ
 5	അധ്യാപികയെ	അധ്യാപിക	NOUN	_	Animacy=Anim|Case=Acc|Number=Sing	9	obj	_	Translit=adhyāpikaye|LTranslit=adhyāpika
 6	ജോലിയിൽ	ജോലി	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	9	obl	_	Translit=jōliyil̕|LTranslit=jōli
 7-8	നിന്നും	_	_	_	_	_	_	_	Translit=ninnuṁ
@@ -3058,7 +3058,7 @@
 13	അരവന്ദവിദ്യാമന്ദിരത്തിലെ	അരവന്ദവിദ്യാമന്ദിരം	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	15	obl	_	Translit=aravandavidyāmandirattile|LTranslit=aravandavidyāmandiraṁ
 14	സപ്താഹമണ്ഡപത്തിൽ	സപ്താഹമണ്ഡപം	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	15	obj	_	Translit=saptāhamaṇḍapattil̕|LTranslit=saptāhamaṇḍapaṁ
 15	എത്താൻ	എത്തുക	VERB	_	Polarity=Pos|VerbForm=Inf	18	xcomp	_	Translit=ettān̕|LTranslit=ett
-16	കഴിഞ്ഞത്	കഴിയുക	AUX	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	15	aux	_	Translit=kaḻiññat|LTranslit=kaḻiññat
+16	കഴിഞ്ഞത്	കഴിയുക	AUX	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun	15	aux	_	Translit=kaḻiññat|LTranslit=kaḻiññat
 17-19	അനുഗ്രഹീതവേളയായി	_	_	_	_	_	_	_	SpaceAfter=No
 17	അനുഗ്രഹീത	അനുഗ്രഹം	ADJ	_	_	18	amod	_	Translit=anugrahītavēḷayāyi|LTranslit=anugrahītavēḷa
 18	വേള	വേള	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	Translit=anugrahītavēḷayāyi|LTranslit=anugrahītavēḷa
@@ -3142,7 +3142,7 @@
 1	ടെക്‌നോപാർക്കിനുള്ളിലെ	ടെക്നോപാർക്ക്	PROPN	_	Animacy=Inan|Case=Loc|Number=Plur	4	obl	_	Translit=ṭeknōpāṟ̕kkinuḷḷile|LTranslit=ṭeknōpāṟ̕kkinuḷḷ̕
 2-3	ഹോട്ടലുകളൊന്നും	_	_	_	_	_	_	_	Translit=hōṭṭalukaḷonnuṁ
 2	ഹോട്ടലുകൾ	ഹോട്ടൽ	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	4	nsubj	_	Translit=hōṭṭalukaḷonna|LTranslit=hōṭṭalukaḷonna
-3	ഒന്നും	ഒന്നും	DET	_	Definite=Ind|PronType=Art	2	det:emph	_	Translit=uṁ|LTranslit=uṁ
+3	ഒന്നും	ഒന്നും	DET	_	Definite=Ind|PronType=Art	2	det	_	Translit=uṁ|LTranslit=uṁ
 4-5	പ്രവർത്തിച്ചില്ലെങ്കിലും	_	_	_	_	_	_	_	_
 4	പ്രവർത്തിച്ചില്ലെങ്കിൽ	പ്രവര്‍തിക്കുക	VERB	_	Mood=Cnd|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	Translit=pravaṟ̕tticcilleṅkiluṁ|LTranslit=pravaṟ̕tticcilleṅkiluṁ
 5	ഉം	ഉം	PART	_	_	4	advmod:emph	_	Translit=pravaṟ̕tticcilleṅkiluṁ|LTranslit=pravaṟ̕tticcilleṅkiluṁ
