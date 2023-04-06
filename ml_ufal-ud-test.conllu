@@ -3619,14 +3619,14 @@
 7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 # sent_id = indiccorp191
-# text = തിരുവനന്തപുരം: സ്വമ്മിംഗ് പൂൾ ഉദ്ഘാടനത്തിനെത്തിയഉദ്ഘാടനത്തിനെത്തിയ മുഖ്യമന്ത്രിക്കുനേരെ ഉണ്ടായ ആക്രമണം ഇന്റലിജൻസ് വിഭാഗത്തിന്റെ വീഴ്ചയെന്ന് ആരോപണം ഉയർന്നതോടെ പോലീസിൽ വിഴുപ്പലക്കൽ തുടങ്ങി.
+# text = തിരുവനന്തപുരം: സ്വമ്മിംഗ് പൂൾ ഉദ്ഘാടനത്തിനെത്തിയ മുഖ്യമന്ത്രിക്കുനേരെ ഉണ്ടായ ആക്രമണം ഇന്റലിജൻസ് വിഭാഗത്തിന്റെ വീഴ്ചയെന്ന് ആരോപണം ഉയർന്നതോടെ പോലീസിൽ വിഴുപ്പലക്കൽ തുടങ്ങി.
 # translit = tiruvanantapuraṁ: svammiṁg pūḷ̕ udghāṭanattinettiyaudghāṭanattinettiya mukhyamantrikkunēremukhyamantrikkunēre uṇṭāya ākramaṇaṁ inṟalijan̕s vibhāgattinṟe vīḻcayenn ārōpaṇaṁ uyaṟ̕nnatōṭe pōlīsil̕ viḻuppalakkal̕ tuṭaṅṅi.
 # text_en = Thiruvananthapuram: After the attack on the chief minister who came to inaugurate the swimming pool was alleged to be the fault of the intelligence department, the police began to crack down.
 1	തിരുവനന്തപുരം	തിരുവനന്തപുരം	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=tiruvanantapuraṁ|LTranslit=tiruvanantapuraṁ
 2	:	:	PUNCT	_	_	1	punct	_	Translit=:|LTranslit=:
 3	സ്വമ്മിംഗ്	സ്വമ്മിംഗ്	NOUN	_	Animacy=Inan|Case=Nom|Foreign=Yes|Number=Sing	4	compound	_	Translit=svammiṁg|LTranslit=svammiṁg
 4	പൂൾ	പൂൾ	NOUN	_	Animacy=Inan|Case=Nom|Foreign=Yes|Number=Sing	5	nmod	_	Translit=pūḷ̕|LTranslit=pūḷ̕
-5-6	ഉദ്ഘാടനത്തിനെത്തിയഉദ്ഘാടനത്തിനെത്തിയ	_	_	_	_	_	_	_	_
+5-6	ഉദ്ഘാടനത്തിനെത്തിയ	_	_	_	_	_	_	_	_
 5	ഉദ്ഘാടനത്തിന്	ഉദ്ഘാടനം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	7	nmod	_	Translit=udghāṭanattinettiya|LTranslit=udghāṭanattinettuka
 6	എത്തിയ	എത്തുക	ADJ	_	_	7	amod	_	Translit=udghāṭanattinettiya|LTranslit=udghāṭanattinettuka
 7-8	മുഖ്യമന്ത്രിക്കുനേരെ	_	_	_	_	_	_	_	_
