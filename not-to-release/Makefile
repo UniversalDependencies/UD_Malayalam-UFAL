@@ -17,8 +17,8 @@ VALIDATE=/net/work/people/zeman/unidep/tools/validate.py
 NSENT=10000
 # After $(NSENT) initial sentences are parsed, which portion exactly do we want to add to
 # the data to be manually annotated?
-FIRST=101
-LAST=200
+FIRST=201
+LAST=400
 
 udpipe:
 	zcat $(MLPATH)/ml.txt.gz | head -$(NSENT) > $(MLPATH)/mlpart.txt
