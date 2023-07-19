@@ -51,7 +51,7 @@ add_to_repo:
 	cat $(MLPATH)/ml_ufal-ud-test.conllu $(MLPATH)/new_portion_with_en.conllu > $(UDMLPATH)/ml_ufal-ud-test.conllu
 	$(WCC) $(UDMLPATH)/ml_ufal-ud-test.conllu
 
-# Better turn the editor off (ssh 10.10.24.50) before giving it updated data, then turn it on again.
+# Better turn the editor off (ssh conllueditor@10.10.24.50) before giving it updated data, then turn it on again.
 # There are also the scripts $(UDMLPATH)/not-to-release/fetch-from-conllueditor.sh, send-to-conllueditor.sh.
 to_editor:
 	cp $(UDMLPATH)/ml_ufal-ud-test.conllu $(EDITORDATAPATH)
