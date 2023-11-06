@@ -4,7 +4,7 @@ UDMLPATH=/net/work/people/zeman/unidep/UD_Malayalam-UFAL
 EDITORDATAPATH=/net/work/projects/conllu/UD_Malayalam-UFAL
 UDPIPE=/home/zeman/nastroje/udpipe/udpipe-1.2.0-bin/bin-linux64/udpipe
 UDAPI=/home/zeman/nastroje/udapi-python/bin/udapy
-MODEL=$(UDMLPATH)/not-to-release/ml-2023-01-27.udpipe12
+MODEL=$(UDMLPATH)/not-to-release/ml-2.12.udpipe12
 CONLLUCUT=/net/work/people/zeman/unidep/tools/conllu_cut.pl
 NORMALIZE=$(UDMLPATH)/not-to-release/normalize_chillu.pl
 TRANSLIT=/home/zeman/projekty/translit/conllu_translit.pl --lang ml -s
@@ -17,8 +17,8 @@ VALIDATE=/net/work/people/zeman/unidep/tools/validate.py
 NSENT=10000
 # After $(NSENT) initial sentences are parsed, which portion exactly do we want to add to
 # the data to be manually annotated?
-FIRST=101
-LAST=200
+FIRST=201
+LAST=400
 
 udpipe:
 	zcat $(MLPATH)/ml.txt.gz | head -$(NSENT) > $(MLPATH)/mlpart.txt
@@ -51,7 +51,7 @@ add_to_repo:
 	cat $(MLPATH)/ml_ufal-ud-test.conllu $(MLPATH)/new_portion_with_en.conllu > $(UDMLPATH)/ml_ufal-ud-test.conllu
 	$(WCC) $(UDMLPATH)/ml_ufal-ud-test.conllu
 
-# Better turn the editor off (ssh 10.10.24.50) before giving it updated data, then turn it on again.
+# Better turn the editor off (ssh conllueditor@10.10.24.50) before giving it updated data, then turn it on again.
 # There are also the scripts $(UDMLPATH)/not-to-release/fetch-from-conllueditor.sh, send-to-conllueditor.sh.
 to_editor:
 	cp $(UDMLPATH)/ml_ufal-ud-test.conllu $(EDITORDATAPATH)
