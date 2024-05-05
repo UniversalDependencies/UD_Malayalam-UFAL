@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Malayalam-UFAL:
-commit 617bd1d03ceb357c442ea216899ce813c75cd91b
-Merge: 30fe5d3 e1dbdc5
+commit d20e8a211b01f1c754182cbe791f91630ea7ef2c
+Merge: aabe9af 28d37b8
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 2403 of 2403 words (nodes).
 Size: min(0, log((N/1000)**2)) = 1.75343591350866.
