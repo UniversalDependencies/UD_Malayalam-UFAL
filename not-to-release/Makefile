@@ -42,6 +42,7 @@ for_translate:
 	###!!! We could also use udapy write.SentencesHtml!
 # Now open this page in Google Chrome and use its "Translate to English" function.
 # When the English translation is displayed, press CTRL+A and CTRL+C, then go to a text editor, press CTRL+V and save new_portion_en.txt.
+# (Note: CTRL+A may actually result in Google Chrome saving the original to the clipboard. But when I selected part of the text, even if almost all, I got the English translation to clipboard.)
 # Subsequently, import the translated sentences into the CoNLL-U file.
 add_translation:
 	$(UDAPI) -s ud.SetTranslation file=$(MLPATH)/new_portion_en.txt < $(MLPATH)/new_portion.conllu > $(MLPATH)/new_portion_with_en.conllu
