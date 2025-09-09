@@ -21,6 +21,7 @@ In addition, there are short sentences that we needed for the documentation.
 Data available since: UD v2.11
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: grammar-examples
 Lemmas: manual native
 UPOS: manual native
