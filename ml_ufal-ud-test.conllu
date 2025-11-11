@@ -1,6 +1,7 @@
 # newdoc id = cairo
 # newpar id = cairo01
 # sent_id = cairo01
+# parallel_id = cairo/1
 # text = പെൺകുട്ടി തന്റെ സുഹൃത്തിന് കത്തെഴുതി.
 # translit = peṇ̕kuṭṭi tanṟe suhr̥ttin katteḻuti.
 # text_en = The girl wrote a letter to her friend.
@@ -14,6 +15,7 @@
 
 # newpar id = cairo02
 # sent_id = cairo02
+# parallel_id = cairo/2
 # text = മഴ പെയ്യുകയാണെന്ന് ഞാൻ കരുതുന്നു.
 # translit = maḻa peyyukayāṇenn ñān̕ karutunnu.
 # text_en = I think that it is raining.
@@ -27,6 +29,7 @@
 
 # newpar id = cairo03
 # sent_id = cairo03
+# parallel_id = cairo/3
 # text = അവൻ പുകവലിയും മദ്യപാനവും നിർത്താൻ ശ്രമിച്ചു.
 # translit = avan̕ pukavaliyuṁ madyapānavuṁ niṟ̕ttān̕ śramiccu.
 # text_en = He tried to stop smoking and drinking.
@@ -43,6 +46,7 @@
 
 # newpar id = cairo04
 # sent_id = cairo04
+# parallel_id = cairo/4
 # text = നിനക്ക് പോകണമോ?
 # translit = ninakk pōkaṇamō?
 # text_en = Do you want to go?
@@ -52,6 +56,7 @@
 
 # newpar id = cairo05
 # sent_id = cairo05
+# parallel_id = cairo/5
 # text = സാം, ജനൽ തുറക്കൂ!
 # translit = sāṁ, janal̕ tuṟakkū!
 # text_en = Sam, open the window!
@@ -63,6 +68,7 @@
 
 # newpar id = cairo06
 # sent_id = cairo06
+# parallel_id = cairo/6
 # text = അവൾ ഭർത്താവിനെ കൊണ്ട് കാർ കഴികിച്ചു.
 # translit = avaḷ̕ bhaṟ̕ttāvine koṇṭ kāṟ̕ kaḻikiccu.
 # text_en = She made her husband wash the car.
@@ -75,6 +81,7 @@
 
 # newpar id = cairo07
 # sent_id = cairo07
+# parallel_id = cairo/7
 # text = പീറ്ററിന്റെ അയൽക്കാരൻ വേലിക്ക് ചുവപ്പ് നിറം അടിച്ചു.
 # translit = pīṟṟaṟinṟe ayal̕kkāran̕ vēlikk cuvapp niṟaṁ aṭiccu.
 # text_en = Peter’s neighbor painted the fence red.
@@ -88,6 +95,7 @@
 
 # newpar id = cairo08
 # sent_id = cairo08
+# parallel_id = cairo/8
 # text = നിന്റെ അച്ഛനേക്കാൾ എന്റെ അച്ഛൻ വളരെ ശാന്തനാണ്.
 # translit = ninṟe acchanēkkāḷ̕ enṟe acchan̕ vaḷare śāntanāṇ.
 # text_en = My dad is cooler than yours.
@@ -103,6 +111,7 @@
 
 # newpar id = cairo09
 # sent_id = cairo09
+# parallel_id = cairo/9
 # text = മേരി വെങ്കലവും പീറ്റർ വെള്ളിയും ജെയിൻ സ്വർണവും നേടി.
 # translit = mēri veṅkalavuṁ pīṟṟaṟ̕ veḷḷiyuṁ jeyin̕ svaṟ̕ṇavuṁ nēṭi.
 # text_en = Mary won bronze, Peter silver, and Jane gold.
@@ -123,6 +132,7 @@
 
 # newpar id = cairo10
 # sent_id = cairo10
+# parallel_id = cairo/10
 # text = ഇഗ്വാസു ഒരു വലിയ രാജ്യമാണോ ചെറിയ രാജ്യമാണോ?
 # translit = igvāsu oru valiya rājyamāṇō ceṟiya rājyamāṇō?
 # text_en = Is Iguazu a big or a small country?
@@ -140,6 +150,7 @@
 
 # newpar id = cairo11
 # sent_id = cairo11
+# parallel_id = cairo/11
 # text = പീറ്റർ സ്മിത്തിനെയോ മേരി ബ്രൗണിനെയോ തിരഞ്ഞെടുക്കാനായില്ല.
 # translit = pīṟṟaṟ̕ smittineyō mēri brauṇineyō tiraññeṭukkānāyilla.
 # text_en = Neither Peter Smith nor Mary Brown could be selected.
@@ -158,6 +169,7 @@
 
 # newpar id = cairo12
 # sent_id = cairo12
+# parallel_id = cairo/12
 # text = ആരാണ് എഴുതിയതെന്ന് അവർക്ക് അറിയില്ല.
 # translit = ārāṇ eḻutiyatenn avaṟ̕kk aṟiyilla.
 # text_en = They have no idea who wrote it.
@@ -173,6 +185,7 @@
 
 # newpar id = cairo13
 # sent_id = cairo13
+# parallel_id = cairo/13
 # text = നിങ്ങള് എന്താണ് നോക്കുന്നത്?
 # translit = niṅṅaḷ entāṇ nōkkunnat?
 # text_en = What are you looking at?
@@ -185,6 +198,7 @@
 
 # newpar id = cairo14
 # sent_id = cairo14
+# parallel_id = cairo/14
 # text = നിങ്ങൾക്ക് എപ്പോൾ വരാൻ കഴിയുമെന്ന് നിങ്ങൾ കരുതുന്നു?
 # translit = niṅṅaḷ̕kk eppōḷ̕ varān̕ kaḻiyumenn niṅṅaḷ̕ karutunnu?
 # text_en = When do you think you can come?
@@ -200,6 +214,7 @@
 
 # newpar id = cairo15
 # sent_id = cairo15
+# parallel_id = cairo/15
 # text = അവൻ ഒരു കാർ വാങ്ങി, പക്ഷേ അവന്റെ സഹോദരൻ ഒരു ബൈക്ക് മാത്രം വാങ്ങി.
 # translit = avan̕ oru kāṟ̕ vāṅṅi, pakṣē avanṟe sahōdaran̕ oru baikk mātraṁ vāṅṅi.
 # text_en = He bought a car but his brother just a bike.
@@ -219,6 +234,7 @@
 
 # newpar id = cairo16
 # sent_id = cairo16
+# parallel_id = cairo/16
 # text = പീറ്ററും മേരിയും പരസ്പരം ആലിംഗനം ചെയ്ത ശേഷം മുറി വിട്ടു.
 # translit = pīṟṟaṟuṁ mēriyuṁ parasparaṁ āliṁganaṁ ceyta śēṣaṁ muṟi viṭṭu.
 # text_en = Peter and Mary hugged each other and then left the room.
@@ -238,6 +254,7 @@
 
 # newpar id = cairo17
 # sent_id = cairo17
+# parallel_id = cairo/17
 # text = അവൾ അവളുടെ മുടി ചീകിക്കൊണ്ടിരിക്കണമായിരുന്നു, പക്ഷേ ചില കാരണങ്ങളാൽ അവൾ അന്ന് ചെയ്തില്ല.
 # translit = avaḷ̕ avaḷuṭe muṭi cīkikkoṇṭirikkaṇamāyirunnu, pakṣē cila kāraṇaṅṅaḷāl̕ avaḷ̕ ann ceytilla.
 # text_en = She should have been doing her hair but for some reason she wouldn't that day.
@@ -258,6 +275,7 @@
 
 # newpar id = cairo18
 # sent_id = cairo18
+# parallel_id = cairo/18
 # text = അവൻ വളരെ വേഗത്തിൽ ഓടിയതിനാൽ എനിക്ക് പിടിച്ചുനിൽക്കാൻ കഴിഞ്ഞില്ല.
 # translit = avan̕ vaḷare vēgattil̕ ōṭiyatināl̕ enikk piṭiccunil̕kkān̕ kaḻiññilla.
 # text_en = I wasn't able to keep up, because he ran too fast.
@@ -272,6 +290,7 @@
 
 # newpar id = cairo19
 # sent_id = cairo19
+# parallel_id = cairo/19
 # text = ഈ കത്ത് പീറ്ററിന്റേതാണ്, അത് ഇന്നലെ കൈമാറി.
 # translit = ī katt pīṟṟaṟinṟētāṇ, at innale kaimāṟi.
 # text_en = This letter is from Peter and it was delivered yesterday.
@@ -288,6 +307,7 @@
 
 # newpar id = cairo20
 # sent_id = cairo20
+# parallel_id = cairo/20
 # text = ഫ്രാൻസിന്റെ തലസ്ഥാനമായ പാരീസിലാണ് അവൾ വളർന്നത്.
 # translit = phrān̕sinṟe talasthānamāya pārīsilāṇ avaḷ̕ vaḷaṟ̕nnat.
 # text_en = She grew up in Paris, the capital of France.
