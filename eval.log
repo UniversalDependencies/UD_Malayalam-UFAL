@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Malayalam-UFAL:
-commit 246a7c774d72cef87112d50fb94911c1d096baa9
-Merge: 79feed2 9cd7c67
+commit 45af66d0d76fb681ef23594568e5f16da7941d7d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 20:16:43 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'ml_ufal'
 Language code (from CoNLL-U file name) = 'ml'
@@ -25,16 +25,16 @@ Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ml --max-err=10 UD_Malayalam-UFAL/ml_ufal-ud-test.conllu
-[Line 717 Sent indiccorp19]: [L2 Warning misc-extra-space] MISC attribute value starts with space in 'SpacesAfter= \s'.
-[Line 2326 Sent indiccorp103B]: [L3 Warning obl-should-be-nmod] The parent (node [4] 'ചിത്രം citraṁ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 2520 Sent indiccorp119]: [L3 Warning obl-should-be-nmod] The parent (node [5] 'പാദങ്ങളിൽ pādaṅṅaḷil̕') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 2872 Sent indiccorp146]: [L3 Warning obl-should-be-nmod] The parent (node [6] 'നേതൃസമ്മേളനത്തോടെ nētr̥sammēḷanattōṭe') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 2875 Sent indiccorp146]: [L3 Warning obl-should-be-nmod] The parent (node [6] 'നേതൃസമ്മേളനത്തോടെ nētr̥sammēḷanattōṭe') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 3246 Sent indiccorp168]: [L3 Warning pron-det-without-prontype] The word 'ദ da' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 3318 Sent indiccorp172]: [L3 Warning obl-should-be-nmod] The parent (node [8] 'നേട്ടം nēṭṭaṁ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-Warnings: 7
-*** PASSED ***
-Validity: 1
+[Line 717 Sent indiccorp19]: [L2 WARNING misc-extra-space] MISC attribute value starts with space in 'SpacesAfter= \s'.
+[Line 2326 Sent indiccorp103B]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'ചിത്രം citraṁ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 2520 Sent indiccorp119]: [L3 SYNTAX obl-should-be-nmod] The parent (node [5] 'പാദങ്ങളിൽ pādaṅṅaḷil̕') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3246 Sent indiccorp168]: [L3 WARNING pron-det-without-prontype] The word 'ദ da' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3318 Sent indiccorp172]: [L3 SYNTAX obl-should-be-nmod] The parent (node [8] 'നേട്ടം nēṭṭaṁ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+Warnings: 2
+SYNTAX errors: 3
+*** FAILED *** with 3 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
 (weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
 (weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
@@ -42,6 +42,6 @@ Validity: 1
 (weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
 (weight=0.111111111111111) * (score{tags}=0.941176470588235) = 0.104575163398693
 (weight=0.111111111111111) * (score{udeprels}=0.810810810810811) = 0.0900900900900901
-(TOTAL score=0.470807694328771) * (availability=1) * (validity=1) = 0.470807694328771
-STARS = 2.5
-UD_Malayalam-UFAL	0.470807694328771	2.5
+(TOTAL score=0.470807694328771) * (availability=1) * (validity=0.01) = 0.00470807694328771
+STARS = 0
+UD_Malayalam-UFAL	0.00470807694328771	0
