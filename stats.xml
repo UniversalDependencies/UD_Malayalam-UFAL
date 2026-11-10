@@ -122,12 +122,12 @@
     <dep name="goeswith">1</dep>
     <dep name="iobj">8</dep>
     <dep name="mark">42</dep>
-    <dep name="nmod">168</dep>
+    <dep name="nmod">173</dep>
     <dep name="nmod:poss">71</dep>
     <dep name="nsubj">214</dep>
     <dep name="nummod">31</dep>
     <dep name="obj">118</dep>
-    <dep name="obl">164</dep>
+    <dep name="obl">159</dep>
     <dep name="orphan">2</dep>
     <dep name="parataxis">26</dep>
     <dep name="punct">317</dep>
